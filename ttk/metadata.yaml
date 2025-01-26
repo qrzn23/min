@@ -1,0 +1,17 @@
+---
+title: "Tao Te King"
+author: "Richard Wilhelm"
+publisher: "Min Publishing"
+date: "2025-01-26"
+language: "de-DE"
+css: "../style.css"
+cover: cover.jpg
+rights: "Alle Rechte vorbehalten."
+description: "Das Buch vom SINN und LEBEN"
+subject: Daoismus
+contributors:
+  - role: "editor"
+    name: "Jan Landje"
+  - role: "illustrator"
+    name: "Jan Landje"
+---

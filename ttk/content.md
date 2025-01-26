@@ -1,40 +1,36 @@
----
-title: Tao Te King
-author: Richard Wilhelm
-language: de-DE
-css: ttk.css
-...
+# Erster Teil - Der Sinn
+
 ### I Verkörperung des Sinns  
 Der SINN, den man ersinnen kann,  
 ist nicht der ewige SINN.  
 Der Name, den man nennen kann,  
 ist nicht der ewige Name.  
-
+  
 Jenseits des Nennbaren liegt der Anfang der Welt.  
 Diesseits des Nennbaren liegt die Geburt der Geschöpfe.  
 Darum führt das Streben nach dem Ewig-Jenseitigen  
 zum Schauen der Kräfte,  
 das Streben nach dem Ewig-Diesseitigen  
 zum Schauen der Räumlichkeit.  
-
+  
 Beides hat Einen Ursprung und nur verschiedenen Namen.  
 Diese Einheit ist das Große Geheimnis.  
 Und des Geheimnisses noch tieferes Geheimnis:  
 Das ist die Pforte der Offenbarwerdung aller Kräfte.  
-
+  
 ### II Pflege der Persönlichkeit 
 Wenn auf Erden alle das Schöne als schön erkennen,  
 so ist dadurch schon das Häßliche gesetzt.  
 Wenn auf Erden alle das Gute als gut erkennen,  
 so ist dadurch schon das Nichtgute gesetzt.  
-
+  
 Denn Sein und Nichtsein erzeugen einander.  
 Schwer und Leicht vollenden einander.  
 Lang und Kurz gestalten einander.  
 Hoch und Tief verkehren einander.  
 Stimme und Ton sich vermählen einander.  
 Vorher und Nachher folgen einander.  
-
+  
 Also auch der Berufene:  
 Er verweilt im Wirken ohne Handeln.  
 Er übt Belehrung ohne Reden.  
@@ -46,7 +42,7 @@ Ist das Werk vollbracht,
 so verharrt er nicht dabei.  
 Und eben weil er nicht verharrt,  
 bleibt er nicht verlassen.  
-
+  
 ### III Friede auf Erden  
 Die Bedeutenden nicht bevorzugen:  
 so verhütet man, daß die Leute streiten.  
@@ -61,7 +57,7 @@ Er sorgt stets, daß die Leute ohne Erkennen und ohne Begehren sind,
 und daß jene »Erkennenden« nicht zu handeln wagen.  
 Das Nicht-Handeln üben:  
 so kommt alles in Ordnung.  
-
+  
 ### IV Von Ewigkeit her 
 Der SINN faßt alles Bestehende in sich.  
 Aber durch sein Wirken geht er nicht etwa im Bestehenden auf.  
@@ -73,31 +69,33 @@ Er vereinigt sich mit ihrem Staub.
 Unsichtbar ist er und doch als wie wirklich.  
 Ich weiß nicht, wessen Sohn er ist.  
 Er scheint früher zu sein als der HERR.  
-
+  
 ### V Die Wirkung der Möglichkeit 
 Nicht Liebe nach Menschenart hat die Natur:  
 Ihr sind die Geschöpfe wie stroherne Hunde.  
 Nicht Liebe nach Menschenart hat der Berufene:  
 Ihm sind seine Leute wie stroherne Hunde  
+  
 Ist nicht die Feste zwischen Himmel und Erde wie ein Blasebalg?  
 Es ist leer und fällt doch nicht zusammen.  
 Es bewegt sich, und um so mehr kommt daraus hervor.  
 Aber viele Worte erschöpfen sich daran.  
 Besser ist es, das Innere zu bewahren.  
-
+  
 ### VI Das Werden der Formen  
 Der Geist der Tiefe stirbt nicht.  
 Das ist das Ewig-Weibliche.  
 Des Ewig-Weiblichen Ausgangspforte  
-  Ist die Wurzel von Himmel und Erde.  Endlos drängt sich's und ist doch wie beharrend.  
+Ist die Wurzel von Himmel und Erde.  Endlos drängt sich's und ist doch wie beharrend.  
 In seinem Wirken bleibt es mühelos.  
-
+  
 ### VII Verhüllung des Lichts
 Der Himmel ist ewig und die Erde dauernd.  
 Die Ursache der ewigen Dauer von Himmel und Erde ist,  
 daß sie nicht sich selber leben.  
 Darum können sie dauernd Leben geben.  
 Also auch der Berufene:  
+  
 Er setzt sein Selbst hintan,  
 und sein Selbst kommt voran.  
 Er entäußert sich seines Selbst,  
@@ -105,7 +103,7 @@ und sein Selbst bleibt erhalten.
 Ist es nicht also:  
 Weil er nichts Eigenes will,  
 darum wird sein Eigenes vollendet?  
-
+  
 ### VIII Das Wesen der Beweglichkeit
 Höchste Güte ist wie das Wasser.  
 Des Wassers Güte ist es, allen Wesen zu nützen ohne Streit.  
@@ -120,7 +118,7 @@ Beim Wirken zeigt sich die Güte im Können.
 Beim Bewegen zeigt sich die Güte in der rechten Zeit.  
 Wer sich nicht selbst behauptet,  
 bleibt eben dadurch frei von Tadel.  
-
+  
 ### IX Selbstbeschränkung
 Etwas festhalten wollen und dabei es überfüllen:  
 das lohnt der Mühe nicht.  
@@ -132,7 +130,7 @@ Reich und vornehm und dazu hochmütig sein:
 das zieht von selbst das Unglück herbei.  
 Ist das Werk vollbracht, dann sich zurückziehen:  
 das ist des Himmels SINN.  
-
+  
 ### X Möglichkeiten
 Wer leuchtend seinen Geist bewahrt, daß er Eines nur umfängt,  
 der mag wohl innern Zwiespalt vermeiden.  
@@ -146,12 +144,13 @@ Wenn des Himmels Pforten sich öffnen und schließen,
 so mag er wohl rein empfangend sein.  
 Wer mit klarem Blicke alles durchdringt,  
 der mag wohl ohne Kenntnisse bleiben.  
+  
 Erzeugen und ernähren,  
 erzeugen und nicht besitzen:  
 wirken und nicht behalten,  
 mehren und nicht beherrschen:  
 Das ist geheimes LEBEN.  
-
+  
 ### XI Die Wirksamkeit des Negativen
 Dreißig Speichen treffen sich in einer Nabe:  
 Auf dem Nichts daran (dem leeren Raum) beruht des Wagens Brauchbarkeit.  
@@ -160,7 +159,7 @@ Auf dem Nichts daran beruht des Gefäßes Brauchbarkeit.
 Man durchbricht die Wand mit Türen und Fenstern, damit ein Haus entstehe:  
 Auf dem Nichts daran beruht des Hauses Brauchbarkeit.  
 Darum: Das Sein gibt Besitz, das Nichtsein Brauchbarkeit.  
-
+  
 ### XII Zügelung der Begierden
 Die Farben machen der Menschen Augen blind.  
 Die Töne machen der Menschen Ohren taub.  
@@ -170,7 +169,7 @@ Seltene Güter machen der Menschen Wandel irr.
 Also auch der Berufene:  
 Er sorgt für den Leib und nicht für das Auge.  
 Darum tut er ab das Ferne und hält sich ans Nahe.  
-
+  
 ### XIII Abscheu vor Beschämung
 Gnade ist beschämend durch die Furcht.  
 Ehre ist ein großes Übel durch das Ich.  
@@ -188,7 +187,7 @@ Darum: Wer in seinem Ich die Welt ehrt,
 dem kann man wohl die Welt anvertrauen.  
 Wer in seinem Ich die Welt liebt,  
 dem kann man wohl die Welt übergeben.  
-
+  
 ### XIV Lob des Geheimnisses
 Man schaut nach ihm und sieht ihn nicht:  
 Sein Name ist: Gleich.  
@@ -212,7 +211,7 @@ Wer erfaßt den SINN des Alten,
 kann damit beherrschen das Sein des Heute  
 und kann die Uranfänge erkennen:  
 Das ist des SINNS durchgehender Faden.  
-
+  
 ### XV Wie das Leben sich zeigt
 Die vor alters tüchtig waren als Meister,  
 waren im Verborgenen eins mit den unsichtbaren Kräften.  
@@ -233,7 +232,7 @@ Denn nur weil er keine Fülle hat,
 darum kann er gering sein,  
 das Neue meiden  
 und die Vollendung erreichen.  
-
+  
 ### XVI Rückkehr zur Wurzel
 Wenn wir die äußerste Selbstenteignung erreicht,  
 die Stille unerschütterlich bewahren,  
@@ -253,7 +252,7 @@ Herrschaft bringet himmlisches Wesen.
 Himmlisches Wesen bringet den SINN.  
 Der SINN bringet Dauer.  
 Ist das Ich nicht mehr, so gibt es keine Gefahren.  
-
+  
 ### XVII Reinheit des Wirkens
 Herrscht ein ganz Großer, so weiß das Volk nur eben, daß er da ist.  
 Mindere werden geliebt und gelobt,  
@@ -265,7 +264,7 @@ Wie überlegt waren jene im Werten ihrer Worte!
 Die Werke wurden vollbracht, die Arbeit wurde getan,  
 und die Leute im Volk dachten alle:  
 »Wir sind selbständig.«  
-
+  
 ### XVIII Verfall der Sitte
 Der große SINN ward verlassen:  
 so gab es Sittlichkeit und Pflicht.  
@@ -275,7 +274,7 @@ Die Blutsverwandten wurden uneins:
 so gab es Kindespflicht und Liebe.  
 Die Staaten kamen in Verwirrung und Unordnung:  
 so gab es treue Diener.  
-
+  
 ### XIX Rückkehr zur Echtheit
 Gebt auf die Heiligkeit, werft weg die Erkenntnis:  
 Und das Volk wird hundertfach gewinnen!  
@@ -287,7 +286,7 @@ In diesen drei Stücken ist der schöne Schein nicht ausreichend.
 So sorgt, daß die Menschen etwas haben, woran sie sich halten können!  
 Zeigt Einfachheit, haltet fest an der Lauterkeit:  
 so mindert sich die Selbstsucht, so verringern sich die Begierden.  
-
+  
 ### XX Abseits von der Menge
 Gebt auf eure Gelehrsamkeit:  
 so werdet ihr frei von Sorgen!  
@@ -316,7 +315,7 @@ Die Menschen der Menge haben alle etwas zu tun:
 Ich allein bin müßig wie ein Taugenichts!  
 Ich allein bin anders, als die Menschen:  
 Denn ich halte wert die spendende Mutter.  
-
+  
 ### XXI Das leere Herz
 Des großen LEBENS Form  
 folgt ganz dem SINN.  
@@ -336,7 +335,7 @@ um zu verstehen aller Dinge Entstehung.
 Und woher weiß ich,  
 daß aller Dinge Entstehung so beschaffen ist?  
 Eben durch ihn.  
-
+  
 ### XXII Wert der Demut
 »Was halb ist, wird voll werden.  
 Was krumm ist, wird gerade werden.  
@@ -360,7 +359,7 @@ mit dem kann niemand auf der Welt streiten.
 Was die Alten gesagt: »Was halb ist, soll voll werden«,  
 ist fürwahr kein leeres Wort.  
 Alle wahre Vollkommenheit ist darunter befaßt.  
-
+  
 ### XXIII Leere und Nichtsein
 Seine Worte selten machen,  
 dann geht alles von selber.  
@@ -370,6 +369,7 @@ Und wer ist es, der diese wirkt?
 Der Himmel und die Erde.  
 Wenn nicht einmal der Himmel und die Erde in solchen Dingen Dauer haben,  
 wieviel weniger der Mensch.  
+  
 [Darum: Wenn du an dein Werk gehst mit dem SINN,  
 so wirst du mit denen, so den SINN haben, eins im SINN,  
 mit denen, so das LEBEN haben, eins im LEBEN,  
@@ -382,7 +382,7 @@ Bist du eins mit ihnen in ihrer Armut,
 so kommen dir die, so da arm sind, auch freudig entgegen.  
 Wo aber der Glaube nicht stark genug ist,  
 da findet man keinen Glauben.]  
-
+  
 ### XXIV Bittere Herrlichkeit
 Wer auf den Zehen steht,  
 steht nicht fest.  
@@ -400,7 +400,7 @@ Er ist für den SINN wie Küchenabfall und Eiterbeule.
 Und auch die Geschöpfe alle hassen ihn.  
 Darum: wer den SINN hat,  
 weilt nicht dabei.  
-
+  
 ### XXV Des unzulänglichen Gleichnis
 Sein und Nichtsein ist ungetrennt durcheinander,  
 ehe Himmel und Erde entstehen.  
@@ -424,7 +424,7 @@ Der Mensch hat die Erde zum Vorbild.
 Die Erde hat den Himmel zum Vorbild.  
 Der Himmel hat den SINN zum Vorbild.  
 Und der SINN hat sich selber zum Vorbild.  
-
+  
 ### XXVI Wesen des Schweren
 Das Gewichtige ist des Leichten Wurzel.  
 Die Stille ist der Unruhe Herr.  
@@ -437,7 +437,7 @@ Wie viel weniger erst darf der Herr des Reiches
 in seinem Selbst den Erdkreis leicht nehmen!  
 Durch Leichtnehmen verliert man die Wurzel.  
 Durch Unruhe verliert man die Herrschaft.  
-
+  
 ### XXVII Weisheit im Üben
 Guter Wandrer läßt keine Spur zurück.  
 Guter Sprecher gibt sich keine Blöße.  
@@ -458,7 +458,7 @@ Wer nicht ehren wollte seine Lehrer
 und nicht lieben wollte seinen Stoff,  
 der wäre trotz aller Erkenntnis in großer Verblendung.  
 Das ist das wichtigste Geheimnis.  
-
+  
 ### XXVIII Rückkehr zur Einfalt
 Wer seine männliche Kraft erkennt  
 und dennoch in weiblicher Schwachheit weilt,  
@@ -466,22 +466,25 @@ der ist das Strombett der Welt.
 Ist er das Strombett der Welt,  
 so verläßt ihn nicht das ewige LEBEN,  
 und er kann wieder umkehren und werden wie ein Kindlein.  
+  
 Wer sein Licht erkennt  
 und dennoch im Dunkel weilt,  
 der ist das Vorbild der Welt.  
 Ist er das Vorbild der Welt,  
 so fehlt ihm nicht das ewige LEBEN,  
 und er kann wieder umkehren zum Ungewordenen.  
+  
 Wer seine Ehre erkennt  
 und dennoch in Schande weilt,  
 der ist das Tal der Welt.  
 Ist er das Tal der Welt,  
 so hat er Genüge des ewigen LEBENS,  
 und er kann wieder umkehren zur Einfalt.  
+  
 [Ist die Einfalt zerstreut, so gibt es »brauchbare« Menschen.  
 Übt der Berufene sie aus, so wird er der Herr der Beamten.  
 Darum: Großartige Gestaltung bedarf nicht des Beschneidens.]  
-
+  
 ### XXIX Vom Nichthandeln
 Die Welt erobern wollen durch Handeln:  
 Ich habe erlebt, daß das mißlingt.  
@@ -493,11 +496,12 @@ Denn: die Geschöpfe gehen voran oder folgen,
 sie seufzen oder schnauben,  
 sie sind stark oder schwach,  
 sie siegen oder unterliegen.  
+  
 Also auch der Berufene:  
 Er meidet das Heftige.  
 Er meidet das Üppige.  
 Er meidet das Großartige.  
-
+  
 ### XXX Warnung vor dem Krieg
 Wer nach dem SINN dem Menschenherrscher hilft,  
 zwingt nicht mit Waffen die Welt.  
@@ -511,10 +515,11 @@ Entscheidung, ohne sich zu rühmen,
 Entscheidung, ohne stolz zu sein,  
 Entscheidung, weil's nicht anders geht,  
 Entscheidung, ferne von Gewalt.  
+  
 Sind die Geschöpfe stark geworden, altern sie.  
 Denn das ist Wider-SINN.  
 Und Wider-SINN ist nah dem Ende.  
-
+  
 ### XXXI Die Waffen nieder
 Auch die schönsten Waffen sind unheilbringende Geräte,  
 und die Geschöpfe hassen sie wohl.  
@@ -536,7 +541,7 @@ Der Unterfeldherr steht zur Linken, der Oberführer steht zur Rechten.
 Das heißt: er nimmt seinen Platz ein nach dem Brauch der Trauerfeiern.  
 Menschen töten in großer Zahl, das soll man beklagen mit Tränen des Mitleids.  
 Wer im Kampfe gesiegt, der soll wie bei einer Trauerfeier weilen.)  
-
+  
 ### XXXII Das Leben der Berufenen
 Solange der SINN in seiner vorweltlichen Ewigkeit verharrt,  
 gibt es keine Namen.  
@@ -553,7 +558,7 @@ weiß man auch noch, wo Einhalt zu tun ist.
 Weiß man, wo Einhalt tun, so vermeidet man Verwirrung.  
 Man kann das Verhältnis des SINNS zur Welt vergleichen  
 mit den Bergbächen und Talwassern, die sich in Ströme und Meere ergießen.  
-
+  
 ### XXXIII Unterschiede des Wesens
 Wer andre kennt, ist klug,  
 Wer sich selber kennt, ist weise.  
@@ -563,7 +568,7 @@ Wer sich durchsetzt, hat Willen,
 Wer sich genügen läßt, ist reich.  
 Wer seinen Platz nicht verliert, hat Dauer.  
 Wer auch im Tode nicht untergeht, der lebt.  
-
+  
 ### XXXIV Die Aufgabe der Vollendung
 Der große SINN ist allgegenwärtig,  
 er kann zur Rechten sein und zur Linken.  
@@ -581,12 +586,13 @@ kann man ihn als groß bezeichnen:
 Also auch der Berufene:  
 Niemals macht er sich groß;  
 Darum bringt er sein Großes Werk zustande.  
-
+  
 ### XXXV Das Leben der Liebe
 Wer festhält das große Urbild,  
 zu dem kommt die Welt.  
 Sie kommt und wird nicht verletzt,  
 in Ruhe, Gleichheit und Seligkeit.  
+  
 Musik und Köder:  
 Sie machen wohl den Wanderer auf seinem Wege anhalten.  
 Der SINN geht aus dem Munde hervor  
@@ -594,7 +600,7 @@ milde und ohne Geschmack.
 Du blickst nach ihm und siehst nichts Sonderliches.  
 Du horchst nach ihm und hörst nichts Sonderliches.  
 Du handelst nach ihm und – findest kein Ende.  
-
+  
 ### XXXVI Geheime Erleuchtung
 Was man zusammenziehen will,  
 das muß man erst sich richtig ausdehnen lassen.  
@@ -609,7 +615,7 @@ Das Weiche siegt über das Harte.
 Das Schwache siegt über das Starke.  
 Den Fisch darf man nicht der Tiefe entnehmen.  
 Des Reiches Förderungsmittel darf man nicht den Leuten zeigen.  
-
+  
 ### XXXVII Ausübung der Herrschaft
 Der SINN ist ewig ohne Handeln,  
 und nichts bleibt ungewirkt.  
@@ -620,6 +626,8 @@ so würde ich sie zügeln durch Einfalt ohne Namen.
 Die Einfalt ohne Namen führt zur Wunschlosigkeit.  
 Die Wunschlosigkeit führt zur Stille:  
 So wird die Welt von selber recht.  
+  
+# Zweiter Teil - Das Leben
 
 ### XXXVIII Über das Leben
 Das hohe LEBEN sucht nicht sein LEBEN,  
@@ -644,7 +652,7 @@ Also auch der rechte Mann:
 Er weilt beim Völligen und nicht beim Dürftigen.  
 Er bleibt beim Sein und nicht beim Schein.  
 Darum tut er ab das Ferne und hält sich ans Nahe.  
-
+  
 ### XXXIX Die Wurzel des Gesetzes
 Die im Anfang das Eine erlangten:  
 Der Himmel erlangte das Eine und ist rein.  
@@ -670,13 +678,13 @@ Denn: Ohne die einzelnen Bestandteile eines Wagens
 gibt es keinen Wagen.  
 Wünsche nicht das glänzende Gleißen des Juwels  
 sondern die rohe Rauheit des Steins.  
-
+  
 ### XL Wirkungsart des Zurückgehens
 Rückkehr ist die Bewegung des SINNS.  
 Schwachheit ist die Äußerungsart des SINNS.  
 Alle Dinge in der Welt entstehen im Sein.  
 Das Sein entsteht im Nichtsein.  
-
+  
 ### XLI Gleichheit und Unterschied
 Wenn ein Weiser höchster Art vom SINNE hört,  
 so bemüht er sich danach zu tun.  
@@ -701,7 +709,7 @@ Der große Ton hat unhörbaren Laut.
 Das große Bild hat keine Form.«  
 Der SINN in seiner Verborgenheit ist ohne Namen.  
 Und doch ist gerade der SINN gut im Spenden und Vollenden.  
-
+  
 ### XLII Die Wandlungen des Sinns
 Der SINN erzeugt die Einheit.  
 Die Einheit erzeugt die Zweiheit.  
@@ -710,6 +718,7 @@ Die Dreiheit erzeugt alle Geschöpfe.
 Alle Geschöpfe haben im Rücken das Dunkle  
 und umfassen das Lichte,  
 und der unendliche Lebensatem gibt ihnen Einklang.  
+  
 Was die Menschen hassen, ist Verlassenheit, Einsamkeit, Wenigkeit.  
 Und doch wählen Fürsten und Könige sie zu ihrer Selbstbezeichnung.  
 Denn die Wesen werden entweder durch Verringerung vermehrt,  
@@ -717,7 +726,7 @@ oder durch Vermehrung verringert.
 Was andre lehren, lehre ich auch:  
 »Die Starken sterben nicht eines natürlichen Todes«.  
 Das will ich zum Ausgangspunkt meiner Lehre machen.  
-
+  
 ### XLIII Ungehemmte Wirkung
 Das Allerweichste auf Erden  
 überholt das Allerhärteste auf Erden.  
@@ -725,7 +734,7 @@ Das Nichtseiende dringt auch noch ein in das, was keinen Zwischenraum hat.
 Daran erkennt man den Wert des Nicht-Handelns.  
 Die Belehrung ohne Worte, den Wert des Nicht-Handelns  
 erreichen nur wenige auf Erden.  
-
+  
 ### XLIV Warnung
 Der Name oder das Ich:  
 Was steht näher?  
@@ -733,6 +742,7 @@ Das Ich oder der Besitz:
 Was ist mehr?  
 Gewinnen oder verlieren:  
 Was ist schlimmer?  
+  
 Nun aber:  
 Wer sein Herz an andres hängt,  
 verbraucht notwendig Großes.  
@@ -743,7 +753,7 @@ kommt nicht in Schande.
 Wer Einhalt zu tun weiß,  
 kommt nicht in Gefahr  
 und kann so ewig dauern.  
-
+  
 ### XLV Überströmendes Leben
 Große Vollendung muß wie unzulänglich erscheinen,  
 so wird sie unendlich in ihrer Wirkung.  
@@ -755,7 +765,7 @@ Große Beredsamkeit muß wie stumm erscheinen.
 Bewegung überwindet die Kälte.  
 Stille überwindet die Hitze.  
 Reinheit und Stille ist der Welt Richtmaß.  
-
+  
 ### XLVI Mäßigung der Begierden
 Wenn der SINN herrscht auf Erden,  
 so tut man die Rennpferde ab zum Dungführen.  
@@ -769,7 +779,7 @@ Kein schlimmeres Unheil gibt es
 als die Sucht nach Gewinn.  
 Denn:  
 Das Genügen der Genügsamkeit ist dauerndes Genügen.  
-
+  
 ### XLVII Fernschau
 Ohne aus der Tür zu gehen,  
 kann man die Welt erkennen.  
@@ -781,7 +791,7 @@ Also auch der Berufene:
 Er wandert nicht und kommt doch ans Ziel.  
 Er sieht sich nicht um und vermag doch zu benennen.  
 Er handelt nicht und bringt doch zur Vollendung.  
-
+  
 ### XLVIII Vergessen des Erkennens
 Wer im Forschen wandelt, nimmt täglich zu.  
 Wer im SINNE wandelt, nimmt täglich ab.  
@@ -791,7 +801,7 @@ Beim Nicht-Tun bleibt nichts ungetan.
 Das Reich erlangen kann man nur,  
 wenn man immer frei bleibt von Geschäftigkeit.  
 Die Vielbeschäftigten sind nicht geschickt das Reich zu erlangen.  
-
+  
 ### XLIX Das Wesen der Nachgiebigkeit
 Der Berufene hat kein Herz für sich.  
 Er macht der Leute Herz zu seinem Herzen.  
@@ -805,7 +815,7 @@ Der Berufene lebt in der Welt ganz still,
 aber er macht sein Herz weit für die Welt.  
 Die Leute alle starren auf ihn und horchen.  
 Der Berufene behandelt sie alle als seine Kinder.  
-
+  
 ### L Die enge Pforte des Lebens
 Ausgehen ist Leben, eingehen ist Tod.  
 Knechte des Lebens gibt es drei unter zehn,  
@@ -825,7 +835,7 @@ Der Tiger hat nichts, da er seine Krallen einschlage.
 Die Waffe hat nichts, das ihre Schneide aufnehme.  
 Warum das?  
 Weil er keine sterbliche Stelle hat.  
-
+  
 ### LI Pflege des Lebens
 Der SINN erzeugt.  
 Das LEBEN nährt.  
@@ -846,7 +856,7 @@ Erzeugen und nicht besitzen,
 wirken und nicht behalten,  
 mehren und nicht beherrschen:  
 Das ist geheimes LEBEN.  
-
+  
 ### LII Rückkehr zum Ursprung
 Der Anfang des Seins der Welt  
 heißt die Mutter der Welt.  
@@ -863,7 +873,7 @@ Wer sein Licht gebraucht,
 um zurückzukehren zu seiner Klarheit,  
 der hinterläßt kein Ich, das eine Gefahr treffen könnte.  
 Das heißt: das Ewige erben.  
-
+  
 ### LIII Beweis des Überflusses
 Wenn ich nur von außen her die Kenntnis habe  
 und wandeln will im großen SINN,  
@@ -878,7 +888,7 @@ wo jeder einen scharfen Dolch im Gürtel trägt,
 wo man heikel ist im Essen und Trinken,  
 wo sich die Güter im Überfluß finden:  
 Da herrscht Räuberwirtschaft, nicht der SINN.  
-
+  
 ### LIV Pflege des Schauens
 Was gut gepflanzt ist, wird nicht ausgerissen.  
 Was gut umfangen wird, wird nicht entgehen.  
@@ -900,7 +910,7 @@ Nach deinem Land beurteile das Land der andern.
 Nach deiner Welt beurteile die Welt der andern.  
 Und wie kann ich erkennen, daß es so steht in der Welt?  
 Eben auf diese Weise.  
-
+  
 ### LV Geheimnisvoller Zauber
 Wer festhält des LEBENS Völligkeit,  
 der gleicht einem neugeborenen Kindlein:  
@@ -922,7 +932,7 @@ Für sein Begehren seine Seelenkraft einsetzen, nennt man stark.
 Sind die Geschöpfe stark geworden, altern sie.  
 Denn das ist Wider-SINN.  
 Und Wider-SINN ist nahe dem Ende.  
-
+  
 ### LVI Verborgenes Leben
 Der Erkennende redet nicht,  
 der Redende erkennt nicht.  
@@ -939,7 +949,7 @@ Er ist unzugänglich für Schaden.
 Er ist unzugänglich für Ehre.  
 Er ist unzugänglich für Niedrigkeit.  
 Darum ist er der Vornehmste auf Erden.  
-
+  
 ### LVII Der echte Einfluß
 Zur Leitung des Staates braucht man Regierungskunst,  
 zum Waffenhandwerk braucht man außerordentliche Begabung.  
@@ -958,7 +968,7 @@ Ich handle nicht, und das Volk wandelt sich von selbst.
 Ich liebe die Stille, und das Volk wird von selber recht.  
 Ich habe keine Geschäfte, und das Volk wird von selber reich.  
 Ich habe keine Begierden, und das Volk wird von selber einfach.  
-
+  
 ### LVIII Schmiegsame Bekehrung
 Ist man beim Herrschen zurückhaltend und zögernd,  
 so ist das Volk ehrlich und einfach.  
@@ -976,7 +986,7 @@ Er ist Vorbild, ohne zu beschneiden,
 er ist gewissenhaft, ohne zu verletzen,  
 er ist echt, ohne Willkürlichkeiten,  
 er ist licht, ohne zu blenden.  
-
+  
 ### LVIX Bewahrung des Sinns
 Bei der Leitung der Menschen, beim Dienste des Himmels  
 gibt es nichts Besseres als die Beschränkung.  
@@ -989,7 +999,7 @@ Wer über die erzeugenden Kräfte des Reiches verfügt,
 der ist fähig, dauernd zu bestehen.  
 Das ist die tiefe Wurzel und der feste Grund,  
 der SINN ewigen Daseins und unendlichen Schauens.  
-
+  
 ### LX Ausübung der Herrschaft
 Ein großes Reich muß man leiten  
 sachte, wie man kleine Fischlein brät.  
@@ -1001,7 +1011,7 @@ Nicht nur daß ihre geistigen Kräfte den Menschen nicht schaden:
 Auch der Berufene schadet ihnen nicht.  
 Wenn diese beiden nun sich nicht bekämpfen,  
 so vereinigen sich ihre LEBENSKRÄFTE in ihrer Wirkung.  
-
+  
 ### LXI Leben der Demut
 Ein großes Reich muß sich unten halten,  
 so wird es der Vereinigungspunkt der Welt.  
@@ -1016,7 +1026,7 @@ Wenn das große Reich nichts wünscht als die Menschen zu einigen und zu nähren
 wenn das kleine Reich nichts wünscht als sich anzuschließen und zu dienen:  
 so erhalten beide den Platz, den sie wünschen,  
 aber das große muß sich unten halten.  
-
+  
 ### LXII Verwirklichung des Sinns
 Der SINN ist aller Geschöpfe Hort,  
 der guten Menschen Schatz,  
@@ -1034,7 +1044,7 @@ war kein andrer, als daß man von ihm wirklich sagen kann:
 Wer bittet, der empfängt.  
 Wer Sünden hat, dem werden sie vergeben.  
 Darum ist er der köstlichste Schatz in der Welt.  
-
+  
 ### LXIII Denken beim Anfang
 Wer das Nichthandeln übt,  
 sich mit Beschäftigungslosigkeit beschäftigt,  
@@ -1052,7 +1062,7 @@ Wer leichthin zusagt, findet stets wenig Glauben.
 Wer vieles leicht nimmt, findet stets viele Schwierigkeiten.  
 Also auch der Berufene:  
 Weil er die Schwierigkeiten bedenkt, darum findet er keine Schwierigkeiten.  
-
+  
 ### LXIV Achtung aufs Geringe
 Was noch in Ruhe ist, kann man leicht behandeln.  
 Was noch unentschieden ist, kann man leicht bedenken.  
@@ -1080,7 +1090,7 @@ Er lernt das Nichtlernen.
 Er wendet sich zu dem zurück, an dem die Menge vorübergeht.  
 Dadurch fördert er den natürlichen Lauf der Dinge.  
 Und wagt nicht zu handeln.  
-
+  
 ### LXV  Reines Leben
 Die vor alters tüchtig waren in Ausübung des SINNES,  
 sahen nicht auf des Volkes Aufklärung,  
@@ -1096,7 +1106,7 @@ der hat ein Ideal.
 Immer dies Ideal zu kennen, ist verborgenes LEBEN.  
 Verborgenes LEBEN ist tief, weitreichend, anders als alle Dinge,  
 aber zuletzt bewirkt es das große Gelingen.  
-
+  
 ### LXVI Selbstverleugnung
 Daß Ströme und Meere die Könige sind aller Täler,  
 das kommt davon, daß sie tüchtig sind im Untensein.  
@@ -1114,7 +1124,7 @@ Die ganze Welt ist willig, ihn voranzubringen,
 und wird nicht unwillig.  
 Weil er nicht streitet,  
 kann niemand auf der Welt mit ihm streiten.  
-
+  
 ### LXVII Die drei Schätze
 Alle Welt sagt, mein »SINN« sei zwar großartig,  
 aber er scheine für die Wirklichkeit nicht geschickt.  
@@ -1137,7 +1147,7 @@ Denn die Liebe siegt im Kampfe,
 ist fest in der Verteidigung.  
 Wen der Himmel retten will,  
 den schützt er durch die Liebe.  
-
+  
 ### LXVIII Gemeinsamkeit mit dem Himmel  
 Wer tüchtig ist als Hauptmann, ist nicht kriegerisch.  
 Wer tüchtig ist als Kämpfer, ist nicht zornig.  
@@ -1147,7 +1157,7 @@ Das ist das LEBEN der Friedfertigkeit,
 das ist die Fähigkeit, Menschen zu verwenden,  
 das ist die Gemeinsamkeit mit dem Himmel:  
 des Altertums höchstes Ziel.  
-
+  
 ### LXIX Entfaltung des Geheimnisses
 Beim Kriegshandwerk gibt es ein Sprichwort:  
 Besser ist es, den Gast zu spielen als den Herrn.  
@@ -1160,7 +1170,7 @@ Es gibt kein größeres Übel als leichthin anzugreifen.
 Wer leichthin angreift, verliert gar leicht meine Schätze.  
 Darum: wo zwei Armeen kämpfend aufeinandertreffen,  
 da siegt der, der es schweren Herzens tut.  
-
+  
 ### LXX Schwierigkeit des Verstandenwerdens
 Meine Worte sind ganz leicht zu verstehen und ganz leicht auszuführen,  
 und doch ist niemand auf Erden im Stand sie zu verstehen und auszuführen.  
@@ -1172,7 +1182,7 @@ Daß ich von wenigen nur verstanden werde,
 ist ein Zeichen meines Werts.  
 Also auch der Berufene:  
 Er trägt sein Juwel in härenem Gewand.  
-
+  
 ### LXXI Erkenntnis des Leidens
 Wissen, daß man nichts weiß, ist das Höchste.  
 Nichtwissen für Wissen achten, ist Leiden.  
@@ -1181,7 +1191,7 @@ wird frei von Leiden.
 Der Berufene ist frei von Leiden.  
 Weil er an seinem Leiden leidet,  
 darum ist er frei von Leiden.  
-
+  
 ### LXXII Selbstliebe
 Wenn die Leute das Furchtbare nicht fürchten,  
 so naht das große Fürchterliche.  
@@ -1193,7 +1203,7 @@ Also auch der Berufene:
 Er erkennt sich selbst, aber er will nicht scheinen.  
 Er liebt sich selbst, aber er sucht nicht Ehre für sich.  
 Darum tut er ab das Ferne und hält sich ans Nahe.  
-
+  
 ### LXXIII Nachgiebigkeit im Wirken
 Wer seinen Mut zeigt in Waghalsigkeiten, der kommt um.  
 Wer Mut zeigt, ohne waghalsig zu sein, der bleibt am Leben.  
@@ -1208,7 +1218,7 @@ Er winkt nicht, und es kommt ihm alles von selbst entgegen.
 Ruhig sitzt er da und versteht doch die rechten Entschlüsse zu fassen.  
 Des Himmels Netz ist groß und weitmaschig,  
 aber es entgeht ihm nichts.  
-
+  
 ### LXXIV Einschränkung des Selbstbetrugs
 Wenn die Leute den Tod nicht fürchten,  
 wie will man sie da mit dem Tode schrecken?  
@@ -1222,7 +1232,7 @@ der gleicht dem Mann, der statt des Zimmermanns die Axt führt.
 Wer statt des Zimmermanns die Axt führt,  
 der wird selten davonkommen,  
 ohne sich die Hand zu verletzen.  
-
+  
 ### LXXV Der Schaden der Gier  
 Daß die Leute hungern,  
 ist, weil ihre Oberen zu viele Steuern fressen;  
@@ -1235,7 +1245,7 @@ ist, weil sie des Lebens Überfluß erzeugen wollen;
 darum nehmen sie den Tod zu leicht.  
 Wer aber nicht um des Lebens willen handelt,  
 der ist besser als der, dem das Leben teuer ist.  
-
+  
 ### LXXVI Warnung vor der Stärke
 Der Mensch ist weich und schwach, wenn er geboren wird,  
 fest und stark, wenn er stirbt.  
@@ -1248,7 +1258,7 @@ Sind die Waffen stark, so siegt man nicht.
 Ist ein Baum stark, so braucht er Stützen.  
 Das Starke und Große steht unten.  
 Das Weiche und Schwache steht oben.  
-
+  
 ### LXXVII Des Himmels Sinn
 Des Himmels SINN, wie gleicht er dem Bogenspannen!  
 Das Hohe drückt er nieder,  
@@ -1266,7 +1276,7 @@ Also auch der Berufene:
 Er wirkt und behält nicht.  
 Ist das Werk vollbracht, so verharrt er nicht dabei.  
 Er wünscht nicht, seine Bedeutung vor andern zu zeigen.  
-
+  
 ### LXXVIII Was man dem Glauben überlassen muß
 Auf der ganzen Welt gibt es nichts Weicheres als das Wasser.  
 Und doch in der Art, wie es dem Harten zusetzt, kommt nichts ihm gleich.  
@@ -1281,7 +1291,7 @@ der ist der Herr bei Erdopfern.
 Wer das Unglück des Reiches auf sich nimmt,  
 der ist der König der Welt.«  
 Wahre Worte sind wie umgekehrt.  
-
+  
 ### LXXIX Festhalten an der Verpflichtung
 Wenn bei der Versöhnung großen Grolls doch noch Groll übrigbleibt:  
 Wie kann man das für gut halten?  
@@ -1292,7 +1302,7 @@ Der das LEBEN hat, hält sich an seine Verpflichtung.
 Wer nicht das LEBEN hat, hält sich an die Forderung.  
 Des Himmels SINN kennt kein Ansehen der Person.  
 Er spendet immer den Tüchtigen.  
-
+  
 ### LXXX Selbständigkeit
 Mag das Land klein sein und wenig Leute haben.  
 Laß es zehnerlei oder hunderterlei Geräte haben,  
@@ -1313,7 +1323,7 @@ Nachbarländer mögen in Sehweite liegen,
 daß man den Ruf der Hähne und Hunde gegenseitig hören kann:  
 Und doch sollten die Leute im höchsten Alter sterben,  
 ohne hin und her gereist zu sein.  
-
+  
 ### LXXXI Entfaltung des Wesentlichen  
 Wahre Worte sind nicht schön,  
 schöne Worte sind nicht wahr.  

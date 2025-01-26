@@ -1,10 +1,3 @@
----  
-title: Magick Without Tears  
-author: Aleister Crowley  
-language: en-EN  
-css: mwt.css
-...  
-
 ### Foreword  
 In 1943 Aleister Crowley met a lady who, having heard of his wide knowledge and experience, asked his advice on occult, spiritual, and practical matters.  
 This chance connection resulted in a stimulating exchange of letters. Crowley then asked others to put similar questions to him. The result was this collection of over eighty letters which are now being issued over the title that he chose, "MAGICK WITHOUT TEARS."  
@@ -15,7 +8,7 @@ Aleister Explains Everything
 "Much gratified was the author of THE BOOK OF THOTH to have so many letters of appreciation, mostly from women, thanking him for not 'putting it in unintelligible language', for 'making it all so clear that even I with my limited intelligence can understand it, or think I do.'  
 "Nevertheless and notwithstanding! For many years the Master Therion has felt acutely the need of some groundwork teaching suited to those who have only just begun the study of Magick and its subsidiary sciences, or are merely curious about it, or interested in it with intent to study. Always he has done his utmost to make his meaning clear to the average intelligent educated person, but even  
 those who understand him perfectly and are most sympathetic to his work, agree that in this respect he has often failed.  "So much for the diagnosis—now for the remedy!  "One genius, inspired of the gods, suggested recently that the riddle might be solved somewhat on the old and well-tried lines of 'Dr Brewer's Guide to Science'; i.e., by having aspirants write to the Master asking questions, the kind of problem that naturally comes into the mind of any sensible inquirer, and getting his answer in the form of a letter. 'What is it?' 'Why should I bother my head about it?' 'What are its principles?' 'What use is it?' 'How do I begin?', and the like.  "This plan has been put into action; the idea has been to cover the subjects from every possible angle. The style has been colloquial and fluent; technical terms have either been carefully avoided or most carefully explained; and the letter has not been admitted to the series until the querent has expressed satisfaction. Some seventy letters, up to the present have been written, but still there seem to be certain gaps in the demonstration, like those white patches on the map of the World, which looked so tempting fifty years ago.  "This memorandum is to ask for your collaboration and support. A list, indicating briefly the subject of each letter already written, is appended. Should you think that any of those will help you in your own problems, a typed copy will be sent to you at once ... Should you want to know anything outside the scope, send in your question (stated as fully and clearly as possible) ... The answer should reach you, bar accidents, in less than a month ... It is proposed ultimately to issue the series in book form." This has now been done.  
-[5]  
+    
 Karl J. Germer  
 Frater Saturnus X○  
 Frater Superior, O.T.O.  
