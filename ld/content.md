@@ -1,11 +1,5 @@
----  
-title: Das wahre Buch vom Quellenden Urgrund  
-author: Liezi  
-css: ld.css
-...  
-  
-### Buch I - Offenbarungen der unsichtbaren Welt  
-»Alles Vergängliche / Ist nur ein Gleichnis / Das Unzulängliche / Hier wird's Ereignis.«  
+# Buch I - Offenbarungen der unsichtbaren Welt  
+*»Alles Vergängliche / Ist nur ein Gleichnis / Das Unzulängliche / Hier wird's Ereignis.«*  
   
 ### 1. Vom Ding an sich  
 Meister Liä Dsï wohnte in einem Garten zu Dscheng vierzig Jahre lang, und niemand kannte ihn. Vor den Augen des Landesfürsten und der hohen Würdenträger war er wie einer aus der Menge des Volkes. Es entstand aber Mangel im Lande, und er machte sich auf, aus seiner Heimat nach We zu ziehen. Da sprachen seine Schüler: »Meister, du gehst, und deine Rückkehr ist unbestimmt, darum wagen wir Schüler um etwas zu bitten, worüber uns du, Meister, belehren mögest: Hast du, Meister, nicht die Reden des Hu Kiu Dsï Lin gehört?«  
@@ -134,8 +128,8 @@ Er dachte, der Mann Guo habe ihn zum besten gehabt, ging hin und machte ihm Vorw
   
 Der Mann Hiang kam in große Zweifel und meinte, Guo wolle ihn zum zweitenmal betrügen. Da begegnete er dem Herrn Dung Go, und fragte ihn, wie das sei. Der Herr Dung Go sagte: »Ist doch schon der Gebrauch deines Leibes ein Raub. Du raubst das Gleichgewicht der beiden Weltkräfte, damit dein Leben wird und deine Gestalt besteht. Wie viel mehr sind alle äußeren Dinge Raub! In Wirklichkeit sind Himmel und Erde und alle Geschöpfe untrennbar verbunden; die die aufhäufen und besitzen wollen, sind alle im Irrtum. Der Mann namens Guo ist Räuber in selbstlosem Sinn, darum traf ihn kein Unglück; du warst Räuber aus Selbstsucht, darum wurdest du bestraft. Wer ein selbstloses Selbst hat, ist auch ein Räuber, ebenso wie der, der kein selbstloses Selbst hat, ist auch ein Räuber, ebenso wie der, der kein selbstloses Selbst hat, ein Räuber ist. Daß aber Selbstlosigkeit auf Selbstlosigkeit trifft und Selbstsucht auf Selbstsucht, ist das Wesen von Himmel und Erde. Wer das Wesen von Himmel und Erde kennt: wer ist für den ein Räuber und wer ist kein Räuber?«  
   
-### Buch II Der Herr der gelben Erde.  Die Macht des Geistes  
-»Statt heißem Wünschen, wildem Wollen / Statt läst'gem Fordern, strengem Sollen / Sich aufzugeben, ist Genuß.«  
+# Buch II Der Herr der gelben Erde.  Die Macht des Geistes  
+*»Statt heißem Wünschen, wildem Wollen / Statt läst'gem Fordern, strengem Sollen / Sich aufzugeben, ist Genuß.«*  
   
 ### 1. Utopia  
 Der Herr der gelben Erde saß auf dem Throne fünfzehn Jahre lang und freute sich darüber, daß die Welt ihm diente. Er pflegte seines Lebens, er genoß Schönheit und Wohlklang und erfreute sich an Speisen und Wohlgerüchen. Aber er ward bekümmert, also daß sein Fleisch verdorrte; er ward betrübt, also daß seine Gefühle sich verwirrten.  
@@ -352,8 +346,8 @@ Hui Yang erwiderte: »Kung und Mo hatten es schon. Kung Kiu und Mo Di hatten kei
   
 Der König von Sung sprach zu seinem Gefolge: »Diese Zungenfertigkeit! Der Fremdling hat durch sein Reden Uns überwältigt.«  
   
-## Buch III König Mu von Dschou - Leben und Traum  
-»Verweilst du in der Welt, sie flieht als Traum / Du reisest, ein Geschick bestimmt den Raum / Nicht Hitze, Kälte nicht vermagst du festzuhalten / Und was dir blüht, sogleich wird es veralten.«  
+# Buch III König Mu von Dschou - Leben und Traum  
+*»Verweilst du in der Welt, sie flieht als Traum / Du reisest, ein Geschick bestimmt den Raum / Nicht Hitze, Kälte nicht vermagst du festzuhalten / Und was dir blüht, sogleich wird es veralten.«*  
   
 ### 1. Die Sagen vom König Mu  
 Zur Zeit des Königs Mu vom Hause Dschou kam ein Magier aus dem äußersten Westen. Der konnte ins Feuer und Wasser gehen, Metall und Steine durchdringen, Berge und Flüsse verkehren, Städte und Burgen versetzen, er konnte den leeren Raum besteigen, ohne zu fallen, er konnte gegen Festes stoßen, ohne Widerstand zu finden. Tausenderlei Wandlung konnte er vollbringen in unerschöpflicher Fülle. Und hatte er die Gestalten der Dinge verändert, so wandelte er noch zudem die Gedanken der Menschen.  
@@ -451,8 +445,8 @@ Lau Dan sprach: »Wie weißt du denn, daß dein Sohn verrückt ist? Heutzutage i
 ### 10. Verfrühte Rührung  
 Ein Mann aus Yän war in Yän zur Welt gekommen, aber in Tschu aufgewachsen. Als er alt geworden, kehrte er in sein Heimatland zurück. Er kam durch das Land Dsin. Da log ihn ein Mitreisender an, deutete auf die Stadt und sprach: »Das ist die Hauptstadt des Landes Yän.« Da errötete jener Mann und verzog die Mienen. Er deutete auf die Altäre und sprach: »Das sind die Altäre deiner Heimat.« Da seufzte er tief. Er deutete auf eine Hütte und sprach: »Das ist die Behausung deiner Ahnen.« Da schluchzte er und schneuzte sich. Er deutete auf die Gräber und sprach: »Hier ist die Ruhestätte deiner Ahnen.« Da weinte jener Mann fassungslos. Der Mitreisende lachte laut und sprach: »Ha, ha, ha, ich habe eben nur Spaß gemacht. Das ist das Land Dsin.« Jener Mann ward sehr beschämt. Und als er dann ins Land Yän kam und wirklich die Hauptstadt und die Altäre seiner Heimat sah und wirklich die Behausung und die Ruhestätte seiner Ahnen sah, da waren seine gerührten Gefühle sehr zusammengeschmolzen.  
   
-## Buch IV Konfuzius.  Hingabe ans All  
-»Und solang du das nicht hast / Dieses: Stirb und Werde / Bist du nur ein trüber Gast / Auf der dunklen Erde.«  
+# Buch IV Konfuzius.  Hingabe ans All  
+*»Und solang du das nicht hast / Dieses: Stirb und Werde / Bist du nur ein trüber Gast / Auf der dunklen Erde.«*  
   
 ### 1. Welterlösungsschmerzen  
 Dschung Ni (Konfuzius) weilte einst in der Zurückgezogenheit. Dsï Gung trat ein, um bei ihm zu sein. Er aber sah bekümmert aus. Dsï Gung wagte nicht zu fragen. Er ging wieder hinaus und teilte es Yän Hui mit. Yän Hui ergriff die Zither und sang.  
@@ -586,8 +580,8 @@ Wer diesen SINN begehrt und sucht ihn mit Auge und Ohr, mit der Leiblichkeit und
   
 Erkennen ohne Leidenschaft, Vermögen ohne Handlungen ist wahres Erkennen und wahres Vermögen. Wer die Aufhebung des Erkennens in sich ent wickelt, wie kann der noch leidenschaftlich sein? Wer die Beseitigung des Vermögens in sich entwickelt, wie kann der noch sich in Handlungen verstricken? Wer Irdisches sammelt und Staub aufhäuft, ist, ob er auch Geschäftigkeit meidet, noch nicht zur wahren Vernunft durchgedrungen.«  
   
-### Buch V Die Fragen Tang's.  Antinomien  
-»Und es ist das Ewig Eine / Das sich vielfach offenbart / Klein das Große, groß das Kleine / Alles nach der eignen Art.«  
+# Buch V Die Fragen Tang's.  Antinomien  
+*»Und es ist das Ewig Eine / Das sich vielfach offenbart / Klein das Große, groß das Kleine / Alles nach der eignen Art.«*  
   
 ### 1. Widerstreit der Ideen von Raum und Zeit  
 Tang vom Hause Yin fragte Gi von Hia und sprach: »Gab es am Uranfang keine Welt?« Gi von Hia sprach: »Wenn es am Uranfang keine Welt gegeben hätte, wie könnte es dann heute eine Welt geben? Da konnten in Zukunft die Menschen auch behaupten, daß es heute keine Welt gebe.«  
@@ -756,8 +750,8 @@ Da merkte Ehrlich, daß er mit dem Schwert niemand töten könne, und kehrte seu
 ### 18. König Mu  
 (Sage von der Damaszenerklinge und dem Asbest. Unvollendet)  
   
-### Buch VI Freiheit und Notwendigkeit  
-»Wie an dem Tag, der Dich der Welt verliehen / Die Sonne stand zum Gruße der Planeten / Bist alsobald und fort und fort gediehen / Nach dem Gesetz, wonach du angetreten. / So mußt du sein, dir kannst du nicht entfliehen / So sagten schon Sibyllen, so Propheten / Und keine Zeit und keine Macht zerstückelt / Geprägte Form, die lebend sich entwickelt.«  
+# Buch VI Freiheit und Notwendigkeit  
+*»Wie an dem Tag, der Dich der Welt verliehen / Die Sonne stand zum Gruße der Planeten / Bist alsobald und fort und fort gediehen / Nach dem Gesetz, wonach du angetreten. / So mußt du sein, dir kannst du nicht entfliehen / So sagten schon Sibyllen, so Propheten / Und keine Zeit und keine Macht zerstückelt / Geprägte Form, die lebend sich entwickelt.«*  
   
 ### 1. Streit der Urmächte  
 Die Willenskraft sprach zum Schicksal: »Deine Wirkungen können sich den meinigen nicht vergleichen.« Das Schicksal sprach: »Was hast du für Wirkungen auf die Natur, daß du dich mir vergleichen willst?« Die Willenskraft sprach: »Langes und kurzes Leben, Erfolg und Mißerfolg, Ehre und Niedrigkeit, Armut und Reichtum: das alles steht in meiner Macht«.  
@@ -928,8 +922,8 @@ Unter den Leuten von We lebte ein Mann namens Wu vom Osttor. Als sein Sohn starb
 ### 14. Willenskraft und Schicksal  
 Der Landmann benützt die Jahreszeiten; der Kaufmann strebt nach Gewinn; der Arbeiter sucht nach Kunstgriffen; der Beamte benützt seine Macht: so äußert sich die Willenskraft. Doch dem Landmann wird Regen oder Trockenheit zuteil, dem Kaufmann Gewinn oder Verlust, dem Beamten Erfolg oder Mißerfolg: so äußert sich das Schicksal.  
   
-### Buch VII Yang Dschu  
-»So wälz ich ohne Unterlaß / Wie Sankt Diogenes mein Faß / Bald ist es Ernst, bald ist es Spaß / Bald ist es Lieb, bald ist es Haß / Bald ist es Dies, bald ist es Das / Es ist ein Nichts und ist ein Was / So wälz ich ohne Unterlaß / Wie Sankt Diogenes mein Faß.«  
+# Buch VII Yang Dschu  
+*»So wälz ich ohne Unterlaß / Wie Sankt Diogenes mein Faß / Bald ist es Ernst, bald ist es Spaß / Bald ist es Lieb, bald ist es Haß / Bald ist es Dies, bald ist es Das / Es ist ein Nichts und ist ein Was / So wälz ich ohne Unterlaß / Wie Sankt Diogenes mein Faß.«*  
   
 ### 1. Über den Ruhm  
 Yang Dschu übernachtete bei seinen Wanderungen in Lu einmal im Hause der Familie Meng. Herr Meng fragte und sprach: »Schließlich ist doch jeder nichts weiter als ein Mensch; wozu dient der Ruhm?« Er antwortete: »Die nach Ruhm trachten, tun es, um reich zu werden.« – »Wenn aber einer reich ist, warum hört er auch dann noch nicht auf?« Er antwortete: »Um der Ehre willen.« – »Wenn aber einer geehrt ist, warum hört er auch dann noch nicht auf?« Er antwortete: »Um des Todes willen.« – »Wenn einer tot ist, was kann er dann da noch wollen?« Er antwortete: »Er kann für seine Kinder und Enkel sorgen.« – »Wie kann denn der Ruhm den Kindern und Enkeln nützen?« Er sprach: »Der Berühmte hat selber viel Mühsal und Sorgen. Die, denen sein Ruhm zugute kommt, das sind seine Stammesangehörigen; die Gewinn davon haben, sind seine Landsleute: wieviel mehr erst seine Kinder und Enkel!« – »Wer aber nach Ruhm trachtet, muß uneigennützig sein; Uneigennützigkeit aber führt zur Armut. Wer nach Ruhm trachtet, muß demütig sein; Demut aber führt zur Niedrigkeit.« Er sprach: »Guan Dschung war Kanzler in Tsi. Sein Fürst war ausschweifend, er war auch ausschweifend; sein Fürst war üppig, er war auch üppig. In seiner Willensrichtung stimmte er mit ihm überein; in seinen Worten richtete er sich nach ihm. Sein Weg hatte Erfolg, und die Vorherrschaft im Reiche ward errungen. Nach seinem Tode aber war er einfach Guan Dschung und nichts weiter. Der Mann Tiän war Kanzler in Tsi. War der Fürst übermütig, so zeigte er sich herablassend; war der Fürst habgierig, so zeigte er sich freigebig. Alles Volk fiel ihm zu, und er kam so auf den Thron von Tsi, und seine Nachkommen haben es bis auf den heutigen Tag noch ununterbrochen zu genießen.« – »So bringt also wahrer Ruhm in Armut und heuchlerischer Ruhm in Reichtum?« Er sprach: »Was wahr ist, erlangt keinen Ruhm; was Ruhm genießt, ist nicht wahr. Alle die berühmten Männer sind Heuchler und nichts weiter. Vor alters haben Yau und Schun heuchlerischerweise das Reich dem Hü Yu und Schan Küan angeboten, darum haben sie das Reich nicht verloren und erfreuten sich eines hundertjährigen Alters. Be I und Schu Tsi haben in Wahrheit auf den Thron von Gu Dschu verzichtet und haben auch tatsächlich für immer ihr Reich verloren, also daß sie am Schou Yang-Berge Hungers starben. An diesen Beispielen kann man sehen, zu welch verschiedenen Erfolgen Wahrheit und Heuchelei führen.«  
@@ -1085,8 +1079,8 @@ Daß Fürsten und Untertanen miteinander Ruhe finden und die Mitwelt und das eig
 ### 19. Beschränkter Nutzen des Ruhms  
 Meister Yü sprach: »Die den Namen abtun, haben keine Sorgen.« Lau Dan sprach: »Der Name ist der Gast der Wirklichkeit.« Aber weit und breit rennt alles dem Namen nach ohne Aufhören. Den Namen darf man allerdings nicht abtun; den Namen darf man allerdings nicht bloß als Gast betrachten, denn wer heute einen Namen hat, der ist geehrt und herrlich; wer keinen Namen hat, der ist niedrig und verachtet. Wer geehrt und herrlich ist, der hat Freude und Wonne; wer niedrig und verachtet ist, der hat Kummer und Bitternis. Kummer und Bitternis widerstreben der Natur, Freude und Wonne entsprechen der Natur. Das sind sehr wirkliche Zusammenhänge. Wozu also den Namen abtun? Wozu also den Namen als Gast behandeln? Aber man hasse es, den Namen festzuhalten und dadurch die Wirklichkeit beeinflussen zu lassen. Wer den Namen festhält und dadurch die Wirklichkeit beeinflussen läßt, der wird dereinst darüber zu klagen haben, daß er sich unrettbar in Gefahr und Verderben gestürzt. Wahrlich, nicht untätig verharre man, unentschieden zwischen Freude und Wonne und Kummer und Bitternis.  
   
-### Buch VIII Zusammentreffen der Verhältnisse  
- »Dein Los ist gefallen, verfolge die Weise / Der Weg ist begonnen, vollende die Reise / Denn Sorge und Kummer verändern es nicht / Sie schleudern dich ewig aus gleichem Gewicht.«  
+# Buch VIII Zusammentreffen der Verhältnisse  
+*»Dein Los ist gefallen, verfolge die Weise / Der Weg ist begonnen, vollende die Reise / Denn Sorge und Kummer verändern es nicht / Sie schleudern dich ewig aus gleichem Gewicht.«*  
   
 ### 1. Was man vom Schatten lernen kann  
 Meister Liä Dsï lernte bei Hu Kiu Dsï Lin.  

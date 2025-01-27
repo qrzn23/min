@@ -173,7 +173,7 @@ Darum tut er ab das Ferne und hält sich ans Nahe.
 ### XIII Abscheu vor Beschämung
 Gnade ist beschämend durch die Furcht.  
 Ehre ist ein großes Übel durch das Ich.  
-[Was heißt das: »Gnade ist beschämend durch die Furcht?«  
+Was heißt das: »Gnade ist beschämend durch die Furcht?«  
 Gnade ist etwas Erniedrigendes;  
 bekommt man sie, so muß man sich wie fürchten,  
 verliert man sie, so muß man sich wie fürchten.  
@@ -182,7 +182,7 @@ Was heißt das: »Ehre ist ein großes Übel durch das Ich?«
 Der Grund, warum ich große Übel erfahre, ist,  
 daß ich ein Ich habe.  
 Wenn ich kein Ich habe,  
-welches Übel gibt es dann noch?]  
+welches Übel gibt es dann noch?  
 Darum: Wer in seinem Ich die Welt ehrt,  
 dem kann man wohl die Welt anvertrauen.  
 Wer in seinem Ich die Welt liebt,  
@@ -370,7 +370,7 @@ Der Himmel und die Erde.
 Wenn nicht einmal der Himmel und die Erde in solchen Dingen Dauer haben,  
 wieviel weniger der Mensch.  
   
-[Darum: Wenn du an dein Werk gehst mit dem SINN,  
+Darum: Wenn du an dein Werk gehst mit dem SINN,  
 so wirst du mit denen, so den SINN haben, eins im SINN,  
 mit denen, so das LEBEN haben, eins im LEBEN,  
 mit denen, so arm sind, eins in ihrer Armut.  
@@ -381,7 +381,7 @@ so kommen dir die, so das LEBEN haben, auch freudig entgegen.
 Bist du eins mit ihnen in ihrer Armut,  
 so kommen dir die, so da arm sind, auch freudig entgegen.  
 Wo aber der Glaube nicht stark genug ist,  
-da findet man keinen Glauben.]  
+da findet man keinen Glauben.  
   
 ### XXIV Bittere Herrlichkeit
 Wer auf den Zehen steht,  
@@ -481,9 +481,9 @@ Ist er das Tal der Welt,
 so hat er Genüge des ewigen LEBENS,  
 und er kann wieder umkehren zur Einfalt.  
   
-[Ist die Einfalt zerstreut, so gibt es »brauchbare« Menschen.  
+Ist die Einfalt zerstreut, so gibt es »brauchbare« Menschen.  
 Übt der Berufene sie aus, so wird er der Herr der Beamten.  
-Darum: Großartige Gestaltung bedarf nicht des Beschneidens.]  
+Darum: Großartige Gestaltung bedarf nicht des Beschneidens.  
   
 ### XXIX Vom Nichthandeln
 Die Welt erobern wollen durch Handeln:  
@@ -540,17 +540,17 @@ Bei Unglücksfällen achtet man die Rechte als Ehrenplatz.
 Der Unterfeldherr steht zur Linken, der Oberführer steht zur Rechten.  
 Das heißt: er nimmt seinen Platz ein nach dem Brauch der Trauerfeiern.  
 Menschen töten in großer Zahl, das soll man beklagen mit Tränen des Mitleids.  
-Wer im Kampfe gesiegt, der soll wie bei einer Trauerfeier weilen.)  
+Wer im Kampfe gesiegt, der soll wie bei einer Trauerfeier weilen.  
   
 ### XXXII Das Leben der Berufenen
 Solange der SINN in seiner vorweltlichen Ewigkeit verharrt,  
 gibt es keine Namen.  
-[So unscheinbar die Einfalt ist,  
+So unscheinbar die Einfalt ist,  
 so wagt doch niemand auf der Welt sie als bloßes Mittel zu verwenden.  
 Wenn Fürsten und Könige sie zu wahren verstehen,  
 so stellen sich alle Geschöpfe als Gäste zur Seite:  
 Himmel und Erde vereinigen sich, um süßen Tau zu träufeln.  
-Das Volk, ungeheißen, wird ganz von selber recht.]  
+Das Volk, ungeheißen, wird ganz von selber recht.  
 Wenn die äußere Gestaltung beginnt,  
 Dann erst gibt es Namen.  
 Solange die Namen am Sein einen Maßstab haben,  
@@ -581,7 +581,7 @@ und er spielt nicht den Herrn.
 Insofern er ewig ohne Begehren ist,  
 kann man ihn als klein bezeichnen.  
 Insofern alle Geschöpfe sich ihm zuwenden,  
-[und er spielt nicht den Herrn]  
+und er spielt nicht den Herrn  
 kann man ihn als groß bezeichnen:  
 Also auch der Berufene:  
 Niemals macht er sich groß;  

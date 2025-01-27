@@ -4,7 +4,7 @@ author: "Richard Wilhelm"
 publisher: "Min Publishing"
 date: "2025-01-26"
 language: "de-DE"
-css: "style.css"
+css: "../style.css"
 cover: cover.jpg
 rights: "Alle Rechte vorbehalten."
 description: "Das wahre Buch vom Quellenden Urgrund"

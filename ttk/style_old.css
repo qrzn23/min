@@ -1,0 +1,43 @@
+body {
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+  margin: 1em;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  margin-top: 2em;
+  color: #4a4a4a;
+}
+
+blockquote {
+  margin: 1em 2em;
+  font-style: italic;
+  color: #555;
+}
+
+h3 {
+  page-break-before: always;
+}
+
+/* General paragraph styling */
+p {
+  text-indent: 1.2em; /* Adjust the indent size as needed */
+  margin-top: 0.5em; /* Smaller space above the paragraph */
+  margin-bottom: 0.5em; /* Smaller space below the paragraph */
+  line-height: 1.5; /* Ensures good readability */
+}
+
+/* Force styles to apply across most ebook readers */
+body, p {
+  margin: 0; /* Reset any default margins */
+  padding: 0;
+}
+
+/* Optional: Force the use of the CSS rules */
+* {
+  all: unset; /* Resets most inherited styles */
+}
+p {
+  all: revert; /* Reapply paragraph styles from this CSS */
+}
