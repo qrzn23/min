@@ -1,9 +1,4 @@
----
-title: Magick
-author: Aleister Crowley
----
-
-HYMN TO PAN 
+### HYMN TO PAN 
 
 
 sqpptç epcoTi ‘KEpiocpyrjç c avEûTogav 
@@ -84,50 +79,53 @@ Mannikin, maiden, mænad, man,
 In the might of Pan. 
 lo Pan ! Io Pan Pan ! Pan ! Io Pan ! 
 
-INTRODUCTION 
+# INTRODUCTION 
 
 E&lt;r&lt;7£ai àôàvaToç OeSç, 7.u^pozoç y oux tzi 0\&gt;rjz6ç 
 
 *Pythagoras.*
 
-“Magic is the Highest, most Absolute, and most Divine Knowledge of Natural Philosophy, advanced in its Works and wonderful operations by a right understanding of the inward and occult virtue of things; so that true Agents being applied to proper Patients, strange and admirable effects will thereby be produced. Whence magicians are profound and diligent searchers into Nature j they, because of their skill, know how to anticipate an effect, the which to the vulgar shall seem to be a miracle.” 
-
+> “Magic is the Highest, most Absolute, and most Divine Knowledge of Natural Philosophy, advanced in its Works and wonderful operations by a right understanding of the inward and occult virtue of things; so that true Agents being applied to proper Patients, strange and admirable effects will thereby be produced. Whence magicians are profound and diligent searchers into Nature j they, because of their skill, know how to anticipate an effect, the which to the vulgar shall seem to be a miracle.” 
 *The Goetia of the Lemegeton of King Solomon.*
 
 “Wherever sympathetic magic occurs in its pure unadulterated form, it is assumed that in nature one event follows another necessarily and invariably without the intervention of any spiritual or personal agency. 
 
-**Thus its fundamental conception is identical with that of modem science; underlying the whole System is a faith, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur failure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.” 
-
+> **Thus its fundamental conception is identical with that of modem science; underlying the whole System is a faith, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur failure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.” 
 Dr. J. G. FRAZER, *«The Golden Bough*
 
 
-“So far, therefore, **as the public profession of magic has been one of the roads by which men have passed to supreme power, it has contributed to emancipate mankind from the thraldom of tradition and to elevate them into a larger, f reer life, with a broader outlook, on the worid. This is no small service rendered to humanity.** And when we remember further that in another direction magic has paved the way for science, we are forced to admit that if the black art has done much evil, it has also been the source of much good that if it is the child of error, **it has yet been the mother of freedom and truth.”**
+> “So far, therefore, **as the public profession of magic has been one of the roads by which men have passed to supreme power, it has contributed to emancipate mankind from the thraldom of tradition and to elevate them into a larger, f reer life, with a broader outlook, on the worid. This is no small service rendered to humanity.** And when we remember further that in another direction magic has paved the way for science, we are forced to admit that if the black art has done much evil, it has also been the source of much good that if it is the child of error, **it has yet been the mother of freedom and truth.”**
 
 Ibid. 
 
-“Prove all things; hold fast that which is good”. 
+> “Prove all things; hold fast that which is good”. 
 
 St. Paul. 
 
-“Also the mantras and spells; the obeah and the wanga; the 
-work of the wand and the work of the sword: these he shall learn 
-and teach. 
-“He must teach ; but he may make severe the ordeals. 
-“The word of the Law is 0EAHMA.” 
+> “Also the mantras and spells; the obeah and the wanga; the work of the wand and the work of the sword: these he shall learn and teach. “He must teach ; but he may make severe the ordeals. 
+> “The word of the Law is 0EAHMA.” 
 LIBER AL vel xxxi: The Book of the Law. 
 
+---
 
-This book is for ALL: 
+This book is for 
+
+**ALL:** 
 
 for every man, woman, and child. 
 
 My former work has been misunderstood, and its scope limited, by my use of technical terms. It has attracted only too many dilettanti and eccentrics, weaklings seeking in “Magic” an escape from reality. I myself was first consciously drawn to the subject in this way. And it has repelled only too many scientific and practicai minds, such as I most designed to influence. 
 
-But MAGICK is for ALL. 
+But 
+**MAGICK**
+is for 
+**ALL.** 
 
 I have written this book to help the Banker, the Pugilist, the Biologist, the Poet, the Navvy, the Grocer, the Factory Girl, the Mathematician, the Stenographer, the Golfer, the Wife, the Consul — and ail the rest — to fulfil themselves perfectly, each in his or her own proper function. 
 Let me explain in a few words how it came about that I blazoned the word 
+
 **MAGICK**
+
 upon the Banner that I have borne before me all my life. 
 Before I touched my teens, I was already aware that I was THE BEAST whose number is 666. I did not understand in the least what that implied; it was a passionately ecstatic sense of identity. 
 In my third year at Cambridge, I devoted myself consciously to the Great Work, understanding thereby the Work of becoming a Spiritual Being, free from the constraints, accidents, and deceptions of material existence. 
@@ -192,44 +190,48 @@ I. In one sense Magick may be dehned as the name given to Science by the vulgar.
 **(9) A man who is doing his True Will has the inertia of fhe Universe to assist him.**
 (Illustration, fhe first principle of success in évolution is that the individual should be true to his own nature, and at the same time adapt himself to his environment.) 
 **(10) Nature is a continuous phenomenon, through we do not know in ail cases how things are connected.**
-(Illustration: Human consciousness depends on the properties of protoplasm, the existence of which dépends on innumerable physical conditions peculiar to this planet and this planet is determined by the mechanical balance of the whole universe of matter. We may then say that our consciousness is causally connected with the remotest galaxies; yet we do not know even how it arises from —  or with —  the molecular changes in the brain.) 
+(Illustration: Human consciousness depends on the properties of protoplasm, the existence of which dépends on innumerable physical conditions peculiar to this planet and this planet is determined by the mechanical balance of the whole universe of matter. We may then say that our consciousness is causally connected with the remotest galaxies; yet we do not know even how it arises from — or with — the molecular changes in the brain.) 
 **(11) Science enahles us to take advantage of the continuity of Nature by the empirical application of certain principles whose interplay involves different orders of idea connected with each other in a way beyond our présent comprehension.** 
-(Illustration: We are able to light cities by rule-of-thumb methods. We do not know what consciousness is, or how it is connected with muscular action ; what electricity is or how it is connected with the machines that generate it; and our methods depend on calculations involving mathematical ideas which have no correspondence in the Universe as we know it. ) 
-**(12) Man is ignorant of the nature of his own being and powers. Even his idea of his limitations is based on expérience of the past, and every step in his progress extends his empire. There is therefore no reason to assign theoretical limits 1 2 to what lie may be, or to what he may do.**
+(Illustration: We are able to light cities by rule-of-thumb methods. We do not know what consciousness is, or how it is connected with muscular action ; what electricity is or how it is connected with the machines that generate it; and our methods depend on calculations involving mathematical ideas which have no correspondence in the Universe as we know it. [^1] ) 
+**(12) Man is ignorant of the nature of his own being and powers. Even his idea of his limitations is based on expérience of the past, and every step in his progress extends his empire. There is therefore no reason to assign theoretical limits [^2] to what lie may be, or to what he may do.**
 (Illustration: A generation ago it was supposed theoretically impossible that man should ever know the Chemical composition of the fixed stars. It is known that our senses are adapted to receive only an infinitesimal fraction of the possible rates of vibration. Modern instruments have enabled us to detect some of these supra-sensibles by indirect methods, and even to use their peculiar qualities in the service of man, as in the case of the rays of Hertz and Roentgen. As Tyndall said, man might at any moment learn to perceive and utilise vibrations of ail conceivable and inconceivable kinds. The question of Magick is a question of discovering and employing hitherto unknown forces in nature. We know that they exist, and we cannot doubt the possibility of mental or physical instruments capable of bringing us into relation with them.) 
 **(13) Every man is more or less aware that his individuality comprises several orders of existence, even when he maintains that his subtler priciples are merely symptomatic of the changes in his gross vehicle. A similar order may be assumed to extend throughout nature.**
 (Illustration: One does not confuse the pain of toothache with 
 
-1. For instance, “irrational”, “unreal”, and “infinité” expressions. 
+[^1]. For instance, “irrational”, “unreal”, and “infinité” expressions. 
 
-2. i.e., except — possibly — in the case of logically absurd questions, 
-such as the Schoolmen discussed in connection with “God”. 
+[^2]. i.e., except — possibly — in the case of logically absurd questions, such as the Schoolmen discussed in connection with “God”. 
 
 the decay which causes it. Inanimate objects are sensitive to certain physical forces, such as electrical and thermal conductivity ; but neither in us nor in them — so far as we know — is there any direct conscious perception of these forces. Imperceptible influences are therefore associated with ail material phenomena; and there is no reason why we should not work upon matter through those subtle energies as we do through their material bases. In fact, we use magnetic force to move iron, and solar radiation to reproduce 
 images.) 
 
 **(14) Man is capable of being, and using, anything which he perceives, for everything that he perceives is in a certain sense a part of his being. He may thus subjugate the whole Universe of which he is conscious to his individual Will.**
 (Illustration: Man has used the idea of God to dictate his Personal conduct, to obtain power over his fellows, to excuse his crimes, and for innumerable other purposes, including that of realizing himself as God. He has used the irrational and unreal conceptions of mathematics to help him in the construction of mechanical devices. He has used his moral force to influence the actions even of wild animals. He has employed poetic genius for political purposes.) 
+
 **(15) Every force in the Universe is capable of being transformed into any other kind of force by using suitable means. There is thus an inexhaustible supply of any particular kind of force that we may need.**
+
 (Illustration: Heat may be transformed into light and power by using it to drive dynamos. The vibrations of the air may be used to kill men by so ordering them in speech as to inflame war-like passions. The hallucinations connected with the mysterious energies of sex result in the perpetuation of the species.) 
+
 **(16) The application of any given force affects ail the orders of being which exist in the object to which it is applied, whichever of those orders is directly affected.**
 (Illustration: If I strike a man with a dagger, his consciousness, not his body only, is affected by my act; although the dagger, as such, has no direct relation therewith. Similarly, the power of my thought may so work on the minci of another person as to produce far-reaching physical changes in him, or in others through him.) 
+
 **(17) A man may learn to use any force so as to serve any purpose, by taking advantage of the above theorems.**
 (Illustration: A man may use a razor to make himself vigilant over his speech, by using it to cut himself whenever he unguardedly utters a chosen word. He may serve the same purpose by resolving that every incident of his life shall remind him of a particular thing, making every impression the starting point of a connected series of thoughts ending in that thing. He might also devote his whole energies to some one particular object, by resolving to do nothing at variance therewith, and to make every act turn to the advantage of that object.) 
+
 **(18) He may attract to himself any force of the Universe by making himself a fit réceptacle for it, establishing a connection with it, and arranging conditions so that its nature compels it to flow toward him.**
 (Illustration: If I want pure water to drink, I dig a well in a place where there is underground water; I prevent it from leaking away; and I arrange to take advantage of water’s accordance with the laws of Hydrostatics to fill it.) 
+
 **(19) Man’s sense of himself as separate from, and opposed to, the Universe is a bar to his conducting its currents. It insulates him.**
 (Illustration: A popular leader is most successful when he forgets himself, and remembers only “The Cause”. Self-seeking engenders jealousies and schism. When the organs of the body assert their presence otherwise than by silent satisfaction, it is a sign that they are diseased. The single exception is the organ of reproduction. Yet even in this case its self-assertion bears witness to its dissatisfaction with itself, since it cannot fulfil its function until completed by its counterpart in another organization.) 
+
 **(20) Man can only attract and employ the forces for which he is really fitted.**
-(Illustration: You cannot make a silk purse ont of a sow’s ear. A true man of science learns from every phenomenon. But Nature is dumb to the hypocrite; for in her there is nothing false. 1 ) 
+(Illustration: You cannot make a silk purse ont of a sow’s ear. A true man of science learns from every phenomenon. But Nature is dumb to the hypocrite; for in her there is nothing false. [^3]) 
+
 **(21) There is no limit to the extent of the relations of any man with the Universe in essence; for as soon as man makes himself one with any idea the means of measurement cease to exist. But liis power to utilize that force is limited by his mental power and capacity, and by the circumstances of his human environment.**
 (Illustration: When a man falls in love, the whole world becomes, to him, nothing but love boundless and immanent; but his mystical State is not contagious; his fellow-men are either amused or annoyed. He can only extend to others the effect which his love has had upon himself by means of his mental and physical qualities. Thus, Catullus, Dante and Swinburne made their love a mighty mover of mankind by virtue of their power to put their thoughts on the subject in musical and eloquent language. Again, Cleopatra and other people in authority moulded the fortunes of many other people by allowing love to influence their political actions. The Magician, however well he succeed in making contact with the secret sources of energy in nature, can only use them to the extent permitted by his intellectual and moral qualities. Mohammed’s intercourse with Gabriel was only effective because of his statesmanship, soldiership, and the sublimity of his command of Arabic. Hertz’s discovery of the rays which we now use for wireless telegraphy was sterile until reflected through the minds and wills of the people who could take his truth, and transmit it to the world of action bv means of mechanical and économic instruments.) 
+
 **(22) Every individual is essentially sufficient to himself. But he is unsatisfactory to himself until he has established himself in his right relation with the Universe.**
-(Illustration: A microscope, however perfect, is useless in the 
-
-i. It is no objection that the hypocrite is himself part of Nature. He is an “endothermic” product, divided against himself, with a tendency to break up. He will see his own qualities everywhere, and thus obtain a radical misconception of phenomena. Most religions of the past have failed by expecting Nature to conform with their ideals of proper conduct. 
-
-hands of savages. A poet, however sublime, must impose himself upon his génération if he is to enjoy (and even to understand) himself, as theoretically should be the case.) 
+(Illustration: A microscope, however perfect, is useless in the hands of savages. A poet, however sublime, must impose himself upon his génération if he is to enjoy (and even to understand) himself, as theoretically should be the case.) 
 
 **(23) Magick is the Science of understanding oneself and one’s conditions. It is the Art of applying that understanding in action.**
 (Illustration: A golf club is intended to move a special bail in a special way in spécial circumstances. A Niblick should rarely be used on the tee, or a Brassie under the bank of a bunker. But also, the use of any club demands skill and experience.) 
@@ -237,59 +239,72 @@ hands of savages. A poet, however sublime, must impose himself upon his généra
 (Illustration: To insist that any one else shall comply with one’s own standards is to outrage, not only him, but oneself, since both parties are equally born of necessity.) 
 **(25) Every man must do Magick each time that he acts or even thinks, since a thought is an internal act whose influence ultimately affects action, though it may not do so at the time.**
 (Illustration: The least gesture causes a change in a man’s own body and in the air around him; it disturbs the balance of the entire Universe, and its effects continue eternally throughout all space. Every thought, however swiftly suppressed, has its effect on the mind. It stands as one of the causes of every subsequent thought, and tends to influence every subsequent action. A golfer may lose a few yards on his drive, a few more with his second and third, he may lie on the green six bare inches too far from the hole 1 , but the net resuit of these trifling mishaps is the différence of a whole stroke, and so probably between halving and losing the hole.) 
-**(26) Every man has a right, the right of self-preservation, to fulfil himself to the utmost. 1**
-(Illustration: A function imperfectly performed injures, not 
+**(26) Every man has a right, the right of self-preservation, to fulfil himself to the utmost. [^4]**
+(Illustration: A function imperfectly performed injures, not only itself, but everything associated with it. If the heart is afraid to beat for fear of disturbing the liver, the liver is starved for blood, and avenges itself on the heart by upsetting digestion, which disorders respiration, on which cardiac welfare dépends.) 
 
-I. Men of “criminal nature” are simply at issue with their true Wills.  The murderer has the Will-to-Live; and his will to murder is a false wilî at variance with his true Will, since he risks death at the hands of Society by obeying his criminal impulse. 
-
-only itself, but everything associated with it. If the heart is afraid to beat for fear of disturbing the liver, the liver is starved for blood, and avenges itself on the heart by upsetting digestion, which disorders respiration, on which cardiac welfare dépends.) 
 **(27) Every man should make Magick the keynote of his life. He should learn its laws and live by them.**
 (Illustration: The Banker should discover the real meaning of his existence, the real motive which led him to choose that profession. He should understand banking as a necessary factor in the economic existence of mankind, instead of as merely a business whose objects are independent of the general welfare. He should learn to distinguish false values from real, and to act not on accidental fluctuations but on considerations of essential importance. Such a banker will prove himself superior to others; because he will not be an individual limited by transitory things, but a force of Nature, as impersonal, impartial and eternal as gravitation, as patient and irresistible as the tides. His System will not be subject to panic, any more than the law of Inverse Squares is disturbed by Elections. He will not be anxious about his affairs because they will not be his; and for that reason he will be able to direct them with the calm, clear-headed confidence of an onlooker, with intelligence unclouded by self-interest and power unimpaired by passion.) 
+
 **(28) Every man has a right to fulfil his own will without being afraid that it may interfere with that of others; for if he is in his proper place, it is the fault of others if they interfere with him.**
 (Illustration: If a man like Napoleon were actually appointed by destiny to control Europe, he should not be blamed for exercising his rights. To oppose him would be an error. Any one so doing would have made a mistake as to his own destiny, except in so far as it might be necessary for him to learn the lessons of defeat. The sun moves in space without interference. The order of Nature provides an orbit for each star. A clash proves that one or the other has strayed from its course. But as to each man that keeps his true course, the more firmly he acts, the less likely are others to get in his way. His example will help them to find their own paths and pursue them. Every man that becomes a Magician helps others to do likewise. The more firmly and surely men move, and the more such action is accepted as the standard of morality, the less will conflict and confusion hamper humanity.)
 
+---
 
 I hope that the above principles will demonstrate to 
+
 **ALL** 
+
 that their welfare, their very existence, is bound up in 
+
 **MAGICK.**
+
 I trust that they will understand, not only the reasonableness, but the necessity of the fundamental truth which I was the means of giving to mankind: 
-**“Do what thou wilt shall be the whole of the Law.”**
+
+<center>**“Do what thou wilt shall be the whole of the Law.”**</center>
+
 I trust that they will assert themselves as individually absolute, that they will grasp the fact that it is their right to assert themselves, and to accomplish the task for which their nature fits them. Yea, more, that this is their duty, and that not only to themselves but to others, a duty founded upon universal necessity, and not to be shirked on account of any casual circumstances of the moment which may seem to put such conduct in the light of inconvenience or even of cruelty. 
+
 I hope that the principles outlined above will help them to understand this book, and prevent them from being deterred from its study by the more or less technical language in which it is written. 
+
 The essence of 
+
 **MAGICK**
+
 is simple enough in all conscience. It is not otherwise with the art of government. The Aim is simply prosperity; but the theory is tangled, and the practice beset with briars. 
 In the same way 
+
 **MAGICK**
+
 is merely to be and to do. I should add: a "to suffer". For Magick is the verb and it is part of the Training to use the passive voice. This is, however, a matter of Initiation rather than of Magick in its ordinary sense. It is not my fauJt if being is baffling, and doing desperate! 
-Yet, once the above principles are firmly fixed in the mind, it is easy enough to sum up the situation very shortly. One must find out for oneself, and make sure beyond doubt, who one is, what one is, why one is. This done, one may put the Will which is implicit in the “Why” into words, or rather into One Word. Being thus conscious of the proper course to pursue, the next thing is to understand the conditions necessary to following it out. After that, one must eliminate from oneself every element alien or hostile to success, and develop those parts of oneself which are specially needed to control the aforesaid conditions. 
-Let us make an analogy. A nation must become aware of its own character before it can be said to exist. From that knowledge it must divine its destiny. It must then consider the political conditions of the world ; how other countries may help it or hinder it. It must then destroy in itself any elements discordant with its destiny. Lastly, it must develop in itself those qualifies which will enable it to combat successfully the external conditions which threaten to oppose its purpose. We have had a recent example in the case of the young German Empire, which, knowing itself and its will, disciplined and trained itself so that it conquered the neighbours which had oppressed it for so many centuries. But after 1866 and 1870, 1914! It mistook itself for superhuman, it willed a thing impossible, it failed to eliminate its own internal jealousies, it failed to understand the conditions of victory, it did not train itself to hold the sea, and thus, having violated every principle of 
+
+Yet, once the above principles are firmly fixed in the mind, it is easy enough to sum up the situation very shortly. One must find out for oneself, and make sure beyond doubt, *who* one is, *what* one is, *why* one is. This done, one may put the Will which is implicit in the “Why” into words, or rather into One Word. Being thus conscious of the proper course to pursue, the next thing is to understand the conditions necessary to following it out. After that, one must eliminate from oneself every element alien or hostile to success, and develop those parts of oneself which are specially needed to control the aforesaid conditions. 
+
+Let us make an analogy. A nation must become aware of its own character before it can be said to exist. From that knowledge it must divine its destiny. It must then consider the political conditions of the world ; how other countries may help it or hinder it. It must then destroy in itself any elements discordant with its destiny. Lastly, it must develop in itself those qualifies which will enable it to combat successfully the external conditions which threaten to oppose its purpose. We have had a recent example in the case of the young German Empire, which, knowing itself and its will, disciplined and trained itself so that it conquered the neighbours which had oppressed it for so many centuries. But after 1866 and 1870, 1914! [^5] It mistook itself for superhuman, it willed a thing impossible, it failed to eliminate its own internal jealousies, it failed to understand the conditions of victory, it did not train itself to hold the sea, and thus, having violated every principle of 
+
 **MAGICK,**
+
 it was pulled down and broken into pieces by provincialism and democracy, so that neither individual excellence nor civic virtue has yet availed to raise it again to that majestic unity which made so bold a bid for the mastery of the race of man. 
 
-The sincere student will discover, behind the symbolic technicalities of this book, a practical method of making himself a 
+The sincere student will discover, behind the symbolic technicalities of this book, a practical method of making himself a Magician. The processes described will enable him to discriminate between what he actually is, and what he has fondly imagined himself to be.[^6] He must behold his soul in all its awful nakedness, he must not fear to look on that appalling actuality. He must discard the gaudy garments with which his shame has screened him; he must accept the fact that nothing can make him anything but what he is. He may lie to himself, drug himself, hide himself; but he is always there. Magick will teach him that his mind is playing him traitor. It is as if a man were told that tailors’ fashion-plates were the canon of human beauty, so that he tried to make himself formless and featureless like them, and shuddered with horror at the idea of Holbein making a portrait of him. Magick will show him the beauty and majesty of the self which he has tried to suppress and disguise. 
 
-1. At least, it allowed England to discover its intentions, and so to 
-combine the world against it. 
+Having discovered his identity, he will soon perceive his purpose. Another process will show him how to make that purpose pure and powerful. He may then learn how to estimate his environment, learn how to make allies, how to make himself prevail against all powers whose error has caused them to wander across his path. In the course of this Training, he will learn to explore the Hidden Mysteries of Nature, and to develop new senses and faculties in himself, whereby he may communicate with, and control, Beings and Forces pertaining to orders of existence which have been hitherto inaccessible to profane research, and available only to that unscientific and empirical 
 
-Magician. The processes described will enable him to discriminate between what he actually is, and what he has fondly imagined himself to be. 2 He must behold his soul in all its awful nakedness, he must not fear to look on that appalling actuality. He must discard the gaudy garments with which his shame has screened him; he must accept the fact that nothing can make him anything but what he is. He may lie to himself, drug himself, hide himself; but he is always there. Magick will teach him that his mind is playing him traitor. It is as if a man were told that tailors’ fashion-plates were the canon of human beauty, so that he tried to make himself formless and featureless like them, and shuddered with horror at the idea of Holbein making a portrait of him. Magick will show him the beauty and majesty of the self which he has tried to suppress and disguise. 
-Having discovered his identity, he will soon perceive his purpose. Another process will show him how to make that purpose pure and powerful. He may then learn how to estimate his environment, learn how to make allies, how to make himself prevail against all powers whose error has caused them to wander across his path. 
-In the course of this Training, he will learn to explore the Hidden Mysteries of Nature, and to develop new senses and faculties in himself, whereby he may communicate with, and control, Beings and Forces pertaining to orders of existence which 
-
-2. Professor Sigmund Freud and his school have, in recent years, discovered a part of this body of Truth, which has been taught for many centuries in the Sanctuaries of Initiation. But failure to grasp the fullness of Truth, especially that implied in my Sixth Theorem (above) and its corollaries, has led him and his followers into the error of admitting that the avowedly suicidai “Censor” is the proper arbiter of conduct. Official psycho-analysis is therefore committed to upholding a fraud, although the foundation of the science was the observation of the disastrous effects on the individual of being false to his Unconscious Self, whose "writing on the wall” in dream language is the record of the sum of the essential tendencies of the true nature of the individual. The resuit has been that psycho-analysts have misinterpreted life, and announced the absurdity that every human being is essentially an anti-social, criminal, and insane animal. It is evident that the errors of the Unconscious of which the psycho-analysts complain are neither more nor less than the “original sin” of the theologians whom they despise so heartily. 
-
-have been hitherto inaccessible to profane research, and available only to that unscientific and empirical 
 **MAGICK**
+
 (of tradition) which I came to destroy in order that I might fulfil.
+
 I send this book into the world that every man and woman may take hold of life in the proper manner. It does not matter if one’s present house of flesh be the hut of a shepherd; by virtue of my 
+
 **MAGICK**
+
 he shall be such a shepherd as David was. If it be the studio of a sculptor, he shall so chisel from himself the marble that masks his idea that he shall be no less a master than Rodin. 
 Witness mine hand : 
 
-TO META 0HPION (nnn) • The Beast 666; MAGUS 9°=2° A.*. A.*, who is The Word of the Aeon THELEMA; whose name is called V.V.V.V.V. 8° = 3 0 A.*. A.-, in the City of the Pyramids; OU MH 7 0 = 4 0 ; OL SONUF VAORESAGI 6° = 5 0 , and . 5 0 = 6° A.\ A.*, in the Mountain of Abiegnus: but FRATER PERDURABO in the Outer Order or the A.'. A.*, and in the World of men upon the Earth, Aleister Crowley of Trinity College, Cambridge.*
+TO META 0HPION (nnn) • The Beast 666; MAGUS 9°=2° A. A., who is The Word of the Aeon THELEMA; whose name is called V.V.V.V.V. 8° = 3 0 A. A., in the City of the Pyramids; OU MH 7 0 = 4 0 ; OL SONUF VAORESAGI 6° = 5 0 , and . 5 0 = 6° A.\ A., in the Mountain of Abiegnus: but FRATER PERDURABO in the Outer Order or the A. A., and in the World of men upon the Earth, Aleister Crowley of Trinity College, Cambridge.
 
-**CONTENTS.**
+---
+
+# CONTENTS
 
 **Chapter 0 The Magical Thcory of the Universe.**
 Describes and explains the magical alphabet, and the correspondences of the Qabalah as a convenient System of classification of the Universe. 
@@ -395,7 +410,11 @@ Instruction in mental and bodily training, which is the basis of the Great Work.
 
 **Appendix VI.** Notes for an Astral Atlas» A detailed uranography of the Astral Plane. Gontains a discourse on the objective and subjective existence of “Astral Seings,” and culminâtes with an account of the Book of the Law. This is a magical document communicated to the MASTER THERION by an Intelligence giving the name of AIWAZ.  It proves the prime postulate of religion, namely the existence of praeter-human intelligence independent of bodily form. 
 
-###CHAPTER O 
+# MAGICK IN THEORY AND PRACTICE
+
+### *Do what thou wilt shall be the whole of the Law*
+
+### CHAPTER O 
 
 
 The Magical Theory of the Universe. 
@@ -404,139 +423,53 @@ The Magical Theory of the Universe.
 
 **All are reconciled and unified in the theory which we shall now set forth.** The basis of this Harrnony is given in Crowley’s “Berashith” —  to which reference should be made. 
 
-**Infinite space is called the goddess NUIT, while the infinitely small and atomic yet omnipresent point is called HADIT. 1 These are unmanifest. One conjunction of these infinites is called RA-HOOR-KHUIT, 2 a Unity which includes and heads all things. 3** (There is also a particular Nature of Him, in certain conditions, such as hâve obtained since the Spring of 1904, e.v.) This profoundly mystical conception 
+**Infinite space is called the goddess NUIT, while the infinitely small and atomic yet omnipresent point is called HADIT.[^7] These are unmanifest. One conjunction of these infinites is called RA-HOOR-KHUIT,[^8] a Unity which includes and heads all things. [^9]** (There is also a particular Nature of Him, in certain conditions, such as hâve obtained since the Spring of 1904, e.v.) This profoundly mystical conception is based upon actual spiritual experience, but the trained reason[^10] can reach a reflexion of this idea by the method of logical contradiction which ends in reason transcending itself. The reader should consult “The Soldier and the Hunchback” in Equinox I, I, and “Konx Om Pax". 
 
-1. I present this theory in a very simple form. I cannot even explain (for instance) that an idea may not refer to Being at ail, but to Going. The Book of the Law demands special study and initiated apprehension. 
-2 . More correctly, HERU-RA-HA, to include HOOR-PAAR-KRAAT. 
-3 . The basis of this theology is given in Liber CCXX, AL vel Legis which forms Part IV of this Book 4. Hence I can only outline the matter in a very crude way; it would require a separate treatise to discuss even the true meaning of the terms employed, and to show how The Book of the Law anticipates the recent discoveries of Frege, Cantor, Poincaré, Russell, 
-Whitehead, Einstein and others. 
-
-is based upon actual spiritual experience, but the trained reason 1 can reach a reflexion of this idea by the method of logical contradiction which ends in reason transcending itself. The reader should consult “The Soldier and the Hunchback” in Equinox I, I, and “Konx Om Pax". 
 *Unity transcends consciousness.* It is above all division. The Father of thought — the Word — is called Chaos — the dyad. The number Three, the Mother, is called Babalon. In connection with this the reader should study “The Temple of Solomon the King” in Equinox I, V, and Liber 418. 
-This first triad is essentially unity, in a manner transcending reason. The comprehension of this Trinity is a matter of spiritual experience. All true gods are attributed to this Trinity. 2 3 
+
+This first triad is essentially unity, in a manner transcending reason. The comprehension of this Trinity is a matter of spiritual experience. **All true gods are attributed to this Trinity.**[^11]
+
 An immeasurable abyss divides it from all manifestations of Reason or the lower qualities of man. In the ultimate analysis of Reason, we find all reason identified with this abyss. Yet this abyss is the crown of the mind. Purely intellectual faculties all obtain here. This abyss has no number, for in it ail is confusion. 
-Below this abyss we find the moral qualifies of Man, of which there are six. The highest is symbolised by the number Four. Its nature is fatherly 5; Mercy and Authority are the attributes of its dignity. 
+
+Below this abyss we find the moral qualifies of Man, of which there are six. The highest is symbolised by the number Four. Its nature is fatherly[^12] Mercy and Authority are the attributes of its dignity. 
 The number Five is balanced against it. The attributes of Five are Energy and Justice. Four and Five are again combined and harmonized in the number Six, whose nature is beauty and harmony, mortality and immortality. 
-In the number Seven the feminine nature is again predominant, 
+In the number Seven the feminine nature is again predominant, but it is the masculine type of female, the Amazon, who is balanced in the number Eight by the feminine type of male. 
 
-1. All advance in understanding demands the acquisition of a new point-of-view. Modem conceptions of Mathematics, Chemistry, and Physics are sheer paradox to the “plain man” who thinks of Matter as something that one can knock up against. 
-2. Considerations of the Christian Trinity are of a nature suited only to Initiates of the IX° of O.T.O., as they enclose the final secret of ail practical Magick. 
-3. Each conception is, however, balanced in itself. Four is also Daleth, the letter of Venus; so that the mother-idea is included. Again, the Sephira of 4 is Chesed, referred to Water. 4 is ruled by Jupiter, Lord of the Lightning (Fire) yet ruler of Air. Each Sephira is complete in its way. 
-
-but it is the masculine type of female, the Amazon, who is balanced in the number Eight by the feminine type of male. 
 In the number Nine we reach the last of the purely mental qualities. It identifies change with stability. 
-Pendant to this sixfold System is the number Ten 1 which includes the whole of Matter as we know it by the senses. 
+
+Pendant to this sixfold System is the number Ten which includes the whole of Matter as we know it by the senses. 
+
 It is impossible here to explain thoroughly the complete conception; for it cannot be too clearly understood that this is a classification of the Universe, that there is nothing which is not comprehended therein. 
+
 The Article on the Qabalah in Vol. I, No. V of the Equinox is the best which has been written on the subject. It should be deeply studied, in connection with the Qabalistic Diagrams in Nos. II and III: “The Temple of Solomon the King”. 
+
 Such is a crude and elementary sketch of this System. 
+
 The formula of Tetragrammaton is the most important for the practical magician. Here Yod = 2, Hé = 3, Vau = 4 to 9, Hé final = 10. 
-The Number Two represents Yod, the Divine or Archetypal World, and the Number One is only attained by the destruction of the God and the Magician in Samadhi. The world of Angels is under the numbers Four to Nine, and that of spirits under the 
-
-I. The balance of the Sephiroth: 
-
-
-Kether 
-
-(1) 
-
-“Kether is in Malkuth, and Malkuth is in Kether, but 
-after another manner.” 
-
-Chokmah 
-
-(2) 
-
-is Yod of Tetragrammaton, and therefore also Unity. 
-
-Binah 
-
-(3) 
-
-is Hé of Tetragrammaton, and there fore “The Emperor.” 
-
-Chesed 
-
-(4) 
-
-is Daleth, Venus the female. 
-
-Geburah 
-
-(5) 
-
-is the Sephira of Mars, the Male. 
-
-Tiphereth 
-
-(6) 
-
-is the Hexagram, harmonizing, and mediating between Kether and Malkuth. Also it reflects Kether. “That which is above, is îike that which is below, and that which is below, is like that which is above . 55 
-
-Netzach 
-
-( 7 ) 
-
-and Hod ( 8 ) balanced as in text. 
-
-Jesod 
-
-( 9 ) 
-
-see text. 
-
-Malkuth 
-
-(10) 
-
-contains ail the numbers. 
-
-number ten.1 All these numbers are o£ course parts of the magician himself considered as the microcosm. The microcosm is an exact image o£ the Macrocosm; the Great Work is the raising of the whole man in perfect balance to the power of Infinity. 
+The Number Two represents Yod, the Divine or Archetypal World, and the Number One is only attained by the destruction of the God and the Magician in Samadhi. The world of Angels is under the numbers Four to Nine, and that of spirits under the number ten.[^13] All these numbers are o£ course parts of the magician himself considered as the microcosm. **The microcosm is an exact image o£ the Macrocosm; the Great Work is the raising of the whole man in perfect balance to the power of Infinity.**
 
 The reader will remark that ail criticism directed against the Magical Hierarchy is futile. One cannot call it incorrect — the only line to take might be that it was inconvénient. In the same way one cannot say that the Roman alphabet is better or worse than the Greek, since all required sounds can be more or less satisfactorily represented by either; yet both these alphabets were found so liitle satisfactory when it came to an attempt at phonetic printing of Oriental languages, that the alphabet had to be expanded by the use of italics and other diacritical marks. In the same way our magical alphabet of the Sephiroth and the Paths (thirty-two letters as it were) has been expanded into the four worlds corresponding to the four letters of the name YHVH; and each Sephira is supposed to contain a Tree of Life of its own. Thus we obtain four hundred Sephiroth instead of the original ten, and the Paths being capable of similar multiplications, or rather of subdivision, the number is still further extended. Of course this process might be indefinitely continued without destroying the original System. 
 
-(i) It is not possible to give a full account of the twenty-two “paths" in this condensed sketch. They should be studied in view of ail their attributes in 777, but more especially that in which they are attributed to the planets, elements and signs, as also to the Tarot Trumps, while their position on the Tree itself and their position as links between the particular Sephiroth which they join is the final key to their understanding. It will be noticed that each chapter of this book is attributed to one of them. This was not intentional. The book was originally but a collection of haphazard dialogues between Fra. P. and Soror A.; but on arranging the MSS, they fell naturally and of necessity into this division. Conversely, my knowledge of the Schema pointed out to me numerous gaps in my original exposition; thanks to this, I have been able to make it a complete and systematic treatise. That is, when my laziness had been jogged by the criticisms and suggestions of various colleagues to whom I had submitted the early drafts. 
-
-The Apologia for this System is that our purest conceptions are symbolized in Mathematics. “God is the Great Arithmetician.” “God is the Grand Geometer.” It is best therefore to prepare to apprehend Him by formulating our minds according to these measures. 1 
-To return, each letter of this alphabet may have its special magical sigil. The student must not expect to be given a cut-and-dried definition of what exactly is meant by any of all this.  On the contrary, he must work backwards, putting the whole of his mental and moral outfit into these pigeon-holes. You would not expect to be able to buy a filing cabinet with the names of all your past, present and future correspondents ready indexed: your cabinet has a System of letters and numbers meaningless in them-selves, but ready to take on a meaning to you, as you fill up the files. As your business increased, each letter and number would receive fresh accessions of meaning for you and by adopting this orderly arrangement you would be able to have a much more comprehensive grasp of your affairs than would otherwise be the case. By the use of this System the magician is able ultimately to unify the whole of his knowledge — to transmute, even on the Intellectual Plane, the Many into the One. 
+**The Apologia for this System is that our purest conceptions are symbolized in Mathematics. “God is the Great Arithmetician.” “God is the Grand Geometer.” It is best therefore to prepare to apprehend Him by formulating our minds according to these measures.**[^14]
+To return, each letter of this alphabet may have its special magical sigil. The student must not expect to be given a cut-and-dried definition of what exactly is meant by any of all this.  On the contrary, he must work backwards, putting the whole of his mental and moral outfit into these pigeon-holes. You would not expect to be able to buy a filing cabinet with the names of all your past, present and future correspondents ready indexed: your cabinet has a System of letters and numbers meaningless in them-selves, but ready to take on a meaning to you, as you fill up the files. As your business increased, each letter and number would receive fresh accessions of meaning for you and by adopting this orderly arrangement you would be able to have a much more comprehensive grasp of your affairs than would otherwise be the case. **By the use of this System the magician is able ultimately to unify the whole of his knowledge — to transmute, even on the Intellectual Plane, the Many into the One.**
 
 The reader can now understand that the sketch given above of the magical Hierarchy is hardly even an outline of the real theory of the Universe. This theory may indeed be studied in the article already referred to in No. V of the Equinox, and, more deeply, in the Book of the Law and the Commentaries thereon: but the true understanding dépends entirely upon the work of the Magician himself. Without magical experience it will be meaningless. 
-In this there is nothing peculiar. It is so with ail scientific knowledge. A blind man might cram up astronomy for the purpose of passing examinations, but his knowledge would be 
 
-
-I. By “God” I here mean the Ideal Identity of a man’s inmost nature. “Something ourselves (I erase Arnold's imbecile and guilty ‘not’) that makes for righteousness; ” righteousness being rightly defined as internal coherence. (Internal Coherence implies that which is written “Detegitur Yod.”) 
-
-
-
-almost entirely unrelated to his experience, and it would certainly not give him sight. A similar phenomenon is observed when a gentleman who has taken an “honours degree” in modern languages at Cambridge arrives in Paris, and is unable to order his dinner. To exclaim against the Master Therion is to act like a person who, observing this, should attack both the professors of French and the inhabitants of Paris, and perhaps go on to deny the existence of France. 
+In this there is nothing peculiar. It is so with ail scientific knowledge. A blind man might cram up astronomy for the purpose of passing examinations, but his knowledge would be almost entirely unrelated to his experience, and it would certainly not give him sight. A similar phenomenon is observed when a gentleman who has taken an “honours degree” in modern languages at Cambridge arrives in Paris, and is unable to order his dinner. To exclaim against the Master Therion is to act like a person who, observing this, should attack both the professors of French and the inhabitants of Paris, and perhaps go on to deny the existence of France. 
 
 Let us say, once again, that the magical language is nothing but a convenient System of classification to enable the magician to docket his experiences as he obtains them. 
 
-Yet this is true also, that, once the language is mastered, one can divine the unknown by study of the known, just as one’s knowledge of Latin and Greek enables one to understand some unfamiliar English word derived from those sources. Also, there is the similar case of the Periodic Law in Chemistry, which enables Science to prophesy, and so in the end to discover, the existence of certain previously unsuspected elements in nature. All discussions upon philosophy are necessarily stérile, since truth is beyond language. Tliey are, however, useful if carried far enough — if carried to the point when it becomes apparent that all arguments are arguments in a circle. But discussions of the details of purely imaginary: qualities are frivolous and may be deadly. For the great danger of this magical theory is that the student may mistake the alphabet for the things which the words represent. 
+Yet this is true also, that, once the language is mastered, one can divine the unknown by study of the known, just as one’s knowledge of Latin and Greek enables one to understand some unfamiliar English word derived from those sources. Also, there is the similar case of the Periodic Law in Chemistry, which enables Science to prophesy, and so in the end to discover, the existence of certain previously unsuspected elements in nature. **All discussions upon philosophy are necessarily stérile, since truth is beyond language. Tliey are, however, useful if carried far enough — if carried to the point when it becomes apparent that all arguments are arguments in a circle.**[^15] But discussions of the details of purely imaginary: qualities are frivolous and may be deadly. For the great danger of this magical theory is that the student may mistake the alphabet for the things which the words represent. 
 
-An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a ait was a créature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its 
-
-i. See “The Soldier and the HunchbackT Equinox I, i. The 
-apparatus of human reason is simply one particular System of coordinating 
-impressions; its structure is determined by the course of the évolution of 
-the species. It is no more absolute than the évolution of the species. It is 
-no more absolute than the mechanism of our muscles is a complété type wherewith ali other Systems of transmitting Force must conform. 
-
-
-- 6 - 
-
-educated students can be guilty of so gross a violation of the first principles of common sense. 1 
+An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a ait was a créature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense. [^16] 
 
 A synopsis of the grades of the A.*. A.*, as illustrative of the Magical Hierarchy in Man is given in Appendix 2 “One Star in Sight.” This should be read before proceeding with the chapter. The subject is very difficult. To deal with it in full is entirely beyond the limits of this small treatise. 
 
-FU RT HE R CONCERNING THE MAGICAL U NIV ERSE 
+FURTHER CONCERNING THE MAGICAL UNIVERSE 
 
-Ail these letters of the magical alphabet — referred to above — are like so many names on a map. Man himself is a complété microcosm. Few other beings hâve this balanced perfection. Of course every sun, every planet, may hâve beings similarly constituted. 2 But when we speak of dealing with the planets in Magick, 
+All these letters of the magical alphabet — referred to above — are like so many names on a map. Man himself is a complété microcosm. Few other beings hâve this balanced perfection. Of course every sun, every planet, may hâve beings similarly constituted.[^17] But when we speak of dealing with the planets in Magick, 
 
-1. Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to hâve known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the suprême atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. 
 
-The absurdity of any such disturbance of the arrangement of the Paths is évident to any sober student from such examples as the following. 
-Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: 
-what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it. 
 
 2 . Equally, of course, we hâve no means of knowing what we really are. We are limited to symbols. And it is certain that ail our sense-perceptions give only partial aspects of their objects. Sight, for instance, 
 tells us very little about solidity, weight, composition, electrical character, thermal conductivity, etc., etc. It says nothing at ail about the very existence of such vitally important ideas as Heat, Hardness, and so on. 
@@ -25752,3 +25685,31 @@ complété armour and armed, he is similar to the goddess.”
 And again, “I am armed, I am armed.” 
 
 LECRAM. IM P. PARIS 
+
+[^3] It is no objection that the hypocrite is himself part of Nature. He is an “endothermic” product, divided against himself, with a tendency to break up. He will see his own qualities everywhere, and thus obtain a radical misconception of phenomena. Most religions of the past have failed by expecting Nature to conform with their ideals of proper conduct. 
+
+[^4] Men of “criminal nature” are simply at issue with their true Wills.  The murderer has the Will-to-Live; and his will to murder is a false wilî at variance with his true Will, since he risks death at the hands of Society by obeying his criminal impulse. 
+
+[^5] At least, it allowed England to discover its intentions, and so to combine the world against it. 
+
+[^6] Professor Sigmund Freud and his school have, in recent years, discovered a part of this body of Truth, which has been taught for many centuries in the Sanctuaries of Initiation. But failure to grasp the fullness of Truth, especially that implied in my Sixth Theorem (above) and its corollaries, has led him and his followers into the error of admitting that the avowedly suicidai “Censor” is the proper arbiter of conduct. Official psycho-analysis is therefore committed to upholding a fraud, although the foundation of the science was the observation of the disastrous effects on the individual of being false to his Unconscious Self, whose "writing on the wall” in dream language is the record of the sum of the essential tendencies of the true nature of the individual. The resuit has been that psycho-analysts have misinterpreted life, and announced the absurdity that every human being is essentially an anti-social, criminal, and insane animal. It is evident that the errors of the Unconscious of which the psycho-analysts complain are neither more nor less than the “original sin” of the theologians whom they despise so heartily. 
+
+[^7] I present this theory in a very simple form. I cannot even explain (for instance) that an idea may not refer to Being at ail, but to Going. The Book of the Law demands special study and initiated apprehension. 
+
+[^8] More correctly, HERU-RA-HA, to include HOOR-PAAR-KRAAT. 
+
+[^9] The basis of this theology is given in Liber CCXX, AL vel Legis which forms Part IV of this Book 4. Hence I can only outline the matter in a very crude way; it would require a separate treatise to discuss even the true meaning of the terms employed, and to show how The Book of the Law anticipates the recent discoveries of Frege, Cantor, Poincaré, Russell, Whitehead, Einstein and others. 
+
+[^10] All advance in understanding demands the acquisition of a new point-of-view. Modem conceptions of Mathematics, Chemistry, and Physics are sheer paradox to the “plain man” who thinks of Matter as something that one can knock up against. 
+
+[^11] Considerations of the Christian Trinity are of a nature suited only to Initiates of the IX° of O.T.O., as they enclose the final secret of ail practical Magick. 
+
+[^12] Each conception is, however, balanced in itself. Four is also Daleth, the letter of Venus; so that the mother-idea is included. Again, the Sephira of 4 is Chesed, referred to Water. 4 is ruled by Jupiter, Lord of the Lightning (Fire) yet ruler of Air. Each Sephira is complete in its way. 
+
+[^13] It is not possible to give a full account of the twenty-two “paths" in this condensed sketch. They should be studied in view of ail their attributes in 777, but more especially that in which they are attributed to the planets, elements and signs, as also to the Tarot Trumps, while their position on the Tree itself and their position as links between the particular Sephiroth which they join is the final key to their understanding. It will be noticed that each chapter of this book is attributed to one of them. This was not intentional. The book was originally but a collection of haphazard dialogues between Fra. P. and Soror A.; but on arranging the MSS, they fell naturally and of necessity into this division. Conversely, my knowledge of the Schema pointed out to me numerous gaps in my original exposition; thanks to this, I have been able to make it a complete and systematic treatise. That is, when my laziness had been jogged by the criticisms and suggestions of various colleagues to whom I had submitted the early drafts. 
+
+[^14] By “God” I here mean the Ideal Identity of a man’s inmost nature. “Something ourselves (I erase Arnold's imbecile and guilty ‘not’) that makes for righteousness; ” righteousness being rightly defined as internal coherence. (Internal Coherence implies that which is written “Detegitur Yod.”) 
+
+[^15] See “The Soldier and the Hunchback" Equinox I, i. The apparatus of human reason is simply one particular System of coordinating impressions; its structure is determined by the course of the évolution of the species. It is no more absolute than the évolution of the species. It is no more absolute than the mechanism of our muscles is a complété type wherewith ali other Systems of transmitting Force must conform. 
+
+[^16] Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to hâve known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the suprême atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is évident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it. 
