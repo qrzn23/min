@@ -467,168 +467,54 @@ A synopsis of the grades of the A.*. A.*, as illustrative of the Magical Hierarc
 
 FURTHER CONCERNING THE MAGICAL UNIVERSE 
 
-All these letters of the magical alphabet — referred to above — are like so many names on a map. Man himself is a complété microcosm. Few other beings hâve this balanced perfection. Of course every sun, every planet, may hâve beings similarly constituted.[^17] But when we speak of dealing with the planets in Magick, 
+All these letters of the magical alphabet — referred to above — are like so many names on a map. Man himself is a complété microcosm. Few other beings hâve this balanced perfection. Of course every sun, every planet, may hâve beings similarly constituted.[^17] But when we speak of dealing with the planets in Magick, the reference is usually not to the actual planets, but to parts of the earth which are of the nature attributed to these planets. Thus, when we say that Nakhiel is the “Intelligence” of the Sun, we do not mean that he lives in the Sun, but only that he has a certain rank and character; and although we can invoke hinij we do not necessarily mean that he exists in the same sense of the Word in which our butcher exists. 
 
+When we “conjure Nakhiel to visible appearance,” it may be that our process resembles création — or, rather imagination — more nearly than it does calling-forth. The aura of a man is called the “magical mirror of the universe”; and, so far as any one can tell, nothing exists outside of this mirror. It is at least convenient to represent the whole as if it were subjective. It leads to less confusion. And, as a man is a perfect microcosm[^18], 1 it is perfectly easy to re-model one’s conception at any moment.
 
-
-2 . Equally, of course, we hâve no means of knowing what we really are. We are limited to symbols. And it is certain that ail our sense-perceptions give only partial aspects of their objects. Sight, for instance, 
-tells us very little about solidity, weight, composition, electrical character, thermal conductivity, etc., etc. It says nothing at ail about the very existence of such vitally important ideas as Heat, Hardness, and so on. 
-
-The impression which the mind combines from the senses can never claim to be accurate or complété. We hâve indeed learnt that nothing is fn itself what it seems to be to us. 
-
-
-7 
-
-
-
-the référencé is usually not to the actual planets, but to parts of the earth which are of the nature attributed to these planets. Thus, when we say that Nakhiel is the “Intelligence” of the Sun, we do not mean that he lives in the Sun, but only that he has a certain rank and character; and although we can invoke hinij we do not necessarily mean that he exists in the same sense of the Word in which our butcher exists. 
-
-When we “conjure Nakhiel to visible appearance,” it may be that our process resembles création — or, rather imagination — more nearly than it does calling-forth. The aura of a man is called the “magical mirror of the universe”; and, so far as any one can tell, nothing exists outside of this mirror. It is at least convenient to represent the whole as if it were subjective. It leads to less confusion. And, as a man is a perfect microcosm, 1 it is perfectly easy to re-model one’s conception at any moment. 
-Now there is a traditional correspondance, which modem experiment has shown to be fairly reliable. There is a certain natural connexion between certain letters, words, numbers, gestures, sliapes, perfumes and so on, so that any idea or (as we might call it) “spirit”, may be composed or called forth by the use of those things which are harmonious with it, and express particular parts of its nature. These correspondences hâve been elaborately mapped in the Book 777 in a very convenient and compendious form. It will be necessary for the student to make a careful study of this book in connexion with some actual rituals of Magick, for example, I. He is this only by définition. The universe may contain an infinité variety of worlds inaccessible to human appréhension. Yet, for this very reason, they do not exist for the purposes of the argument. Man has, how- ever, some instruments of knowledge; we may, therefore, define the Macrocosm as the totality of things possible to his perception. As évolution deve- lops those instruments, the Macrocosm and the Microcosm extend; but they always maintain their mutual relation. Neither can possess any meaning 
-except in terrns o£ the other. Our ^d^^veries^ are exactly as much of ourselves as they are of Nature. America and Electricity did, in a sense, exist before we were aware of them; but they are even now no more than incomplète ideas, expressed in symbolic terrns of a sériés of relations between two sets of inscrutable phenomena. 
-
-
-8 
-
-
-
-that of the évocation of Taphtatharath printed in Equinox I, III, pages 170-190, where he will see exactîy why these things are to be used. Of course, as the student advances in knowledge by expérience he will find a progressive subtlety in the magical universe corresponding to his own; for let it be said yet again! not only is his aura a magical mirror of the universe, but the universe is a magical mirror of his aura. 
+**Now there is a traditional correspondance, which modem experiment has shown to be fairly reliable. There is a certain natural connexion between certain letters, words, numbers, gestures, sliapes, perfumes and so on, so that any idea or (as we might call it) “spirit”, may be composed or called forth by the use of those things which are harmonious with it, and express particular parts of its nature.** These correspondences hâve been elaborately mapped in the Book 777 in a very convenient and compendious form. It will be necessary for the student to make a careful study of this book in connexion with some actual rituals of Magick, for example, that of the évocation of Taphtatharath printed in Equinox I, III, pages 170-190, where he will see exactîy why these things are to be used. **Of course, as the student advances in knowledge by expérience he will find a progressive subtlety in the magical universe corresponding to his own; for let it be said yet again! not only is his aura a magical mirror of the universe, but the universe is a magical mirror of his aura.**
 
 In this chapter we are only able to give a very thin outline of magical theory — faint pencilling by weak and wavering fingers — for this subject may almost be said to be co-extensive with one’s whole knowledge. 
 
-Fhe knowledge of exoteric science is comically limited by the fact that we hâve no access, except in the most indirect way, to any other celestial body than our own. In the last few years, the semi-educated hâve got an idea that they know a great deal about the universe, and the principal ground for their fine opinion of themselves is usually the téléphoné or the airship. It is pitiful to read the bombastic twaddle about progress, which journalists and others, who wish to prevent men from thinking, put out for consumption. We know infinitesimally little of the material universe. Our detailed knowledge is so contemptibly minute, that it is hardly worth référencé, save that our shame may spur us to increased endeavour. Such know¬ ledge 1 as we hâve got is of a very general and abstruse, of a philosopliical and almost magical character. This consists principally of the conceptions of pure mathematics. It is, therefore, almost legitimate to say that pure mathematics is our link with the rest of the universe and with “God”. 
+The knowledge of exoteric science is comically limited by the fact that we have no access, except in the most indirect way, to any other celestial body than our own. In the last few years, the semi-educated hâve got an idea that they know a great deal about the universe, and the principal ground for their fine opinion of themselves is usually the telephone or the airship. It is pitiful to read the bombastic twaddle about progress, which journalists and others, who wish to prevent men from thinking, put out for consumption. **We know infinitesimally little of the material universe. Our detailed knowledge is so contemptibly minute, that it is hardly worth reference, save that our shame may spur us to increased endeavour. Such knowledge**[^19] **as we have got is of a very general and abstruse, of a philosopliical and almost magical character. This consists principally of the conceptions of pure mathematics. It is, therefore, almost legitimate to say that pure mathematics is our link with the rest of the universe and with “God”.**
 
-Now the conceptions of Magick are themselves profoundly mathematical. The whole basis of our theory is the Qabalah, which corresponds to mathematics and geometry. The method of operation in Magick is based on this, in very much the same way as the laws of mechanics are based on mathematics. So far, therefore as we can be be said to possess a magical theory of the universe, it must be a matter solely of fundamental law, with a 
+Now the conceptions of Magick are themselves profoundly mathematical. The whole basis of our theory is the Qabalah, which corresponds to mathematics and geometry. The method of operation in Magick is based on this, in very much the same way as the laws of mechanics are based on mathematics. So far, therefore as we can be be said to possess a magical theory of the universe, it must be a matter solely of fundamental law, with a few simple and comprehensive propositions stated in very general terms. 
 
-
-J* Knowledge is, moreover, an impossible conception. Ali propositions 
-corne ultimately back to “A is A”. 
-
-
-9 — 
-
-
-
-few simple and comprehensive propositions stated in very general terms 
 I might expend a life-time in exploring the details of one plane, just as an explorer might give his life to one corner of Africa, or a chemist to one subgroup of compounds. Each surh detailed piece of work may be very valuable, but it does not as a rule throw light on the main principles of the universe. Its truth is the truth of one angle. It might even lead to error, if some inferior person were to generalize from too few facts. 
-
 Imagine an inhabitant of Mars who wished to philosophise about the earth, and had nothing to go by but the diary of some man at the North Pôle! But the work of every explorer, on whatever branch of the Tree of Life the Caterpillar he is after may happen to be crawling, is immensely helped by a grasp of general principles. Every magician, therefore, should study the Holy Qabalah. Once he has mastered the main principles, he will find his work grow easy. 
 
-Solvitur ambulando: which does not mean: 46 Call the Ambulance!” 
+**Solvitur ambulando: which does not mean: 46 Call the Ambulance!”**
 
+### CHAPTER I - The Principles of Ritual
 
+**There is a single main definition of the object of all magical Ritual. It is the uniting of the Microcosm with the Macrocosm. The Supreme and Complete Ritual is therefore the Invocation of the Holy Guardian Angel;**[^20] **or, in the language of Mysticism, Union with God.**[^21]
 
-io 
+All other magical Rituals are particular cases of this general principle, and the only excuse for doing them is that it sometimes occurs that one particular portion of the microcosm is so weak that its imperfection of impurity would vitiate the Macrocosm of which it is the image, Eidolon, or Reflexion. For example, God is above sex; and therefore neither man nor woman as such can be said fully to understand, much less to represent, God. It is therefore incumbent on the male magician to cultivate those female virtues in which he is déficient, and this task he must of course accomplish without in any way impairing his virility. It will then be lawful for a magician to invoke Isis, and identify himself with her; if he fail to do this, his appréhension of the Universe when he attains Samadhi will lack the conception of maternity. The resuit will be a metaphysical and — by corollary — ethical limitation in the Religion which he founds. Judaism and Islam are striking examples of this failure.
 
+To take another example, the ascetic life which devition to magick so often involves argues a poverty o£ nature, a narrowness, a lack of generosity. Nature is infinitely prodigal — not one in a million seeds ever cornes to fruition. Whoso fails to recognise this, let him invoke Jupiter.[^22] 
 
-CHAPTER I 
+The danger o£ ceremonial magick — the subtlest and deepest danger —is this: that the magician will naturally tend to invoke that partial being which most strongly appeals to him, so that his natural excess in that direction will be still further exaggerated. **Let him, before beginning his Work, endeavour to map out his own being, and arrange his invocations in such a way as to redress the balance.**[^23] This, of course, should hâve been done in a preliminary fashion during the préparation of the weapons and furniture of the Temple. 
 
+To consider in a more particular manner this question of the Nature of Ritual, we may suppose that he finds himself lacking in that perception of the value of Life and Death, alike of individuals and of races, which is characteristic of Nature. He has perhaps a tendency to perceive the ‘first noble truth’ uttered by Buddha, that Everything is sorrow. Nature, it seems, is a tragedy. He has perhaps even experienced the great trance called Sorrow. He should then consider whether there is not some Deity who expresses this Cycle, and yet whose nature is joy. He will find what he requires in Dionysus. 
 
-The Principles of Ritual,. 
+**There are three main methods of invoking any Deity.**
 
-There is a single main définition of the object of all magical Ritual. It is the uniting of the Microcosm with the Macrocosm. The Suprême and Complété Ritual is there- fore the Invocation of the Holy Guardian Angel; 1 or* in the language of Mysticism, Union with God. 2 
+**The First Method consists of dévotion to that Deity,** and, being mainly mystical in character, need not be dealt with in this place, especially as a perfect instruction exists in Liber 175 (See Appendix).
 
-All other magical Rituals are particular cases of this general principle, and the only excuse for doing them is that it sometimes occurs that one particular portion of the microcosm is so weak that its imperfection of impurity would vitiate the Macrocosm of which it is the image, Eidolon, or Reflexion. For example, God is above sex; and therefore neither man nor woman as such can be said fully to understand, much less to represent, God. It is therefore incumbent on the male magician to cultivate those female virtues in which he is déficient, and this task he must of course accomplish without in any way impairing his virility. It will then be lawful for a magician to invoke Isis, and identify himself with her; if he fail to do this, his appréhension of the Universe when he attains Samadhi will lack the conception of maternity. The resuit will be a metaphysical and — by corollary — ethical limita¬ tion in the Religion which he founds. Judaism and Islam are striking examples of this failure. To take another example, the ascetic Üfe which dévotion to 1. See the “Book of the Sacred Magic of Abramelin the Mage”; and Liber 418, 8th Aethyr, Liber Samekh; see Appendix 3. 2. The différence between these operations is more of theoreticaî than of practical importance. 
+The **Second Method is the straightforward ceremonial invocation.** It is the method which was usually employed in the Middle Ages. Its advantage is its directness, its disadvantage its crudity. The “Goetia” gives clear instruction in this method, and so do many other Rituals, white and black. We shall presently devote some space to a clear exposition of this Art. 
 
+In the case of Bacchus, however, we may roughly outline the procedure. We find that the symbolism of Tiphareth expresses the nature of Bacchus. It is then necessary to construct a Ritual of Tiphareth. Let us open the Book 777 ; we shall find in line 6 of each column the various parts of our required apparatus. Having ordered everything duly, we shall exalt the mind by repeated prayers or conjurations to the highest conception of the God, until, in one sense or another of the Word, He appears to us and floods our consciousness with the light of His divinity. 
 
+The **Third Method is the Dramatic,** perhaps the most attractive of ail; certainly it is so to the artist’s tempérament, for it appeals to his imagination through his aesthetic sense. 
 
-magick so often involves argues a poverty o£ nature, a narrowness, a lack of generosity. Nature is infinitely prodigal — not one in a million seeds ever cornes to fruition. Whoso fails to recognise this, let him invoke Jupiter. 1 2 
+Its disadvantage lies principally in the difficulty of its performance by a single person. But it has the sanction of the highest antiquity, and is probably the most useful for the foundation of a religion. It is the method of Catholic Christianity, and consists in the dramatization of the legend of the God. The Bacchae of Euripides is a magnificent example of such a Ritual; so also though in a less degree, is the Mass. We may also mention many of the degrees in Freemasonry, particularly the Third. The 5° — 6° Ritual published in N° III of the Equinox is another example. 
 
-The danger o£ cérémonial magick — the subtlest and deepest danger —is this: that the magician will naturally tend to invoke that partial being which most strongly appeals to him, so that his natural excess in that direction will be still further exaggerated. Let him, before beginning his Work, endeavour to map out his own being, and arrange his invocations in such a way as to redress the balance. 2 This, of course, should hâve been done in a preliminary fashion during the préparation of the weapons and furniture of the Temple. 
+In the case of Bacchus, one commémorâtes firstly his birth of a mortal mother who has yielded her treasure-house to the Father of All, of the jealousy and rage excited by this incarnation, and of the heavenly protection afforded to the infant. Next should be commemorated the journeying westward upon an ass. Now cornes the great scene of the drama: the gentle, exquisite youth with his following (chiefly composed of women) seems to threaten the established order of things, and that Established Order takes steps to put an end to the upstart. We find Dionysus confronting the angry King, not with défiance, but with meekness; yet with a subtle confidence, an underlying laughter. His forehead is wreathed with vine tendrils. He is an effeminate figure with those broad leaves clustered upon his brow? But those leaves hide horns. King Pentheus, representative of respectability[^24] is destroved by his pride. He goes ont into the monntams to attack the wornen who bave followed Bacchus, the youth whom he has mocked, scourged, and put in chains, yet who has only smiled; and by those women, in their divine madness he is torn to pieces. 
 
-To consider in a more particular mammer this question of the Nature of Ritual, we may suppose that he finds himself lacking in that perception of the value of Life and Death, alike of individuals and of races, which is characteristic of Nature. He has perhaps a tendency to perceive the ‘first noble truth’ uttered by Buddha, that Everything is sorrow. Nature, it seems, is a tragedy. He has perhaps even experienced the great trance called Sorrow. He should then consider whether there is not some Deity who expresses this Cycle, and yet whose nature is joy. He will find what he requires in Dionysus. 
+It has already seemed impertinent to say so much when Walter Pater has told the story with such sympathy and insight. We will not further transgress by dwelling upon the identity of this legend with the course of Nature, its madness, its prodigality, its intoxication, its joy, and above ali its sublime persistence through the cycles of Life and Death. The pagan reader must labour to understand this in Pater’s “Greek Studies”, and the Christian reader will recognise it, incident for incident, in the story of Christ. This legend is but the dramatization of Spring. 
 
-There are three main methods of invoking any Deity. 
+The magician who wishes to invoke Bacchus by this method must therefore arrange a ceremony in which he takes the part of Bacchus, undergoes all His trials, and emerges triumphant from beyond death. He must, however, be warned against mistaking the symbolism. In this case, for example, the doctrine of individual immortality has been dragged in, to the destruction, of truth. It is not that utterly worthless part of man, his individual consciousness as John Smith, which defies death — that consciousness which dies and is reborn in every thought. That which persists (if anything persist) is his real John Smithiness, a quality of which he was probably never conscious in his life. " 
 
-The First Method consists of dévotion to that Deity, and, being mainly mystical in character, need not be dealt with in this place, especially as a perfect instruction exists in Liber 175 (See Âppendix). The Second Method is the straightforward cérémonial invocation. It is the method which was usually employed in the Middle Ages. Its advantage is its directness, its disadvantage its 1. There are much deeper considérations in which it appears that “Everything that is, is right”. They are set forth elsewhere; we can only summarise them here by saying that the survîval of the frttest is their upshot. 
-
-2. The ideaî method of doing this is given in Liber 913 (Equinox VII). See also Liber CXI Aleph. 
-
-
-12 
-
-
-
-crudity. The “Goetia” gives clear instruction in this method, and 
-$o do many other Rituals, white and black. We shall presently 
-devote some space to a clear exposition of this Art. 
-
-In the case of Bacchus, however, we may roughly outline the 
-procedure. We find that the symbolism of Tiphareth expresses 
-the nature of Bacchus. It is then necessary to construct a Ritual of 
-Tiphareth. Let us open the Book 777 ; we shall find in line 6 of 
-each column the various parts of our required apparatus. Having 
-ordered everything duly, we shall exalt the mind by repeated 
-prayers or conjurations to the highest conception of the God, until, 
-in one sense or another of the Word, He appears to us and floods 
-our consciousness with the light of His divinity. 
-
-The Third Method is the Dramatic , perhaps the most 
-attractive of ail; certainly it is so to the artist’s tempérament, for 
-it appeals to his imagination through his aesthetic sense. 
-
-Its disadvantage lies principally in the difficulty of its per¬ 
-formance by a single person. But it has the sanction of the highest 
-antiquity, and is probably the most useful for the foundation of a 
-religion. It is the method of Catholic Christianity, and consists in 
-the dramatization of the legend of the God. The Bacchae of 
-Euripides is a magnificent example of such a Ritual; so also^ 
-though in a less degree, is the Mass. We may also mention many 
-of the degrees in Freemasonry, particularly the Third. The 
-5° — 6° Ritual published in N° III of the Equinox is another 
-example. 
-
-In the case of Bacchus, one commémorâtes firstly his birth of a 
-mortal mother who has yielded her treasure-house to the Father 
-of AU, of the jealousy and rage excited by this incarnation, and of 
-the heavenly protection afforded to the infant. Next should be 
-commemorated the journeying westward upon an ass. Now cornes 
-the great scene of the drama: the gentle, exquisite youth with his 
-foliowing (chiefly composed of women) seems to threaten the 
-established order of things, and that Established Order takes steps 
-to put an end to the upstart. We find Dionysus confronting the 
-angry King, not with défiance, but with meekness; yet with a 
-subtle confidence, an underlying laughter. His forehead is 
-wreathed with vine tendrils. He is an effeminate figure with 
-those broad leaves clustered upon his brow? But those leaves hide 
-
-
-H 
-
-
-horns. King Pentheus, représentative of respectabilité 1 2 is 
-destroved by his pnde. He goes ont into the monntams to actack 
-the wornen who bave followed Bacchus, the youth whom Aie 
-has mocked, scourged, and put in chains, yet who h as only 
-smiled; and by those women, in their divine madness* he is torn 
-
-to pièces. 
-
-It has already seemed impertinent to say so mueh when Walter 
-Pater has told the story with such sympathy and insight. We will 
-not further transgress by dwelling upon the identity of this legend 
-with the course of Nature, its madness, its prodigality, its 
-intoxication, its joy, and above ali its sublime persistence through 
-the cycles of Life and Death. The pagan reader must labour to 
-understand this in Pater’s “Greek Studies”, and the Christian 
-reader will recognise it, incident for incident, in the story of 
-Christ. This legend is but the dramatization of Spring. 
-
-The magician who wishes to invoke Bacchus by this method must 
-therefore arrange a ceremony in which he takes the part of Bacchus, 
-undergoes ail His trials, and emerges triumphant from beyond 
-death. He must, however, be warned against mistaking the 
-symbolism. In this case, for example, the doctrine of individual 
-immortality has been dragged in, to the destruction, of truth. It 
-is not that utterly worthless part of man, his individual consciousness 
-as John Smith, which défiés death — that consciousness which dies 
-and is reborn in every thought. That which persists (if anything 
-persist) is his real John Smithiness, a quality of which he was 
-probably never conscious in his life. " 
-
-Even that does not persist unchanged. It is always growing. 
-The Cross is a barren stick, and the petals of the Rose fall and 
-decayj but in the union of the Cross and the Rose is a constant 
+Even that does not persist unchanged. It is always growing. The Cross is a barren stick, and the petals of the Rose fall and decay, but in the union of the Cross and the Rose is a constant 
 
 
 1. There is a much deeper interprétation in which Pentheus is himself 
@@ -25713,3 +25599,17 @@ LECRAM. IM P. PARIS
 [^15] See “The Soldier and the Hunchback" Equinox I, i. The apparatus of human reason is simply one particular System of coordinating impressions; its structure is determined by the course of the évolution of the species. It is no more absolute than the évolution of the species. It is no more absolute than the mechanism of our muscles is a complété type wherewith ali other Systems of transmitting Force must conform. 
 
 [^16] Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to hâve known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the suprême atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is évident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it. 
+
+[^17] Equally, of course, we hâve no means of knowing what we really are. We are limited to symbols. And it is certain that ail our sense-perceptions give only partial aspects of their objects. Sight, for instance, tells us very little about solidity, weight, composition, electrical character, thermal conductivity, etc., etc. It says nothing at ail about the very existence of such vitally important ideas as Heat, Hardness, and so on. The impression which the mind combines from the senses can never claim to be accurate or complété. We hâve indeed learnt that nothing is fn itself what it seems to be to us. 
+
+[^18]He is this only by définition. The universe may contain an infinité variety of worlds inaccessible to human apprehension. Yet, for this very reason, they do not exist for the purposes of the argument. Man has, how- ever, some instruments of knowledge; we may, therefore, define the Macrocosm as the totality of things possible to his perception. As évolution deve- lops those instruments, the Macrocosm and the Microcosm extend; but they always maintain their mutual relation. Neither can possess any meaning except in terrns o£ the other. Our ^d^^veries^ are exactly as much of ourselves as they are of Nature. America and Electricity did, in a sense, exist before we were aware of them; but they are even now no more than incomplète ideas, expressed in symbolic terrns of a sériés of relations between two sets of inscrutable phenomena. 
+
+[^19]Knowledge is, moreover, an impossible conception. Ali propositions corne ultimately back to “A is A”. 
+
+[^20]See the “Book of the Sacred Magic of Abramelin the Mage”; and Liber 418, 8th Aethyr, Liber Samekh; see Appendix 3.
+
+[^21]The différence between these operations is more of theoreticaî than of practical importance. 
+
+[^22]There are much deeper considérations in which it appears that “Everything that is, is right”. They are set forth elsewhere; we can only summarise them here by saying that the survîval of the frttest is their upshot. 
+
+[^23]The ideaî method of doing this is given in Liber 913 (Equinox VII). See also Liber CXI Aleph. 
