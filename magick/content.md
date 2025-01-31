@@ -552,449 +552,89 @@ Thus, in the invocation of Thoth which is to be found in the rite of Mercury (Eq
 
 The second part begins with the words: 
 
-'“Behold! I am yesterday, to~day, and the brother of tomorrow.” 
+“Behold! I am yesterday, to-day, and the brother of tomorrow.” 
 
 The magician should imagine that he is hearing this voice, and at the same time that he is echoing it, that it is true also of himself. This thought should so exalt him that he is able at its conclusion to utter the sublime words which open the third part: “Behold! he is in me, and I am in him.” At this moment, he loses consciousness of his mortal being; he is that mental image which he previously but saw. This consciousness is only complete as he goes on: “Mine is the radiance wherein Ptah floateth over his firmament. I travel upon high. I tread upon the firmament of Nu. I raise a flashing flame with the lightnings of mine eye: ever rushing on in the splendour of the daily glorified Ra — giving my life to the treaders of Earth!” This thought gives the relation of God and Man from the divine point of view. 
 
-The magician is only recalled to himself at the conclusion of the third part; in which occur, almost as if by accident, the words: 
-‘‘Therefore do ail things obey my word.” Yet in the fourth part, 
-which begins: “Therefore do thou corne forth unto me”, it is not 
-really the magician who is addressing the God; it is the God 
-who hears the far-off utterance of the magician. If this invocation 
-has been correctly performed, the words of the fourth part will 
-Sound distant and strange. It is surprising that a dummy (so the 
-magus now appears to Himself) should be able to speak! 
+The magician is only recalled to himself at the conclusion of the third part; in which occur, almost as if by accident, the words: "Therefore do ail things obey my word.” Yet in the fourth part, which begins: “Therefore do thou come forth unto me”, it is not really the magician who is addressing the God; it is the God who hears the far-off utterance of the magician. If this invocation has been correctly performed, the words of the fourth part will sound distant and strange. It is surprising that a dummy (so the magus now appears to Himself) should be able to speak! 
 
-The Egyptian Gods are so complété in their nature, so perfectly 
-spiritual and yet so perfectly material, that this one invocation is 
-sufficient. The God bethinks him that the spirit of Mercury 
-should now appear to the magician; and it is so. This Egyptian 
-formula is therefore to be preferred to the Hierarchical formula 
-of the Hebrews with its tedious prayers, conjurations, and curses. 
+The Egyptian Gods are so complete in their nature, so perfectly spiritual and yet so perfectly material, that this one invocation is sufficient. The God bethinks him that the spirit of Mercury should now appear to the magician; and it is so. This Egyptian formula is therefore to be preferred to the Hierarchical formula of the Hebrews with its tedious prayers, conjurations, and curses. 
 
-It will be noted, however, that in this invocation of Thoth which 
-we hâve summârized, there is another formula contained, the 
-Reverberating or Reciprocating formula, which may be called the 
-formula of Horus and Harpocrates. The magician addresses the 
-God with an active projection of nis will, and then becomes passive 
-while the God addresses the Universe. In the fourth part he 
-remains silent, listening, to the prayer which arises therefrom. 
+It will be noted, however, that in this invocation of Thoth which we have summarized, there is another formula contained, the Reverberating or Reciprocating formula, which may be called the formula of Horus and Harpocrates. The magician addresses the God with an active projection of his will, and then becomes passive while the God addresses the Universe. In the fourth part he remains silent, listening, to the prayer which arises therefrom. 
 
-The formula of this invocation of Thoth may also be classed 
-under Tetragrammaton. The first part is fire, the eager prayer 
-of the magician, the second water, in which the magician°listens to, 
-or catches the reflection of, the god. The third part is air, the 
-marriage of fire and water; the god and the man hâve become 
-one; while the fourth part corresponds to earth, the condensa¬ 
-tion 01 matenalization of those three highcr principles. 
+The formula of this invocation of Thoth may also be classed under Tetragrammaton. The first part is fire, the eager prayer of the magician, the second water, in which the magician°listens to, or catches the reflection of, the god. The third part is air, the marriage of fire and water; the god and the man have become one; while the fourth part corresponds to earth, the condensation or materialization of those three higher principles. 
 
-With regard to the Hebrew formulae, it is doubtful whether 
-inost magicians who use them hâve ever properly grasped the 
-principles underlying the method of identity. No passage which 
-împlies it occurs to mind, and the extant ntuais certainly give no 
-hmt of such a conception, or of any but the most personal and 
-material views of the nature of things. They seem to hâve 
-thought that there was an Archangel named Ratziel in exactly the 
-same sense as there was a statesman named Richelieu, an 
-individual being living in a definite place. Eté had possibly 
-certain powers of a somewhat metaphysical order—he might be 
+With regard to the Hebrew formulae, it is doubtful whether most magicians who use them have ever properly grasped the principles underlying the method of identity. No passage which împlies it occurs to mind, and the extant rituals certainly give no hint of such a conception, or of any but the most personal and material views of the nature of things. They seem to have thought that there was an Archangel named Ratziel in exactly the same sense as there was a statesman named Richelieu, an individual being living in a definite place. He had possibly certain powers of a somewhat metaphysical order — he might be in two places at once, [^31] for example, though even the possibility of so simple a feat (in the case of spirits) seems to be denied by certain passages in extant conjurations which tell the spirit that if he happens to be in chains in a particular place in Hell, or if some other magician îs conjuring him so that he cannot come, then let him send a spirit of similar nature, or otherwise avoid the difficulty. But of course so vulgar a conception would not occur to the student of the Qabalah. It is just possible that the magi wrote their conjurations on this crude hypothesis in order to avoid the clouding of the mind by doubt and metaphysical speculation.
 
+He who became the Master Therion was once confronted by this very difficulty. Being determined to instruct mankind, He sought a simple statement of his object. His will was sufficiently informed by common sense to decide him to teach man *The Next Step*, the thing which was immediately above him. He might hâve called this “God”, or “The Higher Self”, or “The Augoeides”, or “Adi-Buddha”, or 61 other things — but He had discovered that these were all one, yet that each one represented some theory of the Universe which would ultimately be shattered by criticism — for He had already passed through the realm of Reason, and knew that every statement contained an absurdity. He therefore said: “Let me déclaré this Work under this title: "The obtaining of the Knowledge and Conversation of the Holy Guardian Angel”, because the theory implied in these words is so patently absurd that only simpletons would waste much time in analysing it. It would be accepted as a convention, and no one would incur the grave danger of building a philosophical system upon it. 
 
-— 19 — 
-
-
-in two places at once, 1 for example, though even the possibilité 
-of so simple a feat (in the case of spirits) seems to be denied by 
-certain passages in extant conjurations which tell the spint that if 
-he happens to be in chains in a particular place in Hell, or if some 
-other magician îs conjuring him so that he cannot comc, then let 
-him send a spirit of simîlar nature, or otherwisé avoid the dif- 
-ficulty. But of course so vulgar a conception would not occur to 
-the student of the Qabalah. It is just possible that the magi wrote 
-their conjurations on this crude hypothesis in order to avoid the 
-clouding of the mind by doubt and metaphysical spéculation. 
-
-He who became the Master Therion was once confronted by 
-this very difficulty. Being determined to instruct mankind, He 
-sought a simple statement of his object. His will was sufficiently 
-informed by common sense to décidé him to teach man T he Nexi 
-Step, the thing which was immediately above him. He might 
-hâve called this “God”, or “The Higher Self”, or “The 
-Augoeides”, or “Adi-Buddha”, or 61 other things —but He had 
-discovered that these w'ere ali one, yet that each one represented 
-some theory of the Universe which would ultimately be shattered 
-by criticism — for He had already passed through the realm of 
-Reason, and knew that every statement contained an absurdity. 
-He therefore said: “Let me déclaré this Work under this title: 
-'The obtaining of the Knowledge and Conversation of the Holy 
-Guardian AngeP ”, because the theory implied in these words is 
-so patently absurd that only simpletons would waste much time in 
-analysing it. It would be accepted as a convention, and no one would 
-incur the grave danger of building a philosophical system upon it. 
-
-With this understanding, we may rehabilitate the Hebrew 
-System of invocations. The mind is the great enemy; so, by 
-invoking enthusiastically a person whom we know not to 
-exist, we are rebuking that mind. Yet we should not refrain 
-altogether from philosophising in the light of the Holy Qabalah. 
-We should accept the Magical Hierarchy as a more or less con- 
-venient classification of the facts of the Universe as they are 
-
-
-i. He could do this provided that he can travel with à speed exceeding 
-that of Light, as he does. See A. S. Eddington a Space, Time, and Gra¬ 
-vitation”. Also : what means “at once”? 
-
-
-20 
-
-
-
+With this understanding, we may rehabilitate the Hebrew System of invocations. **The mind is the great enemy; so, by invoking enthusiastically a person whom we know not to 
+exist, we are rebuking that mind.** Yet we should not refrain altogether from philosophising in the light of the Holy Qabalah. We should accept the Magical Hierarchy as a more or less convenient classification of the facts of the Universe as they are 
 known to us; and as our knowledge and understanding of those 
 facts increase, so should we endeavour to adjust our idea of what 
 we mean by any symbol. 
 
-At the same time let us reflect that there is a certain definite 
-consensus of expérience as to the corrélation of the various 
-beings of the hierarchy with the observed facts of Magick. 
-
-In the simple matter of astral vision, for example, one striking 
-case may be quoted. 
-
-Without telling him what it was, the Master Therion once 
-recited as an invocation Sappho’s “Ode to Venus” before a Proba- 
-tioner of the A.-. A.\ who was ignorant of Greek, the language 
-of the Ode. The disciple then went on an “astral journey,” and 
-everything seen by him was without exception harmonious with 
-Venus. This was true down to the smallest detail. He even 
-obtained ail the four colour-scales of Venus with absolute 
-correctness. Considering that he saw something like one hundred 
-symbols in ail, the odds against coincidence are incalculably great. 
-Such an expérience (and the records of the A.’. A.*, contain dozens 
-cf similar cases) alfords proof as absolute as any proof can be in 
-this world of Illusion that the correspondences in Liber 777 really 
-represent facts in Nature. 
-
-It suggests itself that this “straightforward” System of magick 
-was perhaps never really employed at ail. One might maintain 
-that the invocations which hâve corne down to us are but the ruins 
-of the Temple of Magick. The exorcisms might hâve been 
-committed to writing for the purpose of memorising them, while 
-it was forbidden to make any record of the really important parts 
-of the ceremony. Such details of Ritual as we possess are meagre 
-and unconvincing, and though much success h as been attained in 
-the quite conventional exoteric way both by Frater Perdu- 
-rabo and by many of his colleagues, yet ceremonies of this 
-character hâve always remained tedious and difficult. It lias 
-seemed as if the success were obtained almost in spite of the 
-ceremony. In any case, they are the more mysterious parts of the 
-Ritual which hâve evoked the divine force. Such conjurations as 
-those of the “Goetia” leave one cold, although, notably in the 
-second conjuration, there is a crude attempt to use that formula 
-of Commémoration of which we spoke in the preceding Chapter. 
-
-
-21 
+At the same time let us reflect that **there is a certain definite consensus of expérience as to the corrélation of the various beings of the hierarchy with the observed facts of Magick.** In the simple matter of astral vision, for example, one striking case may be quoted. 
 
+Without telling him what it was, the Master Therion once recited as an invocation Sappho’s “Ode to Venus” before a Probationer of the A. A. who was ignorant of Greek, the language of the Ode. The disciple then went on an “astral journey,” and everything seen by him was without exception harmonious with Venus. This was true down to the smallest detail. He even obtained ail the four colour-scales of Venus with absolute correctness. Considering that he saw something like one hundred symbols in ail, the odds against coincidence are incalculably great. Such an expérience (and the records of the A. A., contain dozens of similar cases) affords proof as absolute as any proof can be in this world of Illusion that the correspondences in Liber 777 really represent facts in Nature. 
 
-CHAPTER III 
+It suggests itself that this “straightforward” System of magick was perhaps never really employed at ail. One might maintain that the invocations which have come down to us are but the ruins of the Temple of Magick. The exorcisms might have been committed to writing for the purpose of memorising them, while it was forbidden to make any record of the really important parts of the ceremony. Such details of Ritual as we possess are meagre and unconvincing, and though much success h as been attained in the quite conventional exoteric way both by Frater Perdurabo and by many of his colleagues, yet ceremonies of this character have always remained tedious and difficult. It has seemed as if the success were obtained almost in spite of the ceremony. In any case, they are the more mysterious parts of the Ritual which have evoked the divine force. Such conjurations as those of the “Goetia” leave one cold, although, notably in the second conjuration, there is a crude attempt to use that formula of Commemoration of which we spoke in the preceding Chapter. 
 
+### CHAPTER III - The Formula of Tetragrammaton.
 
-The Formula of Tetragrammaton. 1 
+[^32] 
 
-This formula is of most universal aspect, as ail things are 
-necessarily comprehended in it$ but its use in a magical ceremony 
-is little understood. 
+This formula is of most universal aspect, as ail things are necessarily comprehended in it; but its use in a magical ceremony is little understood. 
 
-The climax of the formula is in one sense before even the 
-formulation of the Yod. For the Yod is the most divine aspect 
-of the Force —the remaining letters are but a solidification of the 
-same thing. It must be understood that we are here speaking of 
-the whole ceremony considered as a unity, not merely of that 
-formula in which Yod is the God invoked, Hé the Archangel, 
-and so on. In order to understand the ceremony under this 
-formula, we must take a more extended view of the functions of 
-the four weapons than we hâve hitherto done. 
-
-The formation of the Yod is the formulation of the first créative 
-force, of that father who is called “self-begotten ,? , and unto 
-whom it is said: &lt;c Thou hast formulated thy Father, and made 
-fertile thy Mother”. The adding of the Hé to the Yod is the 
-marriage of that Father to the great co-equal Mother, who is a 
-reflection of Nuit as He is of Hadit. Their union brings forth 
-the son Vau who is the heir. Finally the daughter Hé is produced. 
-She is both the twin sister and the daughter of Vau. 2 
-
-His mission is to redeem her by making her his bride -, the 
-resuit of this is to set her upon the throne of her mother, and it 
-is only she whose youthful embrace can reawaken the eld of the 
-
-
-1. mm ; Yod, Hé, Yau, Hé, the Ineffable Name (Jéhovah) of the 
-Hebrews. The four letters refer respectively to the four “éléments”, Fire, 
-Water, Air, Earth, in the order named. 
+The climax of the formula is in one sense before even the formulation of the Yod. For the Yod is the most divine aspect of the Force —the remaining letters are but a solidification of the same thing. It must be understood that we are here speaking of the whole ceremony considered as a unity, not merely of that formula in which *Yod* is the God invoked, *Hé* the Archangel, and so on. In order to understand the ceremony under this formula, we must take a more extended view of the functions of the four weapons than we hâve hitherto done. 
 
-2 . There is a further mystery herein, far deeper, for initiâtes. 
+The formation of the Yod is the formulation of the first creative force, of that father who is called “self-begotten", and unto whom it is said: "Thou hast formulated thy Father, and made fertile thy Mother”. The adding of the *Hé* to the *Yod* is the marriage of that Father to the great co-equal Mother, who is a reflection of Nuit as He is of Hadit. Their union brings forth the son Vau who is the heir. Finally the daughter Hé is produced. She is both the twin sister and the daughter of Vau. [^33]
 
+His mission is to redeem her by making her his bride; the result of this is to set her upon the throne of her mother, and it is only she whose youthful embrace can reawaken the eld of the All-Father. In this complex family relationship [^34] is symbolised! the whole course of the Universe. It will be seen that (after all) the Climax is at the end. It is the second half of the formula which symbolises the Great Work which we are pledged to accomplish. The first step of this is the attainment of the Knowledge and Conversation of the Holy Guardian Angel, which constitutes the Adept of the Inner Order. 
+The re-entry of these twin spouses into the womb of the mother is that initiation described in Liber 418, which gives admission to the Inmost Order of the A. A. Of the last step we cannot speak. 
 
-22 
+It will now be recognised that to devise a practical magical ceremony to correspond to Tetragrammaton in this exalted sense might be difficult if not impossible. In such a ceremony the Rituals of purification alone might occupy many incarnations. 
 
+It will be necessary, therefore, to revert to the simpler view of Tetragrammaton, remembering only that the Hé final is the Throne of the Spirit, of the Shin of Pentagrammaton. 
 
+**The Yod will represent a swift and violent creative energy; following this will be a calmer and more reflective but even more powerful flow of will, the irresistible force of a mighty river. This State of mind will be followed by an expansion of the consciousness ; it will penetrate all space, and this will finally undergo a crystallization resplendent with interior light.** Such modifications of the original Will may be observed in the course of the invocations when they are properly performed. 
 
-All-Father. In this complex family relationship 1 is sym¬ 
-bolisée! the whole course of the Universe. It will be seen that 
-(after ail) the Climax is at the end. It is the second half of the 
-formula which symbolises the Great Work which we are pledged 
-to accomplish. The first step of this is the attainment of th^ 
-Knowledge and Conversation of the Holy Guardian Angel, which 
-constitutes the Adept of the Inner Order. 
+The peculiar dangers of each are obvious — that of the first is a flash in the pan — a misfire; that of the second, a falling into dreaminess or reverie; that of the third, loss of concentration. A mistake in any of these points will prevent, or injure the proper formation of, the fourth. 
 
-The re-entry of these twin spouses into the womb of the mother 
-is that initiation described in Libe»* 418, which gives admission to 
-the Inmost Order of the A.*. A.*. Of the last step we cannot speak. 
+In the expression which will be used in Chapter XV: “Enflame thyself”, etc., only the first stage is specified; but if that is properly done the other stages will follow as if by necessity. So far is it written concerning the formula of Tetragrammaton. 
 
-It will now be recognised that to devise a practical magical 
-ceremony to correspond to Tetragrammaton in this exalted sense 
-might be difficult if not impossible. In such a ceremony the 
-Rituals of purification alone might occupy many incarnations. 
+### CHAPTER IV - The Formula of Alhim, and that of Alim 
 
-It will be necessary, therefore, to revert to the simpler view of 
-Tetragrammaton, remembering only that the Hé final is the 
-Throne of the Spirit, of the Shin of Pentagrammaton. 
+ALHIM (Elohim) is the exoteric word for Gods. [^35] It is the masculine plural of a feminine noun, but its nature is principally feminine. [^36] It is a perfect hieroglyph of the number 5. This should be studied in “A Note on Genesis” (Equinox I.II). 
 
-The Yod will represent a swift and violent créative energy; 
-following this will be a calmer and more reflective but 
-even more powerful flow of will, the irrésistible force of 
-a mighty river. This State of mind will be foliowed by an 
-expansion of the consciousness ; it will penetrate ail space, 
-and this will finally undergo a crystallization resplendent 
-with interior light. Such modifications of the original Will 
-may be observed in the course of the invocations when they are 
-properly performed. 
+The Elements are ail represented, as in Tetragrammaton, but there is no development from one into the others. They are, as it were, thrown together — untamed, only sympathising by virtue of their wild and stormy but elastically resistless energy. The Central letter is *Hé* — the letter of breath — and represents Spirit. The first letter *Àleph* is the natural letter of Air, and the Final *Mem* is the natural letter of Water. Together, *Aleph* and *Mem* make *Am* — the mother within whose womb the Cosmos is conceived. But *Yod* is not the natural letter of Fire. Its juxtaposition with *Hé* sanctifies that fire to the Yod of Tetragrammaton. Similarly we find *Lamed* for Earth, where we should expect *Tau* — in order to emphasize the influence of Venus, who rules Libra. 
 
-The peculiar dangers of each are obvious — that of the first is 
-a flash in the pan — a misfire; that of the second, a falling into 
-dreaminess or reverie; that of the third, loss of concentration. A 
-mistake in any of these points will prevent, or injure the proper 
-formation of, the fourth. 
+ALHIM therefore, represents rather the formula of Consecration than that of a complete ceremony. It is the breath of benediction, yet so potent that it can give life to clay and light to darkness. 
 
-In the expression which will be used in Chapter XV: “Enflame 
-thyself”, etc., only the first stage is specified; but if that is properly 
-done the other stages will follow as if by necessity. So far is it 
-written concerning the formula of Tetragrammaton. 
+In consecrating a weapon, *Aleph* is the whirling force of the thunderbolt, the lightning which flameth out of the East even into the West. This is the gift of the wielding of the thunderbolt of Zeus or Indra, the God of Air. *Lamed* is the Ox-goad, the driving force; and it is also the Balance, representing the truth and love of the Magician. It is the loving care which he bestows upon perfecting his instruments, and the equilibration of that fierce force which initiâtes the ceremony [^37]
 
+*Yod* is the creative energy — the procreative power ; and yet *Yod* is the solitude and silence of the hermitage into which the Magician has shut himself. *Mem* is the letter of Water, and it is the Mem final, whose long fiat lines suggest the Sea at peace □ ; not the ordinary (initial and médial) Mem whose hieroglyph is a wave. [^38] And then, in the Centre of all, broods Spirit, which combines the mildness of the Lamb with the horns of the Ram, and is the letter of Bacchus or “Christ”. [^39]
 
-I. The formula of Tetragrammaton, as ordinarily understood, ending 
-with the appearance of the daughter, is indeed a dégradation. 
+After the magician has created his instrument, and balanced it truly, and filled it with the lightnings of his Will, then is the weapon laid away to rest; and **in this Silence, a true Consecration comes.**
 
+**The Formula of Alim**
 
-23 — 
+It is extremely interesting to contrast with the above the formula of the elemental Gods deprived of the creative spirit. One might suppose that, as ALIM is the masculine plural of the masculine noun AL, its formula wouîd be more virile than that of ALHIM, which is the masculine plural of the feminine noun ALH. A moments investigation is sufficient to dissipate the illusion. The Word masculine has no meaning except in relation 
+to some feminine correlative. 
 
+The word ALIM may in fact be considered as neuter. By a rather absurd convention, neuter objects are treated as feminine on account of their superficial resemblance in passivity and inertness with the unfertilized female. But the female produces life by the intervention of the male, while the neuter does so only when impregnated by Spirit. Thus we find the féminine AMA becoming AIMA [^40] through the operation of the phallic Yod, while ALIM, the congress of dead elements, only fructifies by the brooding of Spirit. 
 
+This being so, how can we describe ALIM as containing a Magical formula ? Inquiry discloses the fact that this formula is of a very special kind. 
 
-CHAPTER IV. 
+The word adds up to 81, which is a number of the moon. It is thus the formula of witchcraft, which is under Hecate [^41] . It is only the romantic mediaeval perversion of science that represents young women as partaking in witchcraft, which is, properly speaking, restricted to the use of such women as are no longer women in the Magical sense of the word, because they are no longer capable of corresponding to the formula of the male, and are therefore neuter rather than féminine. It is for this reason that their method has always been referred to the moon, in that sense of the term in which she appears, not as the feminine correlative of the sun, but as the burnt-out, dead, airless satellite of earth. 
 
+No true Magical operation can be performed by the formula of ALIM. **All the works of witchcraft are illusory; and their apparent effects dépend on the idea that it is possible to alter things by the mere rearrangement of them.** One must not rely upon the false analogy of the Xylenes to rebut this argument. It is quite true that geometrical isomers act in different manners towards the substances to which they are brought into relation. And it is of course necessary sometimes to rearrange the elements of a molecule before that molecule can form either the masculine or the feminine element in a true Magical combination with some other molecul. 
 
-The Formula of Alhim, and that of Alim. 
+It is therefore occasionally inevitable for a Magician to reorganize the structure of certain elements before proceeding to his operation proper. Although such work is technically witchcraft, it must not be regarded as undesirable on that ground, for all operations which do not transmute matter fall strictly speaking under this heading. 
 
-A LH IM (Elohim) is the exoteric word for Gods. 1 It is the 
-masculine plural of a féminine noun, but its nature is principally 
-féminine. 2 It is a perfect hieroglyph of the number 5. This 
-should be studied in “A Note on Genesis” (Equinox LU). 
+The real objection to this formula is not inherent in its own nature. Witchcraft consists in treating it as the exclusive preoccupation of Magick, and especially in denying to the Holy Spirit his right to indwell His Temple. [^42]
 
-The Eléments are ail represented, as in Tetragrammaton, but 
-there is no development from one into the others. They are, as it 
-were, thrown together — untamed, only sympathising by virtue 
-of their wild and stormy but elastically resistless energy. The 
-Central letter is Hé — the letter of breath — and represents 
-Spirit. The first letter Àleph is the natural letter of Air, and the 
-Final Mem is the natural letter of Water. Together, Aleph and 
-Mem make Am — the mother within whose womb the Cosmos is 
-conceived. But Yod is not the natural letter of Fire. Its juxta¬ 
-position with Hé sanctifies that fire to the Yod of Tetragrammaton. 
-Similarly we find Lamed for Earth, where we should expect Tau 
-— in order to emphasize the influence of Venus, who rules Libra. 
-
-ALHIMy therefore, represents rather the formula of Consécra¬ 
-tion than that of a complété ceremony. It is the breath of 
-bénédiction, yet so potent that it can give life to clay and light to 
-darkness. 
-
-In consecrating a weapon, Aleph is the whirling force of the 
-thunderbolt, the lightning which flameth out of the East even 
-
-
-1. “Gods” are the Forces of Nature; their “Names” are the Laws 
-of Nature. Thus They are eternal, omnipotent, omniprésent and so on; 
-and thus their “Wills” are immutable and absolute. 
-
-• 2. It represents Sakti, or Teh; femininity always means form, mani¬ 
-
-festation. The masculine Siva, or Tao, is always a concealed force. 
-
-
-24 
-
-
-
-into the West. This is the gift of the wielding of the thunderbolt 
-of Zeus or Indra, the God of Air. Lamed is the Ox-goad, the 
-driving force; and it is also the Balance, representing the truth 
-and love of the Magician. It is the loving care which he bestows 
-upon perfecting his instruments, and the équilibration of that fierce 
-force which initiâtes the ceremony \ 
-
-Yod is the créative energy — the procreative power ; and yet 
-Yod is the solitude and silence of the hermitage into which the 
-Magician has shut himself. Mem is the letter of Water, and it is 
-the Mem final, whose long fiat lines suggest the Sea at peace □ ; 
-not the ordinary (initial and médial) Mem whose hieroglyph is 
-a wave 2 And then, in the Centre of ail, broods Spirit, which 
-combines the mildness of the Lamb with the horns of the Ram, 
-and is the letter of Bacchus or “Christ”. 8 
-
-After the magician has created his instrument, and balanced it 
-truly, and filled it with the lightnings of his Will, then is the 
-weapon laid away to rest; and in this Silence, a true Consécra¬ 
-tion cornes. 
-
-The Formula of Alim 
-
-It is extremely interesting to contrast with the above the for¬ 
-mula of the elemental Gods deprived of the créative spirit. One 
-
-
-1. The letters Aleph and Lamed are infinitely important in this Aeon 
-of Horus; they are indeed the Key of the Book of the Law. No more can 
-be said in this place that that Aleph is Harpocrates, Bacchus Diphues, the 
-Holy Ghost, the “Pure Fool” or Innocent Babe who is also the Wandering 
-Singer who imprégnâtes the King’s Daughter with Himself as Her Child; 
-Lamed is the King’s Daughter, satisfied by Him, holding His “Sword and 
-Balances” in her lap. These weapons are the Judge, armed with power 
-to execute His Will, and Two Witnesses “in whom shall every Truth be 
-established” in accordance with whose testimony he gives judgment. 
-
-2. In the symbolism above outlined, Yod is the Mercurial “Virgin 
-Word”, the Spermatozoon concealing its light under a cloke; and Mem 
-is the amniotic fluid, the flood wherein is the Life-bearing Ark. See A. 
-Crowley “The Ship”, Equinox I, X. 
-
-3. The letter Hé is the formula of Nuith, which makes possible the 
-process described in the previous notes. But it is not permissible here to 
-explain fully the exact matter or manner of this adjustment. I hâve 
-preferred the exoteric attributions, which are sufficiently informative for 
-the beginner. 
-
-
-25 
-
-
-
-might suppose that, as ALIM is the masculine plural of the 
-masculine noun AL, its formula wouîd be more virile than that 
-of ALHIM, which is the masculine plural of the féminine noun 
-ALH. A moments investigation is sufficient to dissipate the 
-illusion. The Word masculine has no meaning except in relation 
-to some féminine corrélative. 
-
-The word ALIM may in fact be considered as neuter. By a 
-rather absurd convention, neuter objects are treated as féminine 
-on account of their superficial resemblance in passivity and 
-inertness with the unfertilized female. But the female produces 
-life by the intervention of the male, while the neuter does so 
-only when impregnated by Spirit. Thus we find the féminine 
-AM A becoming AIMA 1 through the operation of the phallic 
-Yod, while ALIM, the congress of dead éléments, only fructifies 
-by the brooding of Spirit. 
-
-This being so, how can we describe ALIM as containing a 
-Magical formula ? Inquiry discloses the fact that this formula is 
-of a very spécial kind. 
-
-The word adds up to 81, which is a number of the moon. It 
-is thus the formula of witchcraft, which is under Hecate 2 . It is 
-only the romantic mediaeval perversion of science that represents 
-young women as partaking in witchcraft, which is, properly 
-speaking, restricted to the use of such women as are no longer 
-women in the Magical sense of the word, because they are no 
-longer capable of corresponding to the formula of the male, and 
-are therefore neuter rather than féminine. It is for this reason 
-that their method has always been referred to the moon, in that 
-sense of the term in which she appears, not as the féminine corré¬ 
-lative of the sun, but as the burnt-out, dead, airless satellite of 
-earth. 
-
-No true Magical operation can be performed by the formula 
-
-of ALIM. Ail the works of witchcraft are illusory; and 
-their apparent effects dépend on the idea that it is possible 
-to aiter things by the mere rearrangement of them. One 
-
-
-1. AMA is 42, the number of sterility; AIMA, 52, that of fertility, 
-of BN, the SON. 
-
-2. See A. Crowley “Orpheus" for an Invocation of this Goddess. 
-
-
-26 
-
-
-
-must not rely upon the false analogy of the Xylenes to rebut this 
-argument. It is quite true that geometrical isomers act in différent 
-manners towards the substances to which they are brought into 
-relation. And it is of course necessary sometimes to rearrange the 
-éléments of a molécule before that molécule can form either the 
-masculine or the féminine element in a true Magical combination 
-with some other molécule. 
-
-It is therefore occasionally inévitable for a Magician to re- 
-organize the structure of certain éléments before proceeding to 
-his operation proper. Although such work is technically witch- 
-craft, it must not be regarded as undesirable on that ground, for 
-ail operations which do not transmute matter fall strictly speaking 
-under this heading. 
-
-The real objection to this formula is not inhérent in its own 
-nature. Witchcraft consists in treating it as the exclusive préoc¬ 
-cupation of Magick, and especially in denying to the Holy Spirit 
-his right to indwell His Temple. 1 
-
-I. The initiate of the XI 0 of O. T. O. will remark that there is a 
-totaliy different formula of ALIM, complementary with that here discussed. 
-8 l may be regarded as a number of Yesod rather than of Luna. The actual 
-meaning of the word may be taken as indicating the formula. Aleph may 
-be referred to Harpocrates, with allusion to the well-known poem of 
-Catullus. Lamed may imply the exaltation of Saturn, and suggest the 
-Three of Swords in a particular manner. Yod will then recall Hermes, 
-and Mem the Hanged Man. We hâve thus a Tetragrammaton which 
-contains no féminine component. The initial Force is here the Holy 
-Spirit and its vehicle or weapon the “Sword and Balances . Justice is 
-then done upon the Mercurial “Virgin”, with the resuit that the Man 
-is “Hanged” or extended, and is slain in this manner. Such an operation 
-makes création impossible — as in the former case; but here there is no 
-question of re-arrangement; the Creative force is employed deliberately for 
-destruction, and is entirely absorbed in its own sphere (or cylinder, on 
-Einstein’s équations) of action. This Work is to be regarded as Holiness 
-to the Lord”. The Hebrews, in fact, conferred the title of Qadosh 
-(holy) upon its adepts. Its effect is to consecrate the Magicians who 
-perforai it in a very spécial wav. We may take note also of the correspond¬ 
-ance of Nine with Teth, XI, Léo, and the Serpent. The great merits 
-of this formula are that it avoids contact with the inferior planes, that 
-it is self-sufhcient, that it involves no responsibilities, and that it leaves 
-its masters not only stronger in themselves, but wholly free to fulfil their 
-essential Natures. Its abuse is an abomination. 
-
-
-27 
-
-
-
-CBAPTER V 
-
-
-The Formula of I.A.O. 
+### CHAPTER V - The Formula of I.A.O. 
 
 This formula is the principal and most characteristic formula 
 of Osiris, of the Rédemption of Mankind. I is Isis, Nature, 
@@ -25435,28 +25075,52 @@ LECRAM. IM P. PARIS
 
 [^17] Equally, of course, we hâve no means of knowing what we really are. We are limited to symbols. And it is certain that ail our sense-perceptions give only partial aspects of their objects. Sight, for instance, tells us very little about solidity, weight, composition, electrical character, thermal conductivity, etc., etc. It says nothing at ail about the very existence of such vitally important ideas as Heat, Hardness, and so on. The impression which the mind combines from the senses can never claim to be accurate or complété. We hâve indeed learnt that nothing is fn itself what it seems to be to us. 
 
-[^18]He is this only by définition. The universe may contain an infinité variety of worlds inaccessible to human apprehension. Yet, for this very reason, they do not exist for the purposes of the argument. Man has, how- ever, some instruments of knowledge; we may, therefore, define the Macrocosm as the totality of things possible to his perception. As évolution deve- lops those instruments, the Macrocosm and the Microcosm extend; but they always maintain their mutual relation. Neither can possess any meaning except in terrns o£ the other. Our ^d^^veries^ are exactly as much of ourselves as they are of Nature. America and Electricity did, in a sense, exist before we were aware of them; but they are even now no more than incomplète ideas, expressed in symbolic terrns of a sériés of relations between two sets of inscrutable phenomena. 
+[^18] He is this only by définition. The universe may contain an infinité variety of worlds inaccessible to human apprehension. Yet, for this very reason, they do not exist for the purposes of the argument. Man has, how- ever, some instruments of knowledge; we may, therefore, define the Macrocosm as the totality of things possible to his perception. As évolution deve- lops those instruments, the Macrocosm and the Microcosm extend; but they always maintain their mutual relation. Neither can possess any meaning except in terrns o£ the other. Our ^d^^veries^ are exactly as much of ourselves as they are of Nature. America and Electricity did, in a sense, exist before we were aware of them; but they are even now no more than incomplète ideas, expressed in symbolic terrns of a sériés of relations between two sets of inscrutable phenomena. 
 
-[^19]Knowledge is, moreover, an impossible conception. Ali propositions corne ultimately back to “A is A”. 
+[^19] Knowledge is, moreover, an impossible conception. Ali propositions corne ultimately back to “A is A”. 
 
-[^20]See the “Book of the Sacred Magic of Abramelin the Mage”; and Liber 418, 8th Aethyr, Liber Samekh; see Appendix 3.
+[^20] See the “Book of the Sacred Magic of Abramelin the Mage”; and Liber 418, 8th Aethyr, Liber Samekh; see Appendix 3.
 
-[^21]The différence between these operations is more of theoreticaî than of practical importance. 
+[^21] The différence between these operations is more of theoreticaî than of practical importance. 
 
-[^22]There are much deeper considérations in which it appears that “Everything that is, is right”. They are set forth elsewhere; we can only summarise them here by saying that the survîval of the frttest is their upshot. 
+[^22] There are much deeper considérations in which it appears that “Everything that is, is right”. They are set forth elsewhere; we can only summarise them here by saying that the survîval of the frttest is their upshot. 
 
-[^23]The ideaî method of doing this is given in Liber 913 (Equinox VII). See also Liber CXI Aleph. 
+[^23] The ideaî method of doing this is given in Liber 913 (Equinox VII). See also Liber CXI Aleph. 
 
-[^24]There is a much deeper interprétation in which Pentheus is himself “The Dying God”. See my “Good Hunting!” and Dr. J. G. Frazer’s “Golden Bough 
+[^24] There is a much deeper interprétation in which Pentheus is himself “The Dying God”. See my “Good Hunting!” and Dr. J. G. Frazer’s “Golden Bough 
 
-[^25]See “The Book of Lies,” Liber 333, for se vend sermons to this effect. Caps. A, A f H, LE, II, IH, KA, KH, in particular. The reincarnation of the Khu or magical Self is another matter entirely, too abstruse to discuss in this elementary manual. 
+[^25] See “The Book of Lies,” Liber 333, for se vend sermons to this effect. Caps. A, A f H, LE, II, IH, KA, KH, in particular. The reincarnation of the Khu or magical Self is another matter entirely, too abstruse to discuss in this elementary manual. 
 
-[^26]See “The Book of Lies”, Liber 333, for several sermons to this effect. The whole theory of Death must be sought in Liber CXI Aleph. 
+[^26] See “The Book of Lies”, Liber 333, for several sermons to this effect. The whole theory of Death must be sought in Liber CXI Aleph. 
 
-[^27]This name. I. A. O. is qabalistically identical with that of The Beast and with His number 666, so that he who invokes the former invokes also the îatter. Also with AIWAZ and the Number 93. See Chapter V. 
+[^27] This name. I. A. O. is qabalistically identical with that of The Beast and with His number 666, so that he who invokes the former invokes also the îatter. Also with AIWAZ and the Number 93. See Chapter V. 
 
-[^28]Beware, O brother, lest thou bend the knee! Liber CCXX teaches the proper attitude. See also Liber CCCLXX. Infra, furthermore, there is special instruction: Chapter XV and elsewhere. 
+[^28] Beware, O brother, lest thou bend the knee! Liber CCXX teaches the proper attitude. See also Liber CCCLXX. Infra, furthermore, there is special instruction: Chapter XV and elsewhere. 
 
-[^29]Considerations which might lead to a contrary conclusion are unsuited to this treatise. See Liber LXXXI. 
+[^29] Considerations which might lead to a contrary conclusion are unsuited to this treatise. See Liber LXXXI. 
 
-[^30]Later, these remarks are amplified, and to some extent modified. 
+[^30] Later, these remarks are amplified, and to some extent modified. 
+
+[^31] He could do this provided that he can travel with a speed exceeding that of Light, as he does. See A. S. Eddington a Space, Time, and Gravitation”. Also : what means “at once”? 
+
+[^32] Yod, Hé, Yau, Hé, the Ineffable Name (Jehovah) of the Hebrews. The four letters refer respectively to the four “elements”, Fire, Water, Air, Earth, in the order named. 
+
+[^33] There is a further mystery herein, far deeper, for initiates. 
+
+[^34] The formula of Tetragrammaton, as ordinarily understood, ending with the appearance of the daughter, is indeed a degradation. 
+
+[^35] “Gods” are the Forces of Nature; their “Names” are the Laws of Nature. Thus They are eternal, omnipotent, omnipresent and so on; and thus their “Wills” are immutable and absolute. 
+
+[^36] It represents Sakti, or Teh; femininity always means form, manifestation. The masculine Siva, or Tao, is always a concealed force. 
+
+[^37] The letters Aleph and Lamed are infinitely important in this Aeon of Horus; they are indeed the Key of the Book of the Law. No more can be said in this place that that Aleph is Harpocrates, Bacchus Diphues, the Holy Ghost, the “Pure Fool” or Innocent Babe who is also the Wandering Singer who impregnates the King’s Daughter with Himself as Her Child; Lamed is the King’s Daughter, satisfied by Him, holding His “Sword and Balances” in her lap. These weapons are the Judge, armed with power to execute His Will, and Two Witnesses “in whom shall every Truth be established” in accordance with whose testimony he gives judgment. 
+
+[^38] In the symbolism above outlined, Yod is the Mercurial “Virgin Word”, the Spermatozoon concealing its light under a cloke; and Mem is the amniotic fluid, the flood wherein is the Life-bearing Ark. See A. Crowley “The Ship”, Equinox I, X. 
+
+[^39] The letter Hé is the formula of Nuith, which makes possible the process described in the previous notes. But it is not permissible here to explain fully the exact matter or manner of this adjustment. I hâve preferred the exoteric attributions, which are sufficiently informative for the beginner. 
+
+[^40] AMA is 42, the number of sterility; AIMA, 52, that of fertility, of BN, the SON. 
+
+[^41] See A. Crowley “Orpheus" for an Invocation of this Goddess. 
+
+[^42] The initiate of the XI° of O.T.O. will remark that there is a totally different formula of ALIM, complementary with that here discussed. 81 may be regarded as a number of Yesod rather than of Luna. The actual meaning of the word may be taken as indicating the formula. Aleph may be referred to Harpocrates, with allusion to the well-known poem of Catullus. Lamed may imply the exaltation of Saturn, and suggest the Three of Swords in a particular manner. Yod will then recall Hermes, and Mem the Hanged Man. We have thus a Tetragrammaton which contains no feminine component. The initial Force is here the Holy Spirit and its vehicle or weapon the “Sword and Balances . Justice is then done upon the Mercurial “Virgin”, with the result that the Man is “Hanged” or extended, and is slain in this manner. Such an operation makes creation impossible — as in the former case; but here there is no question of re-arrangement; the Creative force is employed deliberately for destruction, and is entirely absorbed in its own sphere (or cylinder, on Einstein’s équations) of action. This Work is to be regarded as Holiness to the Lord”. The Hebrews, in fact, conferred the title of Qadosh (holy) upon its adepts. Its effect is to consecrate the Magicians who perform it in a very special way. We may take note also of the correspondance of Nine with Teth, XI, Leo, and the Serpent. The great merits of this formula are that it avoids contact with the inferior planes, that it is self-sufficient, that it involves no responsibilities, and that it leaves its masters not only stronger in themselves, but wholly free to fulfil their essential Natures. Its abuse is an abomination. 
