@@ -23,7 +23,7 @@ if [ ! -f "$COVER_IMAGE" ]; then
 fi
 
 # Run pandoc command to generate EPUB
-pandoc "$CONTENT_FILE" -o "$OUTPUT_FILE" --metadata-file="$METADATA_FILE" --epub-cover-image="$COVER_IMAGE" --toc --split-level=3
+pandoc "$CONTENT_FILE" -o "$OUTPUT_FILE" --metadata-file="$METADATA_FILE" --epub-cover-image="$COVER_IMAGE" --epub-embed-font=rosecaps.TTF --toc --split-level=3
 
 # Check if pandoc command was successful
 if [ $? -eq 0 ]; then

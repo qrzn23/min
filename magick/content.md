@@ -43,7 +43,7 @@ SOPH. AJ.
 > From the spring!  
 > Come with flute and come with pipe!  
 > Am I not ripe?  
-> I, who wait and writhe and wrestle  
+> I, who wart and writhe and wrestle  
 > With air that hath no boughs to nestle  
 > My body, weary of empty clasp,  
 > Strong as a lion and sharp as an asp —  
@@ -89,7 +89,7 @@ SOPH. AJ.
 
 “Wherever sympathetic magic occurs in its pure unadulterated form, it is assumed that in nature one event follows another necessarily and invariably without the intervention of any spiritual or personal agency. 
 
-> **Thus its fundamental conception is identical with that of modern science; underlying the whole System is a faith, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur fallure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.” 
+> **Thus its fundamental conception is identical with that of modern science; underlying the whole System is a farth, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur failure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.” 
 Dr. J. G. FRAZER, *«The Golden Bough*
 
 
@@ -200,11 +200,11 @@ In one sense Magick may be deemed as the name given to Science by the vulgar.
 
 **(3) Every failure proves that one or more requirements of the postulate have not been fulfilled.**
 
-(Illustration: There may be fallure to understand the case; as when a doctor makes a wrong diagnosis, and his treatment injures his patient. There may be fallure to apply the right kind of force, as when a rustic tries to blow out an electric light. There may be fallure to apply the right degree of force, as when a wrestler has his hold broken. There may be fallure to apply the force in the right manner, as when one presents a cheque at the wrong window of the Bank. There may be fallure to employ the correct medium, as when Leonardo da Vinci found his masterpiece fade away. The force may be applied to an unsuitable object, as when one tries to crack a stone, thinking it a nut.) 
+(Illustration: There may be failure to understand the case; as when a doctor makes a wrong diagnosis, and his treatment injures his patient. There may be fallure to apply the right kind of force, as when a rustic tries to blow out an electric light. There may be fallure to apply the right degree of force, as when a wrestler has his hold broken. There may be fallure to apply the force in the right manner, as when one presents a cheque at the wrong window of the Bank. There may be fallure to employ the correct medium, as when Leonardo da Vinci found his masterpiece fade away. The force may be applied to an unsuitable object, as when one tries to crack a stone, thinking it a nut.) 
 
 **(4) The first requisite for causing any change is ihorough qualitative and quantitative understanding of the conditions.**
 
-(Illustration: The most common cause of fallure in life is ignorance of one’s own True Will, or of the means by which to fulfil that ill. A man may fancy himself a painter, and waste his life trying to become one; or he may be really a painter, and yet fall to understand and to measure the difficulties peculiar to that career.) 
+(Illustration: The most common cause of failure in life is ignorance of one’s own True Will, or of the means by which to fulfil that ill. A man may fancy himself a painter, and waste his life trying to become one; or he may be really a painter, and yet fall to understand and to measure the difficulties peculiar to that career.) 
 
 **(5) The second requisite of causing any change is the practical ability to set in right motion the necessary forces.**
 
@@ -220,7 +220,7 @@ That is to say, every human being is intrinsically an independent individual wit
 
 **(8) A Man whose conscious will is at odds with his True Will is wasting his strength. He cannot hope to influence his environment efficiently.**
 
-(Illustration: When Civil War rages in a nation, it is in no condition to undertake the invasion of other countries. A man with cancei employs his nourishment alike to his own use and to that of the enemy which is part of himself. He soon falls to resist the pressure of his environment. In practical life, a man who is doing what his conscience tells him to be wrong will do it verv clumsily. At first!) 
+(Illustration: When Civil War rages in a nation, it is in no condition to undertake the invasion of other countries. A man with cancei employs his nourishment alike to his own use and to that of the enemy which is part of himself. He soon falls to resist the pressure of his environment. In practical life, a man who is doing what his conscience tells him to be wrong will do it very clumsily. At first!) 
 
 **(9) A man who is doing his True Will has the inertia of fhe Universe to assist him.**
 
@@ -270,7 +270,7 @@ That is to say, every human being is intrinsically an independent individual wit
 
 (Illustration: You cannot make a silk purse ont of a sow’s ear. A true man of science learns from every phenomenon. But Nature is dumb to the hypocrite; for in her there is nothing false.^[It is no objection that the hypocrite is himself part of Nature. He is an “endothermic” product, divided against himself, with a tendency to break up. He will see his own qualities everywhere, and thus obtain a radical misconception of phenomena. Most religions of the past have falled by expecting Nature to conform with their ideals of proper conduct.]) 
 
-**(21) There is no limit to the extent of the relations of any man with the Universe in essence; for as soon as man makes himself one with any idea the means of measurement cease to exist. But liis power to utilize that force is limited by his mental power and capacity, and by the circumstances of his human environment.**
+**(21) There is no limit to the extent of the relations of any man with the Universe in essence; for as soon as man makes himself one with any idea the means of measurement cease to exist. But his power to utilize that force is limited by his mental power and capacity, and by the circumstances of his human environment.**
 
 (Illustration: When a man falls in love, the whole world becomes, to him, nothing but love boundless and immanent; but his mystical State is not contagious; his fellow-men are either amused or annoyed. He can only extend to others the effect which his love has had upon himself by means of his mental and physical qualities. Thus, Catullus, Dante and Swinburne made their love a mighty mover of mankind by virtue of their power to put their thoughts on the subject in musical and eloquent language. Again, Cleopatra and other people in authority moulded the fortunes of many other people by allowing love to influence their political actions. The Magician, however well he succeed in making contact with the secret sources of energy in nature, can only use them to the extent permitted by his intellectual and moral qualities. Mohammed’s intercourse with Gabriel was only effective because of his statesmanship, soldiership, and the sublimity of his command of Arabic. Hertz’s discovery of the rays which we now use for wireless telegraphy was sterile until reflected through the minds and wills of the people who could take his truth, and transmit it to the world of action bv means of mechanical and economic instruments.) 
 
@@ -338,7 +338,7 @@ Let us make an analogy. A nation must become aware of its own character before i
 
 it was pulled down and broken into pieces by provincialism and democracy, so that neither individual excellence nor civic virtue has yet avalled to raise it again to that majestic unity which made so bold a bid for the mastery of the race of man. 
 
-The sincere student will discover, behind the symbolic technicalities of this book, a practical method of making himself a Magician. The processes described will enable him to discriminate between what he actually is, and what he has fondly imagined himself to be.^[Professor Sigmund Freud and his school have, in recent years, discovered a part of this body of Truth, which has been taught for many centuries in the Sanctuaries of Initiation. But fallure to grasp the fullness of Truth, especially that implied in my Sixth Theorem (above) and its corollaries, has led him and his followers into the error of admitting that the avowedly suicidai “Censor” is the proper arbiter of conduct. Official psycho-analysis is therefore committed to upholding a fraud, although the foundation of the science was the observation of the disastrous effects on the individual of being false to his Unconscious Self, whose "writing on the wall” in dream language is the record of the sum of the essential tendencies of the true nature of the individual. The result has been that psycho-analysts have misinterpreted life, and announced the absurdity that every human being is essentially an anti-social, criminal, and insane animal. It is evident that the errors of the Unconscious of which the psycho-analysts complain are neither more nor less than the “original sin” of the theologians whom they despise so heartily.] He must behold his soul in all its awful nakedness, he must not fear to look on that appalling actuality. He must discard the gaudy garments with which his shame has screened him; he must accept the fact that nothing can make him anything but what he is. He may lie to himself, drug himself, hide himself; but he is always there. Magick will teach him that his mind is playing him traitor. It is as if a man were told that tallors’ fashion-plates were the canon of human beauty, so that he tried to make himself formless and featureless like them, and shuddered with horror at the idea of Holbein making a portrait of him. Magick will show him the beauty and majesty of the self which he has tried to suppress and disguise. 
+The sincere student will discover, behind the symbolic technicalities of this book, a practical method of making himself a Magician. The processes described will enable him to discriminate between what he actually is, and what he has fondly imagined himself to be.^[Professor Sigmund Freud and his school have, in recent years, discovered a part of this body of Truth, which has been taught for many centuries in the Sanctuaries of Initiation. But failure to grasp the fullness of Truth, especially that implied in my Sixth Theorem (above) and its corollaries, has led him and his followers into the error of admitting that the avowedly suicidai “Censor” is the proper arbiter of conduct. Official psycho-analysis is therefore committed to upholding a fraud, although the foundation of the science was the observation of the disastrous effects on the individual of being false to his Unconscious Self, whose "writing on the wall” in dream language is the record of the sum of the essential tendencies of the true nature of the individual. The result has been that psycho-analysts have misinterpreted life, and announced the absurdity that every human being is essentially an anti-social, criminal, and insane animal. It is evident that the errors of the Unconscious of which the psycho-analysts complain are neither more nor less than the “original sin” of the theologians whom they despise so heartily.] He must behold his soul in all its awful nakedness, he must not fear to look on that appalling actuality. He must discard the gaudy garments with which his shame has screened him; he must accept the fact that nothing can make him anything but what he is. He may lie to himself, drug himself, hide himself; but he is always there. Magick will teach him that his mind is playing him trartor. It is as if a man were told that tallors’ fashion-plates were the canon of human beauty, so that he tried to make himself formless and featureless like them, and shuddered with horror at the idea of Holbein making a portrait of him. Magick will show him the beauty and majesty of the self which he has tried to suppress and disguise. 
 
 Having discovered his identity, he will soon perceive his purpose. Another process will show him how to make that purpose pure and powerful. He may then learn how to estimate his environment, learn how to make allies, how to make himself prevail against all powers whose error has caused them to wander across his path. In the course of this Training, he will learn to explore the Hidden Mysteries of Nature, and to develop new senses and faculties in himself, whereby he may communicate with, and control, Beings and Forces pertaining to orders of existence which have been hitherto inaccessible to profane research, and available only to that unscientific and empirical 
 
@@ -529,7 +529,7 @@ Let us say, once again, that the magical language is nothing but a convenient Sy
 
 Yet this is true also, that, once the language is mastered, one can divine the unknown by study of the known, just as one’s knowledge of Latin and Greek enables one to understand some unfamiliar English word derived from those sources. Also, there is the similar case of the Periodic Law in Chemistry, which enables Science to prophesy, and so in the end to discover, the existence of certain previously unsuspected elements in nature. **All discussions upon philosophy are necessarily sterile, since truth is beyond language. Tliey are, however, useful if carried far enough — if carried to the point when it becomes apparent that all arguments are arguments in a circle.**^[See “The Soldier and the Hunchback" Equinox I, I. The apparatus of human reason is simply one particular System of coordinating impressions; its structure is determined by the course of the evolution of the species. It is no more absolute than the evolution of the species. It is no more absolute than the mechanism of our muscles is a complete type wherewith ali other Systems of transmitting Force must conform.] But discussions of the details of purely imaginary: qualities are frivolous and may be deadly. For the great danger of this magical theory is that the student may mistake the alphabet for the things which the words represent. 
 
-An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a ait was a creature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense.^[Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to have known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the supreme atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is evident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it.] 
+An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a art was a creature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense.^[Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to have known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the supreme atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is evident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it.] 
 
 A synopsis of the grades of the A. A., as illustrative of the Magical Hierarchy in Man is given in Appendix 2 “One Star in Sight.” This should be read before proceeding with the chapter. The subject is very difficult. To deal with it in full is entirely beyond the limits of this small treatise. 
 
@@ -556,7 +556,7 @@ Imagine an inhabitant of Mars who wished to philosophise about the earth, and ha
 
 **There is a single main definition of the object of all magical Ritual. It is the uniting of the Microcosm with the Macrocosm. The Supreme and Complete Ritual is therefore the Invocation of the Holy Guardian Angel;**^[See the “Book of the Sacred Magic of Abramelin the Mage”; and Liber 418, 8th Aethyr, Liber Samekh; see Appendix 3.] **or, in the language of Mysticism, Union with God.**^[The difference between these operations is more of theoreticai than of practical importance.]
 
-All other magical Rituals are particular cases of this general principle, and the only excuse for doing them is that it sometimes occurs that one particular portion of the microcosm is so weak that its imperfection of impurity would vitiate the Macrocosm of which it is the image, Eidolon, or Reflexion. For example, God is above sex; and therefore neither man nor woman as such can be said fully to understand, much less to represent, God. It is therefore incumbent on the male magician to cultivate those female virtues in which he is deficient, and this task he must of course accomplish without in any way impairing his virility. It will then be lawful for a magician to invoke Isis, and identify himself with her; if he fall to do this, his apprehension of the Universe when he attains Samadhi will lack the conception of maternity. The result will be a metaphysical and — by corollary — ethical limitation in the Religion which he founds. Judaism and Islam are striking examples of this fallure.
+All other magical Rituals are particular cases of this general principle, and the only excuse for doing them is that it sometimes occurs that one particular portion of the microcosm is so weak that its imperfection of impurity would vitiate the Macrocosm of which it is the image, Eidolon, or Reflexion. For example, God is above sex; and therefore neither man nor woman as such can be said fully to understand, much less to represent, God. It is therefore incumbent on the male magician to cultivate those female virtues in which he is deficient, and this task he must of course accomplish without in any way impairing his virility. It will then be lawful for a magician to invoke Isis, and identify himself with her; if he fall to do this, his apprehension of the Universe when he attains Samadhi will lack the conception of maternity. The result will be a metaphysical and — by corollary — ethical limitation in the Religion which he founds. Judaism and Islam are striking examples of this failure.
 
 To take another example, the ascetic life which devition to magick so often involves argues a poverty of nature, a narrowness, a lack of generosity. Nature is infinitely prodigal — not one in a million seeds ever comes to fruition. Whoso falls to recognise this, let him invoke Jupiter.^[There are much deeper considerations in which it appears that “Everything that is, is right”. They are set forth elsewhere; we can only summarise them here by saying that the survival of the frttest is their upshot.] 
 
@@ -764,7 +764,7 @@ These symbols are all shewn in the Atu “The Hermit”. They are the powers of 
 
 A is the Babe “who has formulated his Father, and made fertile his Mother” — Harpocrates, etc., as before; but he develops to 
 
-O The exalted “Devil” (also the other secret Eye) by the formula of the Initiation of Horus elsewhere described in detail. This “Devil” is called Satan or Shaitan, and regarded with horror by people who are ignorant of his formula, and, imagining themselves to be evil, accuse Nature herself of their own phantasmal crime. Satan is Saturn, Set, Abrasax, Adad, Adonis, Attis, Adam, Adonai, etc. The most serious charge against him is only that he is the Sun in the South. The Ancient Initiates, dwelling as they did in lands whose blood was the water of the Nile or the Euphrates, connectee! the South with life-withering heat and cursed that quarter where the solar darts were deadliest. Even in the legend of Hiram, it is at high noon that he is stricken down and slain. Capricornus is moreover the sign which the Sun enters when he reaches his extreme Southern declination at the Winter Solstice, the season of the death of vegetation, for the folk of the Northern hemisphere. This gave them a second cause for cursing the South. A third; the tyranny of hot, dry, poisonous winds; the menace of deserts or oceans dreadful because mysterious and impassable; these also were connected in their minds with the South. But to us, aware of astronomical facts, this antagonism to the South is a silly superstition which the accidents of their local conditions suggested to our animistic ancestors. We see no enmity between Right and Left, Up and Down, and similar pairs of opposites. These antitheses are real only as a statement of relation; they are the conventions of an arbitrary device for representing our ideas in a pluralistic symbolism based on duality. “Good” must be defined in terms of human ideals and instincts. “East” has no meaning except with reference to the earth’s internal affairs; as an absolute direction in space it changes a degree every four minutes. “Up” is the same for no two men, unless one chance to be in the line joining the other with the centre of the earth. “Hard” is the private opinion of our muscles. “True” is an utterly unintelligible epithet which has proved refractory to the analysis of our ablest philosophers. 
+O The exalted “Devil” (also the other secret Eye) by the formula of the Initiation of Horus elsewhere described in detail. This “Devil” is called Satan or Shartan, and regarded with horror by people who are ignorant of his formula, and, imagining themselves to be evil, accuse Nature herself of their own phantasmal crime. Satan is Saturn, Set, Abrasax, Adad, Adonis, Attis, Adam, Adonai, etc. The most serious charge against him is only that he is the Sun in the South. The Ancient Initiates, dwelling as they did in lands whose blood was the water of the Nile or the Euphrates, connectee! the South with life-withering heat and cursed that quarter where the solar darts were deadliest. Even in the legend of Hiram, it is at high noon that he is stricken down and slain. Capricornus is moreover the sign which the Sun enters when he reaches his extreme Southern declination at the Winter Solstice, the season of the death of vegetation, for the folk of the Northern hemisphere. This gave them a second cause for cursing the South. A third; the tyranny of hot, dry, poisonous winds; the menace of deserts or oceans dreadful because mysterious and impassable; these also were connected in their minds with the South. But to us, aware of astronomical facts, this antagonism to the South is a silly superstition which the accidents of their local conditions suggested to our animistic ancestors. We see no enmity between Right and Left, Up and Down, and similar pairs of opposites. These antitheses are real only as a statement of relation; they are the conventions of an arbitrary device for representing our ideas in a pluralistic symbolism based on duality. “Good” must be defined in terms of human ideals and instincts. “East” has no meaning except with reference to the earth’s internal affairs; as an absolute direction in space it changes a degree every four minutes. “Up” is the same for no two men, unless one chance to be in the line joining the other with the centre of the earth. “Hard” is the private opinion of our muscles. “True” is an utterly unintelligible epithet which has proved refractory to the analysis of our ablest philosophers. 
 
 We have therefore no scruple in restoring the “devil-worship” of such ideas as those which the laws of sound, and the phenomena of speech and hearing, compel us to connect with the group of “Gods” whose names are based upon ShT or D, vocalized by the free breath A. For these Names imply the qualifies of courage, frankness, energy, pride, power and triumph; they are the words which express the creative and paternal will. 
 
@@ -914,7 +914,7 @@ If one were to wake up in a boat on a strange river, it would be rash to conclud
 
 Liber Thisarb describes a method of obtaining the Magical Memory by learning to remember backwards. But the careful practice of Dharana is perhaps more generally useful. As one prevents the more accessible thoughts from arising, we strike deeper strata — memories of childhood reawaken. Still deeper lies a class of thoughts whose origin puzzles us. Sojne of these apparently belong to former incarnations. By cultivating these departments of one’s mind we can develop them; we become expert ; we form an organized coherence of these originally disconnected elements ; the faculty grows with astonishing rapidity, once the knack of the business is mastered. 
 
-It is much easier (for obvious reasons) to acquire the Magical Memory when one has been sworn for many lives to reincarnate immediately. The great obstacle is the phenomenon called Freudian forgetfulness; that is to say, that, though an unpleasant event may be recorded faithfully enough by the mechanism of the brain, we fall to recall it, or recall it wrong, because it is painful. “The Psychopathology of Everyday Life” analyses and illustrates this phenomenon in detail. Now, the King of Terrors being Death, it is hard indeed to look it in the face. Mankind has created a host of phantastic masks; people talk of “going to heaven”, “passing over”, and so on; banners flaunted from paste-board towers of baseless theories. One instinctively flinches from remembering one’s last, as one does from imagining one’s next, death^[This latter is a very valuable practice to perforai. See Liber HHH; also read up the Buddhist meditations on the Ten Impurities.].
+It is much easier (for obvious reasons) to acquire the Magical Memory when one has been sworn for many lives to reincarnate immediately. The great obstacle is the phenomenon called Freudian forgetfulness; that is to say, that, though an unpleasant event may be recorded farthfully enough by the mechanism of the brain, we fall to recall it, or recall it wrong, because it is painful. “The Psychopathology of Everyday Life” analyses and illustrates this phenomenon in detail. Now, the King of Terrors being Death, it is hard indeed to look it in the face. Mankind has created a host of phantastic masks; people talk of “going to heaven”, “passing over”, and so on; banners flaunted from paste-board towers of baseless theories. One instinctively flinches from remembering one’s last, as one does from imagining one’s next, death^[This latter is a very valuable practice to perforai. See Liber HHH; also read up the Buddhist meditations on the Ten Impurities.].
 
 The point of view of the initiate helps one immensely. As soon as one has passed this Pons Asinorum, the practice becomes much easier. It is much less trouble to reach the life before the last; familiarity with death breeds contempt for it. 
 
@@ -1028,7 +1028,7 @@ They start on it at a great pace, and then find that their boots are covered wit
 
 Another recommendation was this: **buy whatever may be necessary without haggling!**
 
-**You must not try to strike a proportion between the values of incommensurable things.**^[However closely the square of any fraction approximates to 2, no fraction equals root of 2. root of 2 is not in the series; it is a different kind of number altogether.] **The least of the Magical Instruments is worth infinitely more than all that you possess**, or, if you like, than all that you stupidly suppose yourself to possess. Break this rule, and the usual Nemesis of the half-hearted awaits you. Not only do you get inferior instruments, but you lose in some other way what you thought you were so clever to have saved. Remember Ananias!^[Observe well that there is never any real equivalence or measurable relation between any two things, for each is impregnably Itself. The exchange of property is not a mathematically accurate equation. The Wand is merely a conventional expression of the Will, just as a word is of a thought. It can never be anything else; thus, though the process of making it, whether it involves time, money, or labour, is a spiritual and moral synthesis, it is not measurable in terms of its elements.]
+**You must not try to strike a proportion between the values of incommensurable things.**^[However closely the square of any fraction approximates to 2, no fraction equals root of 2. root of 2 is not in the series; it is a different kind of number altogether.] **The least of the Magical Instruments is worth infinitely more than all that you possess**, or, if you like, than all that you stupidly suppose yourself to possess. Break this rule, and the usual Nemesis of the half-hearted awarts you. Not only do you get inferior instruments, but you lose in some other way what you thought you were so clever to have saved. Remember Ananias!^[Observe well that there is never any real equivalence or measurable relation between any two things, for each is impregnably Itself. The exchange of property is not a mathematically accurate equation. The Wand is merely a conventional expression of the Will, just as a word is of a thought. It can never be anything else; thus, though the process of making it, whether it involves time, money, or labour, is a spiritual and moral synthesis, it is not measurable in terms of its elements.]
 
 On the other hand, if you purchase without haggling you will find that along with your purchase the vendor has thrown in the purse of Fortunatus. No matter in what extremity you may seem to be, at the last moment your difficulties will be solved. **For there is no power either of the firmament or of the etlier, or of the eartli or under the earth, on dry land or in the water, of whirling air or of rushing fire, or any spell or scourge of God which is not obedient to the necessity of the Magician!** That which he has, he has not; but that which he is, he is; and that which he will be, he will be. And neither God nor Man, nor all the malice of Choronzon, can either check him, or cause him to waver for one instant upon the Path. This command and this promise have been given by all the Magi without exception. And where this command has been obeyed, this promise has been most certainly fulfilled. 
 
@@ -1137,7 +1137,7 @@ We need not dwell upon this point ; but it seems worth while to answer one of th
 
 “The conclusion is that one should do one’s Will ‘without lust of result’. If one is working in accordance with the laws of one’s own nature, one is doing ‘right’; and no such Work can be criticised as ‘useless’, even in cases of the character here discussed. So long as one’s Will prevails, there is no cause for complaint. 
 
-“To abandon one’s Magick would shew lack of self-confidence in one’s powers, and doubt as to one’s inmost faith in Self and in Nature.^[i.e. on the ground that one cannot understand how Magick can produce the desired effects. For if one possesses the inclination to do Magick, it is evidence of a tendency in one’s Nature. Nobody understands fully how the mind moves the muscles; but we know that lack of confidence on this point means paralysis. “If the Sun and Moon should doubt, They’d immediately go out”, as Blake said. Also, as I said myself. “Who hath the How is careless of the Why”.]
+“To abandon one’s Magick would shew lack of self-confidence in one’s powers, and doubt as to one’s inmost farth in Self and in Nature.^[i.e. on the ground that one cannot understand how Magick can produce the desired effects. For if one possesses the inclination to do Magick, it is evidence of a tendency in one’s Nature. Nobody understands fully how the mind moves the muscles; but we know that lack of confidence on this point means paralysis. “If the Sun and Moon should doubt, They’d immediately go out”, as Blake said. Also, as I said myself. “Who hath the How is careless of the Why”.]
 
 Of course one changes one’s methods as experience indicates; but there is no need to change them on any such ground as the above. 
 
@@ -1156,7 +1156,7 @@ Of course one changes one’s methods as experience indicates; but there is no n
 “Indeed, there seems to be no undue presumption in urging that no Science possesses equal possibilities of deep and important Knowledge;^[Magick is less liable to lead to error than any other Science, because its terms are interchangeable, by definition, so that it is based on relativity from the start. We run no risk of asserting absolute propositions. Furthermore we make our measurements in terms of the object measured, thus avoiding the absurdity of defining metaphysical ideas by mutable standards, (Cf. Eddington “Space, Time, and Gravitation, Prologue.) of being forced to attribute the qualities of human conscious- ness to inanimate things (Poincare, “La mesure du temps”), and of asserting that we know anything of the universe in itself, though the nature of our senses and our minds necessanly determines our observations, so that the limit of our knowledge is subjective, just as a thermometer can record nothing but its own reaction to one particular type of Energy. Magick recognizes frankly (1) that truth is relative, subjective, and apparent; (2) that Truth implies Omniscience, which is unattainable by mind, being transfinite; just as if one tried to malce an exact map of Engiand in England, that map must contain a map of the map, and so on, ad infinitum; (3) that logical contradiction is inherent in reason, (Russell,“Introduction to Mathematical Philosophy”, p. 136; Crowley, Eleusis , and elsewhere); (4) that a Continuum requires a Continuum to be commensurable with it: (5) that Empiricism is ineluctable, and therefore that adjustment is the only possible method of action; and (6) that error may be avoided by opposing no resistance to change, and registering observed phenomena in their own language.], that no Art offers such opportunites to the ambition of the Soul to express its Truth, in Ecstasy, through Beauty; and that no Sport rivais its fascinations of danger and delight, so excites, exercises, and tests its devotees to the uttermost, or so rewards them by well-being, pride, and the passionate pleasures of Personal triumph. 
 
 “Magick takes every thought and act for ifs apparatus; it has the Universe for its Library and its Laboratory; all Nature is its Subject; and its Game, free from close seasons and protective restrictions, always abounds in infinite variety, being all that 
-exists.^[The elasticity of Magick makes it equal to all possible kinds of environment, and therefore biologically perfect. “Do what thou wilt” implies self-adjustment, so that fallure cannot occur. One’s true Will is necessarily fitted to the whole Universe with the utmost exactitude, because each term in the equation a + b+c=0 must be equal and opposite to the sum of all the other terms. No individual can ever be aught than himself, or do aught else than his Will, which is his necessary relation with his environment, dynamically considered. all error is no more than an illusion proper to him to dissipate the mirage, and it is a general law that the method of accomplishing this operation is to realize, and to acquiesce in, the order of the Universe, and to refrain from attempting the impossible task of overcoming the inertia of the forces which oppose, and therefore are identical with, one’s self. Error in thought is therefore fallure to understand, and in action to perform one s own true Will.]
+exists.^[The elasticity of Magick makes it equal to all possible kinds of environment, and therefore biologically perfect. “Do what thou wilt” implies self-adjustment, so that failure cannot occur. One’s true Will is necessarily fitted to the whole Universe with the utmost exactitude, because each term in the equation a + b+c=0 must be equal and opposite to the sum of all the other terms. No individual can ever be aught than himself, or do aught else than his Will, which is his necessary relation with his environment, dynamically considered. all error is no more than an illusion proper to him to dissipate the mirage, and it is a general law that the method of accomplishing this operation is to realize, and to acquiesce in, the order of the Universe, and to refrain from attempting the impossible task of overcoming the inertia of the forces which oppose, and therefore are identical with, one’s self. Error in thought is therefore fallure to understand, and in action to perform one s own true Will.]
 
 ### CHAPTER X &mdash; Of THE GESTURES. 
 
@@ -1180,7 +1180,7 @@ appears necessary.
 The principal movement in the circle is circumambulation.^[In Part II of this Book 4 it was assumed that the Magician went barefoot. This would imply his intention to make intimate contact with his Circle. But he may wear sandals, for the Ankh is a sandal-strap; it is borne by the Egyptian Gods to signify their power of Going, that is their eternal energy. By shape the Ankh (or Crux Ansata) suggests the formula by which this Going is efiected in actual practice.]
 
 
-This has a very definite result, but one which is verv difficult to describe. An analogy is the dynamo. **Circumambulation properly performed in combination with the Sign of Horus (or “The Enterer”) on passing the East is one of the best methods of arousing the macrocosmic force in the Circle.** It should never be omitted unless there be some special reason against it. 
+This has a very definite result, but one which is very difficult to describe. An analogy is the dynamo. **Circumambulation properly performed in combination with the Sign of Horus (or “The Enterer”) on passing the East is one of the best methods of arousing the macrocosmic force in the Circle.** It should never be omitted unless there be some special reason against it. 
 
 A particular tread seems appropriate to it. This tread should be light and stealthy, almost furtive, and yet very purposeful. It is the pace of the tiger who stalks the deer. 
 
@@ -1200,7 +1200,7 @@ Good examples of the use of change of position are given in the manuscripts Z.1 
 
 In the construction of a ceremony an important thing to decide is whether you will or will not make such movements. For every Circle has its natural symbolism, and even if no use is to be made of these facts, one must be careful not to let anything be inharmonious with the natural attributions.^[The practical necessities of the work are likely to require certain movements. One should either exclude this symbolism altogether, or else think out everything beforehand, and make it significant. Do not let some actions be symbolic and others haphazard.]
 
-For the sensitive aura of the magician might be disturbed, and the value of the ceremony completely destroyed, by the embarassment caused by the discoverv of some such error, just as if a pre-occupied T-totaller found that he had strayed into a Temple of the Demon Rum! It is therefore impossible to neglect the theory of the Circle. 
+For the sensitive aura of the magician might be disturbed, and the value of the ceremony completely destroyed, by the embarassment caused by the discovery of some such error, just as if a pre-occupied T-totaller found that he had strayed into a Temple of the Demon Rum! It is therefore impossible to neglect the theory of the Circle. 
 
 To take a simple example, suppose that, in an Evocation of Bartzabel, the planet Mars, whose sphere is Geburah (Severity) were situated (actually, in the heavens) opposite to the Square of Chesed (Mercy) of the Tau in the Circle, and the triangle placed accordingly. It would be improper for the Magus to stand on that Square unless using this formula, “I, from Chesed, rule Geburah through the Path of the Lion”; while — taking an extreme case -— to stand on the square of Hod (which is naturally dominated by Geburah) would be a madness which only a formula of the very highest Magick could counteract. 
 
@@ -1251,7 +1251,7 @@ We may conclude with a single illustration of how the above principles may be pu
 
 ### CHAPTER XI &mdash; Of Our Lady Babalon and of the Beast Whereon she Rideth. 
 
-<span class="centered-small-caps">Also concerning Transformations.</span>
+<div class="centered-small-caps">Also concerning Transformations.</div>
 
 #### I 
 
@@ -1287,7 +1287,7 @@ It is not necessary to say much more than this concerning transformations. Those
 ### CHAPTER XII 
 
 
-<span class="centered-small-caps">Of the Bloody Sacrifice : and Matters Cognate.</span>
+<div class="centered-small-caps">Of the Bloody Sacrifice and Matters Cognate.</div>
 
 It is necessary for us to consider carefully the problems connected with the bloody sacrifice, for this question is indeed traditionally important in Magick. Nigh all ancient Magick revolves around this matter. In particular all the Osirian religions — the rites of the Dying God — refer to this, The slaying of Osiris and Adonis ; the mutilation of Attis; the cults of Mexico and Peru; the story of Hercules or Melcarth; the legends of Dionysus and of Mithra, are all connected with this one idea. In the Hebrew religion we find the same thing inculcated. The first ethical lesson in the Bible is that the only sacrifice pleasing to the Lord is the sacrifice of blood; Abel, who made this, finding favour with the Lord, while Cain, who offered cabbages, was rather naturally considered a cheap sport. The idea recurs again and again. We have the sacrifice of the Passover, following on the story of Abraham s being commanded to sacrifice his firstborn son, with the idea of the substitution of animal for human life. The annual ceremony of the two goats carries out this in perpetuity. And we see again the domination of this idea in the romance of Esther, where Haman and Mordecai are the two goats or gods; and ultimately in the presentation of the rite of Purim in Palestine, where Jesus and Barabbas happened to be the Goats in that particular year of which we hear so much, without agreement on the date. 
 
@@ -1326,7 +1326,7 @@ This whole matter is prophesied in the Book of the Law itself ; let the student 
 
 Properly performed, it never falls of its effect. But it is difficult for the beginner to do it satisfactorily, because it is a great effort for the mind to remain concentrated upon the purpose of the ceremony. The overcoming of this difficulty lends most powerful aid to the Magician. 
 
-**It is unwise for him to attempt it until he has received regular initiation in the true**^[It is here desireable to warn the render against the numerous false orders which have impudently assumed the name of Rosicrucian. The Masonic Societas Rosicruciana is honest and harmless; and makes no false pretences; if its members happen as a rule to be pompous busy-bodies, enlarging the borders of their phylacteries, and scrupulous about cleansing the outside of the cup and the platter; if the masks of the Officers in their Mysteries suggest the Owl, the Cat, the Parrot, and the Cuckoo, while the Robe of their Chief Magus is a Lion’s Skin, that is their affair. But those orders run by persons claiming to represent the True Ancient Fraternity are common swindles. The representatives of the late S. L. Mathers (Count McGregor) are the phosphorescence of the rotten wood of a branch which was lopped off the tree at the end of the içth century. Those of Papus (Dr. Encausse), Stanislas de Guaita and Peladan, merit respect as serious, but lack full knowledge and authority. The “Ordo Rosae Crucis” is a mass of ignorance and falsehood, but this may be a deliberate device for masking itself. The test of any Order is its attitude towards the Law of Thelema. The True Order presents the True Symbols, but avoids attaching the True Name thereto; it is only when the Postulant has taken irrevocable Oaths and been received formally, that he discovers what Fraternity he has joined. If he have taken false symbols for true, and find himself magically pledged to a gang of rascals, so much the worse for him!] **Order of the Rosy Cross**, and he must have taken the vows with the fullest comprehension and experience of their meaning. It is also extremely desireable that he should have attained an absolute degree of moral emancipation 1,^[This results from the full acceptance of the Law of THELEMA, persistently put into practice.] and that purity of spirit which results from a perfect understanding both of the differences and harmonies of the planes upon the Tree of Life. 
+**It is unwise for him to attempt it until he has received regular initiation in the true**^[It is here desireable to warn the render against the numerous false orders which have impudently assumed the name of Rosicrucian. The Masonic Societas Rosicruciana is honest and harmless; and makes no false pretences; if its members happen as a rule to be pompous busy-bodies, enlarging the borders of their phylacteries, and scrupulous about cleansing the outside of the cup and the platter; if the masks of the Officers in their Mysteries suggest the Owl, the Cat, the Parrot, and the Cuckoo, while the Robe of their Chief Magus is a Lion’s Skin, that is their affair. But those orders run by persons claiming to represent the True Ancient Fraternity are common swindles. The representatives of the late S. L. Mathers (Count McGregor) are the phosphorescence of the rotten wood of a branch which was lopped off the tree at the end of the içth century. Those of Papus (Dr. Encausse), Stanislas de Guarta and Peladan, merit respect as serious, but lack full knowledge and authority. The “Ordo Rosae Crucis” is a mass of ignorance and falsehood, but this may be a deliberate device for masking itself. The test of any Order is its attitude towards the Law of Thelema. The True Order presents the True Symbols, but avoids attaching the True Name thereto; it is only when the Postulant has taken irrevocable Oaths and been received formally, that he discovers what Fraternity he has joined. If he have taken false symbols for true, and find himself magically pledged to a gang of rascals, so much the worse for him!] **Order of the Rosy Cross**, and he must have taken the vows with the fullest comprehension and experience of their meaning. It is also extremely desireable that he should have attained an absolute degree of moral emancipation 1,^[This results from the full acceptance of the Law of THELEMA, persistently put into practice.] and that purity of spirit which results from a perfect understanding both of the differences and harmonies of the planes upon the Tree of Life. 
 
 For this reason <span class="small-caps">Frater Perdurabo</span> has never dared to use this formula in a fully ceremonial manner, save once only, on an occasion of tremendous import, when, indeed, it was not He that made the offering, but ONE in Him. For he perceived a grave defect in his moral character which he has been able to overcome on the intellectual plane, but not hitherto upon higher planes. Before the conclusion of writing this book he will have done so.^[P.S. With the happiest results. P.]
 
@@ -1351,9 +1351,9 @@ you truly comprehend its meaning.^[There is a traditional saying that whenever a
 
 ### CHAPTER XIII 
 
-<div class="centered-small-caps">Of the Banishings: 
+<div class="centered-small-caps">Of the Banishings:</div>
 
-And of the Purifications.</div> 
+<div class="centered-small-caps">And of the Purifications.</div> 
 
 Cleanliness is next to Godliness, and had better come first. Purity means singleness. God is one. The wand is not a wand if it has something sticking to it which is not an essential part of itself. If you wish to invoke Venus, you do not succeed if there are traces of Saturn mixed up with it. 
 
@@ -1395,4152 +1395,831 @@ Nature and Nurture of the Magical Link.</div>
 
 #### I 
 
-**Consecration is the active dedication of a thing to a single purpose.** Banishing prevents its use for any other purpose, but it remains inert until consecrated. Purification is performed by water, and banishing by air, whose weapon is the sword. Consecration is performed by fire, usually symbolised by the holy oil. 1 
-
-
-
-In most extant magical rituals the two operations are performed at once; or (at least) the banishing has the more important place, and greater pains seem to be taken with it; but as the student advances to Adeptship the banishing will diminish in importance, for it will no longer be so necessary. The Circle of 
-the Magician will have been perfected by his habit of Magical 
-work. In the truest sense of that Word, he will never step outside 
-the Circle during his whole life. But the consecration, being the 
-application of a positive force, can always be raised to a doser 
-approximation to perfection. complete success in banishing is 
-soon attained; but there can be no completeness in the advance to 
-holiness. 
-
-
-I. The general conception is that the three active elements co-operate 
-to affect earth; but earth itself may be employed as an instrument. Its 
-function is solidification. The use of the Pentacle is indeed very necessary 
-in somc types of operation, especially those whose object involves mani¬ 
-festation in matter, and the fixation in (more or less) permanent form of 
-the subtle forces of Nature. 
+**Consecration is the active dedication of a thing to a single purpose.** Banishing prevents its use for any other purpose, but it remains inert until consecrated. Purification is performed by water, and banishing by air, whose weapon is the sword. Consecration is performed by fire, usually symbolised by the holy oil.^[The general conception is that the three active elements co-operate to affect earth; but earth itself may be employed as an instrument. Its function is solidification. The use of the Pentacle is indeed very necessary in somc types of operation, especially those whose object involves manifestation in matter, and the fixation in (more or less) permanent form of the subtle forces of Nature.]
 
+In most extant magical rituals the two operations are performed at once; or (at least) the banishing has the more important place, and greater pains seem to be taken with it; but as the student advances to Adeptship the banishing will diminish in importance, for it will no longer be so necessary. The Circle of the Magician will have been perfected by his habit of Magical work. In the truest sense of that Word, he will never step outside the Circle during his whole life. But the consecration, being the application of a positive force, can always be raised to a closer approximation to perfection. complete success in banishing is soon attained; but there can be no completeness in the advance to holiness. 
 
+**The method of consecration is very simple. Take the wand, or the holy oil, and draw upon the object to be consecrated the supreme symbol of the force to which you dedicate it.** Confirm this dedication in words, invoking the appropriate God to indwell that pure temple which you have prepared for Him. Do this with fervour and love, as if to balance the icy detachment which is the proper mental attitude for banishing.^[The Hebrew legends furnish us with the reason for the respective virtues of water and fire. The world was purified by water at the Deluge, and will be consecrated by lire at the last Judgment. Not until that is finished can the *real ceremony* begin.]
 
-The method of consecration is very simple. Takc thc 
-wand, or the holy oil, and draw upon the object to be 
-consec rated the supreme symbol of the force to which y on 
-dedicate it. Confirm this dedication in words, invoking the 
-appropriate God to indwell that pure temple which you have 
-prepared for Him. Do this with fervour and love, as if to balance 
-the icy detachment which is the proper mental attitude for 
-banishing. 1 
-
-The words of purification are: Asperges me, Therion, hyssopo, 
-et mundabor; lavabis me, et super nivem dealbabor. 
-
-Those of consecration are: Accendat in nobis Therion ignem 
-sui amoris et flammam aeternae caritatis. 2 
-
-These, as initiates of the VIT of O.T.O. are aware, mean more 
-than appears. 
-
-II 
-
-It is a strange circumstance that no Magical writer has hitherto 
-treated the immensely important subject of the Magical Link. 
-It might almost be called the Missing Link. It has apparently 
-always been taken for granted; only lay writers on Magick like 
-Dr. J. G. Frazer have accorded the subject its full importance. 
-
-Let us try to make considerations of the nature of Magick in 
-a strictly scientific spirit, as well as, deprived of the guidance of 
-antiquity, wc may. 
-
-What is a Magical Operation? It may be defined as any event 
-in Nature which is brought to pass by Will. We must not exclude 
-potato-growing or banking from our definition. 
-
-
-1. The Hebrew legends furnish us with the reason for the respective 
-virtues of water and lire. The world was purified by water at the Deluge, 
-and will be consecrated by lire at the last Judgment. Not until that is 
-fmished can the real ceremony begin. 
-
-2. These may now advantageously be replaced by (a) “p ure will 
-unassuaged of purpose, delivered from the lust of result, is every way 
-perfect” (CCXX, I, 44) to banish; and (b) “I am uplifted in thine 
-heart; and the kisses of the stars rain hard upon thy body.” (CCXX, 
-II, 62) to consecrate. For the Book of the Law contains the Supreme 
-Spells. 
-
-
-— 107 
-
-
-
-Let us take a very simple example of a Magical Act: that of a 
-man blowing his nose. What are the conditions of the success of 
-the Operation? Firstly, that the man’s Will should be to blow 
-his nose; secondly, that he should have a nose capable of being 
-blown; thirdly, that he should have at command an apparatus 
-capable of expressing his spiritual Will in terms of material force, 
-and applying that force to the object which he desires to affect. 
-His Will may be as strong and concentrated as that of Jupiter, 
-and his nose may be totally incapable of resistance; but unless the 
-link is made by the use of his nerves and muscles in accordance 
-with psychological, physiological, and physical law, the nose will 
-remain unblown through all eternity. 
-
-Writers on Magick have been unsparing in their efforts to 
-instruct us in the preparation of the Will, but they seem to have 
-imagined that no further precaution was necessary. There is a 
-striking case of an epidemie of this error whose history is familiar 
-to everybody. I refer to Christian Science, and the cognate 
-doctrines of “mental healing” and the like. The theory of such 
-people, stripped of dogmatic furbelows, is perfectly good Magic 
-of its kind, its negroid kind. The idea is correct enough: matter 
-is an illusion created by Will through mind, and consequently 
-susceptible of alteration at the behest of its creator. But the 
-practice has been lacking. They have not developed a scientific 
-technique for applying the Will. It is as if they expected the 
-steam of Watts’ kettle to convey people from place to place 
-without the trouble of inventing and using locomotives. 
-
-Let us apply these considerations to Magick in its restricted 
-sense, the sense in which it was always understood until the 
-Master Therion extended it to cover the entire operations of 
-Nature. 
-
-What is the theory implied in such rituals as those of the 
-Goetia? What does the Magician do? He applies himself to 
-invoke a God, and this God compels the appearance of a spirit 
-whose function is to perform the Will of the Magician at the 
-moment. There is no trace of what may be called machinery in 
-the method. The exorcist hardly takes the pains of preparing a 
-material basis for the spirit to incarnate except the bare connection 
-
-
--— 108 
-
-
-
-of himself with his sigil. It is apparently assumed that the spirit 
-already possesses the means of working on matter. The 
-conception seems to be that of a schoolboy who asks his father to 
-tell the butler to do something for him. In other words, the 
-theory is grossly animistic. The savage tribes described by Frazer 
-had a far more scientific theory. The same may be said of 
-witches, who appear to have been wiser than the thaumaturgists 
-who despised them. — They at least made waxen images — iden- 
-tified by baptism — of the people they wished to control. They 
-at least used appropriate bases for Magical manifestations, such 
-as blood and other vehicles of animal force, with those of 
-vegetable virtue such as herbs. They were also careful to put 
-their bewitched products into actual contact — material or astral 
-— with their victims. The classical exorcists, on the contrary, for 
-all their learning, were careless about this essential condition. 
-They acted as stupidly as people who should Write business letters 
-and omit to post them. 
-
-It is not too much to say that this fallure to understand the 
-conditions of success accounts for the discredit into which Magick 
-fell until Eliphas Levi undertook the task of re-habilitating it two 
-generations ago. But even he (profoundly as he studied, and 
-luminously as he expounded, the nature of Magick considered as 
-a universal formula) paid no attention whatever to that question 
-of the Magical Link, though he everywhere implies that it is 
-essential to the Work. He evaded the question by making the 
-petitio principii of assigning to the Astral Light the power of 
-transmitting vibrations of all kinds. He nowhere enters into 
-detail as to how its effects are produced. He does not inform us 
-as to the qualitative or quantitative laws of this light. (The 
-scientifically trained student will observe the analogy between 
-Levi’s postulate and that of ordinary science in re the luminiferous 
-ether.) 
-
-It is deplorable that nobody should have recorded in a syste- 
-matic form the results of our investigations of the Astral Light. 
-We have no account of its properties or of the laws which obtain 
-in its sphere. Yet these are sufficiently remarkable. We may 
-briefly notice that, in the Astral Light, two or more objects can 
-
-
-— 109 — 
-
-
-occupy the samc space at the same time without interfering wkh 
-each other or losing their outlines. 
-
-In that Light, objects can change their appearance completely 
-without suffering change of Nature. The same thing can reveal 
-itself in an infinite number of different aspects5 in fart, it iden¬ 
-tifies itself by so doing, much as a writer or a painter reveals 
-himself in a succession of novels or pictures, each of which is 
-wholly himself and nothing else, but himself under varied 
-conditions, though each appears utterly different from its fellows. 
-In that Light one is “swift without feet and flying without 
-wings”; one can travel without moving, and communicate without 
-conventional means of expression. One is insensible to heat, cold, 
-pain, and other forms of apprehension, at least in the shapes 
-which are familiar to us in our bodily vehicles. They exist, but 
-they are appreciated by us, and they affect us, in a different 
-manner. In the Astral Light we are bound by what is, super- 
-ficially, an entirely different series of laws. We meet with 
-obstacles of a strange and subtle character ; and we overcome them 
-by an energy and cunning of an order entirely alien to that which 
-serves us in earthly life. In that Light, symbols are not 
-conventions but realities, yet (on the contrary) the beings whom 
-we encounter are only symbols of the realities of our own nature. 
-Our operations in that Light are really the adventures of our 
-own personified thoughts. The universe is a projection of 
-ourse!ves; an image as unreal as that of our faces in a mirror, 
-yet, like that face, the necessary form of expression thereof, 
-not to be altered save as we alter ourselves. 1 The mirror may 
-
-
-I. This passage must not be understood as asserting that the Universe 
-is purely subjective. On the contrary, the Magical Theory accepts the 
-absolute reality of all things in the most objective sense. But all 
-perceptions are neither the observer nor the observed; they are repre¬ 
-sentations of the relation between them. We cannot affirm any quality in 
-an object as being independent of our sensorium, or as being in itself that 
-which it seems to us. Nor can we assume that what we coenize is more 
-than a partial phantom of its cause. We cannot even determine the 
-meaning of such ideas as motion, or distinguish between time and space, 
-except in relation to some particular observer. For example, if I fire a 
-
-
-IÏO 
-
-
-
-be distorted, dull, cloudcd, or cracked j and to tins extrait, due 
-reflection of ourselves may be false even in respect of its symbolk 
-presentation. In that Light, therefore, all that we do is to discover 
-ourselves by means of a sequence of hieroglyphics, and the changes 
-which we apparently operate are in an objective sense illusions. 
-
-But the Light serves us in this way. It enables us to see 
-ourselves, and therefore to aid us to initiate ourselves by showing 
-us what we are doing. In the same way a watchmaker uses a lens, 
-though it exaggerates and thus falsifies the image of the System of 
-wheels which he is trying to adjust. In the same way, a writer 
-emplovs arbitrary characters according to a meaningless convention 
-in order to enable his reader by retranslating them to obtain an 
-approximation to his idea. 
-
-Such are a few of the principal characteristics of the Astral Light. 
-Its quantitative laws are much less dissimilar from those of material 
-physics. Magicians have too often been foolish enough to suppose 
-that all classes of Magical Operations were equally easy. They 
-seem to have assumed that the “almighty power of God” was an 
-infinite quantity in presence of which all finites were equally 
-insignifiant. “One day is with the Lord as a thousand years” is 
-their first law of Motion. “Faith can move mountains” they sav, 
-and disdain to measure either the faith or the mountains. If you 
-can kill a chicken by Magic, why not destroy an army with equal 
-exertion? “With God all things are possible.” 
-
-This absurdity is an error of the same class as that mentioned 
-above. The facts are wholly opposed. Two and two make four 
-in the Astral as rigorously as anywhere else. The distance of one’s 
-Magical target and the accuracy of one’s Magical rifle are factors 
-in the success of one’s Magical shooting in just the same way as at 
-Bisley. The law of Magical gravitation is as rigid as that of 
-Newton. The law of Inverse Squares may not apply; but some 
-
-
-cannon twice at an interval of 3 hours, an observer on the Sun would 
-note a difference of some 200,000 miles in space between the shots, while 
-to me they seem “in the same place.” Moreover, I am incapable of 
-perceiving any phenomenon except by means of the arbitrary instruments 
-of my senses; it is thus correct to say that the Uni verse as I know it is 
-subjective, without denying its objectivity. 
-
-
-lïi 
-
-
-
-such law does apply. So it is for everything. You cannot produce 
-a thunderstorm unless tlie materials exist in the air at the time, and 
-a Magician who could make rain in Cumberland might fall lament- 
-ably in the Sahara. One might make a talisman to win the love 
-of a shop-girl and find it work, yet be baffled in the case of a 
-countess; or vice versa. One might impose one’s Will on a farm, 
-and be crushed by that of a city; or vice versa. The Master 
-Therion himself, with all his successes in every kind of Magick, 
-sometimes appears utterly impotent to perform feats which almost 
-any amateur might do, because He has matched his Will against 
-that of the world, having undertaken the Work of a Magus to 
-establish the Word of is Law on the whole of mankind. He will 
-succeed, without doubt; but He hardly expects to see more than 
-a sample of His product during His present incarnation. But He 
-refuses to waste the least fraction of His force on Works foreign 
-to His Work, however obvious it may seem to the onlooker that 
-His advantage lies in commanding stones to become bread, or 
-otherwise making things easy for Himself. 
-
-These considerations being thoroughly understood we may 
-return to the question of making the Magical Link. In the case 
-above cited Frater Perdurabo composed His talisman by 
-invoking His Holy Guardian Angel according to the Sacred Magick 
-of Abramelin the Mage. That Angel wrote on the lamen the Word 
-of the Aeon. The Book of the Law is this writing. To this lamen 
-the Master Therion gave life by devoting His own life thereto. 
-We may then regard this talisman, the Law, as the most powerful 
-that has been made in the world’s history, for previous talismans 
-of the same type have been limited in their scope by conditions of 
-race and country. Mohammed’s talisman, Allah, was good only 
-from Persia to the Pillars of Hercules. The Buddha’s, Anatta, 
-operated only in the South and East of Asia. The new talisman, 
-Thelema, is master of the planet. 
-
-But now observe how the question of the Magical Link arises! 
-No matter how mighty the truth of Thelema, it cannot prevail 
-unless it is applied to and by mankind. As long as the Book of the 
-Law was in Manuscript, it could only affect the small group 
-amongst whom it was circulated. It had to be put into action bv 
-
-
-112 
-
-
-the Magical Operation of publishing it. When this was done, it 
-was done without proper perfection. Its commands as to how the 
-work ought to be done were not wholly obeyed. There were doubt 
-and repugnance in Frater Perdurabo^ mind, and they hampered 
-His work. He was half-hearted. Yet, even so, then intrinsic 
-power of the truth of the Law and the impact of the publication 
-were sufficient to shake the world so that a critical war broke out, 
-and the minds of men were moved in a mysterious manner. The 
-second blow was struck by the re-publication of the Book in 
-September 1913, and this time the might of this Magick burst out 
-and caused a catastrophe to civilization. At this hour, the Master 
-Therion is concealed, collecting his forces for a final blow. When 
-the Book of the Law and its Comment is published, with the forces 
-of His whole Will in perfect obedience to the instructions which 
-have up to now been misunderstood or neglected, the result will 
-be incalculably effective. The event will establish the kingdom 
-of the Crowned and Conquering Child over the whole earth, and 
-all men shall bow to the Law, which is “love under Will”. 
-
-This is an extreme case; but there is one law only to govern the 
-small as the great. The same laws describe and measure the 
-motions of the ant and the stars. Their light is no swifter than 
-that of a spark. In every operation of Magick the link must be 
-properly made. The first requisite is the acquisition of adequate 
-force of the kind required for the purpose. We must have 
-electricity of a certain potential in sufficient amount if we wish 
-to heat food in a furnace. We shall need a more intense current 
-and a greater supply to light a city than to charge a telephone 
-wire. No other kind of force will do. We cannot use the force 
-of steam directly to impel an aeroplane, or to get drunk. We 
-must apply it in adequate strength in an appropriate manner. 
-
-It is therefore absurd to invoke the spirit of Venus to procure 
-us the love of an Empress, unless we take measures to transmit 
-the influence of our work to the lady. We may for example 
-consecrate a letter expressing our Will; or, if we know how, we 
-may use some object connected with the person whose acts we are 
-attempting to control, such as a lock of hair or a handkerchief 
-
-
-once belonging to her, and so in subtle connection with her aura. 
-But for material ends it is better to have material means. We 
-must not rely on fine gut in trolling for salmon. Our wiil to kill 
-a tiger is poorly conveyed by a charge of small shot fired at a 
-range of one hundred yards. Our talisman must, therefore, be 
-an object suitable to the nature of our Operation, and we must 
-have some such means of applying its force to such a way as will 
-naturally compel the obedience of the portion of Nature which 
-we are trying to change. If one will the death of a sinner, it is 
-not sufficient to hate him, even if we grant that the vibrations of 
-thought, when sufficiently powerful and pure, may modify the 
-Astral light sufficiently to impress its intention to a certain extent 
-on such people as happen to be sensitive. It is much surer to use 
-one’s mind and muscle in service of that hate by devising and 
-making a dagger, and then applying the dagger to the heart of 
-one’s enemy. One must give one’s hate a bodily form of the 
-same order as that which one’s enemy has taken for his mani¬ 
-festation. Your spirit can only come into contact with his by 
-me^yis of this magical manufacture of phantomsj in the same way, 
-one can only measure one’s mind (a certain part of it) against 
-another man’s by expressing them in some such form as the game 
-of chess. One cannot use chessmen against another man unless he 
-agree to use them in the same sense as you do. The board and 
-men form the Magical Link by which you can prove your power 
-to constrain him to yield. The game is a device by which you 
-force him to turn down his king in surrender, a muscular act made 
-in obedience to your will, though he may be twice your weight 
-and strength. 
-
-These general principles should enable the student to 
-understand the nature of the work of making the Magical Link. 
-It is impossible to give detailed instructions, because every case 
-demands separate consideration. It is sometimes exceedinglv 
-difficult to devise proper measures. 
-
-Remember that Magick includes all acts soever. Anything 
-may serve as a Magical weapon. To impose one’s Will on a 
-nation, for instance, one’s talisman may be a newspaper, one’s 
-triangle a church, or one’s circle a Club. Tô win a woman, one’s 
-
-
-”4 
-
-
-pantacle may be a necklace} to discover a treasure, one’s wand 
-may be a dramatisas pen, or one’s incantation a popular song. 
-
-Many ends, many means: it is only important to remember the 
-essence of the operation, which is to will its success with suffi- 
-ciently pure intensity, and to incarnate that will in a body suitable 
-to express it, a body such that its impact on the bodily expression 
-of the idea one wills to change is to cause it to do so. For 
-instance, is it my will to become a famous physician? I banish 
-all “hostile spirits” such as laziness, alien interests, and conflicting 
-pleasures, from my “circle” the hospital} J. consecrate my 
-“weapons” (my various abilities) to the study of medicine} I 
-invoke the “Gods” (medical authorities) by studying and obeying 
-their laws in their books. I embody the “Formulae” (the ways in 
-which causes and effects influence disease) in a “Ritual” (my 
-Personal style of constraimng sickness to conform with my will). 
-I persist in these conjurations year after year, making the Magical 
-gestures of healing the sick, until I compel the visible appearance 
-of the Spirit of Time, and make him acknowledge me his master. 
-I have used the appropriate kind of means, in adequate measure, 
-and applied them in ways pertinent to my purpose by projecting 
-my incorporeal idea of ambition in a course of action such as to 
-induce in others the incorporeal idea of satisfying mine. I made 
-my Will manifest to sense} sense swayed the Wills of my fellow- 
-meii} mind wrought on mind through matter. 
-
-I did not “sit for” a medical baronetcy by wishing I had it, or 
-by an “act of faith”, or by praying to God “to move Pharaoh’s 
-heart”, as our modern mental, or our mediaeval, mystic, miracle- 
-mongers were and are muddlers and maudlin enough to advise 
-us to do. 
-
-A few general observations on the Magical Link may not be 
-amiss, in default of details} one cannot make a Manual of How 
-to Go Courting, with an Open-Sesame to each particular Brigand’s 
-Cavern, any more than one can furnish a budding burglar with a 
-directory containing the combination of every existing safe. But 
-one can point out the broad distinctions between women who yield, 
-some to flattery, some to eloquence, some to appearance, some to 
-rank, some to wealth, some to ardour, and some to authority. We 
-
-
-cannot exhaust the combinations of Lover’s Chess, but we may 
-enumerate the principal gambits: the Bouquet, the Chocolates, the 
-Little Dinner, the Cheque-Book, the Poem, the Motor by 
-Moonlight, the Marriage Certificate, the Whip, and the Feigned 
-Flight. 
-
-The Magical Link may be classified under three main heads; 
-as it involves (i) one plane and one person, (2) one plane and 
-two or more persons, (3) two planes. 
-
-In class (1) the machinery of Magick — the instrument — 
-already exists. Thus, I may wish to heal my own body, increase 
-my own energy; develop my own mental powers, or inspire my 
-own imagination. Here the Exorcist and the Demon are already 
-connected, consciously or subconsciously, by an excellent System 
-of symbols. The Will is furnished by Nature with an apparatus 
-adequately equipped to convey and execute its orders. 
-
-It is only necessary to inflame the Will to the proper pitch and 
-to issue its commands; they are instantly obeyed, unless — as in 
-the case of organic disease — the apparatus is damaged beyond 
-the art of Nature to repair. It may be necessary in such a case to 
-assist the internal “spirits” by the “purification” of medicines, the 
-“banishing” of diet, or some other extraneous means. 
-
-But at least there is no need of any special device ad hoc to 
-effect contact between the Circle and the Triangle. Operations 
-of this class are therefore often successful, even when the 
-Magician has little or no technical knowledge of Magick. Almost 
-any duffer can “pull hinself together”, devote himself to study, 
-break off a bad habit, or conquer a cowardice. This class of work, 
-although the easiest, is yet the most important ; for it includes 
-initiation itself in its highest sense. It extends to the Absolute in 
-every dimension; it involves the most intimate analysis, and the 
-most comprehensive synthesis. In a sense, it is the sole type of 
-Magick either necessary or proper to the Adept; for it includes 
-both the attainment of the Knowledge and Conversation of the 
-Holy Guardian Angel, and the Adventure of the Abyss. 
-
-The second class includes all operations by which the Magician 
-strives to impose his Will upon objects outside his own control, 
-but within that of such other wills as are symbolised by means of 
-
-
-a System similar to his own. That is, they can be compelled 
-naturally by cognate consciousness. 
-
-For instance, one may wish to obtain the knowledge put forth 
-in this book. Not knowing that such a book exists, one might yet 
-induce some one who knows of it to offer a copy. Thus one’s 
-operation would consist in inflaming one’s Will to possess the 
-knowledge to the point of devoting one’s life to it, in expressing 
-that will by seeking out people who seem likely to know what is 
-needed, and in imposing it on them by exhibiting such enthusiastic 
-earnestness that they will tell the enquirer that this book will 
-meet his needs. 
-
-Does this Sound too simple? Can this obvious common-sense 
-course be really that marvellous Magick that frightens folk so? 
-Yes, even this triviality is one instance of how Magick Works. 
-
-But the above practical programme may be a fiasco. One might 
-then resort to Magick in the conventional sense of the Word, by 
-constructing and charging a Pantacle appropriate to the object; 
-this Pantacle should then cause a strain in the Astral Light such 
-that the vibrations would compel some alien consciousness to 
-restore equilibrium by bringing the book. 
-
-Suppose a severer and more serious aim; suppose that I wish 
-to win a woman who dislikes me and loves somebody else. In 
-this case, not only her Will, but her lover’s must be overcome by 
-my own. I have no direct control of either. But my Will is in 
-touch with the woman’s by means of our minds; I have only to 
-make my mind the master of hers by the existing means of 
-communication; her mind will then present its recantation to her 
-Will, her Will repeal its decision, and her body submit to mine 
-as the seal of her surrender. 
-
-Here the Magical Link exists; only it is complex instead of 
-simple as in the First Class. 
-
-There is opportunity for all kinds of error in the transmission 
-of the Will; misunderstanding may mar the matter; a mood may 
-make mischief; external events may interfere; the lover may 
-match me in Magick; the Operation itself may offend Nature in 
-many ways; for instance, if there is a subconscious incompatibility 
-between myself and the woman, I deceive myself into thinking 
-
-
-that I desire her. Such a flaw is enough to bring the whole 
-operation to naught, just as no effort of Will can make oil mix 
-with water. 
-
-I may work “naturally” by wooing, of course. But, magically, 
-I may attack her astrally so that her aura becomes uneasy, respond- 
-ing no longer to her lover. Unless they diagnose the cause, a 
-quarrel may result, and the woman’s bewildered and hungry Body 
-of Light may turn in its distress to that of the Magician who has 
-mastered it. 
-
-Take a third case of this class 2. I wish to recover my watch, 
-snatched from me in a crowd. 
-
-Here I have no direct means of control over the muscles that 
-could bring back my watch, nor over the mind that moves these 
-muscles. I am not even able to inform that mind of my Will, for 
-I do not know where it is. But I know it to be a mind fund- 
-amentally like my own, and I try to make a Magical Link with 
-it by advertising my loss in the hope of reaching it, being careful 
-to calm it by promising it immunity, and to appeal to its own known 
-motive by offering a reward. I also attempt to use the opposite 
-formula j to reach it by sending my “familiar spirits”, the police, 
-to hunt it, and compel its obedience by threats. 1 
-
-Again, a sorcerer might happen to possess an object belonging 
-magically to a rich man, such as a compromising letter, which is 
-really as much part of him as his liver; he may then master the 
-will of that man by intimidating his mind. His power to publish 
-the letter is as effective as if he could injure the man’s body 
-directly. 
-
-These “natural” cases may be transposed into subtler terms; for 
-instance, one might master another man, even a stranger, by sheer 
-concentration of will, ceremonially or otherwise wrought up to the 
-requisite potential. But in one way or another that will must be 
-
-
-i. The ceremonial method would be to transfer to the watch — 
-linked naturally to me by possession and use — a thought calculated to 
-terrify the thief, and induce him to get rid of it at once. Observing 
-clairsentiently this effect, suggest relief and reward as the result of 
-restoring it. 
-
-
-
-
-made to impinge on the manj by the normal means of contact if 
-possible, if not, by attacking some sensitive spot in his subconscious 
-sensonum. But the heaviest rod will not land the smallest fish 
-unless there be a line of some sort fixed firmly to both. 
-
-The Third Class is characterized by the absence of any existing 
-link between the Will of the Magician and that controlling the 
-object to be affected. (The Second Class may approximate to the 
-1 hird when there is no possibility of approaching the second mind 
-by normal means, as sometimes happens). 
-
-This class of operations demands not only immense knowledge 
-of the technique of Magick combined with tremendous vigour and 
-skill, but a degree of IVIystical attainment which is exceedingly 
-rare, and when found is usually marked by an absolute apathy on 
-the subject of any attempt to achieve any Magick at all. Suppose 
-that I wish to produce a thunderstorm. This event is beyond my 
-control or that of any other manj it is as useless to work on their 
-minds as my own. Nature is independent of, and indifferent to, 
-man’s affairs. A storm is caused by atmospheric conditions on a 
-scale so enormous that the United efforts of all us Earth-vermin 
-could scarcely disperse one cloud, even if we could get at it. How 
-then can any Magician, he who is above all things a knower of 
-Nature, be so absurd as to attempt to throw the Hammer of Thor? 
-Unless he be simply insane, he must be initiated in a Truth which 
-transcends the apparent facts. He must be aware that all Nature 
-isa continuum, so that his mind and body are consubstantial with the 
-storm, are equally expressions of One Existence, all alike of the 
-self-same order of artifices whereby the Absolute appreciates itslf. 
-He must also have assimilated the fact that Quantity is just as 
-much a form as Qualityj that as all things are modes of One 
-Substance, so their measures are modes of their relation. Not only 
-are gold and lead mere letters, meaningless in themselves yet 
-appointed to spell the One Namej but the difference between the 
-bulk of a mountain and that of a mouse is no more than one 
-method of differentiating them, just as the letter “m” is not bigger 
-that the letter “i” in any real sense of the word. 1 
-
-
-I. Professor Rutherford thinks it not theoretically impracticable to 
-
-
-
-Our Magician, with this in his minci, will most probably leave 
-thunderstorms to stew in their own juice; but, should he decide 
-(after all) to enliven the afternoon, he will work in the manner 
-following. 
-
-First, what are the elements necessary for his storms ? He 
-.must have certain stores of electrical force, and the right kind of 
-clouds to contain it. 
-
-He must see that the force does not leak away to earth quietly 
-and slyly. 
-
-He must arrange a stress so severe as to become at last so intoler¬ 
-able that it will disrupt explosively. 
-
-Now he, as a man, cannot pray to God to cause them, for the 
-Gods are but names for the forces of Nature themselves* 
-
-But, as a Mystic , he knows that all things are phantoms of One 
-Thing, and that they may be withdrawn therein to reissue in other 
-attire. He knows that all things are in himself, and that he is 
-All-One with the all. There is therefore no theoretical difficulty 
-about converting the illusion of a clear sky into that of a tempest. 
-On the other hand, he is aware, as a Magician y that illusions are 
-governed by the laws of their nature. He knows that twice two is 
-four, although both “two” and “four” are merely properties per- 
-taining to One. He can only use the Mystical identity of all 
-things in a strictly scientific sense. It is true that his experience 
-of clear skies and storms proves that his nature contains elements 
-cognate with both; for if not, they could not affect him. He is 
-the Microcosm of his own Macrocosm, whether or no either one or 
-the other extend beyond his knowledge of them. He must there¬ 
-fore arouse in himself those ideas which are clansmen of the 
-Thunderstorm ; collect all available objects of the same nature for 
-talismans, and proceed to excite all these to the utmost by a 
-Magical ceremony; that is, by insisting on their godhead, so that 
-they flamewithin and without him, his ideas vitalising the talismans. 
-There is thus a vivid vibration of high potential in a certain group 
-
-
-construct a detonator which could destroy every atom of matter by 
-releasing the energies of one, so that the vibrations would excite the rest 
-to disintegrate explosively. 
-
-
-120 
-
-
-
-of sympathetic substances and forces ; and this spreads as do the 
-waves from a stone thrown into a lake, widening and weakeningj 
-till the disturbance is compensated. Just as a handful of fanatics, 
-insane with one over-emphasised truth, may infect a whole country 
-for a time bv inflaming that thought in their neighbours, so the 
-Magician creates a commotion by disturbing the balance of power. 
-He transmits his particular vibration as a radio operator does with 
-his ray 5 rate-relation determines exclusive selection. 
-
-In practice, the Magician must a evoke the spirits of the storm” 
-by identifying himself with the ideasof which atmospheric phenom- 
-ena are the expressions as his humanity is of him; this achieved, 
-he must impose his Will upon them by virtue of the superiority 
-of his intelligence and the integration of his purpose to their 
-undirected impulses and uncomprehending interplay. 
-
-all such. Magick demands the utmost precision in practice. It 
-is true that the best rituals give us instructions in selecting our 
-vehicles of Force. In 777 we find “correspondences” of many 
-classes of being with the various types of operation, so that we 
-know what weapons, jewels, figures, drugs, perfurnes, names, etc. 
-to employ in any particular work. But it has always been assumed 
-that the invoked force is intelligent and competent, that it will 
-direct itself as desired without further ado, by this method of 
-sympathetic vibrations. 
-
-The necessity of timing the force has been ignored; and so most 
-operations, even when well performed as far as invocation goes, are 
-as harmless as igniting loose gunpowder. 
-
-But, even allowing that Will is sufficient to determine the direc¬ 
-tion, and prevent the dispersion, of the force, we can hardly be 
-sure that it will act on its object, unless that object be properly 
-prepared to receive it. The Link must be perfectly made. The 
-object must possess in itself a sufficiency of stuff sympathetic to 
-our work. We cannot make love to a brick, or set an oak to run 
-errands. 
-
-We see, then, that we can never affect anything outside 
-ourselves save only as it is also within us. Whatever I do 
-to another, I do also to myself. If I kill a man, I destroy my 
-own life at the same time. That is the magical meaning of the so- 
-
-
-121 
-
-
-called “Golden Rule”, which should not be in the imperative but 
-the indicative mood. Every vibration awakens all others of its par- 
-ticular pitch. 
-
-There is thus some justification for the assumption of previous 
-writers on Magick that the Link is implicit, and needs no special 
-attention. Yet, in practice, there is nothing more certain than that 
-one ought to confirm one’s will by all possible acts on all possible 
-planes. The ceremony must not be confined to the formally 
-magical rites. We must neglect no means to our end, neither 
-despising our common sense, nor doubting our secret wisdom. 
-
-When Frater I. A. was in danger of death in 1899 e.v. Frater 
-V. N. and Frater Perdurabo did indeed invoke the spirit 
-Buer to visible manifestation that he might heal their brother; 
-but also one of them furnished the money to send him to a climate 
-less cruel than England’s. He is alive to day 1 } who cares 
-whether spirits or shekels wrought that which these Magicians 
-willed ? 
-
-Let the Magical Link be made strong! It is “love under 
-will”; it affirms the identity of the Equation of the work; it 
-makes success Necessity. 
-
-
-I. P. S. He died some months after this passage was written : but 
-he had been enabled to live and work for nearly a quarter of a century 
-longer than he would otherwise have done. 
-
-
-122 
-
-
-
-
-CHAPTER XVI 
-
-
-(Part /) 
-
-
-Of THE OATH 
-
-The third operation in any magical ceremony is the oath or 
-proclamation. The Magician, armed and ready, stands in the 
-centre of the Circle, and strikes once upon the bell as if to call the 
-attention of the Umverse. Ele then declares who he is y reciting 
-his magical history by the proclamation of the grades which he 
-has attained, giving the signs and words of those grades. 1 
-
-He then States tlie purpose of tlie ceremony, and proves 
-that it is necessary to perform it and to sncceed in its 
-performance. He then takes an oath before the Lord of the 
-Universe (not before the particular Lord whom he is invoking) as 
-if to call Him to witness to the act. He swears solemnly that he 
-will perform it — that nothing shall prevent him from performing 
-it — that he will not leave the operation until it is successfully 
-performed — and once again he strikes upon the bell. 
-
-Yet, having demonstrated himself in that position at once 
-infinitely lofty and infinitely unimportant, the instrument of 
-destiny, he balances this by the Confessïon y in which there is 
-again an infinite exaltation harmonised with an infinite humility. 
-He admits himself to be a weak human being humbly aspiring to 
-something higher; a creature of circumstance utterly dependent — 
-even for the breath of life — upon a series of fortunate accidents. 
-
-
-I. This is not merely to prove himself a person in authority. It is to 
-trace the chain of causes that have led to the present position, so that the 
-operation is seen as karma. 
-
-
-123 — 
-
-
-
-
-He makes this confession prostrate J before the altar in agony and 
-bloody sweat. He trembles at the thought of the operation which 
-he has dared to undertake, saying, “Father, if it be Thy Will, let 
-this cup pass from me ! Nevertheless not my will but Thine be 
-done !” 1 2 
-
-The dread answer comes that It Must Be, and this answer so 
-fortifies him with holy zeal that it will seem to him as if he were 
-raised by divine hands from that prostrate position; with a thrill 
-of holy exaltation he renews joyfully the Oath, feeling himself 
-once again no longer the man but the Magician, yet not merely 
-the Magician, but the chosen and appointed person to accomplish 
-a task which, however apparently unimportant, is yet an integral 
-part of universal destiny, so that if it were not accomplished the 
-Kingdom of Heaven would be burst in pieces. 
-
-He is now ready to commence the invocations. He consequently 
-pauses to cast a last glance around the Temple to assure himself 
-of the perfect readiness of all things necessary, and to light the 
-incense. 
-
-
-The Oath is the foundation of all Work in Magick, as it is an 
-affirmation of the Will. An Oath binds the Magician for ever. 
-In Part II of Book 4 something has already been said on this 
-subject; but its importance deserves some further elaboration. 
-Thus, should one, loving a woman, make a spell to compel her 
-embraces, and tiring of her a little later, evoke Zazel to kill her; 
-he will find that the implications of his former Oath conflict with 
-those proper to invoke the Unity of the Godhead of Saturn. Zazel 
-will refuse to obey him in the case of the woman whom he has 
-sworn that he loves. To this some may object that, since all acts 
-are magical, every man who loves a woman implicitly takes an 
-
-
-1. Compare the remarks in a previous chapter. But this is a particular 
-case. We leave its justification as a problem. 
-
-2. Of course this is for the beginner. As soon as it is assimilated as 
-true, he will say : “My will which is thine be done ! ” And ultimately no 
-more distinguish “mine” from “thine”. A sympathetic change of gesture 
-will accompany the mental change. 
-
-
-124 
-
-
-
-
-
-Oath of love, and therefore would never be able to murder her 
-later, as we find to be the not uncommon case. The explanation 
-is as follows. It is perfectly true that when Bill Sykes desires to 
-possess Nancy, he does in fact evoke a spirit of the nature of 
-Venus, constraining him by his Oath of Love (and by his magical 
-power as a man) to bring him the girl. So also, when he wants 
-to kiJl her, he evokes a Martial or Saturnian spirit, with an Oath 
-of hate. But these are not pure planetary spints, moving in well- 
-dehned spneres by rigidlv righteous laws. They are gross concre¬ 
-tions of confused impulses, “incapable of understanding the nature 
-of an oath”. They are also such that the idea of murder is nowise 
-offensive to the Spirit of Love. 
-
-It is indeed the cntenon of spiritual caste that conflicting 
-elements should not coexist in the same consciousness. The psalm- 
-singing Puritan who persecutes publicans, and secretly soaks 
-himself in hre-water; the bewhiskered philanthropist in broad- 
-cloth who swindles his customers and sweats his employees: these 
-men must not be regarded as single-minded scoundrels, whose use 
-of religion and respectability to cioke their villainies is a deliberate 
-disguise dictated by their criminal cunning. Far from it, they are 
-only too sincere in their “virtues”; their terror of death and of 
-supernatural vengeance is genuine; it proceeds from a section of 
-themselves which is in irreconcilable conflict with their rascality. 
-Neither si de can conciliate, suppress, or ignore the other; yet each 
-is so craven as to endure its enemy’s presence. Such men are 
-therefore without pure principles; they excuse themselves for 
-every dirty trick that turns to their apparent advantage. 
-
-The first step of the Aspirant toward the gate of Initiation 
-tells him that purity — unity of purpose — is essential above all 
-else. “Do what thou Wilt” strikes on him, a ray of berce white 
-flame consuming all that is not utterly God. Very soon he is 
-aware that he cannot consciously contradict himself. He develops 
-a subtle sense which warns him that two trains of thought which 
-he had never conceived as connected are incompatible. Yet deeper 
-drives “Do what thou wiit”$ subconscious oppositions are evoked 
-to visible appearance. The secret sanctuaries of the soul are 
-cleansed. “Do What thou Wilt” purges his every part. He has 
-become One, one only. His Will is consequently released from 
-
-
-125 — 
-
-
-
-
-ihe interference of internal opposition, and he is a Master of 
-Magick. But for that very reason he is now utterly impotent to 
-achieve anything that is not in absolute accordance with his 
-Original Oath, with his True Will, by virtue whereof he incarnated 
-as a man. With Bill Sykes love and murder are not mutually 
-exclusive, as they are with King Arthur. The higher the type of 
-man, the more sensitive he becomes; so that the noblest love 
-divines intuitively when a careless word or gesture may wound, 
-and, vigilant, shuns them as being of the family of murder. In 
-Magick, likewise, the Adept who is sworn to attain to the Know¬ 
-ledge and Conversation of his Holy Guardian Angel may in his 
-grosser days have been expert as a Healer, to find that he is now 
-incapable of any such work. He will probably be puzzled, and 
-wonder whether he has lost all his power. Y et the cause may 
-be no more than that the Wisdom of his Angel deprecates the 
-interference of ignorant kindlmess with diseases which may have 
-been sent to the sufferer for a purpose profoundly important to 
-his welfare. 
-
-In the case af The Master Therion, he h ad originally the 
-capacity for all classes of Orgia. In the beginnmg, He cured the 
-sick, bewitched the obstinate, allured the seductive, routed the 
-aggressive, made himself invisible, and generaliy behaved like a 
-Young-Man-About-Town on every possible plane. He would 
-afflict one vampire with a Sending of Cats, and appoint another 
-his private Enchantress, neither aware of any moral oxymoron, 
-nor hampered by the implicit incongruity of his oaths. 
-
-But as He advanced in Adeptship, this coltishness found its 
-mouth bittedj as soon as He took serious Oaths and was admitted 
-to the Order which we name not, those Oaths prevented him using 
-His powers as playthings. Trifling operations, such as He once 
-could do with a turn of the wrist, became impossible to the most 
-persistent endeavour. It was many years before He understood 
-the cause of this. But little by little He became so absorbed in the 
-Work of His true Will that it no longer occurred to Him to 
-indulge in capricious amusements. 
-
-Yet even at this hour, though He be verily a Magus of A. \ A.*., 
-though His Word be the Word of the Aeon, though He be the 
-Beast 666, the Lord of the Scarlet Woman “in whom is all power 
-
-
-— 126 — 
-
-
-given”, there are still certain Orgia beyond Him to perform, 
-oecause to do so would be to affirm what He hath denied in those 
-Oaths by whose virtue He is Ihat He is. This is the case, even 
-when the spirit of such Orgia is fully consonant with His Will. 
-
-Ihe literal sense of His original Oath insists that it shall be 
-respected. 
-
-The case offers two instances of this principle. Frater 
-Perdurabo specifically swore that He would renounce His 
-Personal possessions to the last penny5 also that He would allow 
-no human affection to hinder Elim. Ihese ternis were accepted; 
-He was granted infinitely more than He had imagined possible to 
-any incarnated Man. On the other hand, the price offered by Him 
-was exacted as stnctly as if it had been stipulated by Shylock. 
-Kvery tieasure that he had on earth was taken away, and that, 
-usually, 111 so biutal 01 ciuel a manner as to make the loss itself the 
-least part of the pang. Every human affection that He had in 
-His hea.it and that heart aches for Love as few hearts can ever 
-conceive was torn out and trampled with such infernal ingenuity 
-in intensifying torture that His endurance is beyond belief. 
-Inexplicable are the atrocities which accompanied every step in His 
-Initiation! Death dragged away His children with slow savagery; 
-the women He loved drank themselves into delirium and dementia 
-before His eyes, or repaie! His passionate devotion with toad-cold 
-treachery at the moment when long years of loyalty had tempted 
-Him to trust them. His friend, that bore the bag, stole that which 
-was put therein, and betrayed his Master as thoroughly as he was 
-able. At the first distant rumour that the Pharisees were out, his 
-disciples “all forsook Him and fled”. Elis mother nalled Him 
-with lier own hands to the cross, and reviled Him as nine years 
-He hung thereupon. 
-
-Now, having endured to the end, being Master of Magick, He 
-is mighty to Work His true Will- which Will is, to establish on 
-Earth His Word, the Law of Thelema. He hath none other Will 
-than this j so all that He doth is unto this end. all His Orgia bear 
-fruit; what was the work of a month when He was a full Major 
-Adept is to day wrought in a few minutes by the Words of Will, 
-uttered with the right vibrations into the prepared Ear. 
-
-
-— 127 — 
-
-
-
-
-But neither by the natural use of His abilities, though they have 
-made Him famous through the whole world, nor by the utmost 
-rnight of his Magick, is He able to acquire material wealth beyond 
-the minimum necessary to keep Him alive and at work. It is in 
-vain that He protests that not He but the Work is in need of 
-money ; He is barred by the strict Jetter of His Oath to give all 
-that He hath for His magical Attainment. 
-
-Yet more awful is the doom that He hath invoked upon Himself 
-in renouncing His right as a man to enjoy the Love of those whom 
-He loves with passion so selfless, so pure, and so intense in return 
-for the power so to love Mankind that He be chosen to utter the 
-Word of the Aeon for their sake, His reward universal abhorrence, 
-bodily torment, mental despair, and moral paralysis. 
-
-Yet He, who hath power over Death, with a breath to call back 
-health, with a touch to beckon life, He must watch His own child 
-waste awav month by month, aware that His Art may not anywise 
-avall, who hath sold the signet ring of his personal profit to buy 
-him a plain gold band for the felon finger of his bride, that worn 
-widow, the World! 
-
-
-128 — 
-
-
-
-
-CHAPTER XV 
-
-
-I 
-
-Of the Invocation 
-
-In the straightforward or “Protestant** System of Magick there 
-is very little to add to what has already been said. The Magician 
-addresses a direct petition to the Being invoked. But the secret of 
-success in invocation has not hitherto been disclosed. It is an 
-exceedingly simple one. It is practically of no importance whatever 
-that the invocation should be “right”. There are a thousand 
-different wavs of compassing the end proposed, so far as external 
-things are concerned. The whole secret may be summarised in 
-these four words: “Enflame thyself in praying.” 1 
-
-The mind must be exalted until it loses consciousness of self. 
-The Magician must be carried forward blindly by a force which, 
-though. in him and of him, is by no means that which he in his 
-normal State of consciousness calls I. Just as the poet, the lover, 
-the artist, is carried out of himself in a Creative frenzy, so must it 
-be for the Magician. 
-
-It is impossible to lay down rules for the obtaining of this special 
-stimulus. To one the mystery of the whole ceremony may appeal; 
-another may be moved by the strangeness of the words, even by the 
-fact that the “barbarous names” are unintelligible to him. Some- 
-times in the course of a ceremony the true meaning of some 
-barbarous name that has hitherto baffled his analysis may flash 
-upon him, luminous and splendid, so that he is caught up into 
-
-
-i. This is Qabalistically expressed in the old Formula : Domine noster, 
-audi tuo servo! kyrie Christel O Christel 
-
-
-129 
-
-
-
-orgasm. The smell of a particular incense may excite him effec- 
-tively, or perhaps the physical ecstasy of the magick dance. 
-
-Every Magician must compose liis ceremony in siieh a 
-manner as to produce a drasnatic climax. At the moment 
-when the excitement hecomes ungovernable, when the whole 
-conscious being of the Magician undergoes a spiritual spasm, 
-at thaï moment must lie utter the supreme adjuration. 
-
-One veiy effective method is to stop short, by a supreme effort 
-of will, again and again, on the very brink of that spasm, until a 
-time arrives when the idea of exercising that will falls to occur \ 
-Inhibition is no longer possible or even thinkable, and the 
-whole heing of the Magician, no minutes! atom saying nay, 
-is irresistibly fJung forth. In blinding light, amid the roar 
-of ten thousand thunders, the Union of God and man is 
-consummated. 
-
-If the Magician is stiJl seen standing in the Circle, quietly 
-pursuing his invocations, it is that all the conscious part of him has 
-become detached from the true ego which lies behind that normal 
-consciousness. But the circle is wholly filled with that divine 
-essence 3 all else is but an accident and an illusion. 
-
-The subsequent invocations, the graduai development 
-and materialization of the force, require no effort. It is 
-one great mistake of the beginner to concentrate his force upon the 
-actual stated purpose of the ceremony. This mistake is the most 
-frequent cause of fallures in invocation. 
-
-A coroliary of this Theorem is that the Magician soon discards 
-evocation almost altogether — only rare circumstances demand any 
-action what ever on the material plane. The Magician devotes 
-himself entirely to the invocation of a god 3 and as soon as his 
-balance approaches perfection he ceases to invoke any partial god 3 
-only that god vertically above him is in his path. And so a man 
-who perhaps took up Magick merely with the idea of acquiring 
-knowledge, love, or wealth, finds himself irrevocably committed to 
-the performance of The Great Work. 
-
-
-I. This forgetfulness must be complete; it is fatal to try to Tet oneself 
-go’ consciously. 
-
-
-— 130 — 
-
-
-
-It wiJl now be apparent that there is no distinction between 
+The words of purification are: Asperges me, Therion, hyssopo, et mundabor; lavabis me, et super nivem dealbabor. 
+
+Those of consecration are: Accendat in nobis Therion ignem sui amoris et flammam aeternae caritatis.^[These may now advantageously be replaced by (a) “pure will unassuaged of purpose, delivered from the lust of result, is every way perfect” (CCXX, I, 44) to banish; and (b) “I am uplifted in thine heart; and the kisses of the stars rain hard upon thy body.” (CCXX, II, 62) to consecrate. For the Book of the Law contains the Supreme Spells.]
+
+These, as initiates of the VII of O.T.O. are aware, mean more than appears. 
+
+#### II 
+
+It is a strange circumstance that no Magical writer has hitherto treated the immensely important subject of the Magical Link. It might almost be called the Missing Link. It has apparently always been taken for granted; only lay writers on Magick like Dr. J. G. Frazer have accorded the subject its full importance. 
+
+Let us try to make considerations of the nature of Magick in a strictly scientific spirit, as well as, deprived of the guidance of antiquity, **we may**. 
+
+What is a Magical Operation? It may be defined as any event in Nature which is brought to pass by Will. We must not exclude potato-growing or banking from our definition. 
+
+Let us take a very simple example of a Magical Act: that of a man blowing his nose. What are the conditions of the success of the Operation? Firstly, that the man’s Will should be to blow his nose; secondly, that he should have a nose capable of being blown; thirdly, that he should have at command an apparatus capable of expressing his spiritual Will in terms of material force, and applying that force to the object which he desires to affect. His Will may be as strong and concentrated as that of Jupiter, and his nose may be totally incapable of resistance; but unless the link is made by the use of his nerves and muscles in accordance with psychological, physiological, and physical law, the nose will remain unblown through all eternity. 
+
+Writers on Magick have been unsparing in their efforts to instruct us in the preparation of the Will, but they seem to have imagined that no further precaution was necessary. There is a striking case of an epidemie of this error whose history is familiar 
+to everybody. I refer to Christian Science, and the cognate doctrines of “mental healing” and the like. The theory of such people, stripped of dogmatic furbelows, is perfectly good Magic of its kind, its negroid kind. The idea is correct enough: matter is an illusion created by Will through mind, and consequently susceptible of alteration at the behest of its creator. But the practice has been lacking. They have not developed a scientific technique for applying the Will. It is as if they expected the steam of Watts’ kettle to convey people from place to place without the trouble of inventing and using locomotives. 
+
+Let us apply these considerations to Magick in its restricted sense, the sense in which it was always understood until the Master Therion extended it to cover the entire operations of Nature. 
+
+What is the theory implied in such rituals as those of the Goetia? What does the Magician do? He applies himself to invoke a God, and this God compels the appearance of a spirit whose function is to perform the Will of the Magician at the moment. There is no trace of what may be called machinery in the method. The exorcist hardly takes the pains of preparing a material basis for the spirit to incarnate except the bare connection of himself with his sigil. It is apparently assumed that the spirit already possesses the means of working on matter. The conception seems to be that of a schoolboy who asks his father to tell the butler to do something for him. In other words, the theory is grossly animistic. The savage tribes described by Frazer had a far more scientific theory. The same may be said of witches, who appear to have been wiser than the thaumaturgists who despised them. — They at least made waxen images — identified by baptism — of the people they wished to control. They at least used appropriate bases for Magical manifestations, such as blood and other vehicles of animal force, with those of vegetable virtue such as herbs. They were also careful to put their bewitched products into actual contact — material or astral — with their victims. The classical exorcists, on the contrary, for all their learning, were careless about this essential condition. They acted as stupidly as people who should Write business letters and omit to post them. 
+
+It is not too much to say that this failure to understand the conditions of success accounts for the discredit into which Magick fell until Eliphas Levi undertook the task of re-habilitating it two generations ago. But even he (profoundly as he studied, and luminously as he expounded, the nature of Magick considered as a universal formula) paid no attention whatever to that question of the Magical Link, though he everywhere implies that it is essential to the Work. He evaded the question by making the *petitio principii* of assigning to the Astral Light the power of transmitting vibrations of all kinds. He nowhere enters into detail as to how its effects are produced. He does not inform us as to the qualitative or quantitative laws of this light. (The scientifically trained student will observe the analogy between Levi’s postulate and that of ordinary science in re the luminiferous ether.) 
+
+It is deplorable that nobody should have recorded in a systematic form the results of our investigations of the Astral Light. We have no account of its properties or of the laws which obtain in its sphere. Yet these are sufficiently remarkable. We may briefly notice that, in the Astral Light, two or more objects can occupy the same space at the same time without interfering with each other or losing their outlines. 
+
+In that Light, objects can change their appearance completely without suffering change of Nature. The same thing can reveal itself in an infinite number of different aspects; in fact, it identifies itself by so doing, much as a writer or a painter reveals himself in a succession of novels or pictures, each of which is wholly himself and nothing else, but himself under varied conditions, though each appears utterly different from its fellows. In that Light one is “swift without feet and flying without wings”; one can travel without moving, and communicate without conventional means of expression. One is insensible to heat, cold, pain, and other forms of apprehension, at least in the shapes which are familiar to us in our bodily vehicles. They exist, but they are appreciated by us, and they affect us, in a different manner. In the Astral Light we are bound by what is, superficially, an entirely different series of laws. We meet with obstacles of a strange and subtle character ; and we overcome them by an energy and cunning of an order entirely alien to that which serves us in earthly life. In that Light, symbols are not conventions but realities, yet (on the contrary) the beings whom we encounter are only symbols of the realities of our own nature. Our operations in that Light are really the adventures of our own personified thoughts. **The universe is a projection of ourselves; an image as unreal as that of our faces in a mirror, yet, like that face, the necessary form of expression thereof, not to be altered save as we alter ourselves.**^[This passage must not be understood as asserting that the Universe is purely subjective. On the contrary, the Magical Theory accepts the absolute reality of all things in the most objective sense. But all perceptions are neither the observer nor the observed; they are representations of the relation between them. We cannot affirm any quality in an object as being independent of our sensorium, or as being in itself that which it seems to us. Nor can we assume that what we coenize is more than a partial phantom of its cause. We cannot even determine the meaning of such ideas as motion, or distinguish between time and space, except in relation to some particular observer. For example, if I fire a cannon twice at an interval of 3 hours, an observer on the Sun would note a difference of some 200,000 miles in space between the shots, while to me they seem “in the same place.” Moreover, I am incapable of perceiving any phenomenon except by means of the arbitrary instruments of my senses; it is thus correct to say that the Uni verse as I know it is subjective, without denying its objectivity.] The mirror may be distorted, dull, cloudcd, or cracked j and to tins extrart, due reflection of ourselves may be false even in respect of its symbolic presentation. In that Light, therefore, all that we do is to discover ourselves by means of a sequence of hieroglyphics, and the changes which we apparently operate are in an objective sense illusions. 
+
+But the Light serves us in this way. It enables us to see ourselves, and therefore to aid us to initiate ourselves by showing us what we are doing. In the same way a watchmaker uses a lens, though it exaggerates and thus falsifies the image of the System of wheels which he is trying to adjust. In the same way, a writer employs arbitrary characters according to a meaningless convention in order to enable his reader by retranslating them to obtain an approximation to his idea. 
+
+Such are a few of the principal characteristics of the Astral Light. Its quantitative laws are much less dissimilar from those of material physics. Magicians have too often been foolish enough to suppose that all classes of Magical Operations were equally easy. They seem to have assumed that the “almighty power of God” was an infinite quantity in presence of which all finites were equally insignifiant. “One day is with the Lord as a thousand years” is their first law of Motion. “Farth can move mountains” they sav, and disdain to measure either the faith or the mountains. If you can kill a chicken by Magic, why not destroy an army with equal exertion? “With God all things are possible.” 
+
+This absurdity is an error of the same class as that mentioned above. The facts are wholly opposed. Two and two make four in the Astral as rigorously as anywhere else. The distance of one’s Magical target and the accuracy of one’s Magical rifle are factors in the success of one’s Magical shooting in just the same way as at Bisley. The law of Magical gravitation is as rigid as that of Newton. The law of Inverse Squares may not apply; but some such law does apply. So it is for everything. You cannot produce a thunderstorm unless tlie materials exist in the air at the time, and a Magician who could make rain in Cumberland might fall lament- ably in the Sahara. One might make a talisman to win the love of a shop-girl and find it work, yet be baffled in the case of a countess; or vice versa. One might impose one’s Will on a farm, and be crushed by that of a city; or vice versa. The Master Therion himself, with all his successes in every kind of Magick, sometimes appears utterly impotent to perform feats which almost any amateur might do, because He has matched his Will against that of the world, having undertaken the Work of a Magus to establish the Word of is Law on the whole of mankind. He will succeed, without doubt; but He hardly expects to see more than a sample of His product during His present incarnation. But He refuses to waste the least fraction of His force on Works foreign to His Work, however obvious it may seem to the onlooker that His advantage lies in commanding stones to become bread, or otherwise making things easy for Himself. 
+
+These considerations being thoroughly understood we may return to the question of making the Magical Link. In the case above cited <span class="small-caps">Frater Perdurabo</span> composed His talisman by invoking His Holy Guardian Angel according to the Sacred Magick of Abramelin the Mage. That Angel wrote on the lamen the Word of the Aeon. The Book of the Law is this writing. To this lamen the Master Therion gave life by devoting His own life thereto. We may then regard this talisman, the Law, as the most powerful that has been made in the world’s history, for previous talismans of the same type have been limited in their scope by conditions of race and country. Mohammed’s talisman, Allah, was good only from Persia to the Pillars of Hercules. The Buddha’s, Anatta, operated only in the South and East of Asia. The new talisman, Thelema, is master of the planet. 
+
+But now observe how the question of the Magical Link arises! No matter how mighty the truth of Thelema, it cannot prevail unless it is applied to and by mankind. As long as the Book of the Law was in Manuscript, it could only affect the small group amongst whom it was circulated. It had to be put into action by the Magical Operation of publishing it. When this was done, it was done without proper perfection. Its commands as to how the work ought to be done were not wholly obeyed. There were doubt and repugnance in <span class="small-caps">Frater Perdurabo</span> mind, and they hampered His work. He was half-hearted. Yet, even so, then intrinsic power of the truth of the Law and the impact of the publication were sufficient to shake the world so that a critical war broke out, and the minds of men were moved in a mysterious manner. The second blow was struck by the re-publication of the Book in September 1913, and this time the might of this Magick burst out and caused a catastrophe to civilization. At this hour, the <span class="small-caps">Master Therion</span> is concealed, collecting his forces for a final blow. When the Book of the Law and its Comment is published, with the forces of His whole Will in perfect obedience to the instructions which have up to now been misunderstood or neglected, the result will be incalculably effective. The event will establish the kingdom of the Crowned and Conquering Child over the whole earth, and all men shall bow to the Law, which is “love under Will”. 
+
+This is an extreme case; but there is one law only to govern the small as the great. The same laws describe and measure the motions of the ant and the stars. Their light is no swifter than that of a spark. In every operation of Magick the link must be properly made. The first requisite is the acquisition of adequate force of the kind required for the purpose. We must have electricity of a certain potential in sufficient amount if we wish to heat food in a furnace. We shall need a more intense current and a greater supply to light a city than to charge a telephone wire. No other kind of force will do. We cannot use the force of steam directly to impel an aeroplane, or to get drunk. We must apply it in adequate strength in an appropriate manner. 
+
+It is therefore absurd to invoke the spirit of Venus to procure us the love of an Empress, unless we take measures to transmit the influence of our work to the lady. We may for example consecrate a letter expressing our Will; or, if we know how, we may use some object connected with the person whose acts we are attempting to control, such as a lock of hair or a handkerchief once belonging to her, and so in subtle connection with her aura. But for material ends it is better to have material means. We must not rely on fine gut in trolling for salmon. Our wiil to kill a tiger is poorly conveyed by a charge of small shot fired at a range of one hundred yards. Our talisman must, therefore, be an object suitable to the nature of our Operation, and we must have some such means of applying its force to such a way as will naturally compel the obedience of the portion of Nature which we are trying to change. If one will the death of a sinner, it is not sufficient to hate him, even if we grant that the vibrations of thought, when sufficiently powerful and pure, may modify the Astral light sufficiently to impress its intention to a certain extent on such people as happen to be sensitive. It is much surer to use one’s mind and muscle in service of that hate by devising and making a dagger, and then applying the dagger to the heart of one’s enemy. One must give one’s hate a bodily form of the same order as that which one’s enemy has taken for his manifestation. Your spirit can only come into contact with his by means of this magical manufacture of phantomsj in the same way, one can only measure one’s mind (a certain part of it) against another man’s by expressing them in some such form as the game of chess. One cannot use chessmen against another man unless he agree to use them in the same sense as you do. The board and men form the Magical Link by which you can prove your power to constrain him to yield. The game is a device by which you force him to turn down his king in surrender, a muscular act made in obedience to your will, though he may be twice your weight and strength. 
+
+These general principles should enable the student to understand the nature of the work of making the Magical Link. It is impossible to give detailed instructions, because every case demands separate consideration. It is sometimes exceedinglv difficult to devise proper measures. 
+
+Remember that Magick includes all acts soever. Anything may serve as a Magical weapon. To impose one’s Will on a nation, for instance, one’s talisman may be a newspaper, one’s triangle a church, or one’s circle a Club. To win a woman, one’s pantacle may be a necklace} to discover a treasure, one’s wand may be a dramatist's pen, or one’s incantation a popular song. 
+
+Many ends, many means: it is only important to remember the essence of the operation, which is to will its success with sufficiently pure intensity, and to incarnate that will in a body suitable to express it, a body such that its impact on the bodily expression of the idea one wills to change is to cause it to do so. For instance, is it my will to become a famous physician? I banish all “hostile spirits” such as laziness, alien interests, and conflicting pleasures, from my “circle” the hospital} J. consecrate my “weapons” (my various abilities) to the study of medicine} I invoke the “Gods” (medical authorities) by studying and obeying their laws in their books. I embody the “Formulae” (the ways in which causes and effects influence disease) in a “Ritual” (my Personal style of constraimng sickness to conform with my will). I persist in these conjurations year after year, making the Magical gestures of healing the sick, until I compel the visible appearance of the Spirit of Time, and make him acknowledge me his master. I have used the appropriate kind of means, in adequate measure, and applied them in ways pertinent to my purpose by projecting my incorporeal idea of ambition in a course of action such as to induce in others the incorporeal idea of satisfying mine. I made my Will manifest to sense} sense swayed the Wills of my fellow-men; mind wrought on mind through matter. 
+
+I did not “sit for” a medical baronetcy by wishing I had it, or by an “act of farth”, or by praying to God “to move Pharaoh’s heart”, as our modern mental, or our mediaeval, mystic, miracle-mongers were and are muddlers and maudlin enough to advise us to do. 
+
+A few general observations on the Magical Link may not be amiss, in default of details} one cannot make a Manual of How to Go Courting, with an Open-Sesame to each particular Brigand’s Cavern, any more than one can furnish a budding burglar with a directory containing the combination of every existing safe. But one can point out the broad distinctions between women who yield, some to flattery, some to eloquence, some to appearance, some to rank, some to wealth, some to ardour, and some to authority. We cannot exhaust the combinations of Lover’s Chess, but we may enumerate the principal gambits: the Bouquet, the Chocolates, the Little Dinner, the Cheque-Book, the Poem, the Motor by Moonlight, the Marriage Certificate, the Whip, and the Feigned Flight. 
+
+The Magical Link may be classified under three main heads; as it involves (1) one plane and one person, (2) one plane and two or more persons, (3) two planes. 
+
+In class (1) the machinery of Magick — the instrument — already exists. Thus, I may wish to heal my own body, increase my own energy; develop my own mental powers, or inspire my own imagination. Here the Exorcist and the Demon are already connected, consciously or subconsciously, by an excellent System of symbols. The Will is furnished by Nature with an apparatus adequately equipped to convey and execute its orders. 
+
+It is only necessary to inflame the Will to the proper pitch and to issue its commands; they are instantly obeyed, unless — as in the case of organic disease — the apparatus is damaged beyond the art of Nature to repair. It may be necessary in such a case to assist the internal “spirits” by the “purification” of medicines, the “banishing” of diet, or some other extraneous means. 
+
+But at least there is no need of any special device ad hoc to effect contact between the Circle and the Triangle. Operations of this class are therefore often successful, even when the Magician has little or no technical knowledge of Magick. Almost any duffer can “pull himself together”, devote himself to study, break off a bad habit, or conquer a cowardice. This class of work, although the easiest, is yet the most important ; for it includes initiation itself in its highest sense. It extends to the Absolute in every dimension; it involves the most intimate analysis, and the most comprehensive synthesis. In a sense, it is the sole type of Magick either necessary or proper to the Adept; for it includes both the attainment of the Knowledge and Conversation of the Holy Guardian Angel, and the Adventure of the Abyss. 
+
+The second class includes all operations by which the Magician strives to impose his Will upon objects outside his own control, but within that of such other wills as are symbolised by means of a System similar to his own. That is, they can be compelled naturally by cognate consciousness. 
+
+For instance, one may wish to obtain the knowledge put forth in this book. Not knowing that such a book exists, one might yet induce some one who knows of it to offer a copy. Thus one’s operation would consist in inflaming one’s Will to possess the knowledge to the point of devoting one’s life to it, in expressing that will by seeking out people who seem likely to know what is needed, and in imposing it on them by exhibiting such enthusiastic earnestness that they will tell the enquirer that this book will meet his needs. 
+
+Does this Sound too simple? Can this obvious common-sense course be really that marvellous Magick that frightens folk so? Yes, even this triviality is one instance of how Magick Works. 
+
+But the above practical programme may be a fiasco. One might then resort to Magick in the conventional sense of the Word, by constructing and charging a Pantacle appropriate to the object; this Pantacle should then cause a strain in the Astral Light such that the vibrations would compel some alien consciousness to restore equilibrium by bringing the book. 
+
+Suppose a severer and more serious aim; suppose that I wish to win a woman who dislikes me and loves somebody else. In this case, not only her Will, but her lover’s must be overcome by my own. I have no direct control of either. But my Will is in touch with the woman’s by means of our minds; I have only to make my mind the master of hers by the existing means of communication; her mind will then present its recantation to her Will, her Will repeal its decision, and her body submit to mine as the seal of her surrender. 
+
+Here the Magical Link exists; only it is complex instead of simple as in the First Class. 
+
+There is opportunity for all kinds of error in the transmission of the Will; misunderstanding may mar the matter; a mood may make mischief; external events may interfere; the lover may match me in Magick; the Operation itself may offend Nature in many ways; for instance, if there is a subconscious incompatibility between myself and the woman, I deceive myself into thinking that I desire her. Such a flaw is enough to bring the whole operation to naught, just as no effort of Will can make oil mix with water. 
+
+I may work “naturally” by wooing, of course. But, magically, I may attack her astrally so that her aura becomes uneasy, responding no longer to her lover. Unless they diagnose the cause, a quarrel may result, and the woman’s bewildered and hungry Body of Light may turn in its distress to that of the Magician who has mastered it. 
+
+Take a third case of this class 2. I wish to recover my watch, snatched from me in a crowd. 
+
+Here I have no direct means of control over the muscles that could bring back my watch, nor over the mind that moves these muscles. I am not even able to inform that mind of my Will, for I do not know where it is. But I know it to be a mind fund- amentally like my own, and I try to make a Magical Link with it by advertising my loss in the hope of reaching it, being careful to calm it by promising it immunity, and to appeal to its own known motive by offering a reward. I also attempt to use the opposite formula j to reach it by sending my “familiar spirits”, the police, to hunt it, and compel its obedience by threats.^[The ceremonial method would be to transfer to the watch — linked naturally to me by possession and use — a thought calculated to terrify the thief, and induce him to get rid of it at once. Observing clairsentiently this effect, suggest relief and reward as the result of restoring it.]
+
+Again, a sorcerer might happen to possess an object belonging magically to a rich man, such as a compromising letter, which is really as much part of him as his liver; he may then master the will of that man by intimidating his mind. His power to publish the letter is as effective as if he could injure the man’s body directly. 
+
+These “natural” cases may be transposed into subtler terms; for instance, one might master another man, even a stranger, by sheer concentration of will, ceremonially or otherwise wrought up to the requisite potential. But in one way or another that will must be made to impinge on the man; by the normal means of contact if possible, if not, by attacking some sensitive spot in his subconscious sensonum. But the heaviest rod will not land the smallest fish unless there be a line of some sort fixed firmly to both. 
+
+The Third Class is characterized by the absence of any existing link between the Will of the Magician and that controlling the object to be affected. (The Second Class may approximate to the Third when there is no possibility of approaching the second mind by normal means, as sometimes happens). 
+
+This class of operations demands not only immense knowledge of the technique of Magick combined with tremendous vigour and skill, but a degree of Mystical attainment which is exceedingly rare, and when found is usually marked by an absolute apathy on the subject of any attempt to achieve any Magick at all. Suppose that I wish to produce a thunderstorm. This event is beyond my control or that of any other man; it is as useless to work on their minds as my own. Nature is independent of, and indifferent to, man’s affairs. A storm is caused by atmospheric conditions on a scale so enormous that the United efforts of all us Earth-vermin could scarcely disperse one cloud, even if we could get at it. How then can any Magician, he who is above all things a knower of Nature, be so absurd as to attempt to throw the Hammer of Thor? Unless he be simply insane, he must be initiated in a Truth which transcends the apparent facts. He must be aware that all Nature is a continuum, so that his mind and body are consubstantial with the storm, are equally expressions of One Existence, all alike of the self-same order of artifices whereby the Absolute appreciates itself. He must also have assimilated the fact that Quantity is just as much a form as Qualityj that as all things are modes of One Substance, so their measures are modes of their relation. Not only are gold and lead mere letters, meaningless in themselves yet appointed to spell the One Namej but the difference between the bulk of a mountain and that of a mouse is no more than one method of differentiating them, just as the letter “m” is not bigger that the letter “i” in any real sense of the word.^[Professor Rutherford thinks it not theoretically impracticable to construct a detonator which could destroy every atom of matter by releasing the energies of one, so that the vibrations would excite the rest to disintegrate explosively.]
+
+Our Magician, with this in his minci, will most probably leave thunderstorms to stew in their own juice; but, should he decide (after all) to enliven the afternoon, he will work in the manner following. 
+
+First, what are the elements necessary for his storms? He .must have certain stores of electrical force, and the right kind of clouds to contain it. 
+
+He must see that the force does not leak away to earth quietly and slyly. 
+
+He must arrange a stress so severe as to become at last so intolerable that it will disrupt explosively. 
+
+Now he, as a man, cannot pray to God to cause them, **for the Gods are but names for the forces of Nature themselves.**
+
+But, as a *Mystic*, he knows that all things are phantoms of One Thing, and that they may be withdrawn therein to reissue in other attire. He knows that all things are in himself, and that he is All-One with the all. There is therefore no theoretical difficulty about converting the illusion of a clear sky into that of a tempest. On the other hand, he is aware, *as a Magician*, that illusions are governed by the laws of their nature. He knows that twice two is four, although both “two” and “four” are merely properties pertaining to One. He can only use the Mystical identity of all things in a strictly scientific sense. It is true that his experience of clear skies and storms proves that his nature contains elements cognate with both; for if not, they could not affect him. He is the Microcosm of his own Macrocosm, whether or no either one or the other extend beyond his knowledge of them. He must therefore arouse in himself those ideas which are clansmen of the Thunderstorm ; collect all available objects of the same nature for talismans, and proceed to excite all these to the utmost by a Magical ceremony; that is, by insisting on their godhead, so that they flamewithin and without him, his ideas vitalising the talismans. There is thus a vivid vibration of high potential in a certain group of sympathetic substances and forces ; and this spreads as do the waves from a stone thrown into a lake, widening and weakening; till the disturbance is compensated. Just as a handful of fanatics, insane with one over-emphasised truth, may infect a whole country for a time bv inflaming that thought in their neighbours, so the Magician creates a commotion by disturbing the balance of power. He transmits his particular vibration as a radio operator does with his ray; rate-relation determines exclusive selection. 
+
+In practice, the Magician must a evoke the spirits of the storm” by identifying himself with the ideasof which atmospheric phenomena are the expressions as his humanity is of him; this achieved, he must impose his Will upon them by virtue of the superiority of his intelligence and the integration of his purpose to their undirected impulses and uncomprehending interplay. 
+
+All such Magick demands the utmost precision in practice. It is true that the best rituals give us instructions in selecting our vehicles of Force. In 777 we find “correspondences” of many classes of being with the various types of operation, so that we know what weapons, jewels, figures, drugs, perfurnes, names, etc. to employ in any particular work. But it has always been assumed that the invoked force is intelligent and competent, that it will direct itself as desired without further ado, by this method of sympathetic vibrations. 
+
+The necessity of timing the force has been ignored; and so most operations, even when well performed as far as invocation goes, are as harmless as igniting loose gunpowder. 
+
+But, even allowing that Will is sufficient to determine the direction, and prevent the dispersion, of the force, we can hardly be sure that it will act on its object, unless that object be properly prepared to receive it. The Link must be perfectly made. The object must possess in itself a sufficiency of stuff sympathetic to our work. We cannot make love to a brick, or set an oak to run errands. 
+
+**We see, then, that we can never affect anything outside ourselves save only as it is also within us. Whatever I do to another, I do also to myself.** If I kill a man, I destroy my own life at the same time. That is the magical meaning of the so-called “Golden Rule”, which should not be in the imperative but the indicative mood. Every vibration awakens all others of its particular pitch. 
+
+There is thus some justification for the assumption of previous writers on Magick that the Link is implicit, and needs no special attention. Yet, in practice, there is nothing more certain than that one ought to confirm one’s will by all possible acts on all possible planes. The ceremony must not be confined to the formally magical rites. We must neglect no means to our end, neither despising our common sense, nor doubting our secret wisdom. 
+
+When Frater I. A. was in danger of death in 1899 e.v. Frater V. N. and <span class="small-caps">Frater Perdurabo</span> did indeed invoke the spirit Buer to visible manifestation that he might heal their brother; but also one of them furnished the money to send him to a climate less cruel than England’s. He is alive to day^[P.S. He died some months after this passage was written : but he had been enabled to live and work for nearly a quarter of a century longer than he would otherwise have done.]; who cares whether spirits or shekels wrought that which these Magicians willed?
+
+**Let the Magical Link be made strong! It is “love under will”; it affirms the identity of the Equation of the work; it makes success Necessity.**
+
+### CHAPTER XVI 
+
+<div class="centered">*(Part 1)*</div> 
+
+<div class="centered-small-caps">Of The Oath</div>
+
+The third operation in any magical ceremony is the oath or proclamation. The Magician, armed and ready, stands in the centre of the Circle, and strikes once upon the bell as if to call the attention of the Universe. Ele then declares *who he is* reciting his magical history by the proclamation of the grades which he has attained, giving the signs and words of those grades.^[This is not merely to prove himself a person in authority. It is to trace the chain of causes that have led to the present position, so that the operation is seen as karma.]
+
+**He then states the purpose of the ceremony, and proves that it is necessary to perform it and to sncceed in its performance.** He then takes an oath before the Lord of the Universe (not before the particular Lord whom he is invoking) as if to call Him to witness to the act. He swears solemnly that he will perform it — that nothing shall prevent him from performing it — that he will not leave the operation until it is successfully performed — and once again he strikes upon the bell. 
+
+Yet, having demonstrated himself in that position at once infinitely lofty and infinitely unimportant, the instrument of destiny, he balances this by the *Confession*, in which there is again an infinite exaltation harmonised with an infinite humility. He admits himself to be a weak human being humbly aspiring to something higher; a creature of circumstance utterly dependent — even for the breath of life — upon a series of fortunate accidents. 
+
+He makes this confession prostrate^[Compare the remarks in a previous chapter. But this is a particular case. We leave its justification as a problem.] before the altar in agony and bloody sweat. He trembles at the thought of the operation which he has dared to undertake, saying, “Father, if it be Thy Will, let this cup pass from me ! Nevertheless not my will but Thine be done !”^[Of course this is for the beginner. As soon as it is assimilated as true, he will say : “My will which is thine be done ! ” And ultimately no more distinguish “mine” from “thine”. A sympathetic change of gesture will accompany the mental change.]
+
+
+The dread answer comes that It Must Be, and this answer so fortifies him with holy zeal that it will seem to him as if he were raised by divine hands from that prostrate position; with a thrill of holy exaltation he renews joyfully the Oath, feeling himself once again no longer the man but the Magician, yet not merely the Magician, but the chosen and appointed person to accomplish a task which, however apparently unimportant, is yet an integral part of universal destiny, so that if it were not accomplished the Kingdom of Heaven would be burst in pieces. 
+
+He is now ready to commence the invocations. He consequently pauses to cast a last glance around the Temple to assure himself of the perfect readiness of all things necessary, and to light the incense. 
+
+---
+
+The Oath is the foundation of all Work in Magick, as it is an affirmation of the Will. An Oath binds the Magician for ever. In Part II of Book 4 something has already been said on this subject; but its importance deserves some further elaboration. Thus, should one, loving a woman, make a spell to compel her embraces, and tiring of her a little later, evoke Zazel to kill her; he will find that the implications of his former Oath conflict with those proper to invoke the Unity of the Godhead of Saturn. Zazel will refuse to obey him in the case of the woman whom he has sworn that he loves. To this some may object that, since all acts are magical, every man who loves a woman implicitly takes an Oath of love, and therefore would never be able to murder her later, as we find to be the not uncommon case. The explanation is as follows. It is perfectly true that when Bill Sykes desires to possess Nancy, he does in fact evoke a spirit of the nature of Venus, constraining him by his Oath of Love (and by his magical power as a man) to bring him the girl. So also, when he wants to kill her, he evokes a Martial or Saturnian spirit, with an Oath of hate. But these are not pure planetary spints, moving in well- dehned spneres by rigidlv righteous laws. They are gross concretions of confused impulses, “incapable of understanding the nature of an oath”. They are also such that the idea of murder is nowise offensive to the Spirit of Love. 
+
+It is indeed the criterion of spiritual *caste* that conflicting elements should not coexist in the same consciousness. The psalm-singing Puritan who persecutes publicans, and secretly soaks himself in fire-water; the bewhiskered philanthropist in broad-cloth who swindles his customers and sweats his employees: these men must not be regarded as single-minded scoundrels, whose use of religion and respectability to cioke their villainies is a deliberate disguise dictated by their criminal cunning. Far from it, they are only too sincere in their “virtues”; their terror of death and of supernatural vengeance is genuine; it proceeds from a section of themselves which is in irreconcilable conflict with their rascality. Neither side can conciliate, suppress, or ignore the other; yet each is so craven as to endure its enemy’s presence. Such men are therefore without pure principles; they excuse themselves for every dirty trick that turns to their apparent advantage. 
+
+The first step of the Aspirant toward the gate of Initiation tells him that purity — unity of purpose — is essential above all else. “Do what thou Wilt” strikes on him, a ray of berce white flame consuming all that is not utterly God. Very soon he is aware that he cannot consciously contradict himself. He develops a subtle sense which warns him that two trains of thought which he had never conceived as connected are incompatible. Yet deeper drives “Do what thou wilt”; subconscious oppositions are evoked to visible appearance. The secret sanctuaries of the soul are cleansed. “Do What thou Wilt” purges his every part. He has become One, one only. His Will is consequently released from ihe interference of internal opposition, and he is a Master of Magick. But for that very reason he is now utterly impotent to achieve anything that is not in absolute accordance with his Original Oath, with his True Will, by virtue whereof he incarnated as a man. With Bill Sykes love and murder are not mutually exclusive, as they are with King Arthur. The higher the type of man, the more sensitive he becomes; so that the noblest love divines intuitively when a careless word or gesture may wound, and, vigilant, shuns them as being of the family of murder. In Magick, likewise, the Adept who is sworn to attain to the Knowledge and Conversation of his Holy Guardian Angel may in his grosser days have been expert as a Healer, to find that he is now incapable of any such work. He will probably be puzzled, and wonder whether he has lost all his power. Yet the cause may be no more than that the Wisdom of his Angel deprecates the interference of ignorant kindlmess with diseases which may have been sent to the sufferer for a purpose profoundly important to his welfare. 
+
+In the case af The <span class="small-caps">Master Therion</span>, he had originally the capacity for all classes of Orgia. In the beginnmg, He cured the sick, bewitched the obstinate, allured the seductive, routed the aggressive, made himself invisible, and generaliy behaved like a Young-Man-About-Town on every possible plane. He would afflict one vampire with a Sending of Cats, and appoint another his private Enchantress, neither aware of any moral oxymoron, nor hampered by the implicit incongruity of his oaths. 
+
+But as He advanced in Adeptship, this coltishness found its mouth bitted; as soon as He took serious Oaths and was admitted to the Order which we name not, those Oaths prevented him using His powers as playthings. Trifling operations, such as He once could do with a turn of the wrist, became impossible to the most persistent endeavour. It was many years before He understood the cause of this. But little by little He became so absorbed in the Work of His true Will that it no longer occurred to Him to indulge in capricious amusements. 
+
+Yet even at this hour, though He be verily a Magus of A.A., though His Word be the Word of the Aeon, though He be the Beast 666, the Lord of the Scarlet Woman “in whom is all power given”, there are still certain Orgia beyond Him to perform, oecause to do so would be to affirm what He hath denied in those Oaths by whose virtue He is Ihat He is. This is the case, even when the spirit of such Orgia is fully consonant with His Will. 
+
+Ihe literal sense of His original Oath insists that it shall be respected. 
+
+The case offers two instances of this principle. <span class="small-caps">Frater Perdurabo</span> specifically swore that He would renounce His Personal possessions to the last penny5 also that He would allow no human affection to hinder Him. These terms were accepted; He was granted infinitely more than He had imagined possible to any incarnated Man. On the other hand, the price offered by Him was exacted as strictly as if it had been stipulated by Shylock. Every treasure that he had on earth was taken away, and that, usually, in so brutal or cruel a manner as to make the loss itself the least part of the pang. Every human affection that He had in His heart &mdash; and that heart aches for Love as few hearts can ever conceive was torn out and trampled with such infernal ingenuity in intensifying torture that His endurance is beyond belief. Inexplicable are the atrocities which accompanied every step in His Initiation! Death dragged away His children with slow savagery; the women He loved drank themselves into delirium and dementia before His eyes, or repaie! His passionate devotion with toad-cold treachery at the moment when long years of loyalty had tempted Him to trust them. His friend, that bore the bag, stole that which was put therein, and betrayed his Master as thoroughly as he was able. At the first distant rumour that the Pharisees were out, his disciples “all forsook Him and fled”. His mother nailed Him with her own hands to the cross, and reviled Him as nine years He hung thereupon. 
+
+Now, having endured to the end, being Master of Magick, He is mighty to Work His true Will; which Will is, to establish on Earth His Word, the Law of Thelema. He hath none other Will than this; so all that He doth is unto this end. all His Orgia bear fruit; what was the work of a month when He was a full Major Adept is to day wrought in a few minutes by the Words of Will, uttered with the right vibrations into the prepared Ear. 
+
+But neither by the natural use of His abilities, though they have made Him famous through the whole world, nor by the utmost rnight of his Magick, is He able to acquire material wealth beyond the minimum necessary to keep Him alive and at work. It is in vain that He protests that not He but the Work is in need of money; He is barred by the strict letter of His Oath to give all that He hath for His magical Attainment. 
+
+Yet more awful is the doom that He hath invoked upon Himself in renouncing His right as a man to enjoy the Love of those whom He loves with passion so selfless, so pure, and so intense in return for the power so to love Mankind that He be chosen to utter the Word of the Aeon for their sake, His reward universal abhorrence, bodily torment, mental despair, and moral paralysis. 
+
+Yet He, who hath power over Death, with a breath to call back health, with a touch to beckon life, He must watch His own child waste awav month by month, aware that His Art may not anywise avall, who hath sold the signet ring of his personal profit to buy him a plain gold band for the felon finger of his bride, that worn widow, the World! 
+
+### CHAPTER XV 
+
+
+#### I 
+
+<div class="centered-small-caps">Of the Invocation</div>
+
+In the straightforward or “Protestant" System of Magick there is very little to add to what has already been said. The Magician addresses a direct petition to the Being invoked. But the secret of success in invocation has not hitherto been disclosed. It is an exceedingly simple one. It is practically of no importance whatever that the invocation should be “right”. There are a thousand different wavs of compassing the end proposed, so far as external things are concerned. The whole secret may be summarised in these four words: **“Enflame thyself in praying.”**^[This is Qabalistically expressed in the old Formula : Domine noster, audi tuo servo! kyrie Christe! O Christe!]
+
+The mind must be exalted until it loses consciousness of self. The Magician must be carried forward blindly by a force which, though. in him and of him, is by no means that which he in his normal State of consciousness calls I. Just as the poet, the lover, the artist, is carried out of himself in a creative frenzy, so must it be for the Magician. 
+
+It is impossible to lay down rules for the obtaining of this special stimulus. To one the mystery of the whole ceremony may appeal; another may be moved by the strangeness of the words, even by the fact that the “barbarous names” are unintelligible to him. Some- times in the course of a ceremony the true meaning of some barbarous name that has hitherto baffled his analysis may flash upon him, luminous and splendid, so that he is caught up into orgasm. The smell of a particular incense may excite him effectively, or perhaps the physical ecstasy of the magick dance. 
+
+**Every Magician must compose his ceremony in such a manner as to produce a drasnatic climax. At the moment when the excitement hecomes ungovernable, when the whole conscious being of the Magician undergoes a spiritual spasm, at that moment must lie utter the supreme adjuration.**
+
+One veiy effective method is to stop short, by a supreme effort of will, again and again, on the very brink of that spasm, until a time arrives when the idea of exercising that will falls to occur^[This forgetfulness must be complete; it is fatal to try to 'let oneself go' consciously.] **Inhibition is no longer possible or even thinkable, and the whole heing of the Magician, no minutest atom saying nay, is irresistibly flung forth. In blinding light, amid the roar of ten thousand thunders, the Union of God and man is consummated.**
+
+If the Magician is still seen standing in the Circle, quietly pursuing his invocations, it is that all the conscious part of him has become detached from the true ego which lies behind that normal consciousness. But the circle is wholly filled with that divine 
+essence; all else is but an accident and an illusion. 
+
+**The subsequent invocations, the gradual development and materialization of the force, require no effort.** It is one great mistake of the beginner to concentrate his force upon the actual stated purpose of the ceremony. This mistake is the most frequent cause of failures in invocation. 
+
+A corollary of this Theorem is that the Magician soon discards evocation almost altogether — only rare circumstances demand any action what ever on the material plane. The Magician devotes himself entirely to the invocation of a god; and as soon as his balance approaches perfection he ceases to invoke any partial god; only that god vertically above him is in his path. And so a man who perhaps took up Magick merely with the idea of acquiring knowledge, love, or wealth, finds himself irrevocably committed to the performance of *The Great Work*. 
+
+It will now be apparent that there is no distinction between 
 magick and meditation except of the most arbitrary and accidentai 
-kind. 1 
+kind.^[There is the general metaphysical antithesis that Magick is the Art of the Will-to-Live, Mysticism of the Will-to-Die; but—“Truth comes bubbling to my brim; Life and Death are one to Him!”.]
 
-II 
+#### II 
 
-Beside these open methods there are also a number of mental 
-methods of Invocation, of which we may give three. 
+Beside these open methods there are also a number of mental methods of Invocation, of which we may give three. 
 
-The first method concerns the so-called astral body. The 
-Magician should practise the formation of this body as recom- 
-mended in Liber O, and learn to rise on the planes according to the 
-instruction given in the same book, though limiting his a rising” to 
-the particular Symbol whose God he wishes to invoke. 
+The first method concerns the so-called astral body. The Magician should practise the formation of this body as recommended in Liber O, and learn to rise on the planes according to the instruction given in the same book, though limiting his a rising” to the particular Symbol whose God he wishes to invoke. 
 
 The second is to recite a mantra suitable to the God. 
 
-The third is the assumption of the form of the God — by 
-transmuting the astral body into LIis shape. This last method is 
-really essential to all proper invocation, and cannot be too 
-sedulously practised. 
+The third is the assumption of the form of the God — by transmuting the astral body into LIis shape. This last method is really essential to all proper invocation, and cannot be too sedulously practised. 
 
-There are many other devices to aid invocation, so many that it 
-is impossible to enumerate them; and the Magician will be wise 
-to busy himself in inventing new ones. 
+There are many other devices to aid invocation, so many that it is impossible to enumerate them; and the Magician will be wise to busy himself in inventing new ones. 
 
 We will give one example. 
 
-Suppose the Supreme Invocation to consist of 20 or 30 barbarous 
-liames, let hirn imagine these liames to occupy sections of a vertical 
-column, each double the length of the preceding one 5 and let him 
-imagine that his consciousness ascends the column with each name, 
-The mere multiplication will then produce a feeling of awe and 
-bewilderment which is the proper forerunner of ecstasy. 
+Suppose the Supreme Invocation to consist of 20 or 30 barbarous names, let him imagine these names to occupy sections of a vertical column, each double the length of the preceding one 5 and let him imagine that his consciousness ascends the column with each name, The mere multiplication will then produce a feeling of awe and bewilderment which is the proper forerunner of ecstasy. 
 
-I11 the essay “Energized Enthusiasm” in No. IX, Vol. 1 of the 
-Equinox 2 is given a concise account of one of the classical methods 
-of arousing Kundalini. This essay should be studied with care and 
-determination. 
+In the essay “Energized Enthusiasm” in No. IX, Vol. 1 of the Equinox^[The earliest and truest Christians used what is in all essentials this method. See “Fragments of a Farth Forgotten” by G. R. S. Mead, Esa. B. A., pp. 80-81. There is a real connexion between what the vulgar call blasphemy and what they call immorality, in the fact that the Christian iegend is an echo of a Phallic rite. There is also a true and positive connexion between the Creative force of the Macrocosm, and that of the Microcosm. For this reason the latter must be made as pure and consecrated as the former. The puzzle for most people is how to do this. The study of Nature is the Key to that gate.] is given a concise account of one of the classical methods of arousing Kundalini. This essay should be studied with care and determination. 
 
-1. There is the general metaphysical antithesis that Magick is the Art 
-of the Will-to-Live, Mysticism of the Will-to-Die; but—“Truth comes 
-bubbling to my brim; Life and Death are one to Him!”. 
+### CHAPTER XVI 
 
-2. The earliest and truest Christians used what is in all essentials this 
-method. See “Fragments of a Faith Forgotten” by G. R. S. Mead, 
-Esa. B. A., pp. 80-81. 
-
-There is a real connexion between what the vulgar call blasphemy and 
+<div class="centered">(Part II)</div>
 
 
-131 — 
+<div class="centered-small-caps">Of the charge to the spirit
+
+with some account of the
+
+constraints and curses occasionally necessary</div>
 
 
+#### I 
 
+On the appearance of the spirit, or the manifestation of the force in the talisman which is being consecrated, it is necessary to bind it by an Oath or Charge. A spirit should be made to lay its hand visibly on the weapon by whose might it has been evoked, and to a swear obedience and farth to Him that liveth and triumpheth, that reigneth above him in His palaces as the Balance of Righteousness and Truth” by the Names used in that evocation. 
 
-what they call immorality, in the fact that the Christian iegend is an echo 
-of a Phallic rite. There is also a true and positive connexion between the 
-Creative force of the Macrocosm, and that of the Microcosm. For this 
-reason the latter must be made as pure and consecrated as the former. The 
-puzzle for most people is how to do this. The study of Nature is the Key 
-to that gate. 
+It is then only necessary to formulate the Oath or Charge in language harmonious with the previously announced purpose of the operation. 
 
+**The precaution indicated is not to let oneself sink into one’s humanity while the weapon is extended beyond the Circle. Were the force to flow from it to you instead of from you to it, you would be infallibly blasted, or, at the least, become the slave of the spirit.**
 
-132 — 
+At no moment is it more important that the Divine Force should not only fill, but radiate from, the aura of the Magician. 
 
+#### II 
 
-
-CHAPTER XVI 
-
-(Part II) 
-
-
-Of THE CHARGE TO THE SPIRIT 
-WITH SOME ACCOUNT OF THE 
-CONSTRAINTS AND CURSES OCCASIONALLY NECESSARY 
-
-I 
-
-On the appearance of the spirit, or the manifestation of the 
-force in the talisman which is being consecrated, it is necessary to 
-bind it by an Oath or Charge. A spirit should be made to lay its 
-hand visibly on the weapon by whose might it has been evoked, 
-and to a swear obedience and faith to Him that liveth and 
-triumpheth, that reigneth above him in His palaces as the Balance 
-of Righteousness and Truth” by the Names used in that evocation. 
-
-It is then only necessary to formulate the Oath or Charge in 
-language harmonious with the previously announced purpose of 
-the operation. 
-
-Tlie precaution indicated is not to let oneself sink into 
-one’s humanity while the weapon is extended beyond the 
-Circle. Were the force to flow from it to you instead of 
-from you to it, you would be infallibly blasied, or, ai the 
-least, become the slave of the spirit. 
-
-At no moment is it more important that the Divine Force 
-should not only fill, but radiate from, the aura of the Magician. 
-
-II 
-
-Occasionally it may happen that the spirit is recalcitrant, and 
-refuses to appear. 
+Occasionally it may happen that the spirit is recalcitrant, and refuses to appear. 
 
 Let the Magician consider the cause of such disobedience! 
 
+It may be that tiie place or time is wrong. One cannot easily evoke water-spirits in the Sahara, or salamanders in the English Lake District. Hismael will not readily appear when Jupiter is below the horizon.^[It is not possible in this elementary treatise to explain the exact nature of the connexion between the rays of the actual planet called Jupiter and the Jupiterian elements which exist in varions degrees in terrestrial objects.]
 
-— 133 “ 
+In order to counteract a natural deficiency of this sort, one would have to supply a sufficient quantity of the proper kind of material. One cannot make bricks without straw. 
 
+With regard to invocations of the Gods, such considerations do not apply. The Gods are beyond most material conditions. It is necessary to fill the *heart* and *mind* with the proper basis for manifestation. The higher the nature of the God, the more true this is. **The Holy Guardian Angel has always the necessary basis. His manifestation depends solely on the readiness oi tue Aspirant, and all magical ceremonies used in that invocation are merely intended to prepare that Aspirant; not in any way to attract or influence Him. It is His constant and eternal Will** ^[Since this Knowledge and Conversation is not universal, it seems at first as if an omnipotent will were being baulked. But His Will and your will together make up that one will, because you and He are one. That one will is therefore divided against itself, so long as your will falls to aspire steadfastly. Also, His will cannot constrain yours. He is so much one with you that even your will to separate is His will. He is so certain of you that He delights in your perturbation and coquetry no less than in your surrender. These relations are fully explained in Liber LXV. See also Liber Aleph CXI.] **to hecome one with the Aspirant, and the moment the coiiditions of the lutter muke it possible, That Bridal is consummated.**
 
-It may be that tiie place or time is wrong. One cannot easily 
-evoke water-spirits in the Sahara, or salamanders in the English 
-Lake District. Hismael will not readily appear when Jupiter is 
-below the horizon. 1 2 In order to counteract a natural deficiency 
-of this sort, one would have to supply a sufficient quantity of the 
-proper kind of material. One cannot make bricks without straw. 
+#### III 
 
-With regard to invocations of the Gods, such considerations do 
-not apply. The Gods are beyond most material conditions. It is 
-necessarv to hll the heart and mïnd with the proper basis for 
-manuestauon. The higher the nature of the God, the more true 
-tins is. The Holy Guardian Angel has always the necessary 
-hasis. His manifestation depends solely on the readiness 
-oi tue Aspirant, and all magical ceremonies used in that 
-invocation are merely intended to prepare that Aspirant; 
-not in any way to attract or influence Him. It is His 
-constant and et ornai "W ill to hecome one with the Aspirant, 
-and the moment the coiiditions of the lutter muke it possible, 
-That Bridai is consummaled. 
+The obstinacy of a spirit (or the inertia of a talisman) usually implies a defect in invocation. The spirit cannot resist even for a moment the constraint of his Intelligence, when that Intelligence is working in accordance with the Will of the Angel, Archangel and God above him. It is therefore better to repeat the Invocations than to proceed at once to curses. 
 
-III. 
+The Magician should also consider^[Of course this should have been done in preparing the Ritual. But he renews this consideration from the new standpoint attained by the invocation.] whether the evocation be in trnth a necessary part of the Karma of the Universe, as he has stated in his own Oath (See Cap. XVI. i). For if this be a delusion, success is impossible. It will then be best to go back to the beginning, and recapitulate with greater intensity and power of analysis the Oath and the Invocations. And this may be done thrice. 
 
-The obstinacy of a spirit (or the inertia of a talisman) usually 
-implies a defect in invocation. The spirit cannot resist even for a 
-moment the constraint of his Intelligence, when that Intelligence 
-is working in accordance with the Will of the Angel, Archangel 
+**But if this be satisfactorily accomplished, and the spirit be yet disobedient, the implication is that some hostile force is at work io hinder the operation. It will then become advisable to discover the nature of that force, and to attack and destroy it. This makes the ceremony more useful than ever to the Magician, who may thereby be led to unveil a black magical gang whose existence he had not hitherto suspected.**
 
+His need to check the vampiring of a lady in Paris by a sorceress once led <span class="small-caps">Frater Perdurabo</span> to the discovery of a very powerful body of black magicians, with whom he was obliged to war for nearly io years before their ruin was complete and irremediable as it now is. 
 
-1. It is not possible in this elementary treatise to explain the exact 
-nature of the connexion between the rays of the actual planet called 
-Jupiter and the Jupiterian elements which exist in varions degrees in 
-terrestrial objects. 
+Such a discovery will not necessarily impede the ceremony. A general curse may be pronounced against the forces hindering the operation (for *ex hypothesi* no divine force can be interfering) and having thus temporarily dislodged them — for the power of the God invoked will suffire for this purpose — one may proceed with a certain asperity to conjure the spirit, for that he has done ill to bend before the conjurations of the Black Brothers. 
 
-2. Since this Knowledge and Conversation is not universal, it seems 
-at first as if an omnipotent will were being baulked. But His Will and 
-your will together make up that one will, because you and He are one. 
-That one will is therefore divided against itself, so long as your will falls 
-to aspire steadfastly. 
+Indeed, some demons are of a nature such that they only understand curses, are not amenable to courteous command:— 
 
-Also, His will cannot constrain yours. He is so much one with you 
-that even your will to separate is His will. He is so certain of you that 
-He delights in your perturbation and coquetry no less than in your 
-surrender. These relations are fully explained in Liber LXV. See also 
-Liber Aleph CXI. 
+<span class="centered">“a slave Whom stripes may move, not kindness.”</span>
 
+**Finally, as a last resource, one may burn the Sigil of the Spirit in a black box wiih stinking substances, all having been properly prepared beforehand, and the magical links properiy made, so that he is really tortured by the Operation.**^[The precise meaning of these phrases is at first sight obscure. The spirit is merely a recalcitrant part of one’s own organism. To evoke him is therefore to become conscious of some part of one’s own character; to command and constrain him is to bring that part into subjection. This is best understood by the analogy of teaching oneself some mental-physical accomplishment (e. g. billiards), by persistent and patient study and practice, which often involves considerable pain as well as trouble.]
 
-~ 134 — 
+This is a rare event, however. Only once in the whole of his magical career was <span class="small-caps">Frater Perurabo</span> driven to so harsh a measure.
 
+#### IV 
 
+In this connexion, **beware of too ready a compliance on the part of the spirit.** If some Black Lodge has got wind of your operation, it may send the spirit, full of hypocritical submission, to destroy you. Such a spirit will probably pronounce the oath amiss, or in some way seek to avoid his obligations. 
 
-
-and God above him. It is therefore better to repeat the Invo¬ 
-cations than to proceed at once to curses. 
-
-The Magician should also consider 1 whether die evoca¬ 
-tion be in trnth a necessary part of the Karma of the 
-Universe, as he has stated in his own Oath (See Cap. XVI. i), 
-For if this be a delusion, success is impossible. It will then be 
-best to go back to the beginning, and recapitulate with greater 
-intensity and power of analysis the Oath and the Invocations. 
-And this may be done thrice. 
-
-But if this be satisfactorily accomplished, and the spirit 
-be y et disobedient, the implication is thaï sonie hostile force 
-is at work io hinder the operation. It will then become 
-advisable to discover the nature of that force, and to attack 
-and desiroy it. This makes the ceremony more useful than 
-ever to the Magician, who may thereby be led to irnveil a 
-black magical gang whose existence he had not hitherto 
-snspected. 
-
-His need to check the vampiring of a lady in Paris by a sorceress 
-once led Frater Perdurabo to the discovery of a very powerful 
-body of black magicians, with whom he was obliged to war for 
-nearly io years before their ruin was complete and irremediable 
-as it now is. 
-
-Such a discovery will not necessarily impede the ceremony. A 
-general curse may be pronounced against the forces hindering the 
-operation (for ex hyfothesi no divine force can be interfering) 
-and having thus temporarily dislodged them — for the power of 
-the God invoked will suffire for this purpose — one may proceed 
-with a certain asperity to conjure the spirit, for that he has done 
-ill to bend before the conjurations of the Black Brothers. 
-
-Indeed, some demons are of a nature such that they only 
-understand curses, are not amenable to courteous command:— 
-
-“a slave 
-
-Whom stripes may move, not kindness.” 
-
-Finally, as a last resource, one may burn the Sigil of the 
-
-
-I. Of course this should have been done in preparing the Ritual. 
-But he renews this consideration from the new standpoint attained by the 
-invocation. 
-
-
-H5 — 
-
-
-
-
-Spirit in a black box wiih stinking substances, alï îiaving 
-been properly prepared beforehand, and tlie magical links 
-properiy made, so that lie is really tortured by the 
-Operation. 1 
-
-This is a rare event, however. Only once in the whole of his 
-magical career was Frater Perurabo driven to so harsh a 
-measure. 
-
-IV 
-
-In this connexion, beware of too ready a compliance on the 
-part of the spirit. If some Black Lodge has got wind of your 
-operation, it may send the spirit, full of hypocritical submission, to 
-destroy you. Such a spirit will probably pronounce the oath 
-amiss, or in some way seek to avoid his obligations. 
-
-It is a dangerous trick, though, for the Black Lodge to play; 
-tor if the spirit come properly under your control, it will be forced 
-to disclose the transaction, and the current will return to the Black 
-Lodge with fulminating force. The liars will be in the power 
-of their own lie; their own slaves will rise up and put them into 
-
-bondage. The wicked fall into the pit that they themseives 
-digged. 
+It is a dangerous trick, though, for the Black Lodge to play; for if the spirit come properly under your control, it will be forced to disclose the transaction, and the current will return to the Black Lodge with fulminating force. The liars will be in the power of their own lie; their own slaves will rise up and put them into bondage. The wicked fall into the pit that they themseives digged. 
 
 And so perish all the King’s enemies! 
 
 
-V 
+#### V 
 
-The charge to the spirit is usually embodied, except in Works 
-of pure evocation, which after ali are comparatively rare, in sonie 
-kind of talisman. In a certain sense, the talisman is the Charge 
-expressed in hieroglyphics. Yet, every object soever is a 
-talisman, for the definition of a talisman is: something upon 
-which an act of will (that is, of Magick) has been performed in 
-order to fit it for a purpose. Repeated acts of will in respect of 
-
-
-i. The precise meaning of these phrases is at first sight obscure. The 
-spirit is merely a recalcitrant part of one’s own organism. To evoke him 
-is therefore to become conscious of some part of one’s own character; to 
-command and constrain him is to bring that part into subjection. This is 
-best understood by the analogy of teaching oneself some mental-physical 
-accomplishment (e. g. billiards), by persistent and patient study and 
-practice, which often involves considerable pain as well as trouble. 
-
-
-1 3 6 — 
-
-
-
-any object consecrate it without further ado. One knows what 
-miracles can be clone with one’s favourite mashie! One has used 
-the mashie again and again, one’s love for it growing in proportion 
-to one’s success with it, and that success again made more certain 
-and complete by the effect of this “love under will”, which one 
-bestows upon it by using it. 
+The charge to the spirit is usually embodied, except in Works of pure evocation, which after ali are comparatively rare, in sonie kind of talisman. In a certain sense, the talisman is the Charge expressed in hieroglyphics. **Yet, every object soever is a talisman**, for the definition of a talisman is: something upon which an act of will (that is, of Magick) has been performed in order to fit it for a purpose. Repeated acts of will in respect of any object consecrate it without further ado. One knows what miracles can be clone with one’s favourite mashie! One has used the mashie again and again, one’s love for it growing in proportion to one’s success with it, and that success again made more certain and complete by the effect of this “love under will”, which one bestows upon it by using it. 
 
-It is, of course, very important to keep such an object away 
-from the contact of the profane. It is instinctive not to let another 
-person use one’s fishing rod or one’s gun. It is not that they could 
-do any harm in a material sense. It is the feeling that one’s use 
-of these things has consecrated them to one’s self. 
+It is, of course, very important to keep such an object away from the contact of the profane. It is instinctive not to let another person use one’s fishing rod or one’s gun. It is not that they could do any harm in a material sense. It is the feeling that one’s use of these things has consecrated them to one’s self. 
 
-Of course, the outstanding example of all such talismans is the 
-wife. A wife may be defined as an object specially prepared for 
-taking the stamp of one’s Creative will. This is an example of a 
-very complicated magical operation, extending over centuries. 
-But, theoretically, it is just an ordinary case of talismanic magick. 
-It is for this reason that so much trouble has been taken to prevent 
-a wife having contact with the profane; or, at least, to try to 
-prevent her. 
+Of course, the outstanding example of all such talismans is the wife. A wife may be defined as an object specially prepared for taking the stamp of one’s Creative will. This is an example of a very complicated magical operation, extending over centuries. But, theoretically, it is just an ordinary case of talismanic magick. It is for this reason that so much trouble has been taken to prevent a wife having contact with the profane; or, at least, to try to prevent her. 
 
-Readers of the Bible will remember that Absalom publicly 
-adopted David’s wives and concubines on the roof of the palace, 
-in order to signify that he had succeeded in breaking his father’s 
-magical power. 
-
-Now, there are a great many talismans in this world which are 
-being left lying about in a most reprehensibly careless manner. 
-Such are the objects of popular adoration, as ikons and idols. 
-But, it is actually true that a great deal of real magical Force is 
-locked up in such things; consequently, by destroying these sacred 
-symbols, you can overcome magically the people who adore them. 
-
-It is not at all irrational to fight for one’s flag, provided that 
-the flag is an object which really means something to somebody. 
-Similarly, with the most widely spread and most devotedly 
-worshipped talisman of all, money, you can evidently break the 
-magical will of a worshipper of money by taking his money away 
-from him, or by destroying its value in some way or another. 
-But, in the case of money, general experience tells us that there 
-is very little of it lying about loose. In this case, above ali, 
-
-
-137 “ 
-
-
-
-people have recognised its talismanic virtue, that is to say, its 
-power as an instrument of the wilL 
-
-But with many ikons and images, it is easy to steai their virtue. 
-This can be done sometimes on a tremendous scale, as, for example, 
-when all the images of Isis and Horus, or similar mother-child 
-combinations, were appropriated Wholesale by the Christians. The 
-miracle is, however, of a somewhat dangerous type, as in this 
-case, where enlightenment has come through the researches of 
-archaeologists. It has been shown that the so-called images of 
-Mary and Jesus are really nothing but imitations of those of 
-Isis and tiorus. Honesty is the best policy in Magick as in other 
-lines of life. 
+Readers of the Bible will remember that Absalom publicly adopted David’s wives and concubines on the roof of the palace, in order to signify that he had succeeded in breaking his father’s magical power. 
 
+Now, there are a great many talismans in this world which are being left lying about in a most reprehensibly careless manner. Such are the objects of popular adoration, as ikons and idols. But, it is actually true that a great deal of real magical Force is locked up in such things; consequently, by destroying these sacred symbols, you can overcome magically the people who adore them. 
 
-138 — 
+It is not at all irrational to fight for one’s flag, provided that the flag is an object which really means something to somebody. Similarly, with the most widely spread and most devotedly worshipped talisman of all, money, you can evidently break the magical will of a worshipper of money by taking his money away from him, or by destroying its value in some way or another. But, in the case of money, general experience tells us that there is very little of it lying about loose. In this case, above all, people have recognised its talismanic virtue, that is to say, its power as an instrument of the will. 
 
+But with many ikons and images, it is easy to steai their virtue. This can be done sometimes on a tremendous scale, as, for example, when all the images of Isis and Horus, or similar mother-child combinations, were appropriated Wholesale by the Christians. The miracle is, however, of a somewhat dangerous type, as in this case, where enlightenment has come through the researches of archaeologists. It has been shown that the so-called images of Mary and Jesus are really nothing but imitations of those of Isis and Horus. Honesty is the best policy in Magick as in other lines of life. 
 
+### CHAPTER XVII 
 
-CHAPTER XVII 
+<div class="centered-small-caps">Of the license to depart</div>
 
-
-Of THE LICENSE TO DEPART 
-
-After a ceremony has reached its climax, anti-climax must 
-inevitably follow. But if the ceremony has been successful this 
-anti-climax is merely formai. The Magician should rest 
-permanently on the higher plane to which he has aspired. 1 The 
-whole force of the operation should be ahsorhed; but there 
-is almost certain to be a residuum, since no operation is perfect; 
-and (even if it were sol there would be a number of things, 
-sympathetic to the operation, attracted to the Circle. These must 
-be duly dispersed, or thev will degenerate and become evil. It 
-is always easy to do this where invocations are concerned; the mere 
-removal of the strain imposed by the will of the magician will 
-restore things to their normal aspects, in accordance with the great 
-law of inertia. In a badly-managed evocation, however, this does 
-not always obtainj the spirit may refuse to be controlled, and may 
-refuse to depart — even after having sworn obedience. In such 
-a case extreme danger may arise. 
-
-In the ordinary way, the Magician dismisses the spirit with 
-these words: “And now I say unto thee, depart in peace unto thine 
-habitations and abodes — and may the blessing of the Highest be 
-upon thee in the name of (here mention the divine name suitable 
-to the operation, or a Name appropriate to redeem that spirit) 3 
-and let there be peace between thee and me 3 and be thou very ready 
-to come, whensoever thou art invoked and called!” 1 2 
-
-
-1. The rock-climber who relaxes on the face of the precipice falls 
-to earth; but once he has reached a safe ledge he may sit down. 
-
-2. It is usual to add “either by a word, or by a will, or by this 
-mighty Conjuration of Magick Art.” 
-
-
-— 139 
-
-
-
-Should lie fai! to disappear immediately, it is a sign thaï 
-there is something ver y wrong, The Magician should 
-immediaiely reconsecrate the Circle with the uîmost care. 
-He should then repeat the dismissal; and if this does not suffice, 
-he should then perform the banishing ritual suitable to the nature 
-of the spirit and, if necessary, add conjurations to the same 
-effect. In these circumstances, or if anything else suspicious should 
-occur, he should not be content with the apparent disappearance of 
-the spirit, who might easily make himself invisible and lie in 
-ambush to do the Magician a mischief when he stepped out of the 
-Circle — or even months afterwards. 
-
-An y symhol whieh lias once definitely entered your 
-environment with your own consent is extremely danger ous; 
-unless under absolut e c ont roi, A man’s friends are more 
-capable of working him harm than are strangers; and his 
-greatest danger lies in his own habits. 
-
-Of course it is the very condition of progress to build up ideas 
-into the subconscious. The necessity of selection should therefore 
-be obvious. 
+After a ceremony has reached its climax, anti-climax must inevitably follow. But if the ceremony has been successful this anti-climax is merely formai. The Magician should rest permanently on the higher plane to which he has aspired.^[The rock-climber who relaxes on the face of the precipice falls to earth; but once he has reached a safe ledge he may sit down.]
 
-True, there comes a time when all elements soever must be 
-thus assimilated. Samadhi is, by definition, that very process. 
-But, from the point of view of the young magician, there is a 
-right wav — strait and difficult •— of performing all this. One 
-cannot too frequently repeat that what is lawful and proper 
-to one Path is alien to another. 
+The whole force of the operation should be ahsorhed; but there is almost certain to be a residuum, since no operation is perfect; and (even if it were sol there would be a number of things, sympathetic to the operation, attracted to the Circle. These must be duly dispersed, or thev will degenerate and become evil. It is always easy to do this where invocations are concerned; the mere removal of the strain imposed by the will of the magician will restore things to their normal aspects, in accordance with the great law of inertia. In a badly-managed evocation, however, this does not always obtain; the spirit may refuse to be controlled, and may refuse to depart — even after having sworn obedience. In such a case extreme danger may arise. 
 
-Immediately after the License to Depart, and the general 
-closing up of the work,it is necessary that the Magician should sit 
-down and write up his magical record. However much he may 
-have been tired 1 by the ceremony, he ought to force himself to do 
-this until it becomes a habit. Verily, it is better to fall in 
-the magical ceremony than to fall in writing down an 
-accurate record of it. One need not doubt the propriety of this 
-remark. Even if one is eaten alive by Malkah be-Tarshishim 
-ve-Ruachoth ha-Schehalim, it does not matter very much, for it 
-is over so very quickly. But the record of the transaction is 
-
-
-I. He ought to be refreshed, more than after a full night’s deep sleep. 
-This forms one test of his skill. 
-
-
-— 140 — 
-
-
-
-otherwise important. Nobody cares about Duncan having been 
-murdered by Macbeth. It is only one of a number of similar 
-murders. But Shakespeare’s account of the incident is a unique 
-treasure of mankind. And, apart from the question of the value 
-to others, there is that of the value to the magician himself. The 
-record of the magician is his best asset. 
+In the ordinary way, the Magician dismisses the spirit with these words: “And now I say unto thee, depart in peace unto thine habitations and abodes — and may the blessing of the Highest be upon thee in the name of (here mention the divine name suitable 
+to the operation, or a Name appropriate to redeem that spirit); and let there be peace between thee and me; and be thou very ready to come, whensoever thou art invoked and called!”^[It is usual to add “either by a word, or by a will, or by this mighty Conjuration of Magick Art.”]
 
-It is as foolish to do Magick without method, as if it were 
-anything else. To do Magick without keeping a record is like 
-tiying to run a business without book-keeping. There are a great 
-manv people who quite misunderstand the nature of Magick. 
-They have an idea that it is something vague and unreal, instead 
-ot being, as it is, a direct means of coming into contact with 
-reauty. It is these people who pay themselves with phrases, who 
-are always using long words with no definite connotation, who 
-p aster themselves with pompous titles and decorations which 
-mean nothing whatever. With such people we have nothing to 
-do But to those who seek reality the Key of Magick is offered, 
-and they are hereby warned that the key to the treasure-house is 
-
-no good without the combination; and the combination is the 
-magical record. 
-
-From one point of view, magical progress actually con- 
-sists in deciphering one’s own record. 1 For this reason it 
-is the most important thing to do, on strictly magical grounds. 
-But apart from this, it is absolutely essential that the record 
-snould be clear, fu.ll and concise, because it is only by such a record 
-that your teacher can judge how it is best to help you. Your 
-magical teacher has something else to do besides running around 
-.er you all the time, and.the most important of all his functions 
-is that of auditor. Now, if you call in an auditor to investigate 
-a business, and when he asks for the books you tell him that you 
-have not thought it worth while to keep any, you need not be 
-surprised if he thinks you every kind of an ass. 
-
-It is at least, it was — perfectly incredible to The Master 
-Th er ion that people who exhibit ordinary common sense in 
-
-
-• 1 \r ° ne 1S a ^ tai * in t ^ e Bod y ^uith, every successive incarnation 
-
-is a Veil, and the acquisition of the Magical Memory a graduai UnveilinP- 
-of that Star, of that God. 6 
-
-
-
-the other affairs of life should lose it completely when they 
-tackle Magick. It goes far to justify the helief of the semi- 
-educated that Magick is rather a crazy affair after all. However, 
-there are none of these half-baked lunatics connected with the 
-A.*. A.’., because the necessity for hard work, for passing 
-examinations at stated intervals, and for keeping an intelligible 
-account of what they are doing, frightens away the unintelligent, 
-idle and hysterical. 
-
-There are numerous models of magical and mystical records to 
-be found in the various numbers of the Equinox y and the student 
-will have no difficulty in acquiring the necessary technique, if he 
-be diligent in practice. 
+**Should he fail to disappear immediately, it is a sign that there is something very wrong, The Magician should immediaiely reconsecrate the Circle with the utmost care.** He should then repeat the dismissal; and if this does not suffice, he should then perform the banishing ritual suitable to the nature of the spirit and, if necessary, add conjurations to the same effect. In these circumstances, or if anything else suspicious should occur, he should not be content with the apparent disappearance of the spirit, who might easily make himself invisible and lie in ambush to do the Magician a mischief when he stepped out of the Circle — or even months afterwards. 
 
+**Any symbol which has once definitely entered your environment with your own consent is extremely dangerous; unless under absolute control. A man’s friends are more capable of working him harm than are strangers; and his greatest danger lies in his own habits.**
 
-— 142 
-
-
-
-
-CHAPTER XVIII 
-
-
-Of CLAIRVOYANCE AND OF THE BODY OF LIGHT 
-Il'S POWER AND ITS DEVELOPMENT 
-A.LSO CONCERNING DIVINATION 
-
-I 
-
-Within ilie liuman body is another body of approximately 
-the same size and sliape; L but made of a subiler and less 
-iilnsory materiaL It is of course not “real” 5 but then no more 
-is the other body! Before treating of clairvoyance one must discuss 
-briefly this question of reality, for misapprehension on the subject 
-has given rise to endless trouble. 
-
-There is the story of the American in the train who saw another 
-American carrying a basket of unusual shape. His curiosity 
-mastered him, and he leant across and said: “Say, stranger, what 
-you got in that bag ?” The other, lantern-jawed and taciturn, 
-replied : “Mongoose”. The hrst man was rather baffled, as he 
-had never heard of a mongoose. After a pause he pursued, at the 
-risk of a rebuff : “But say, what is a Mongoose ?” “Mongoose 
-eats snakes”, replied the other. This was another poser, but he 
-pursued; “What in he.ll do you want a Mongoose for ?” “Well, 
-you see”, said the second man (in a confidential whisper) “my 
-brother sees snakes”. The hrst man was more puzzled than ever; 
-but after a long think, he continued rather pathetically : “But say, 
-them ain’t real snakes”. “Sure”, said the man with the basket, 
-“but this Mongoose ain’t real either”. 
-
-This is a perfect parable of Magick. There is no such thing 
-
-
-1. i. e. as a general rule. It can be altered very greatly in these 
-respects. 
-
-
-— 143 
-
-
-
-as trutli in the perceptible imiverse; every idea when 
-analysecl is fornid to contain a contradiction. It is quite 
-useless (except as a temporary expedient) to set up one class of 
-ideas against another as being "more real”. The advance of man 
-towaids God is not necessarily an advance towards truth. all 
-philosophical Systems have crumbled. But each class of ideas 
-possesses true relations within itself. It is possible, with Berkeley, 1 
-to deny the existence of water and of wood; but, for all that, wood 
-fioats on water. The Magician becomes identical with the imrnor- 
-tal Osins, yet the Magician dies. In this dilemma the facts must 
-be restated. One should preferably say that the Magician becomes 
-tonscious of that part of himself which he calls the immortal 
-Osins j and that Part does not “die”. 
-
-Now this interior body of the Magician, of which we spoke at the 
-begmning of this chapter, does exist, and can exert certain powers 
-which his natural body cannot do. It can, for example, pass 
-tirough matter , and it can move freelv in every direction 
-* ni ough space. But this is because “matter”, in the sense in which 
-we commonly use the word, is on another plane 2 . 
-
-Now this fine body perceives a uni verse which we do not 
-ordinarily . perceive. It does not necessarily perceive the 
-universe which we do normally perceive, so although in this body 
-I can pass through the roof, it does not follow that I shall be able 
-to tell what the weather is like. I might do so, or I might not; 
-Dut if I could not, it would not prove that I was deceiving myself 
-m supposing that I had passed through the roof. This body, 
-which is called by varions authors the Astral double, body 
-of Light, body of fire, body of desire, fine body, scin-laeca 
-and numberless other naines is naturally fiited to perceive 
-objects of ils own class... in particular, the phantoms of 
-the astral plane. 
-
-
-1. 1 he real Berkeley did nothing of the sorti the reference here is 
-
-to an imaginary animal invented by Dr. Johnson ont of sturdy British 
-ignorance. 
-
-2 . We do not call electrical resistance, or economie laws, unreal, on 
-the ground that they are not directly perceived by the senses. Gur magical 
-doctrine is universally accepted by sceptics — only they wish to make 
-Magick itself an exception! 
-
-
-H4 — 
-
-
-
-There is some sort of vague and indeterminate relation between 
-the Astrals and the Materials ; and it is possible, with great 
-experience, to deduce facts about material things from the astral 
-aspect which they present to the eyes of the Body of Light. 1 This 
-astral plane is so varied and so changeable that several clairvoyants 
-looking at the same thing might give totally different accounts of 
-what they saw; yet they might each make correct deductions. In 
-looking at a man the first clairvoyant might say : “The lines of 
-force are all drooping”; the second : “It seems all dirtv and 
-spotty”; a third; “The Aura looks very ragged.” Yet all might 
-agree in deducing that the man was in ill-health. In any case, all 
-such deductions are rather unreliable. One must be a highly 
-skilled man before one can trust one’s vision. A great many people 
-think that they are extremely good at the business, when in fact 
-they have onlv made some occasional shrewd guesses (which 
-they naturallv remember) in the course of hundreds of forgotten 
-fallures. 
-
-The onlv way to test clairvoyance is to keep a careful record of 
-every experiment made. For example, Frater O. M. once gave 
-a clairvoyant a waistcoat to psychometrize. He made 56 State- 
-ments about the owner of the waistcoat ; of these 4 were notably 
-rightj 17, though correct, were of that class of statement which 
-is true of almost everybody. The remainder were wrong. It was 
-concluded from this that he showed no evidence of any special 
-power. In fact, his bodily eyes — if he could discern Talloring 
-— would have served him better, for he thought the owner of 
-the vest was a corn-chandler, instead of an earl, as he is. 
-
-The Magician can hardi y take too much trouble to 
-develop this power in himself. It is extremely useful to him 
-in guarding himself against attack; in obtaining warnings, in 
-judging character, and especially in watching the process of his 
-Ceremonies. 
-
-
-I. This is because there is a certain necessary correspondence between 
-planes; as in the case of an Anglo-Indian’s liver and his temper. The 
-relation appears “vague and indeterminate” only in so far as one happens 
-to be ignorant of the laws which State the case. The situation is analo- 
-gous to that of the chemist before the discovery of the law of “Combining 
-Weights”, etc. 
-
-
-145 
-
-
-
-
-There are a great many ways of acquiring the power. Gaze 
-into a crvstal, or into a pool of ink in the palm of the hand, or into 
-a mirror, or into a teacup. Just as with a microscope the expert 
-operator keeps both eves open, though seeing only through the 
-one at the eye-piece of the instrument, so the natural eyes, ceasing 
-to give anv message to the brain, the attention is withdrawn from 
-them, and the man begins to see through the Astral eyes. 
-
-These methods appear to The Master Therion to be 
-unsatisfactory. Very often they do not work at all. It is difficult 
-to teach a person to use these methods; and, worst of ali, they are 
-purely passive! You can see only what is shewn you, and you are 
-probably shewn things perfectly pointless and irrelevant. 
-
-The proper metnod is as followsi — Devciop the body oi 
-Liglil until iî is jiisl ns real to y ou as your otlier body. 
-teacli it io travel to any desired Symbol, and enable it te 
-perform all neeessary Rites and Invocations. In sbort, 
-edncate it. Ultimately, the relation of that body with your 
-own must be exceedingly intimates but before this harmonizing 
-takes place, you should begin by a careful differentiation. The first 
-thing to do, therefore, is to get the body outside your own. To 
-avoid muddling the two, you begin by imagining a shape resem- 
-bÜng yourself standing in front of you. Do not say: “Oh, it’s only 
-imagination!” lhe time to test that is later on, when you have 
-secured a fairly ciear mental image of such a body. T'ry to ima¬ 
-gine how your own body would look if you were standing in its 
-place j try to transfer your consciousness to the Body of Light. 
-Your own body has its eyes shut. Use the eyes of the Body of Light 
-to describe the objects in the room behind you. Don’t say, “It’s 
-
-only an effort of subconscious memory”...the time to test that is 
-later on. 
-
-As soon as you feel more or less at home in the fine body, let it 
-rise in the air. Keep on feeling the sense of rising; keep on looking 
-about you as you rise until you see landscapes or beings of the astral 
-plane. Such have a quality all their own. They are not like material 
-things — they are not like mental pictures — they seem to lie 
-between the two. 
-
-After some practice has made you adept, so that in the course 
-
-
-146 
-
-
-of an hour’s journey you can reckon on having a fairly eventful 
-time, turn your attention to rcaching a definite place on the astral 
-plane j invoke Mercury, for example, and examine carefully your 
-record of the resulting vision — discover whether the symbols 
-which you have seen correspond with the conventional symbols of 
-Mercury. 
-
-Tliis iesting of the spirits is the most important branch 
-of tlie whoïe tree of Magick. Without it, one is lost in the 
-jungle of delusion. Every spirit, up to God himself, is 
-ready to deceive you if possible, to make himself ont more 
-important than lie is; in short, to lay in wait for your soul 
-in 333 separate ways. Remember thaï after all the highest 
-of all the Gods is en!y the Magus, 1 Mayan, the greatest of 
-all the devils. 
-
-Your may also try “rising on the planes”. 2 With a little practice, 
-especially if you have a good Guru, you ought to be able to slip 
-in and out of your astral body as easily as you slip and out of a 
-dressing-gown. It will then no longer be so necessary for your 
-astral body to be sent far off ; without moving an inch you will be 
-able to “turn on” its eyes and ears — as simplv as the man with 
-the microscope (mentioned above) can transfer his complete 
-attention from one eye to the other. 
-
-Now, however unsuceessful your geiting ouï of the body 
-may apparently have been, it is most necessary to use every 
-effort to bring it properly back. Make the Body of Light 
-coincide in space with the physica! body, assume the God- 
-Form, and vibrate the name of lïarpocrates with the utmost 
-energy; then recover unity of consciousness. If you fall 
-to do this properly you may find vourself in serious trouble. Your 
-Body of Light may wander away uncontrolled, and be attacked and 
-obsessed. You will become aware of this through the occurrence 
-of headache, bad dreams, or even more serious signs such as 
-hysteria, fainting fits, possibly madness or paralysis. Even the 
-worst of these attacks will probably wear off, but it may leave you 
-permanently damaged to a greater or less extent. 
-
-1. See Liber 418, 3rd Aethyr. 
-
-2. See Infra and Appendix. 
-
-
-— 147 
-
-
-
-
-A great majority of “spiritualists”, “occultists”, “Toshos- 
-ophists”, are pitiable examples of repeated losses from this cause. 
-
-The emotional type of religionist also suffers in this way. 
-Devotion projects the fine body, which is seized and vampirized by 
-the demon masquerading as “Christ” or “Mary”, or whoever may 
-be the object of worship. complete absence of all power to 
-concentrate thought, to follow an argument, to formulate a Will, 
-to hold fast to an opinion or a course of action, or even to keep a 
-solemn oath, mark indelibly those who have thus lost parts of their 
-souls. They wander from one new cuit to another even crazier. 
-Occasionally such persons drift for a moment into the surroundmgs 
-of The Master Therion, and are shot out by the simple process 
-of making them try to do a half-hour 5 s honest work of any kind. 
-
-In projecting the Astral, it is a valtiable additional safe- 
-gnard to perform the whole operation m a properïy con- 
-secrated circle. 
-
-Proceed with great caution, then, but proceed. In time your 
-Body of Light will be as strong against the spirits as your other 
-body against the winds of Heaven. all depends upon the develop¬ 
-ment of that Body of Light. It must be furnished with an 
-organism as ramified and balanced as its shadowy brother, the 
-material body. 
-
-To recapitulate once more, then, the first task is to develop 
-your own Body of Light within your own circle with out 
-reference to any other inhabitants of the world to which it belongs. 
-
-That which you have accomplished with the subject you may 
-now proceed to do with the object. You will learn to see the 
-astral appearance of material thingSj and although this does not 
-properïy belong to pure clairvoyance, one may here again mention 
-that you should endeavour to the utmost to develop and 
-foriify this Body of Light. The hest and simpîest way to 
-do this is to use it constantly, to exercise it in every way. 
-In particular it may be employed in ceremonies of initiation or of 
-invocation — w r hile the physical body remains silent and still. 
-
-In doing this it will often be necessary to create a Temple on 
-the astral plane. Il is excellent practice to create symbols. 
-This one precaution is needed: after using them, they 
-should be reabsorbed. 
-
-
-148 
-
-
-Having learned to create astral forms, the next step will be at 
-first very difficult. Phantasmal and fleeting as the astral is in 
-general, those forms which are definitely attached to the material 
-possess enormous powers of resistance, and it consequently requires 
-very high potential to influence them. Their material analogues 
-seem to serve as a fortress. Even where a temporary effect is 
-produced, the inertia of matter draws it back to the normal; yet the 
-power of the trained and consecrated will in a well-developed astral 
-body is such that it can even produce a permanent change in the 
-material upon whose Body of Light you are working, e.g. ; one 
-can heal the sick bv restoring a healthy appearance to their astral 
-forms. On the other hand, it is possible so to disintegrate the 
-the Body of Light even of a strong man that he will fall dead. 
-
-Such operations demand not only power, but judgment. Nothing 
-can upset the sum total of destiny — everything must be paid for 
-the uttermost farthing. For this reason a great many operations 
-theoretically possible cannot be performed. Suppose, for example, 
-you see two men of similarly unhealthy astral appearance. In one 
-case the cause may be slight and temporary. Your help suffices to 
-restore him in a few minutes. The other, who looks no worse, is 
-really oppressed by a force incalculably greater than you could 
-control, and you would only damage yourself by attempting to help 
-him. The diagnosis between the two cases could be made by an 
-investigation of the deeper strata of the astral, such as compose the 
-“causal body”. 
-
-A body of black magicians under Anna Kingsford 1 once 
-attempted to kill a vivisector who was not particularly well known; 
-and they succeeded in making him seriously ill. But in attempting 
-the same thing with Pasteur they produced no effect whatever, 
-because Pasteur was a great genius — an adept in his own line far 
-greater than she in h ers — and because millions of people were 
-dally blessing him. It cannot be too clearly nnderstood that 
-magical force is snbject to the same ïaws of proportion as 
-any other kind of force. It is useless for a mere millionaire to 
-try to bankrupt a man who has the Bank of England behind him. 
-
-
-I. Anna Kingsford, so far as her good work is concerned, was only the 
-rubber stamp of Edward Maitland. 
-
-
-149 
-
-
-
-To sum up, the first task is to separate the astral form from the 
-physical body, the second to develop the powers of the astral body, 
-in particular those of sight, travel, and interpretation 3 third, to 
-unify the two boclies without muddling them. 
-
-This being accomplished, the magician is htted to deai with the 
-invisible. 
-
-Il 
-
-It is now useful to continue with considerations of other planes, 
-which have commonly been classed under the Astral. There is 
-some reason for this, as the delimitations are somewhat vague. Just 
-as the vegetable kingdom merges into the animal, and as the 
-material plane has beings which encroach upon the boundaries of 
-the astral, so do we hnd it in the higher planes. 
-
-The mental images which appear during meditation are subjec¬ 
-tive, and pertain not at all to the astral plane. Only verv rarely 
-do astral images occur during meditation. It is a bad break in the 
-circle, as a rule, when they do. 
-
-There is also a Magical Plane. This touches the material, and 
-even includes a portion of it. It includes the Astral, chiefly a fuli- 
-blooded type of the Astral. It reaches to and includes most, if not 
-all, of the spiritual planes. 
-
-The Magical plane is thus the most comprehensive of all. 
-Egyptian Gods are typical inhabitants of this plane, and it is the 
-home of every Adept. 
-
-The spiritual planes are of several types, but are all distinguished 
-by a reality and intensitv to be found nowhere else. Their 
-inhabitants are formless, free of space and time, and distinguished 
-by incomparable brilliance. 
-
-There are also a number of sub-planes, as, for example, the 
-Alchemical. This plane wiil often appear in the practice of 
-u Rising on the Planes” ; its images are usually those of gardens 
-curiously kept, mountains furnished with peculiar symbols, hiero- 
-glyphic animais, or such figures as that of the a Hermetic 
-Arcanum”, and pictures like the “Goldseekers” and the ‘Mas¬ 
-sacre of the Innocents” of Basil Valentine. There is a unique 
-quality about the alchemical Plane which renders its images imme- 
-diately recognisable. 
-
-
-150 
-
-
-
-The are also planes corresponding to various religions past and 
-present, all of which have their peculiar unity. 
-
-ïi is of the utmost importance to tlie “Clairvoyant” or 
-Hraveller in the fine body to be able to find bis way to 
-any desired plane, and operate therein as itts rnler. 
-
-The Neopliyte of A.*. A.’, is examined most strict ly in 
-tliis practice before he is passed to the degree of Zelaior. 
-
-In “Rising on the Planes” one must usuallv pass clear through 
-the Astral to the Spiritual. Sonie will be unable to do this. The 
-“fine body” which is good enough to subsist on lower planes, a 
-shadow among shadows, will fall to penetrate the higher strata. 
-It requires a great development of this body,and an intense infusion 
-of the highest spiritual constituents of man, before he can pierce 
-the veils. The constant practice of Magick is the best preparation 
-possible. Even though the human consciousness fall to reach the 
-goal, the consciousness of the fine body itself may do so, wherefore 
-whoso travels in that body on a subsequent occasion may be found 
-worthyj and its success will react favourably on the human 
-consciousness, and increase its likelihood of success in its next 
-magical operation. 
-
-Similarly, the powers gained in this way will strengthen the 
-magician in his meditation-practices. His Will becomes better able 
-to assist the concentration, to destroy the mental images which 
-disturb it, and to reject the lesser rewards of that practice which 
-tempt, and too often stop the progress of, the mystic. 
-
-Although it is said that the spiritual lies “beyond the astral”, 
-this is theoreticalj 1 the advanced Magician will not find it to be so 
-in practice. He will be able by suitable invocation to travel directly 
-to any place desired. In Liber 418 an example of perfection is 
-given. The Adept who explored these Aethyrs did not have to pass 
-through and beyond the Universe, the whole of which yet lies 
-within even the inmost (30th) Aethyr. He was able to summon 
-the Aethyrs he wanted, and His chief difficulty was that sometimes 
-
-
-I. The Hon. Bertrand Russell’s Princifia Mathemcitica may be said 
-to “lie beyond” Colenso’s School Arithmetic; but one can take the 
-former book from one’s shelves — as every one should — and read it 
-without first going all through the latter again. 
-
-
-
-
-He was at first unable to pierce their veils. In fact, as the Book 
-shows, it was only by virtue of successive and most exalted initia¬ 
-tions undergone in the Aethyrs themselves that He was able to 
-penetrate beyond the I5th. The Guardians of such fortresses know 
-how to guard. 
-
-The Master Therion has published the most important prac- 
-tical magical secrets in the plainest language. No one, by virtue 
-°£ being clever or learned, has understood one word; and those 
-unworthy who have profaned the sacrament have but eaten and 
-drunken damnation to themselves. 
-
-One may bring down stolen fire in a hollow tube from Heaven, 
-as The Master Therion indeed has done in a way that no other 
-adept dared to do before him. But the thief, the Titan, must 
-foreknow and consent to his doom to be chained upon a lonely rock, 
-the vulture devouring his liver, for a season, until Hercules, the 
-strong man armed by virtue of that very fire, shall come and 
-release him. 
-
-The Teitan 1 — whose number is the number of a man, six 
-hundred and three score and six — unsubdued, consoled by Asia 
-and Panthea, must send forth constant showers of blessing not onlv 
-upon Man whose incarnation he is, but upon the tyrant and the 
-persecutor. His infinite pain must thrill his heart with joy, since 
-every pang is but the echo of some new flame that leaps upon the 
-earth lit by his crime. 
-
-For the Gods are the enemies of Man; it is Nature that Man 
-must overcome ere he enter into his kingdom. 2 The true God 
-
-
-1. TEITAN — 300+5+ 10+300+1+50 = 666. 
-
-2. In another sense, a higher sense, Nature is absolutely right through- 
-ou t* The position is that the Magician discovers himself imprisoned in 
-a distorted Nature of Iniquity; and his task is to disentangle it. This 
-is all to be studied in the Book of Wisdom or Folly (Liber ALEPH, CXI) 
-and in The Master Therion’s edition of the Tao T eh King. A rough 
-note from His Magical Diary is appended here : 
-
-“all elements must at one time have been separate, — that would be 
-the case with great heat. Now when atoms get to the sun, when we get to 
-the sun, we get that immense, extreme heat, and all the elements are 
-themselves again. Imagine that each atom of each element possesses the 
-memory of all his adventures in combination. By the way, that atom 
-
-
-— 152 — 
-
-
-
-is man. In man are all things hidden, Of these the Gods, 
-Nature, Time, all the powers of the universe are rebellions slaves. 
-It is these that men must fight and conquer in the power and in the 
-name of the Beast that hath avalled them, the Titan, the Magus, 
-the Man whose number is six hundred and three score and six. 
-
-III 
-
-Ihe practice of Rising on the Planes is of such importance that 
-special attention must be paid to it. It is part of the essential tech¬ 
-nique of Magick. Instruction in this practice has been given with 
-such conciseness in Liber O, that one cannot do better than quote 
-Verbatim (the “previous experiment” referred to in the first sen¬ 
-tence is the ordinary astral journey.) : 
-
-“i. The previous experiment has little value, and leads to few 
-results of importance. But it is susceptible of a development which 
-merges into a form of Dharana — concentration — and as such may 
-lead to the very highest ends. The principal use of the practice in 
-
-
-(fortiheci with that memory) would not be the same atom; yet it is, because 
-it has gained nothing from anywhere except this memory. Therefore, 
-by the lapse of time, and by virtue of memory, a thing could become 
-something more than itself; and thus a real development is possible. One 
-can then see a reason for any element deciding to go through this series 
-of incarnations; because so, and only so, can he go; and he suffers the 
-lapse of memory which he has during these incarnations, because he knows 
-he will come through unchanged. 
-
-“Therefore you can have an infinite number of gods, individual and 
-equal though diverse, each one supreme and utterly indestructible. This 
-is also the only explanation of how a being could create a war in which 
-war, evil, etc. exist. Evil is only an appearance, because, (like “good”) 
-it cannot affect the substance itself, but only multiply its combinations. 
-This is something the same as mystic monotheism, but the objection to that 
-theory is that God has to create things which are all parts of himself, so that 
-their interplay is false. If we presuppose many elements, their interplay 
-is natural. It is no objection to this theory to ask who made the elements, 
-— the elements are at least there, and God, when you look for him, is 
-not there. Theism is obscurum per obscurius. A male star is built up from 
-the centre outwards; a female from the circumference inwards. This is 
-what is meant when we say that woman has no soul. It explains fully the 
-difference between the sexes. 
-
-
-— 153 
-
-
-
-the last chapter is to familiarise the student with every kind of 
-obstacle and every kind of delusion, so that he may be perfect 
-master of every idea that may arise in his brain, to dismiss it, to 
-transmute it, to cause it instantly to obey his will. 
-
-u 2. Let him then begin exactly as before; but with the most 
-intense solemnitv and determination. 
-
-“3. Let him be very careful to cause his imaginary body to rise 
-in a line exactly perpendicular to the earth’s tangent at the point 
-where his physical body is situated (or, to put it more simply, 
-straight upwards). 
-
-“4. Instead of stopping, let him continue to rise until fatigue 
-almost overcomes him. If he should find that he has stopped 
-without willing to do so, and that figures appear, let him at all costs 
-rise above them. Yea, though his very life tremble on his lips, let 
-him force his way upward and onward ! 
-
-“5. Let him continue in this so long as the breath of life is in 
-him. Whatever threatens, whatever allures, though it were 
-Typhon and all his hosts loosed from the pit and leagued against 
-him, though it were from the very Throne of God himself that a 
-voice issues bidding him stay and be content, let him struggle on, 
-ever on. 
-
-“6. At last there must come a moment when his whole being 
-is swallowed up in fatigue, overwhelmed by its own inertia. Let 
-him sink (when no longer can he strive, though his tongue be bitten 
-through with the effort and the blood gush from his nostrils) into 
-the blackness of unconsciousness ; and then on coming to himself, 
-let him Write down soberly and accurately a record of all that hath 
-occurred : yea, a record of all that hath occurred.” 
-
-Of course, the Rising may be done from any starting point. One 
-can go (for example) into the circle of Jupiter, and the results, 
-especially in the lower planes, will be very different to those 
-obtained from a Saturnian starting point. 
-
-The student should undertake a regular) series of such 
-experiments, in order to familiarise himself not only with the 
-nature of the different spheres, but with the inner meaning of 
-each. Of course, it is not necessary in every case to push the 
-
-
-154 
-
-
-
-practice to exhaustion, as described in the instructions, but this is 
-the proper thing to do whenever definitely practising, in order to 
-acquire the power of Rising. But, having obtained this power, it 
-is, of course, legitimate to rise to any particular plane that may be 
-necessary for the purpose of exploration, as in the case of the 
-visions recorded in Liber 418, where the method may be described 
-as mixed. In such a case, it is not enough to invoke the place you 
-wish to visit, because you may not be able to endure its pressure, 
-or to breathe its atmosphere. Several instances occur in that record 
-where the seer was unable to pass through certain gateways, or to 
-remain in certain contemplations. He had to undergo certain 
-Initiations before he was able to proceed. Thus, it is necessary 
-that the technique of Magick should he perfected. The 
-Body of Light nmst be rendered capable of going every- 
-where and doing everything. It is, therefore, always the 
-question of drill which is of importance. You have got to 
-go out Rising on the Planes every day of your life, year after 
-year. You are not to be disheartened by fallure, or too much 
-encouraged by success, in any one practice or set of practices. 
-What you are doing is what will be of real value to you in the 
-end j and that is, developing a character, creating a Karma, which 
-will give you the power to do your Will. 
-
-IV 
-
-Divination is so important a bran ch of Magick as almost to 
-demand a separate treatise. 
-
-Genius is composed of two sidesj the active and the passive. 
-The power to execute the Will is but blind force unless the Will 
-be enlightened. At every stage of a Magical Operation it is 
-necessary to know what one is doing, and to be sure that one is 
-acting wisely. Acute sensitiveness is always associated with 
-genius; the power to perceive the universe accurately, to analyse, 
-coordinate, and judge impressions is the foundation of all great 
-Work. An army is but a blundering brute unless its intelligence 
-department Works as it should. 
-
-The Magician obtains the transcendental knowledge necessary 
-to an intelligent course of conduct directly in consciousness by 
-clairvoyance and clairaudience; but communication with superior 
-
-
-— 155 
-
-
-intelligences demands elaborate preparation, even after years of 
-successful performance. 
-
-It is therefore useful to possess an art by which one can obtain 
-at a moments notice any information that may be necessary. This 
-art is divination. The answers to one’s questions in divination are 
-not conveyed directly but through the medium of a suitable series 
-of symbols. These symbols must be interpreted by the diviner in 
-terms of his problem. It is not practicable to construct a lexicon 
-in which the solution of every difficulty is given in so many words. 
-It would be unwieldy 3 besides, nature does not happen to work 
-on those lines. 
-
-The theory of any process of divination may be stated in a few 
-simple terms. 
-
-1. We postulate the existence of intelligences, either within 
-or without the diviner, of which he is not immediately conscious. 
-(It does not matter to the theory whether the communicating spirit 
-so-called is an objective entity or a concealed portion of the 
-diviner’s mind.) We assume that such intelligences are able to 
+Of course it is the very condition of progress to build up ideas into the subconscious. The necessity of selection should therefore be obvious. 
+
+True, there comes a time when all elements soever must be thus assimilated. Samadhi is, by definition, that very process. But, from the point of view of the young magician, there is a right wav — straight and difficult — of performing all this. **One cannot too frequently repeat that what is lawful and proper to one Path is alien to another.**
+
+Immediately after the License to Depart, and the general closing up of the work,it is necessary that the Magician should sit down and write up his magical record. However much he may have been tired^[He ought to be refreshed, more than after a full night’s deep sleep. This forms one test of his skill.] by the ceremony, he ought to force himself to do this until it becomes a habit. **Verily, it is better to fail in the magical ceremony than to fail in writing down an accurate record of it.** One need not doubt the propriety of this remark. Even if one is eaten alive by Malkah be-Tarshishim ve-Ruachoth ha-Schehalim, it does not matter very much, for it is over so very quickly. But the record of the transaction is otherwise important. Nobody cares about Duncan having been murdered by Macbeth. It is only one of a number of similar murders. But Shakespeare’s account of the incident is a unique treasure of mankind. And, apart from the question of the value to others, there is that of the value to the magician himself. **The record of the magician is his best asset.**
+
+It is as foolish to do Magick without method, as if it were anything else. To do Magick without keeping a record is like trying to run a business without book-keeping. There are a great many people who quite misunderstand the nature of Magick. They have an idea that it is something vague and unreal, instead of being, as it is, a direct means of coming into contact with reality. It is these people who pay themselves with phrases, who are always using long words with no definite connotation, who plaster themselves with pompous titles and decorations which mean nothing whatever. With such people we have nothing to do. But to those who seek reality the Key of Magick is offered, and they are hereby warned that the key to the treasure-house is no good without the combination; and the combination is the magical record. 
+
+**From one point of view, magical progress actually consists in deciphering one’s own record.**^[As one is a Star in the Body of Nuit, every successive incarnation is a Veil, and the acquisition of the Magical Memory a gradual Unveiling of that Star, of that God.] For this reason it is the most important thing to do, on strictly magical grounds. But apart from this, it is absolutely essential that the record snould be clear, fu.ll and concise, because it is only by such a record that your teacher can judge how it is best to help you. Your magical teacher has something else to do besides running around .er you all the time, and.the most important of all his functions is that of auditor. Now, if you call in an auditor to investigate a business, and when he asks for the books you tell him that you have not thought it worth while to keep any, you need not be surprised if he thinks you every kind of an ass. 
+
+It is at least, it was — perfectly incredible to The <span class="small-caps">Master Therion</span> that people who exhibit ordinary common sense in the other affairs of life should lose it completely when they tackle Magick. It goes far to justify the helief of the semieducated that Magick is rather a crazy affair after all. However, there are none of these half-baked lunatics connected with the A.A., because the necessity for hard work, for passing examinations at stated intervals, and for keeping an intelligible account of what they are doing, frightens away the unintelligent, idle and hysterical. 
+
+There are numerous models of magical and mystical records to be found in the various numbers of the *Equinox*, and the student will have no difficulty in acquiring the necessary technique, if he be diligent in practice. 
+
+### CHAPTER XVIII 
+
+<div class="centered-small-caps">Of clairvoyance and of the body of light
+its power and its development
+also concerning divination</div>
+
+#### I 
+
+Within the human body is another body of approximately the same size and shape^[i.e. as a general rule. It can be altered very greatly in these respects.]; but made of a subtler and less illusory material. It is of course not “real”; but then no more is the other body! Before treating of clairvoyance one must discuss briefly this question of reality, for misapprehension on the subject has given rise to endless trouble. 
+
+There is the story of the American in the train who saw another American carrying a basket of unusual shape. His curiosity mastered him, and he leant across and said: “Say, stranger, what you got in that bag?” The other, lantern-jawed and taciturn, replied: “Mongoose”. The hrst man was rather baffled, as he had never heard of a mongoose. After a pause he pursued, at the risk of a rebuff : “But say, what is a Mongoose?” “Mongoose eats snakes”, replied the other. This was another poser, but he pursued; “What in hell do you want a Mongoose for?” “Well, you see”, said the second man (in a confidential whisper) “my brother sees snakes”. The hrst man was more puzzled than ever; but after a long think, he continued rather pathetically : “But say, them ain’t real snakes”. “Sure”, said the man with the basket, “but this Mongoose ain’t real either”. 
+
+This is a perfect parable of Magick. **There is no such thing as truth in the perceptible universe; every idea when analysed is found to contain a contradiction.** It is quite useless (except as a temporary expedient) to set up one class of ideas against another as being "more real”. The advance of man towards God is not necessarily an advance towards truth. All philosophical Systems have crumbled. But each class of ideas possesses true relations within itself. It is possible, with Berkeley,^[The real Berkeley did nothing of the sorti the reference here is to an imaginary animal invented by Dr. Johnson ont of sturdy British ignorance.] to deny the existence of water and of wood; but, for all that, wood fioats on water. The Magician becomes identical with the immortal Osiris, yet the Magician dies. In this dilemma the facts must be restated. One should preferably say that the Magician becomes tonscious of that part of himself which he calls the immortal Osiris; and that Part does not “die”. 
+
+Now this interior body of the Magician, of which we spoke at the beginning of this chapter, does exist, and can exert certain powers which his natural body cannot do. It can, for example, pass through matter, and it can move freely in every direction through space. But this is because “matter”, in the sense in which we commonly use the word, is on another plane.^[We do not call electrical resistance, or economie laws, unreal, on the ground that they are not directly perceived by the senses. Our magical doctrine is universally accepted by sceptics — only they wish to make Magick itself an exception!]
+
+**Now this fine body perceives a universe which we do not ordinarily perceive.** It does not necessarily perceive the universe which we do normally perceive, so although in this body I can pass through the roof, it does not follow that I shall be able to tell what the weather is like. I might do so, or I might not; but if I could not, it would not prove that I was deceiving myself in supposing that I had passed through the roof. **This body, which is called by varions authors the Astral double, body of Light, body of fire, body of desire, fine body, scin-laeca and numberless other naines is naturally fitted to perceive objects of its own class... in particular, the phantoms of the astral plane. 
+
+There is some sort of vague and indeterminate relation between the Astrals and the Materials ; and it is possible, with great experience, to deduce facts about material things from the astral aspect which they present to the eyes of the Body of Light.^[This is because there is a certain necessary correspondence between planes; as in the case of an Anglo-Indian’s liver and his temper. The relation appears “vague and indeterminate” only in so far as one happens to be ignorant of the laws which State the case. The situation is analogous to that of the chemist before the discovery of the law of “Combining Weights”, etc.]
+
+This astral plane is so varied and so changeable that several clairvoyants looking at the same thing might give totally different accounts of what they saw; yet they might each make correct deductions. In looking at a man the first clairvoyant might say : “The lines of force are all drooping”; the second : “It seems all dirtv and spotty”; a third; “The Aura looks very ragged.” Yet all might agree in deducing that the man was in ill-health. In any case, all such deductions are rather unreliable. One must be a highly skilled man before one can trust one’s vision. A great many people think that they are extremely good at the business, when in fact they have only made some occasional shrewd guesses (which they naturally remember) in the course of hundreds of forgotten failures. 
+The only way to test clairvoyance is to keep a careful record of every experiment made. For example, <span class="small-caps">Frater O. M.</span> once gave a clairvoyant a waistcoat to psychometrize. He made 56 statements about the owner of the waistcoat; of these 4 were notably right; 17, though correct, were of that class of statement which is true of almost everybody. The remainder were wrong. It was concluded from this that he showed no evidence of any special power. In fact, his bodily eyes — if he could discern Tailoring — would have served him better, for he thought the owner of the vest was a corn-chandler, instead of an earl, as he is. 
+
+**The Magician can hardly take too much trouble to develop this power in himself.** It is extremely useful to him in guarding himself against attack; in obtaining warnings, in judging character, and especially in watching the process of his Ceremonies. 
+
+There are a great many ways of acquiring the power. Gaze into a crystal, or into a pool of ink in the palm of the hand, or into a mirror, or into a teacup. Just as with a microscope the expert operator keeps both eyes open, though seeing only through the one at the eye-piece of the instrument, so the natural eyes, ceasing to give any message to the brain, the attention is withdrawn from them, and the man begins to see through the Astral eyes. 
+
+These methods appear to The <span class="small-caps">Master Therion</span> to be unsatisfactory. Very often they do not work at all. It is difficult to teach a person to use these methods; and, worst of all, they are purely passive! You can see only what is shewn you, and you are probably shewn things perfectly pointless and irrelevant. 
+
+The proper method is as follows — **Develop the body of Light until it is just as real to you as your other body, teach it to travel to any desired Symbol, and enable it to perform all neeessary Rites and Invocations. In short, educate it.** Ultimately, the relation of that body with your own must be exceedingly intimate; but before this harmonizing takes place, you should begin by a careful differentiation. The first thing to do, therefore, is to get the body outside your own. To avoid muddling the two, you begin by imagining a shape resemling yourself standing in front of you. Do not say: “Oh, it’s only imagination!” lhe time to test that is later on, when you have secured a fairly ciear mental image of such a body. Try to imagine how your own body would look if you were standing in its place; try to transfer your consciousness to the Body of Light. Your own body has its eyes shut. Use the eyes of the Body of Light to describe the objects in the room behind you. Don’t say, “It’s only an effort of subconscious memory”...the time to test that is later on. 
+
+As soon as you feel more or less at home in the fine body, let it rise in the air. Keep on feeling the sense of rising; keep on looking about you as you rise until you see landscapes or beings of the astral plane. Such have a quality all their own. They are not like material things — they are not like mental pictures — they seem to lie between the two. 
+
+After some practice has made you adept, so that in the course of an hour’s journey you can reckon on having a fairly eventful time, turn your attention to rcaching a definite place on the astral plane; invoke Mercury, for example, and examine carefully your record of the resulting vision — discover whether the symbols which you have seen correspond with the conventional symbols of Mercury. 
+
+**This testing of the spirits is the most important branch of the whole tree of Magick. Without it, one is lost in the jungle of delusion. Every spirit, up to God himself, is ready to deceive you if possible, to make himself ont more important than he is; in short, to lay in wart for your soul in 333 separate ways. Remember that after all the highest of all the Gods is only the Magus,**^[See Liber 418, 3rd Aethyr.] **Mayan, the greatest of all the devils.**
+
+Your may also try “rising on the planes”.^[See Infra and Appendix.] With a little practice, especially if you have a good Guru, you ought to be able to slip in and out of your astral body as easily as you slip and out of a dressing-gown. It will then no longer be so necessary for your astral body to be sent far off ; without moving an inch you will be able to “turn on” its eyes and ears — as simplv as the man with the microscope (mentioned above) can transfer his complete attention from one eye to the other. 
+
+Now, however unsuccessful your getting out of the body may apparently have been, it is most necessary to use every effort to bring it properly back. Make the Body of Light coincide in space with the physicac body, assume the God- Form, and vibrate the name of Harpocrates with the utmost energy; then recover unity of consciousness. If you fall to do this properly you may find yourself in serious trouble. Your Body of Light may wander away uncontrolled, and be attacked and obsessed. You will become aware of this through the occurrence of headache, bad dreams, or even more serious signs such as hysteria, fainting fits, possibly madness or paralysis. Even the worst of these attacks will probably wear off, but it may leave you permanently damaged to a greater or less extent. 
+A great majority of “spiritualists”, “occultists”, “Toshosophists”, are pitiable examples of repeated losses from this cause. 
+
+The emotional type of religionist also suffers in this way. Devotion projects the fine body, which is seized and vampirized by the demon masquerading as “Christ” or “Mary”, or whoever may be the object of worship. complete absence of all power to concentrate thought, to follow an argument, to formulate a Will, to hold fast to an opinion or a course of action, or even to keep a solemn oath, mark indelibly those who have thus lost parts of their souls. They wander from one new cuit to another even crazier. Occasionally such persons drift for a moment into the surroundmgs of The <span class="small-caps">Master Therion</span>, and are shot out by the simple process of making them try to do a half-hour#s honest work of any kind. 
+
+**In projecting the Astral, it is a valtiable additional safeguard to perform the whole operation in a properly consecrated circle.**
+
+Proceed with great caution, then, but proceed. In time your Body of Light will be as strong against the spirits as your other body against the winds of Heaven. all depends upon the development of that Body of Light. It must be furnished with an organism as ramified and balanced as its shadowy brother, the material body. 
+
+To recapitulate once more, then, **the first task is to develop your own Body of Light within your own circle** with out reference to any other inhabitants of the world to which it belongs. 
+
+That which you have accomplished with the subject you may now proceed to do with the object. You will learn to see the astral appearance of material thingSj and although this does not properly belong to pure clairvoyance, one may here again mention that **you should endeavour to the utmost to develop and fortify this Body of Light. The best and simplest way to do this is to use it constantly, to exercise it in every way.** In particular it may be employed in ceremonies of initiation or of invocation — while the physical body remains silent and still. 
+
+In doing this it will often be necessary to create a Temple on the astral plane. **It is excellent practice to create symbols. This one precaution is needed: after using them, they should be reabsorbed. 
+
+Having learned to create astral forms, the next step will be at first very difficult. Phantasmal and fleeting as the astral is in general, those forms which are definitely attached to the material possess enormous powers of resistance, and it consequently requires very high potential to influence them. Their material analogues seem to serve as a fortress. Even where a temporary effect is produced, the inertia of matter draws it back to the normal; yet the power of the trained and consecrated will in a well-developed astral body is such that it can even produce a permanent change in the material upon whose Body of Light you are working, e.g. ; one can heal the sick bv restoring a healthy appearance to their astral forms. On the other hand, it is possible so to disintegrate the the Body of Light even of a strong man that he will fall dead. 
+
+Such operations demand not only power, but judgment. Nothing can upset the sum total of destiny — everything must be paid for the uttermost farthing. For this reason a great many operations theoretically possible cannot be performed. Suppose, for example, you see two men of similarly unhealthy astral appearance. In one case the cause may be slight and temporary. Your help suffices to restore him in a few minutes. The other, who looks no worse, is really oppressed by a force incalculably greater than you could control, and you would only damage yourself by attempting to help him. The diagnosis between the two cases could be made by an investigation of the deeper strata of the astral, such as compose the “causal body”. 
+
+A body of black magicians under Anna Kingsford^[Anna Kingsford, so far as her good work is concerned, was only the rubber stamp of Edward Martland.] once attempted to kill a vivisector who was not particularly well known; and they succeeded in making him seriously ill. But in attempting the same thing with Pasteur they produced no effect whatever, because Pasteur was a great genius — an adept in his own line far greater than she in hers — and because millions of people were daily blessing him. **It cannot be too clearly nnderstood that magical force is subject to the same laws of proportion as any other kind of force.** It is useless for a mere millionaire to try to bankrupt a man who has the Bank of England behind him. 
+
+To sum up, the first task is to separate the astral form from the physical body, the second to develop the powers of the astral body, in particular those of sight, travel, and interpretation; third, to unify the two boclies without muddling them. 
+
+This being accomplished, the magician is fitted to deal with the invisible. 
+
+#### II 
+
+It is now useful to continue with considerations of other planes, which have commonly been classed under the Astral. There is some reason for this, as the delimitations are somewhat vague. Just as the vegetable kingdom merges into the animal, and as the material plane has beings which encroach upon the boundaries of the astral, so do we find it in the higher planes. 
+
+The mental images which appear during meditation are subjective, and pertain not at all to the astral plane. Only very rarely do astral images occur during meditation. It is a bad break in the circle, as a rule, when they do. 
+
+There is also a Magical Plane. This touches the material, and even includes a portion of it. It includes the Astral, chiefly a full-blooded type of the Astral. It reaches to and includes most, if not all, of the spiritual planes. 
+
+The Magical plane is thus the most comprehensive of all. Egyptian Gods are typical inhabitants of this plane, and it is the home of every Adept. 
+
+The spiritual planes are of several types, but are all distinguished by a reality and intensity to be found nowhere else. Their inhabitants are formless, free of space and time, and distinguished by incomparable brilliance. 
+
+There are also a number of sub-planes, as, for example, the Alchemical. This plane wiil often appear in the practice of "Rising on the Planes”; its images are usually those of gardens curiously kept, mountains furnished with peculiar symbols, hieroglyphic animals, or such figures as that of the a "Hermetic Arcanum”, and pictures like the “Goldseekers” and the ‘Massacre of the Innocents” of Basil Valentine. There is a unique quality about the alchemical Plane which renders its images immediately recognisable. 
+
+The are also planes corresponding to various religions past and present, all of which have their peculiar unity. 
+
+**It is of the utmost importance to the “Clairvoyant” or "traveller in the fine body" to be able to find his way to any desired plane, and operate therein as its ruler.**
+
+**The Neophyte of A.A. is examined most strict ly in this practice before he is passed to the degree of Zelator.**
+
+In “Rising on the Planes” one must usually pass clear through the Astral to the Spiritual. Sonie will be unable to do this. The “fine body” which is good enough to subsist on lower planes, a shadow among shadows, will fall to penetrate the higher strata. It requires a great development of this body, and an intense infusion of the highest spiritual constituents of man, before he can pierce the veils. The constant practice of Magick is the best preparation possible. Even though the human consciousness fall to reach the goal, the consciousness of the fine body itself may do so, wherefore whoso travels in that body on a subsequent occasion may be found worthy; and its success will react favourably on the human consciousness, and increase its likelihood of success in its next magical operation. 
+
+Similarly, the powers gained in this way will strengthen the magician in his meditation-practices. His Will becomes better able to assist the concentration, to destroy the mental images which disturb it, and to reject the lesser rewards of that practice which tempt, and too often stop the progress of, the mystic. 
+
+Although it is said that the spiritual lies “beyond the astral”, this is theoretical;^[The Hon. Bertrand Russell’s *Principia Mathematica* may be said to “lie beyond” Colenso’s *School Arithmetic*; but one can take the former book from one’s shelves — as every one should — and read it without first going all through the latter again.] the advanced Magician will not find it to be so in practice. He will be able by suitable invocation to travel directly to any place desired. In Liber 418 an example of perfection is given. The Adept who explored these Aethyrs did not have to pass through and beyond the Universe, the whole of which yet lies within even the inmost (30th) Aethyr. He was able to summon the Aethyrs he wanted, and His chief difficulty was that sometimes He was at first unable to pierce their veils. In fact, as the Book shows, it was only by virtue of successive and most exalted initiations undergone in the Aethyrs themselves that He was able to penetrate beyond the 15th. The Guardians of such fortresses know how to guard. 
+
+The <span class="small-caps">Master Therion</span> has published the most important practical magical secrets in the plainest language. No one, by virtue of being clever or learned, has understood one word; and those unworthy who have profaned the sacrament have but eaten and drunken damnation to themselves. 
+
+One may bring down stolen fire in a hollow tube from Heaven, as The <span class="small-caps">Master Therion</span> indeed has done in a way that no other adept dared to do before him. But the thief, the Titan, must foreknow and consent to his doom to be chained upon a lonely rock, the vulture devouring his liver, for a season, until Hercules, the strong man armed by virtue of that very fire, shall come and release him. 
+
+The <span class="small-caps">Teitan</span>^[TEITAN — 300+5+10+300+1+50 = 666.] — whose number is the number of a man, six hundred and three score and six — unsubdued, consoled by Asia and Panthea, must send forth constant showers of blessing not only upon Man whose incarnation he is, but upon the tyrant and the persecutor. His infinite pain must thrill his heart with joy, since every pang is but the echo of some new flame that leaps upon the earth lit by his crime. 
+
+For the Gods are the enemies of Man; it is Nature that Man must overcome ere he enter into his kingdom.^[In another sense, a higher sense, Nature is absolutely right through-out. The position is that the Magician discovers himself imprisoned in a distorted Nature of Iniquity; and his task is to disentangle it. This is all to be studied in the Book of Wisdom or Folly (Liber ALEPH, CXI) and in The Master Therion’s edition of the *Tao Teh King*. A rough note from His Magical Diary is appended here: “all elements must at one time have been separate, — that would be the case with great heat. Now when atoms get to the sun, when we get to the sun, we get that immense, extreme heat, and all the elements are themselves again. Imagine that each atom of each element possesses the memory of all his adventures in combination. By the way, that atom (fortified with that memory) would not be the same atom; yet it is, because it has gained nothing from anywhere except this memory. Therefore, by the lapse of time, and by virtue of memory, a thing could become something more than itself; and thus a real development is possible. One can then see a reason for any element deciding to go through this series of incarnations; because so, and only so, can he go; and he suffers the lapse of memory which he has during these incarnations, because he knows he will come through unchanged.
+“Therefore you can have an infinite number of gods, individual and equal though diverse, each one supreme and utterly indestructible. This is also the only explanation of how a being could create a war in which war, evil, etc. exist. Evil is only an appearance, because, (like “good”) it cannot affect the substance itself, but only multiply its combinations. This is something the same as mystic monotheism, but the objection to that theory is that God has to create things which are all parts of himself, so that their interplay is false. If we presuppose many elements, their interplay is natural. It is no objection to this theory to ask who made the elements, — the elements are at least there, and God, when you look for him, is not there. Theism is obscurum per obscurius. A male star is built up from the centre outwards; a female from the circumference inwards. This is what is meant when we say that woman has no soul. It explains fully the difference between the sexes.]
+
+**The true God is man. In man are all things hidden.** Of these the Gods, Nature, Time, all the powers of the universe are rebellions slaves. It is these that men must fight and conquer in the power and in the name of the Beast that hath avalled them, the Titan, the Magus, the Man whose number is six hundred and three score and six. 
+
+#### III 
+
+The practice of Rising on the Planes is of such importance that special attention must be paid to it. It is part of the essential technique of Magick. Instruction in this practice has been given with such conciseness in Liber O, that one cannot do better than quote Verbatim (the “previous experiment” referred to in the first sentence is the ordinary astral journey.):
+
+1. The previous experiment has little value, and leads to few results of importance. But it is susceptible of a development which merges into a form of Dharana — concentration — and as such may lead to the very highest ends. The principal use of the practice in the last chapter is to familiarise the student with every kind of obstacle and every kind of delusion, so that he may be perfect master of every idea that may arise in his brain, to dismiss it, to transmute it, to cause it instantly to obey his will. 
+
+2. Let him then begin exactly as before; but with the most intense solemnitv and determination. 
+
+3. Let him be very careful to cause his imaginary body to rise in a line exactly perpendicular to the earth’s tangent at the point where his physical body is situated (or, to put it more simply, straight upwards). 
+
+4. Instead of stopping, let him continue to rise until fatigue almost overcomes him. If he should find that he has stopped without willing to do so, and that figures appear, let him at all costs rise above them. Yea, though his very life tremble on his lips, let him force his way upward and onward!
+
+5. Let him continue in this so long as the breath of life is in him. Whatever threatens, whatever allures, though it were Typhon and all his hosts loosed from the pit and leagued against him, though it were from the very Throne of God himself that a voice issues bidding him stay and be content, let him struggle on, ever on. 
+
+6. At last there must come a moment when his whole being is swallowed up in fatigue, overwhelmed by its own inertia. Let him sink (when no longer can he strive, though his tongue be bitten through with the effort and the blood gush from his nostrils) into the blackness of unconsciousness ; and then on coming to himself, let him Write down soberly and accurately a record of all that hath occurred : yea, a record of all that hath occurred.
+
+Of course, the Rising may be done from any starting point. One can go (for example) into the circle of Jupiter, and the results, especially in the lower planes, will be very different to those obtained from a Saturnian starting point. 
+
+The student should undertake a **regular** series of such experiments, in order to familiarise himself not only with the nature of the different spheres, but with the inner meaning of each. Of course, it is not necessary in every case to push the practice to exhaustion, as described in the instructions, but this is the proper thing to do whenever definitely practising, in order to acquire the power of Rising. But, having obtained this power, it is, of course, legitimate to rise to any particular plane that may be necessary for the purpose of exploration, as in the case of the visions recorded in Liber 418, where the method may be described as mixed. In such a case, it is not enough to invoke the place you wish to visit, because you may not be able to endure its pressure, or to breathe its atmosphere. Several instances occur in that record where the seer was unable to pass through certain gateways, or to remain in certain contemplations. He had to undergo certain Initiations before he was able to proceed. **Thus, it is necessary that the technique of Magick should he perfected. The Body of Light must be rendered capable of going everywhere and doing everything. It is, therefore, always the question of drill which is of importance.** You have got to go out Rising on the Planes every day of your life, year after year. You are not to be disheartened by failure, or too much encouraged by success, in any one practice or set of practices. What you are doing is what will be of real value to you in the end; and that is, developing a character, creating a Karma, which will give you the power to do your Will. 
+
+#### IV 
+
+Divination is so important a bran ch of Magick as almost to demand a separate treatise. 
+
+Genius is composed of two sidesj the active and the passive. The power to execute the Will is but blind force unless the Will be enlightened. At every stage of a Magical Operation it is necessary to know what one is doing, and to be sure that one is acting wisely. **Acute sensitiveness is always associated with genius**; the power to perceive the universe accurately, to analyse, coordinate, and judge impressions is the foundation of all great Work. An army is but a blundering brute unless its intelligence department Works as it should. 
+
+The Magician obtains the transcendental knowledge necessary to an intelligent course of conduct directly in consciousness by clairvoyance and clairaudience; but communication with superior intelligences demands elaborate preparation, even after years of successful performance. 
+
+It is therefore useful to possess an art by which one can obtain at a moments notice any information that may be necessary. This art is divination. The answers to one’s questions in divination are not conveyed directly but through the medium of a suitable series of symbols. These symbols must be interpreted by the diviner in terms of his problem. It is not practicable to construct a lexicon in which the solution of every difficulty is given in so many words. It would be unwieldy; besides, nature does not happen to work on those lines. 
+
+The theory of any process of divination may be stated in a few simple terms. 
+
+1. We postulate the existence of intelligences, either within or without the diviner, of which he is not immediately conscious. (It does not matter to the theory whether the communicating spirit so-called is an objective entity or a concealed portion of the diviner’s mind.) We assume that such intelligences are able to 
 reply correctly — within limits — to the questions asked. 
 
-2. We postulate that it is possible to construct a compendium 
-of hieroglyphs sufficiently elastic in meaning to include every 
-possible idea, and that one or more of these may always be taken 
-to represent any idea. We assume that any of these hieroglyphics 
-will be understood by the intelligences with whom we wish to 
-communicate in the same sense as it is by ourselves. We have 
-therefore a sort of language. One may compare it to a lingua 
-jranca which is perhaps defective in expressing fine shades of 
-meaning, and so is unsuitable for literature, but which yet serves 
-for the conduct of dally affairs in places where many tongues are 
-spoken. Hindustani is an example of this. But better still is the 
-analogy between the conventional signs and symbols employed by 
-mathematicians, who can thus convey their ideas perfectly 1 without 
-speaking a Word of each other’s languages. 
-
-
-1. As a matter of fact, they cannot. The best qualified are the most 
-diffident as to having grasped the meaning of their colleagues with 
-exactitude; in criticising their writings they often make a point of apologis- 
-ing for possible misunderstanding. 
-
-
-— 156 
-
-
-
-3 — . We postulate that the intelligences whom we wish to consult 
-are willing, or may be compelled, to answer us truthfully. 
-
-Let us first consider the question of the compendium of symbols. 
-The alphabet of a language is a more or less arbitrary way of 
-transcribing the sounds employed in speaking it. The letters 
-tnemselves h ave not necessarily any meaning as such. But in a 
-System of divination each Symbol stands for a definite idea. 
-It would not interfere with the English language to add a few 
-new letters. In fact, some Systems of shorthand have done so. 
-But a System of symbols suitable for divination must be a complete 
-representation of the Universe, so that each is absolute, and the 
-whole insusceptible of increase or diminution. It is (in fact) tech- 
-nically a pantacle in the fullest sense of the word. 
-
-Let us consider some prominent examples of such System. We 
-may observe that a common mode of divination is to inquire of 
-books by placing the thumb at random within the leaves. The 
-Books of the Sybil, the Works of Vergil, and the Bible have been 
-used ’very frequently for this purpose. For theoretical justification, 
-one must assume that the book employed is a perfect representation 
-of the Universe. But even if this were the case, it is an inferior 
-form of construction, because the only reasonable conception of 
-the Cosmos is mathematical and hieroglyphic rather than literary. 
-In the case of a book, such a book as the Book of the Law 
-which is the supreme truih and the perfect rule of life, it 
-is not repugnant to good sense to derivé an oracle from its 
-pages. It will of course be remarked that the Book of the 
-Law is not mereiy a literary compilation but a complex 
-mathematical structure. It iherefore fulfiïs the required 
-conditions. 
-
-The principal means of divination in history are astrology, geo- 
-mancy, the Tarot, the Holy Qabalah, and the Yi King. There 
-aie hundreds of othersj from pyromancy, oneiromancy, auguries 
-from sacrifices, and the spinning-top of some ancient oracles to 
-the omens drawn from the flight of birds and the prophesying 
-or tea-leaves. It will be sufficient for our present purpose to 
-discuss only the five Systems first enumerated. 
-
-Astrology is theoretically a perfect method, since the symbols 
-employed actually exist in the macrocosm, and thus possess a 
-
-
-— x 57 
-
-
-natural correspondence with microcosmic affairs. But in practice 
-the calculations involved are overwhelmingly complicated. A 
-horoscope is never complete. It needs to be supplemented by 
-innumerable other horoscopes. For example, to obtain a judgment 
-on the simplest question, one requires not only the nativities of 
-the people involved, some of which are probably inaccessible, but 
-secondary figures for directions and transits, together with pro- 
-gressed horoscopes, to say nothing of prenatal, mundane, and even 
-horary figures. To appreciate the entire mass of data, to balance 
-the elements of so vast a concourse of forces, and to draw a 
-single judgment therefrom, is a task practically beyond human 
-capacity. Besides all this, the actual efiects of the planetary posi¬ 
-tions and aspects are still almost entirely unknown. No two astro- 
-logers agree on all points 5 and most of them are at odds on fonda¬ 
-mental principles. 1 This science had better be discarded unless 
-the student chances to feel strongly drawn toward it. It is used by 
-the Master Therion Himself with fairly satisfactory results, 
-but only in special cases, in a strictly limited sphere, and with par- 
-ticular precautions. Even so, He feels great diffidence in basing 
-His conduct on the result so obtained. 
-
-Geomancy has the advantage of being rigorously mathematical. 
-A hand-book of the science is to be found in Equinox I, II. The 
-objection to its use lies in the limited number of the symbols. To 
-represent the Universe by no more than 16 combinations throws 
-too much work upon them. There is also a great restriction arising 
-from the fact that although 15 symbols appear in the final figure, 
-there are, in reality, but 4, the remaining 11 being drawn by an 
-ineluctable process from the “Mothers”. It may be added that 
-the tables given in the handbook for the interpretation of the 
-figure are exceedingly vague on the one hand, and insufficiently 
-comprehensive on the other. Some Adepts, however, appear to 
-find this System admirable, and obtain great satisfaction from its 
-use. Once more, the personal equation must be allowed full 
-weight. At one time the Master Therion employed it exten- 
-sivelyj but He was never wholly at ease with it 5 He found the 
-
-
-1. Nearly all professional astrologers are ignorant of their own sub- 
-ject, as of all others. 
-
-
-158 — 
-
-
-
-
-interpretation very difficult. Moreover, it seemed to Him that 
-the geomantic intelligences themselves were of a low order, the 
-scope of which was confined to a small section of the things which 
-interested Him* also, they possessed a point of view of their own 
-which was far from sympathetic with His, so that misunder- 
-standing constantly interfered with the Work. 
-
-The Tarot and The Holy Qabalah may be discussed to- 
-gether. The theoretical basis of both is identical: The Tree of 
-Life. 1 The 78 symbols of the Tarot are admirably balanced and 
-combined. lhey are adequate to all demands made upon them; 
-each Symbol is not only mathematically precise, but possesses an 
-artistic significance which helps the diviner to understand them 
-by stimulating his aesthetic perceptions. The Master Therion 
-finds that the Tarot is infallible in material questions. The 
-successive operations describe the course of events with astonishing 
-wealth of detail, and the judgments are reliable in all respects. 
-But a proper divination means at least two hours’ hard work, even 
-by the improved method developed by Him from the traditions 
-of initiates. Any attempt to shorten the proceedings leads to 
-disappointment; furthermore, the symbols do not lend them¬ 
-selves readily to the solution of spiritual questions. 
-
-The Holy Qabalah, based as it is on pure number, evi- 
-dently possesses an infinite number of symbols. ïts scope 
-is conterminous with existence itself; and it lacks nothing 
-in precision, purity, or indeed in any other perfection. But 
-it cannot be taught; 2 each man must select for himseif the 
-materials for the main structure of his System. It requires 
-years of work to erect a worthy building. Such a building is never 
-finished; every day spent on it adds new ornaments. The Qabalah 
-is therefore a living Temple of the Holy Ghost. It is the man 
-himseif and his universe expressed in terms of thought whose 
-
-
-1. Both these subjects may be studied in the Equinox in several 
-articles appearing in several numbers. 
-
-2. It is easy to teach the General Princi.ples of exegesis, and the main 
-doctrines. There is a vast body of knowledge common to all cases; but 
-this is no more than the basis on which the student must erect his original 
-
-Research. 
-
-
-159 — 
-
-
-
-language is so rich that even the letters of its alphabet have no 
-limit. This System is so sublime that it is unsuited to the solution 
-of the petty puzzles of our earthly existence. In the light'of 
-
-the Qabalah, the shadows of transitory things are instantly 
-banished. 
-
-Xhe Y i King is the most satisfactory System for general work. 
-The Master Therion is engagea in the preparation of a treatise 
-on the subject, but the labour involved is so great that He cannot 
-pledge Himself to have it ready at any definite time. The 
-ôtudent must theiefoie make his own investigations mto the mean- 
-ing of the 64 hexagrams as best he can. 
-
-The Yi King is mathematical and philosophical in form. 
-lis structure is cognate with that of the Qahalah $ the 
-identity is so intimate that the existence of two such 
-superficially different Systems is transcendent testimony to 
-the truth of hoth. It is in some ways the most perfect hieroglyph 
-ever constructed. It is austere and sublime, yet withal so adaptable 
-to every possible emergency that its figures may be interpreted 
-to suit all classes of questions. One may resolve the most obscure 
-spiritual difficultes no less than the most mundane dilemmas; 
-and the symbol which opens the gates of the most exalted palaces 
-of initiation is equally effective when employed to advise one in 
-the ordinary business of life. The Master Therion has found 
-the Yi King entirely satisfactory in every respect. The intelligences 
-which direct it show no inclination to evade the question or to 
-mislead the querent. A further advantage is that the actual 
-apparatus is simple. Also the System is easy to manipulate, and 
-five minutes is sufficient to obtain a fairly detailed answer to any 
-but the most obscure questions. 
-
-With regard to the intelligences whose business it is to give 
-information to the diviner, their natures differ widely, and corre¬ 
-spond more or less to the character of the medium of divination. 
-Thus, the geomantic intelligences are gnomes, spirits of an earthy 
-nature, distinguished from each other by the modifications due to 
-the various planetary and zodiacal influences which pertain to the 
-several symbols. The intelligence governing Puella is not to be 
-confused with that of Venus or of Libra. It is simply a particular 
-terrestrial daemon which partakes of those natures. 
-
-
-— 160 — 
-
-
-lhe Tarot, on the other hand, being a book, is under Mercury, 
-and the intelligence of each card is fundamentally Mercurial. Such 
-symbols are therefore peculiarly proper to communicate thought. 
-Ihey are not gross, like the geomantic daemons; but, as against 
-this, they are unscrupulous in deceiving the diviner. 1 
-
-The Y i King is served by beings free from these defects. The 
-intense purity of the symbols prevent them from being usurped 
-by intelligences with an axe of their own to grind. 2 
-
-It is always essential lor the diviner to obtain absolute 
-magical control over the intelligences of the System which 
-lie adopts. He must not leave the smallest loop-hole for being 
-tricked, befogged, or mocked. He must not allow them to use 
-casuistry in the interpretation of his questions. It is a common 
-knavery, especially in geomancy, to render an answer which is 
-literally true, and yet deceives. For instance, one might ask 
-whether some business transaction would be profitable, and find, 
-after getting an affirmative answer, that it really referred to the 
-other party to the affair! 
-
-There is, on the surface, no difficulty at all in getting replies. 
-In fact, the process is mechanical; success is therefore assured, bar 
-a stroke of apoplexy. But, even suppose we are safe from deceit, 
-how can we know that the question has really been put to another 
-mind, understood rightly, and answered from knowledge ? It is 
-obviously possible to check one’s operations by clairvoyance, but 
-this is rather like buying a safe to keep a brick in. Experience is 
-the only teacher. One acquires what one may almost call a 
-new sense. One feels in one’s self whether one is right or 
-not. The diviner must develop this sense. It resembles the 
-exquisite sensibility of touch which is found in the great billiard 
-player whose fingers can estimate infinitesimal degrees of force, 
-
-
-1. This does not mean that they are malignant. They have a proper 
-pride in their office as Oracles of Truth; and they refuse to be profaned 
-by the contamination of inferior and impure intelligences. A Magician 
-whose research is fuily adapted to his Neschamah will hnd them lucid 
-and reliable. 
-
-2 . Malicious or pranksome elementals instinctively avoid the austere 
-sincerity of the Figures of Fu and King Wan. 
-
-
-— 161 — 
-
-
-
-or the similar phenomenon in the professional taster of tea or 
-wine who can distinguish fantasticallv subtle differences of flavour. 
-
-It is a hard saying; but in order to divine without error, 
-one ought to be a Master of the Temple, Divination affords 
-excellent practice for those who aspire to that exalted eminence, 
-for the faintest breath of personal preference will deflect 
-the needle from the pôle of trnth in the answer. Unies? 
-the diviner have banished utterly from his mind the minutest 
-atom of interest in the answer to his question, he is almost certain 
-to influence that answer in favour of his personal inclinations. 
-
-The psycho-analyst will recall the fact that dreams are phantas- 
-mal representations of the unconscious Will of the sleeper, and 
-that not only are they images of that Will instead of represent¬ 
-ations of objective truth, but the image itself is confused by a 
-thousand cross-currents set in motion by the various complexes 
-and inhibitions of his character. If therefore one consults the 
-oracle, one must take sure that one is not consciously or uncons- 
-ciously bringing pressure to bear upon it. It is just as when an 
-Englishman cross-examines a Hindu, the ultimate answer will be 
-what the Hindu imagines will best please the inquirer. 
-
-The same difficulty appears in a grosser form when one receives 
-a perfectly true reply, but insists on interpreting it so as to suit 
-one’s desires. The vast majority of people who go to “fortune- 
-tellers” have nothing else in mind but the wish to obtain super- 
-natural sanction for their follies. Apart from Occultism alto- 
-gether, every one knows that when people ask for advice, they 
-only want to be told how wise they are. Hardly any one acts on 
-the most obviously commonsense counsel if it happens to clash 
-with his previous intentions. Indeed, who would take counsel 
-unless he were warned by some little whisper in his heart that 
-he was about to make a fool of himself, which he is determined 
-to do, and only wants to be able to blame his best friend, or the 
-oracle, when he is overtaken by the disaster which his own interior 
-mentor foresees ? 
-
-Those who embark on divination will be wise to consider the 
-foregoing remarks very deeply. They will know when they are 
-getting deep enough by the fact of the thought beginning to hurt 
-them. It is essential to explore oneself to the utmost, to analyse 
-
-
-— 162 
-
-
-one’s minci until one can be positive, beyond the possibility of 
-error, that one is able to detach oneself entirely from the question. 
-The oracle is a judgej it must be beyond bribery and prejudice. 
-
-It is impossible in practice to lay down rules for the inter¬ 
-pretation of symbols. Their nature must be investigated by intel- 
-lectual methods such as the Qabalah, but the precise shape of 
-meaning in any one case, and the sphere and tendency of its 
-application, must be acquired partlv by experience, that is, by 
-induction, by recording and classifying one’s experiments over a 
-long periode and — this is the better part — by refining one’s 
-ratiocination to the point where it becomes instinct or intuition, 
-whichever one likes to call it. 
-
-It is proper in cases where the sphere of the question is well 
-marked to begin the divination by invocations of the forces thereto 
-appropriate. An error of judgment as to the true character of the 
-question would entall penalties proportionate to the extent of that 
-error 3 and the delusions resulting from a divination fortified by 
-invocation would be more serious than if one had not employed 
-such heavy artillery. 3 
-
-There can, however, be no objection to preparing oneself by 
-a general purification and consecration devised with the 
-object of detaching oneself from one’s personality and 
-increasing the sensitiveness of one’s faculties. 
-
-all divination comes under the general type of the element Air. 
-The peculiar properties of air are in consequence its uniform charac- 
-teristics. Divination is subtle and intangible. It moves with 
-mysterious ease, expanding, contracting, fJowing, responsive to the 
-slightest stress. It receives and transmits every Vibration without 
-retaining any. It becomes poisonous when its oxygen is defiled 
-by passing through human lungs. 
-
-There is a peculiar frame of mind necessary to successful 
-divination. The conditions of the problem are difficult. It is 
-obviously necessary for the mind of the diviner to be concentrated 
-absolutely upon his question. Any intrusive thought will confuse 
-the oracle as certainly as the reader of a newspaper is confused 
-
-I. The apparent high sanction for the error would fortify the obstinacy 
-of the mule. 
-
-
-— 163 
-
-
-
-when he reads a paragraph into which a few lines have strayed 
-from another column. It is equally necessary that the muscles 
-with wliicli he manipulates the apparatus of divination must 
-he entirely independent of any volition of his. lie must 
-lend them for the moment to the intelligence whom he is 
-Consulting, to be guided in their movement to make the necessary 
-mechanical actions which determine the physical factor of the 
-operation. It will be obvions that this is somewhat awkward for 
-the diviner who is also a magician, for as a magician he has been 
-constantly at work to keep all his forces uncler his own control,, 
-and to prevent the slighest interference with them by any alien 
-Will. It is, in fact, commonly the case, or so says the experience 
-of The Master Therion, that the most promising Magicians are 
-the most deplorable diviners, and vice versa. It is only when the 
-aspirant approaches perfection that he becomes able to reconcile 
-these two apparently opposing faculties. Indeed, there is no surer 
-sign of all-round success than this ability to put the whole of one’s 
-powers at the service of any type of task. 
-
-With regard to the mind, again, it would seem that concentra¬ 
-tion on the question makes more difficult the necessary detachment 
-from it. Once again, the diviner stands in need of a considerable 
-degree of attainment in the practices of meditation. He must 
-have succeeded in destroying the tendency of the ego to 
-interfere with the ohject of thought. He must be able to 
-conceive of a thing out of all relation with anything eise. 
-The regular practice of concentration leads to this result; in fact, 
-it destroys the thing itself as we have hitherto conceived it; for 
-the nature of things is always veiled from us by our habit of 
-regarding them as in essential relation with ourselves and our 
+2. We postulate that it is possible to construct a compendium of hieroglyphs sufficiently elastic in meaning to include every possible idea, and that one or more of these may always be taken to represent any idea. We assume that any of these hieroglyphics will be understood by the intelligences with whom we wish to communicate in the same sense as it is by ourselves. We have therefore a sort of language. One may compare it to a *lingua franca* which is perhaps defective in expressing fine shades of meaning, and so is unsuitable for literature, but which yet serves for the conduct of dally affairs in places where many tongues are spoken. Hindustani is an example of this. But better still is the analogy between the conventional signs and symbols employed by 
+mathematicians, who can thus convey their ideas perfectly^[As a matter of fact, they cannot. The best qualified are the most diffident as to having grasped the meaning of their colleagues with exactitude; in criticising their writings they often make a point of apologising for possible misunderstanding.] without speaking a Word of each other’s languages. 
+
+3. We postulate that the intelligences whom we wish to consult are willing, or may be compelled, to answer us truthfully. 
+
+Let us first consider the question of the compendium of symbols. The alphabet of a language is a more or less arbitrary way of transcribing the sounds employed in speaking it. The letters tnemselves h ave not necessarily any meaning as such. But **in a System of divination each Symbol stands for a definite idea.** It would not interfere with the English language to add a few new letters. In fact, some Systems of shorthand have done so. But a System of symbols suitable for divination must be a complete representation of the Universe, so that each is absolute, and the whole insusceptible of increase or diminution. It is (in fact) technically a pantacle in the fullest sense of the word. 
+
+Let us consider some prominent examples of such System. We may observe that a common mode of divination is to inquire of books by placing the thumb at random within the leaves. The Books of the Sybil, the Works of Vergil, and the Bible have been used ’very frequently for this purpose. For theoretical justification, one must assume that the book employed is a perfect representation of the Universe. But even if this were the case, it is an inferior form of construction, because the only reasonable conception of the Cosmos is mathematical and hieroglyphic rather than literary. **In the case of a book, such a book as the Book of the Law which is the supreme truth and the perfect rule of life, it is not repugnant to good sense to derive an oracle from its pages. It will of course be remarked that the Book of the Law is not mereiy a literary compilation but a complex mathematical structure. It therefore fullfils the required conditions.**
+
+The principal means of divination in history are astrology, geomancy, the Tarot, the Holy Qabalah, and the Yi King. There are hundreds of others; from pyromancy, oneiromancy, auguries from sacrifices, and the spinning-top of some ancient oracles to the omens drawn from the flight of birds and the prophesying or tea-leaves. It will be sufficient for our present purpose to discuss only the five Systems first enumerated. 
+
+<span class="small-caps">Astrology</span> is theoretically a perfect method, since the symbols employed actually exist in the macrocosm, and thus possess a natural correspondence with microcosmic affairs. But in practice the calculations involved are overwhelmingly complicated. A horoscope is never complete. It needs to be supplemented by innumerable other horoscopes. For example, to obtain a judgment on the simplest question, one requires not only the nativities of the people involved, some of which are probably inaccessible, but secondary figures for directions and transits, together with progressed horoscopes, to say nothing of prenatal, mundane, and even horary figures. To appreciate the entire mass of data, to balance the elements of so vast a concourse of forces, and to draw a single judgment therefrom, is a task practically beyond human capacity. Besides all this, the actual efiects of the planetary positions and aspects are still almost entirely unknown. No two astrologers agree on all points 5 and most of them are at odds on fonda¬ mental principles.^[Nearly all professional astrologers are ignorant of their own subject, as of all others.] This science had better be discarded unless the student chances to feel strongly drawn toward it. It is used by the <span class="small-caps">Master Therion</span> Himself with fairly satisfactory results, but only in special cases, in a strictly limited sphere, and with particular precautions. Even so, He feels great diffidence in basing His conduct on the result so obtained. 
+
+<span class="small-caps">Geomancy</span> has the advantage of being rigorously mathematical. A hand-book of the science is to be found in Equinox I, II. The objection to its use lies in the limited number of the symbols. To represent the Universe by no more than 16 combinations throws too much work upon them. There is also a great restriction arising from the fact that although 15 symbols appear in the final figure, there are, in reality, but 4, the remaining 11 being drawn by an ineluctable process from the “Mothers”. It may be added that the tables given in the handbook for the interpretation of the figure are exceedingly vague on the one hand, and insufficiently comprehensive on the other. Some Adepts, however, appear to find this System admirable, and obtain great satisfaction from its use. Once more, the personal equation must be allowed full weight. At one time the <span class="small-caps">Master Therion</span> employed it extensively; but He was never wholly at ease with it; He found the interpretation very difficult. Moreover, it seemed to Him that the geomantic intelligences themselves were of a low order, the scope of which was confined to a small section of the things which interested Him* also, they possessed a point of view of their own which was far from sympathetic with His, so that misunder- standing constantly interfered with the Work. 
+
+<span class="small-caps">The Tarot</span> and <span class="small-caps">The Holy Qabalah</span> may be discussed together. The theoretical basis of both is identical: The Tree of Life.^[Both these subjects may be studied in the Equinox in several articles appearing in several numbers.] The 78 symbols of the Tarot are admirably balanced and combined. They are adequate to all demands made upon them; each Symbol is not only mathematically precise, but possesses an artistic significance which helps the diviner to understand them by stimulating his aesthetic perceptions. The <span class="small-caps">Master Therion</span> finds that the Tarot is infallible in material questions. The successive operations describe the course of events with astonishing wealth of detail, and the judgments are reliable in all respects. But a proper divination means at least two hours’ hard work, even by the improved method developed by Him from the traditions of initiates. Any attempt to shorten the proceedings leads to disappointment; furthermore, the symbols do not lend themselves readily to the solution of spiritual questions. 
+
+**The Holy Qabalah, based as it is on pure number, evidently possesses an infinite number of symbols. ïts scope is conterminous with existence itself; and it lacks nothing in precision, purity, or indeed in any other perfection. But it cannot be taught;**^[It is easy to teach the General Principles of exegesis, and the main doctrines. There is a vast body of knowledge common to all cases; but this is no more than the basis on which the student must erect his original Research.] **each man must select for himself the materials for the main structure of his System.** It requires years of work to erect a worthy building. Such a building is never finished; every day spent on it adds new ornaments. The Qabalah is therefore a living Temple of the Holy Ghost. It is the man himself and his universe expressed in terms of thought whose language is so rich that even the letters of its alphabet have no limit. This System is so sublime that it is unsuited to the solution of the petty puzzles of our earthly existence. In the light of the Qabalah, the shadows of transitory things are instantly banished. 
+
+The <span class="small-caps">Yi King</span> is the most satisfactory System for general work. The <span class="small-caps">Master Therion</span> is engaged in the preparation of a treatise on the subject, but the labour involved is so great that He cannot pledge Himself to have it ready at any definite time. The ôtudent must theiefoie make his own investigations mto the meaning of the 64 hexagrams as best he can. 
+
+**The Yi King is mathematical and philosophical in form. Its structure is cognate with that of the Qahalah; the identity is so intimate that the existence of two such superficially different Systems is transcendent testimony to the truth of both.** It is in some ways the most perfect hieroglyph ever constructed. It is austere and sublime, yet withal so adaptable to every possible emergency that its figures may be interpreted to suit all classes of questions. One may resolve the most obscure spiritual difficultes no less than the most mundane dilemmas; and the symbol which opens the gates of the most exalted palaces of initiation is equally effective when employed to advise one in the ordinary business of life. The <span class="small-caps">Master Therion</span> has found the Yi King entirely satisfactory in every respect. The intelligences which direct it show no inclination to evade the question or to mislead the querent. A further advantage is that the actual apparatus is simple. Also the System is easy to manipulate, and five minutes is sufficient to obtain a fairly detailed answer to any but the most obscure questions. 
+
+With regard to the intelligences whose business it is to give information to the diviner, their natures differ widely, and correspond more or less to the character of the medium of divination. Thus, the geomantic intelligences are gnomes, spirits of an earthy nature, distinguished from each other by the modifications due to the various planetary and zodiacal influences which pertain to the several symbols. The intelligence governing Puella is not to be confused with that of Venus or of Libra. It is simply a particular terrestrial daemon which partakes of those natures. 
+
+The Tarot, on the other hand, being a book, is under Mercury, and the intelligence of each card is fundamentally Mercurial. Such symbols are therefore peculiarly proper to communicate thought. They are not gross, like the geomantic daemons; but, as against this, they are unscrupulous in deceiving the diviner.^[This does not mean that they are malignant. They have a proper pride in their office as Oracles of Truth; and they refuse to be profaned by the contamination of inferior and impure intelligences. A Magician whose research is fuily adapted to his Neschamah will hnd them lucid and reliable.]
+
+The Yi King is served by beings free from these defects. The intense purity of the symbols prevent them from being usurped by intelligences with an axe of their own to grind.^[Malicious or pranksome elementals instinctively avoid the austere sincerity of the Figures of Fu and King Wan.]
+
+**It is always essential lor the diviner to obtain absolute magical control over the intelligences of the System which he adopts.** He must not leave the smallest loop-hole for being tricked, befogged, or mocked. He must not allow them to use casuistry in the interpretation of his questions. It is a common knavery, especially in geomancy, to render an answer which is literally true, and yet deceives. For instance, one might ask whether some business transaction would be profitable, and find, after getting an affirmative answer, that it really referred to the other party to the affair! 
+
+There is, on the surface, no difficulty at all in getting replies. In fact, the process is mechanical; success is therefore assured, bar a stroke of apoplexy. But, even suppose we are safe from deceit, how can we know that the question has really been put to another mind, understood rightly, and answered from knowledge? It is obviously possible to check one’s operations by clairvoyance, but this is rather like buying a safe to keep a brick in. Experience is the only teacher. One acquires what one may almost call a new sense. One feels in one’s self whether one is right or not. The diviner must develop this sense. It resembles the exquisite sensibility of touch which is found in the great billiard player whose fingers can estimate infinitesimal degrees of force, or the similar phenomenon in the professional taster of tea or wine who can distinguish fantastically subtle differences of flavour. 
+
+It is a hard saying; but **in order to divine without error, one ought to be a Master of the Temple**, Divination affords excellent practice for those who aspire to that exalted eminence, for **the faintest breath of personal preference will deflect the needle from the pole of truth in the answer.** Unless the diviner have banished utterly from his mind the minutest atom of interest in the answer to his question, he is almost certain to influence that answer in favour of his personal inclinations. 
+
+The psycho-analyst will recall the fact that dreams are phantasmal representations of the unconscious Will of the sleeper, and that not only are they images of that Will instead of representations of objective truth, but the image itself is confused by a thousand cross-currents set in motion by the various complexes and inhibitions of his character. If therefore one consults the oracle, one must take sure that one is not consciously or unconsciously bringing pressure to bear upon it. It is just as when an Englishman cross-examines a Hindu, the ultimate answer will be what the Hindu imagines will best please the inquirer. 
+
+The same difficulty appears in a grosser form when one receives a perfectly true reply, but insists on interpreting it so as to suit one’s desires. The vast majority of people who go to “fortune-tellers” have nothing else in mind but the wish to obtain super- natural sanction for their follies. Apart from Occultism altogether, every one knows that when people ask for advice, they only want to be told how wise they are. Hardly any one acts on the most obviously commonsense counsel if it happens to clash with his previous intentions. Indeed, who would take counsel unless he were warned by some little whisper in his heart that he was about to make a fool of himself, which he is determined to do, and only wants to be able to blame his best friend, or the oracle, when he is overtaken by the disaster which his own interior mentor foresees? 
+
+Those who embark on divination will be wise to consider the foregoing remarks very deeply. They will know when they are getting deep enough by the fact of the thought beginning to hurt them. It is essential to explore oneself to the utmost, to analyse one’s mind until one can be positive, beyond the possibility of error, that one is able to detach oneself entirely from the question. The oracle is a judge; it must be beyond bribery and prejudice. 
+
+It is impossible in practice to lay down rules for the interpretation of symbols. Their nature must be investigated by intellectual methods such as the Qabalah, but the precise shape of meaning in any one case, and the sphere and tendency of its application, must be acquired partlv by experience, that is, by induction, by recording and classifying one’s experiments over a long period and — this is the better part — by refining one’s ratiocination to the point where it becomes instinct or intuition, whichever one likes to call it. 
+
+It is proper in cases where the sphere of the question is well marked to begin the divination by invocations of the forces thereto appropriate. An error of judgment as to the true character of the question would entall penalties proportionate to the extent of that error; and the delusions resulting from a divination fortified by invocation would be more serious than if one had not employed such heavy artillery.^[The apparent high sanction for the error would fortify the obstinacy of the mule.]
+
+
+There can, however, be no objection to **preparing oneself by a general purification and consecration devised with the object of detaching oneself from one’s personality and increasing the sensitiveness of one’s faculties.**
+
+All divination comes under the general type of the element Air. The peculiar properties of air are in consequence its uniform characteristics. Divination is subtle and intangible. It moves with mysterious ease, expanding, contracting, fJowing, responsive to the slightest stress. It receives and transmits every Vibration without retaining any. It becomes poisonous when its oxygen is defiled by passing through human lungs. 
+
+There is a peculiar frame of mind necessary to successful divination. The conditions of the problem are difficult. It is obviously necessary for the mind of the diviner to be concentrated absolutely upon his question. Any intrusive thought will confuse the oracle as certainly as the reader of a newspaper is confused when he reads a paragraph into which a few lines have strayed from another column. It is equally necessary that **the muscles with which he manipulates the apparatus of divination must he entirely independent of any volition of his. He must lend them for the moment to the intelligence whom he is consulting**, to be guided in their movement to make the necessary mechanical actions which determine the physical factor of the operation. It will be obvious that this is somewhat awkward for the diviner who is also a magician, for as a magician he has been constantly at work to keep all his forces under his own control, and to prevent the slighest interference with them by any alien Will. It is, in fact, commonly the case, or so says the experience of The <span class="small-caps">Master Therion</span>, that the most promising Magicians are the most deplorable diviners, and vice versa. It is only when the aspirant approaches perfection that he becomes able to reconcile these two apparently opposing faculties. Indeed, there is no surer sign of all-round success than this ability to put the whole of one’s powers at the service of any type of task. 
+
+With regard to the mind, again, it would seem that concentration on the question makes more difficult the necessary detachment from it. Once again, the diviner stands in need of a considerable degree of attainment in the practices of meditation. He must have succeeded in destroying the tendency of the ego to interfere with the ohject of thought. He must be able to conceive of a thing out of all relation with anything else. The regular practice of concentration leads to this result; in fact, it destroys the thing itself as we have hitherto conceived it; for the nature of things is always veiled from us by our habit of regarding them as in essential relation with ourselves and our 
 reactions toward them. 
 
-One can hardly expect the diviner to make Samadhi with his 
-question — that would be going too far, and destroy the character 
-of the operation by removing the question from the class of 
-concatenated ideas. It would mean interpreting the question in 
-terms of “without limit”, and thus imply an equally formless 
-answer. But he should approximate to this extreme sufficiently 
-to allow ihe question entire freedom to make for itself ils 
-own proper links with the intelligence directing the answer, 
+One can hardly expect the diviner to make Samadhi with his question — that would be going too far, and destroy the character of the operation by removing the question from the class of concatenated ideas. It would mean interpreting the question in terms of “without limit”, and thus imply an equally formless answer. But he should approximate to this extreme sufficiently to **allow the question entire freedom to make for itself its 
+own proper links with the intelligence directing the answer**, preserving its position on its own plane, and evoking the necessary counterpoise to its own deviation from the norm of nothingness. 
 
-— 164 — 
+We may recapitulate the above reflections in a practical form. We will suppose that one wishes to divine by geomancy whether or no one should marry, it being assumed that one’s emotional impulses suggest so rash a course. The man takes his wand and his sand; he traces the question, makes the appropriate pentagram, and the sigil of the spirit. Before tracing the dashes which are to determine the four “Mothers”, he must strictly examine himself. He must banish from his mind every thought which can possibly act as an attachment to his proposed partner. He must banish all thoughts which concern himself, those of apprehension no less than those of ardour. He must carry his introspection as far as possible. He must observe with all the subtletv at his command whether it pains him to abandon any of these thoughts. So long as his mind is stirred, however slightly, by one single aspect of the subject, he is not fit to begin to form the figure. **He must sink his personality in that of the intelligence hearing the question propounded by a stranger to whom he is indifferent, but whom it is his business to serve farthfully**. He must now run over the whole affair in his mind, making sure of his utter aloofness therefrom. He must also make sure that his muscles are perfectly free to respond to the touch of the Will of that intelligence. (It is of course understood that he has not become so familiar with geomancy by dint of practice as to be able to calculate subconsciously what figures he will form; form; for this would vitiate the experiment entirely. It is, in fact, one of the objections to geomancy that sooner or later one does become aware at the time of tracing them whether the dots are going to be even or odd. This needs a special training to correct). 
 
+Physio-psychological theory will probably maintain that the “automatic” action of the hand is controlled by the brain no less than in the case of conscious volition; but this is an additional argument for identiiying the brain with the intelligence invoked. 
 
-preserving its position on its own plane, and evoking the necessary 
-counterpoise to its own deviation from the norm of nothingness. 
+Having thus identified himself as closely as possible with that intelligence, and concentrated on the question as if the “prophesying spirit” were giving its whole attention thereto, he must awart the impulse to trace the marks on the sand; and, as soon as it comes let it race to the finish. Here arises another technical difficulty. One has to make 16 rows of dots; and, especialiy for the beginner, the mind has to grapple with the apprehension lest the hand fall to execute the required number. It is also troubled by fearing to exceed; but excess does not matter. Extra lines are simply null and void, so that the best plan is to banish that thought, and make sure only of not stopping too soon.^[Practice soon teaches one to count subconsciously.yes, and that is the other difficulty again!]
 
-\\ e may recapitulate the above reflections in a practical form. 
-We will suppose that one wishes to divine by geomancy whether 
-or no one should marry, it being assumed that one’s emotional 
-impulses suggest so rash a course. The man takes his wand and 
-his sand; he traces the question, makes the appropriate pentagram, 
-and the sigil of the spirit. Before tracing the dashes which are 
-to determine the four “Mothers”, he must strictly examine 
-himself. He must banish from his mind every thought which 
-can possibly act as an attachment to his proposed partner. He 
-must banish all thoughts which concern himself, those of appre¬ 
-hension no less than those of ardour. He must carry his introspec¬ 
-tion as far as possible. He must observe with all the subtletv at 
-his command whether it pains him to abandon any of these 
-thoughts. So long as his mind is stirred, however slightly, by one 
-single aspect of the subject, he is not fit to begin to form the 
-figure. He must sink his persouality in that of the intel¬ 
-ligence hearing the question propounded by a sirarager to 
-whom he is indifferent, but whom it is his business to serve 
-faithfully. He must now run over the whole affair in his mind, 
-making sure of his utter aloofness therefrom. He must also make 
-sure that his muscles are perfectly free to respond to the touch 
-of the Will of that intelligence. (It is of course understood that 
-he has not become so familiar with geomancy by dint of practice 
-as to be able to calculate subconsciously what figures he will form; 
-form; for this would vitiate the experiment entirely. It is, in 
-fact, one of the objections to geomancy that sooner or later one 
-does become aware at the time of tracing them whether the dots 
-are going to be even or odd. This needs a special training to 
-correct). 
+The lines being traced, the operation is over as far as spiritual qualifies are required, for a time. The process of setting up the figure for judgment is purely mechanical. 
 
-Physio-psychological theory will probably maintain that the 
-“automatic” action of the hand is controlled by the brain no less 
-than in the case of conscious volition; but this is an additional 
-argument for identiiying the brain with the intelligence invoked. 
+But, in the judgment, the diviner stands once more in need of his mmost and utmost attainments. **He should exhaust the intellectual sources of information at his disposal, and form from them his judgment. But having done this, he should detach his mind from what it has just formulated, and proceed to concentrate it on the figure as a whole, almost as if it were the object of his meditation.** One need hardly repeat that in both these operations detachment from one’s personal partialities is as necessary as it was in the first part of the work. In setting up the figure, bias would beget a Freudian phantasm to replace the image of truth which the figure ought to be; and it is not too much to say that the entire subconscious machinery of the body and mind lends itself with horrid willingness to this ape-like antic of treason. But now that the figure stands for judgment, the same bias would tend to form its phantasm of wish-fulfilment in a different manner. It would act through the mind to betray sound judgment. It might, for example, induce one to emphasize the Venereal element in Puella at the expense of the Saturnian. It might lead one to underrate the influence of a hostile figure, or to neglect altogether some element of importance. The <span class="small-caps">Master Therion</span> has known cases where the diviner was so afraid of an unfavourable answer that he made actual mistakes in the simple mechanical construction of the figure! Finally, in the summing up; it is fatally easy to slur over unpleasantness, and to breathe on the tiniest spark that promises to kindle the tinder — the rotten rags! —of hope. 
 
-Having thus identified himself as closely as possible with that 
-intelligence, and concentrated on the question as if the “prophe- 
-sying spirit” were giving its whole attention thereto, he must 
+The concluding operation is therefore to **obtain a judgment of the figure, independent of all intellectual or moral restraint. One must endeavour to apprehend it as a thing absolute in itself.** One must treat it, in short, very much the same as one did the question; as a mystical entity, till now unrelated with other phenomena. One must, so to speak, adore it as a god, uncritically: a Speak, Lord, for thy servant heareth.” Il must be allowed to impose iis intrinsic individuality on the mind, to put its fingers independently on whatever notes it pleases. 
 
+In this way one obtains an impression of the true purport of the answer; and one obtains it armed with a sanction superior to any sensible suggestions. It comes from and to a part of the individual which is independent of the influence of environment; is adjusted to that environment by true necessity, and not by the artifices of such adaptations as our purblind conception of convenience induces us to fabricate. 
 
-— 165 — 
+The student will observe from the above that **divination is in one sense an art entirely separate from that of Magick; yet it interpenetrates Magick at every point.** The fundamental laws of both are identical. The right use of divination has already been explained; but it must be added that proficiency therein, tremendous as is its importance in furnishing the Magician with the information necessary to his strategical and tactical plans, in no wise enables him to accomplish the impossible. It is not within the scope of divination to predict the future (for example) with the certainty of an astronomer in calcuiating the return of a comet.^[The astronomer himself has to enter a caveat. He can only calculate the probability on the observed facts. Some force might interfere with the anticipated movement.] There is always much virtue in divination; for (Shakespeare assures us!) there is “much virtue in IF”! 
 
+In estimating the ultimate value of a divinatory judgment, one must allow for more than the numerous sources of error inherent in the process itself. The judgment can do no more than the facts presented to it warrant. It is naturally impossible in most cases to make sure that some important factor has not been omitted. In asking, “shall I be wise to marry?” one leaves it open for wisdom to be defined in divers ways. One can only expect an answer in the sense of the question. The connotation of “wise” would then imply the limitations “in your private definition of wisdom”, “in reference to your present circumstances.” It would not involve guarantee against subsequent disaster, or pronounce a philosophical dictum as to wisdom in the abstract sense. **One must not assume that the oracle is omniscient**. By the nature of the case, on the contrary, it is the utterance of a being whose powers are partial and limited, though not to such an extent, or in the same directions, as one’s own. But a man who is advised to purchase a certain stock should not complain if a general panic knocks the bottom ont of it a few weeks later. The advice only referred to the prospects of the stock in itself. The divination must not be blarned any more than one would blame a man for buying a house at Ypres three years before the World-War. 
 
-await the impulse to trace the marks on the sand; and, as soon as 
-it comes let it race to the finish. Here arises another technical 
-difficulty. One has to make 16 rows of dots; and, especialiy for 
-the beginner, the mind has to grapple with the apprehension lest 
-the hand fall to execute the required number. It is also troubled 
-by fearing to exceed; but excess does not matter. Extra Unes are 
-simply null and void, so that the best plan is to banish that 
-thought, and make sure only of not stopping too soon. 1 
+As against this, one must insist that it is obviously to the advantage of the diviner to obtain this information from beings of the most exalted essence available. An old witch who has a familiar spirit of merely local celebritv such as the toad in her tree, can hardly expect him to tell her much more of private matters than her parish magazine does of public. It depends entirely on the Magician how he is served. The greater the man, the greater must be his teacher. It follows that the highest forms of communicating daemons, those who know, so to speak, the court secrets, disdain to concern themselves with matters which they regard as beneath them. One must not make the mistake of calling in a famous physician to one’s sick Pekinese. One must also beware of asking even the cleverest angel a question outside his ambit. A heart specialist should not prescribe for throat trouble. 
 
-The lines being traced, the operation is over as far as spiritual 
-qualifies are required, for a time. The process of setting up the 
-figure for judgment is purely mechanical. 
+**The Magician ought therefore to make himself master of several methods of divination; using one or the other as the purpose of the moment dictates. He should make a point of organizing a staff of such spiriis to suit various occasions. These should be “familiar” spirits, in the strict sense; members of his family.** He should deal with them constantly, avoiding whimsical or capricious changes. He should choose them so that their capacities cover the whole ground of his workj but he should not multiply them unneccessarily, for he makes himself responsible for each one that he employs. Such spirits snould be ceremonially evoked to visible or semi-visible appearance. A strict arrangement should be made and sworn. This must be kept punctiliously by the Magician, and its infringement by the spirit severely punished. Relations with these spirits should be confirmed and encouraged by frequent intercourse. They should be treated with courtesy, consideration, and even affection. They should be taught to love and respect their master, and to take pride in being trusted by him. 
 
-But, in the judgment, the diviner stands once more in need of 
-his mmost and utmost attainments. He sbould exhaust tlie 
-infcellectual sources of information at Iiis disposai, and form 
-from them his jodgment. But having done this, lie should 
-deiacli Iiis mind from wliat it lias just formulated, and 
-proceed to concentrate it on tlie figure as a whole, aimost 
-as if it were tlie object of bis meditation. One need hardly 
-repeat that in both these operations detachment from one’s personal 
-partialities is as necessary as it was in the first part of the work. 
-In setting up the figure, bias would beget a Freudian phantasm to 
-replace the image of truth which the figure ought to be; and it is 
-not too much to say that the entire subconscious machinery of the 
-body and mind lends itself with horrid willingness to this ape- 
-like antic of treason. But now that the figure stands for judgment, 
-the same bias Vvouid tend to form its phantasm of wish-fulfilment 
-in a different manner. It would act through the mind to bewray 
-sound judgment. It might, for example, induce one to emphasize 
-the Venereal element in Puella at the expense of the Saturnian. 
-
--i. 
-
-It might lead one to underrate the influence of a hostile figure, 
-or to neglect altogether some element of importance. The 
-Master Therion has known cases where the diviner was so 
-afraid of an unfavourable answer that he made actual mistakes in 
-the simple mechanical construction of the figure! Finally, in the 
-
-
-i. Practice soon teaches one to count subconsciously.yes, and that 
-
-is the other difficulty again! 
-
-
-— i66 —• 
-
-
-
-
-summing up; it is fatally easy to slur over unpleasantness, and to 
-breathe on the tiniest spark that promises to kindle the tinder — 
-the rotten rags! —of hope. 
-
-The concluding operation is therefore to obtain a judgment 
-of the figure, independent of all iutellectual or moral 
-restraint. One must endeavour to appreliend it as a thing 
-absolute in itself. One must treat it, in short, very much the 
-same as one did the question $ as a mystical entity, till now unrelated 
-with other phenomena. One must, so to speak, adore it as a god, 
-uncritically: a Speak, Lord, for thy servant heareth.” Il must be 
-allowed to impose iis intrinsic individuality on the mind, 
-to put its fingers independently on whatever notes it pleases. 
-
-In this way one obtains an impression of the true purport of the 
-answerj and one obtains it armed with a sanction superior to any 
-sensible suggestions. It comes from and to a part of the individual 
-which is independent of the influence of environment ; is adjusted 
-to that environment by true necessity, and not by the artifices of 
-such adaptations as our purblind conception of convenience induces 
-us to fabricate. 
-
-The student will observe from the above that divination is in 
-one sense an art entirely separate from that of Magick; y et 
-it interpenettes Magick at every point. The fundamental 
-laws of both are identical. The right use of divination has already 
-been explained; but it must be added that proficiency therein, 
-tremendous as is its importance in furnishing the Magician with 
-the information necessary to his strategical and tactical plans, in 
-no wise enables him to accomplish the impossible. It is 
-not within the scope of divination to predict the future (for 
-example) with the certainty of an astronomer in calcuiating the 
-return of a comet. 1 There is always much virtue in divination ; 
-for (Shakespeare assures us!) there is “much virtue in IF”! 
-
-In estimating the ultimate value of a divinatory judgment, one 
-must allow for more than the numerous sources of error inherent 
-
-
-I. The astronomer himself has to enter a caveat. He can only 
-calculate the probability on the observed facts. Some force might interfere 
-with the anticipated movement. 
-
-
-— 167 
-
-
-
-
-in the process itself. The judgment can do no more than the facts 
-presented to it warrant. It is naturally impossible in most cases to 
-make sure that some important factor has not been omitted. In 
-asking, “shall I be wise to marry?” one leaves it open for wisdom 
-to be defined in divers ways. One can only expect an answer in 
-the sense of the question. The connotation of “wise” would then 
-imply the limitations “in your private definition of wisdom”, “in 
-reference to your present circumstances.” It would not involve 
-guarantee against subsequent disaster, or pronounce a philosophical 
-dictum as to wisdom in the abstract sense. One must not assume 
-that the oracle is omniscient. By the nature of the case, on 
-the contrary, it is the utterance of a being whose powers are partial 
-and limited, though not to such an extent, or in the same directions, 
-as one’s own. But a man who is advised to purchase a certain 
-stock should not complain if a general panic knocks the bottom 
-ont of it a few weeks later. The advice only referred to the 
-prospects of the stock in itself. The divination must not be blarned 
-any more than one would blame a man for buying a house at Ypres 
-three vears before the World-War. 
-
-As against this, one must insist that it is obviously to the advan- 
-tage of the diviner to obtain this information from beings of the 
-most exalted essence available. An old witch who has a familiar 
-spirit of merely local celebritv such as the toad in her tree, can 
-hardly expect him to tell her much more of private matters than 
-her parish magazine does of public. It depends entirely on the 
-Magician how he is served. The greater the man, the greater must 
-be his teacher. It follows that the highest forms of communicating 
-daemons, those who know, so to speak, the court secrets, disdain to 
-concern themselves with matters which they regard as beneath 
-them. One must not make the mistake of calling in a famous 
-physician to one’s sick Pekinese. One must also beware of asking 
-even the cleverest angel a question outside his ambit. A heart 
-specialist should not prescribe for throat trouble. 
-
-The Magician ouglit therefore to make himself master 
-of several methods of divination; using one or the other as 
-the purpose of the moment dictates. He should make a 
-point of organizing a staff of such spiriis to suit varions 
-
-
-168 
-
-
-occasions. These shouid be “familiar” spirits, in the strict 
-sense; members of bis family. He shouid deal with them 
-constantly, avoiding whimsical or capricious changes. He shouid 
-choose them so that their capacities cover the whole ground of his 
-workj but he shouid not multiply them unneccessarily, for he 
-makes himself responsible for each one that he employs. Such spirits 
-snould be ceremonially evoked to visible or semi-visible appear- 
-ance. A strict arrangement shouid be made and sworn. This must 
-be kept punctiliously by the Magician, and its infringement by the 
-spirit severely punished. Relations with these spirits shouid be 
-confirmed and encouraged by frequent intercourse. They shouid 
-be treated with courtesy, consideration, and even affection. They 
-shouid be taught to love and respect their master, and to take 
-pride in being trusted by him. 
-
-It is sometimes better to act on the advice of a spirit even when 
-one knows it to be wrong, though in such a case one must take 
-the proper precautions against an undesirable result. The reason 
-for this is that spirits of this type are very sensitive. They suffer 
-agonies of remorse on realising that they have injured their 
-Master5 for he is their God; they know themselves to be part of 
-him, their aim is to attain to absorption in him. They understand 
-therefore that his interests are theirs. Care must be taken to 
-employ none but spirits who are fit for the purpose, not only by 
-reason of their capacity to supply information, but for their sym- 
-pathy with the personality of the Magician. Any attempt to coerce 
-unwilling spirits is dangerous. They obey from fear; their fear 
-makes them flatter, and tell amiable falsehoods. It also creates 
-phantasmal projections of themselves to personate them; and these 
-phantasms, besides being worthless, become the prey of malicious 
-daemons who use them to attack the Magician in various ways 
-whose prospect of success is enhanced by the fact that he has him¬ 
+It is sometimes better to act on the advice of a spirit even when one knows it to be wrong, though in such a case one must take the proper precautions against an undesirable result. The reason for this is that spirits of this type are very sensitive. They suffer agonies of remorse on realising that they have injured their Master; for he is their God; they know themselves to be part of him, their aim is to attain to absorption in him. They understand therefore that his interests are theirs. Care must be taken to employ none but spirits who are fit for the purpose, not only by reason of their capacity to supply information, but for their sympathy with the personality of the Magician. Any attempt to coerce unwilling spirits is dangerous. They obey from fear; their fear makes them flatter, and tell amiable falsehoods. It also creates phantasmal projections of themselves to personate them; and these phantasms, besides being worthless, become the prey of malicious daemons who use them to attack the Magician in various ways whose prospect of success is enhanced by the fact that he has him¬ 
 self created a link with them. 
 
-One more observation seems desireable while on this subject. 
-Divination of any kind is improper in matters directly concerning 
-the Great Work itself. In the Knowledge and Conversation 
-of his Holy Guardian Angel, the adept is possessed of all he 
-can possibly need. To consult any other is to insnlt one’s 
+One more observation seems desireable while on this subject. Divination of any kind is improper in matters directly concerning the Great Work itself. **In the Knowledge and Conversation of his Holy Guardian Angel, the adept is possessed of all he can possibly need. To consult any other is to insult one’s Angel.** Moreover, it is to abandon the only person who really knows, and really cares, in favour of one who by the nature of the case, must be ignorant^[No intelligence of the type that operates divination is a complete Microscosm as Man is. He knows in perfection what lies within his own Sphere, and little or nothing beyond it. Graphiel knows all that is knowable about Martial matters, as no Man can possibly do. For even the most Martial man is limited as to Madim by the fact that Mars is only one element in his molecule; the other elements both inhibit concentration on their colleague, and veil him by insisting on his being interpreted in reference to themselves. No entity whose structure does not include the entire Tree of Life is capable of the Formulae of Initiation. Graphiel, consulted by the Aspirants to Adeptship, would be bound to regard the Great Work as purely a question of Combat, and ignore all other considerations. His advice wouid be absolute on technical points of this kind; but its very perfection would persuade the Aspirant to an unbalanced course of action which would entall failure and destruction. It is pertinent to mention in this connection that one must not expect absolute information as to what is going to happen. “Fortune-telling” is an abuse of divination. At the utmost one can only ascertain what may reasonably be expected. The proper function of the process is to guide one’s judgrnent. Diagnosis is fairly reliable; advice may be trusted, generally speaking; but prognosis should always be cautious. The essence of the business is the consultation of specialists.] of the essence of the matter — one whose interest in it is no more (at the best) than that of a well-meaning stranger. It should go without saying that until the Magician has attained to the Knowledge and Conversation of his Holy Guardian Angel he is liable to endless deceptions. He does not know Himself; how can he explain his business to others? How can those others, though they do their best for him, aid in anything but trifles ? One must therefore be prepared for disappointment at every stage until one attains to adeptship. 
 
+This is especially true of divination, because the essence of the horror of not knowing one’s Angel is the utter bewilderment and anguish of the mind, complicated by the persecution of the body, and envenomed by the ache of the soul. One puts the wrong ques¬ tions, and puts them wrong; gets the wrong answers, judges them wrong, and acts wrongly upon them. One must nevertheless persist, aspiring with ardour towards one’s Angel, and comforted by te assurance that He is guiding one secretly towards Himself, and that all one’s mistakes are necessary preparations for the appointed hour of meeting Him. Each mistake is the combing-out of some tangle in the hair of the bride as she is being coiffed for marriage. 
 
-Angel. Moreover, it is to abandon the only person who really 
-knows, and really cares, in favour of one who by the nature of 
-the case, must be ignorant 1 of the essence of the matter — one 
-whose interest in it is no more (at the best) than that of a well- 
-meaning stranger. It should go without saying that until the 
-Magician has attained to the Knowledge and Conversation of his 
-Holy Guardian Angel he is liable to endless deceptions. He does 
-not know Himself; how can he explain his business to others ? 
-How can those others, though they do their best for him, aid in 
-anything but tri fies ? One must therefore be prepared for dis- 
-appointment at every stage until one attains to adeptship. 
+On the other hand, although the adept is in dally communication with his Angel, he ought to be careful to consult Him only on questions proper to the dignity of the relation. One should not consult one's Angel on too many details, or indeed on any matters which come within the office of one’s familiar spirits. One does not to go the King about petty personal trifles. **The romance and rapture of the ineffable union which constitutes Adeptship must not be profaned by the introduction of commonplace cares.** One must not appear with one’s hair in curl-papers, or complain of the cook’s impertinence, if one wants to make the most of the honeymoon.^[As the poet puts it; “Psyche, beware how thou disclose Thy tricks of toilet to Eros, Or let him learn that those love-breathing Lyrical lins that whisper, wreathing His brows with sense-bewitching gold, Are equally expert to scold; that those caressing hands will maybe Yet box his ears and slap the baby!”]
 
-This is especially true of divination, because the essence of the 
-horror of not knowing one’s Angel is the utter bewilderment and 
-anguish of the mind, complicated by the persecution of the body, 
-and envenomed by the ache of the soul. One puts the wrong ques¬ 
-tions, and puts them wrong 3 gets the wrong answers, judges them 
-wrong, and acts wrongly upon them. One must nevertheless 
-persist, aspiring with ardour towards one’s Angel, and comforted 
+To the Adept divination becomes therefore a secondary consideration, although he can now employ it with absolute confidence, and probably use it with far greater frequency than before his attainment. Indeed, this is likely in proportion as he learns that resort to divination (on every occasion when his Will does not mstantly instruct him) with implicit obedience to its counsels careless as to whether or no they may land him in disaster, is a means admirably efficacious of keeping his mind untroubled by external impressions, and therefore in the proper condition to receive the reiterant strokes of rapture with which the love of his Angel ravishes him. 
 
+We have now mapped out the boundaries of possibility and propriety which define the physical and political geography of divination. The student must guard himself constantly against supposing that this art affords any absolute means of discovering “truth”, or indeed, of using that Word as if it meant more than the relation of two ideas each of winch is itself as subject to "change without notice” as a musical programme. 
 
-I. No intelligence of the type that opetes divination is a complete 
-Microscosm as Man is. He knows in perfection what lies within his own 
-Sphere, and little or nothing beyond it. Graphiel knows all that is know- 
-able about Martial matters, as no Man can possibly do. For even the most 
-Martial man is limited as to Madim by the fact that Mars is only one 
-element in his molecule; the other elements both inhibit concentration on 
-their colleague, and veil him by insisting on his being interpreted in refer- 
-ence to themselves. No entity whose structure does not include the entire 
-Tree of Life is capable of the Formulae of Initiation. Graphiel, consulted 
-by the Aspirants to Adeptship, would be bound to regard the Great Work 
-as purely a question of Combat, and ignore all other considerations. His 
-advice wouid be absolute on technical points of this kind; but its very 
-perfection would persuade the Aspirant to an unbalanced course of action 
-which would entall fallure and destruction. It is pertinent to mention in 
-this connection that one must not expect absolute information as to what 
-is going to happen. “Fortune-telling” is an abuse of divination. At the 
-utmost one can only ascertain what may reasonably be expected. The 
-proper function of the process is to guide one’s judgrnent. Diagnosis is fairly 
-reliable; advice may be trusted, generally speaking; but prognosis should 
-always be cautious. The essence of the business is the consultation of 
-specialists. 
+Divination, in the nature of things, can do no more than put the mind of the querent into conscious connection with another mind whose knowledge of the subject at issue is to his own as that of an expert to a layman. The expert is not infallible. The client may put his question in a misleading manner, or even base it on a completely erroneous conception of the facts. He may misunderstand the expert’s answer, and he may misinterpret its purport. Apart from all this, excluding all error, both question and answer are limited in validity by their own conditions; and these conditions are such that truth may cease to be true, either as time goes on, or if it be flawed by the defect of failure to consider some circumstances whose concealed operation cancels the contract. 
 
+In a word, divination, like any other science, is justified of its children. It would be extraordinary should so fertile a mother be immune from still-births, monstrosities, and abortions. 
 
+We none of us dismiss our servant science with a kick and a curse every time the telephone gets out of order. The telephone people make no claim that it always Works and always Works right.^[Except in New York City.] Divination, with equal modesty, admits that "it often goes wrong; but it Works well enough, all things considered. The science is in its infancy. all we can do is our best. We no more pretend to infallibility than the mining expert who considers himself in luck if he hits the bulPs eye four times in ten.” 
 
+The error of all dogmatists (from the oldest prophet with his “literally-inspired word of God” to the newest German professor with his single-track explanation of the Universe) lies in trying to prove too much, in defending themselves against critics by stretching a propably excellent theory to include all the facts and the fables, until it bursts like the overblown bladder it is. 
 
-y te assurance that He is guiding one secretly towards Himself, 
+Divination is no more than a rough and ready practical method which we understand hardly at all, and operate only as empirics. Success for the best diviner alive is no more certain in any particular instance than a long putt by a champion golfer. Its calculations are infinitely more complex than Chess, a Chess played on an infinite board with men whose moves are indeterminate, and made still more difficult by the interference of imponderable forces and unformulated laws; while its conduct demands not only the virtues, themselves rare enough, of intellectual and moral integrity, but intuition combining delicacy with strength in such perfection and to such extremes as to make its existence appear monstrous and miraculous against Nature. 
 
-and ihat all one’s mistakes are necessary preparations for the 
+To admit this is not to discredit oracles. On the contrary, the oracles fell into disrepute just because they pretended to do more than they could. To divine concerning a matter is little more than to calculate probabilities. We obtain the use of minds who have access ro knowledge beyond ours, but not to omniscience. <span class="small-caps">Hru</span>, the great angel set over the Tarot, is beyond us as we are beyond the ant; but, for all we know, the knowledge of <span class="small-caps">Hru</span> is excelled by some mightier mind in the same proportion. Nor have we any warrant for accusing <span class="small-caps">Hru</span> of ignorance or error if we read the Tarot to our own delusion. He may have known, he may have spoken trulyj the fault may lie with our own insight.^[The question of the sense in which an answer is true arises. One not mix up the planes. Yet, as Mr. Russell shows, *Op Cit. p. 61*, the worlds which lie behind phenomena must possess the same structure as our own. "Every proposition having a communicable significance must lie in just that essence of individuality which, for that very reason, is irrelevant to science". Just so: but this is to confess the impotence of science to attain truth, and to admit the urgency of developing a mental instrument of superior capacity.]
 
-appointed hour of meeting Him. Each mistake is the combing-out 
+The <span class="small-caps">Master Therion</span> has observed on innumerable occasions that divinations, made by him and dismissed as giving untrue answers, have justified themselves months or years later when he was able to revise his judgment in perspective, untroubled by his personal passion. 
 
-oi some tangle in the hair of the bride as she is being coiffed for 
-marriage. 
-
-On the other hand, although the adept is in dally communica¬ 
-tion with his Angel, he ought to be careful to consult Him only 
-on questions proper to the dignity of the relation. One should not 
-consult one s Angel on too many details, or indeed on any matters 
-vvhich come within the office of one’s familiar spirits. One does 
-not to go the King about petty personal trifles. The romance 
-and rapture of the ineffable union which consentes 
-Adeptship must not be profaned by the introduction of 
-eommonplace cares. One must not appear with one’s hair in 
-curl-papers, or complain of the cook’s impertinence, if one wants to 
-make the most of the honeymoon. 1 
-
-To the Adept divination becomes therefore a secondary consid¬ 
-eration, although he can now employ it with absolute confidence, 
-and probably use it with far greater frequency than before his 
-attainment. Indeed, this is likely in proportion as he learns that 
-resort to divination (on every occasion when his Will does not 
-mstantly instruct him) with implicit obedience to its counsels 
-careless as to whether or no they may land him in disaster, is a means 
-admirably efficacious of keeping his mind untroubled by external 
-impressions, and therefore in the proper condition to receive the 
-reiterant strokes of rapture with which the love of his Angel 
-ravishes him. 
-
-We have now mapped out the boundaries of possibility and 
-propnety which define the physical and political geography of 
-divination. The student must guard himself constantly against 
-supposing that this art affords any absolute means of discovering 
-“truth”, or indeed, of using that Word as if it meant more than the 
-
-
-i. As the poet puts it; “Psyche, beware how thou disclose Thy tricks 
-of toilet to Eros, Or let him learn that those love-breathing Lyrical lins 
-that whisper, wreathing His brows with sense-bewitching gold, Are equally 
-
-expert to scold; 1 hat those caressing hands will maybe Yet box his ears 
-and slap the baby ! ” 
-
-
-
-relation of two ideas each of winch is itself as subject to change 
-
-without notice” as a musical programme. 
-
-Divination, in the nature of things, can do no more than put the 
-mind of the querent into conscious connection with another mind 
-whose knowledge of the subject at issue is to bis own as that of an 
-expert to a layman. The expert is not infallible. 1 he client may 
-put his question in a misleading manner, or even base it on a 
-completely erroneous conception of the facts. He may misunder- 
-stand the expert’s answer, and he may misinterpret its purport. 
-Apart from all this, excluding all error, both question and answer 
-are limited in validity by their own conditions 3 and these conditions 
-are such that truth may cease to be true, either as time goes on, or 
-if it be flawed by the defect of fallure to considei some circum- 
-stances whose concealed operation cancels the contract. 
-
-In a word, divination, like any other science, is justified of its 
-children. It would be extraordinary should so fertile a mother be 
-immune from still-births, monstrosities, and abomons. 
-
-We none of us dismiss our servant science with a kick and a 
-curse every time the telephone gets out of order. The téléphoné 
-people make no claim that it always Works and always Works right. 1 
-Divination, with equal modesty, admits that «it often goes wrong; 
-but it Works well enough, all thmgs considered. The science is in 
-its infancy. all we can do is our best. We no more pretend to 
-infallibility than the mining expert who considers himself in luck 
-if he hits the bulPs eye four times in ten.” 
-
-The error of all dogmatists (from the oldest prophet with his 
-“literally-inspired word of God” to the newest German professor 
-with his single-track explanation of the Universe) lies in trying to 
-prove too much, in defending themselves against critics by stretch- 
-ing a propably excellent theorv to mclude all the facts and th^ 
-fables, until it bursts like the overblown bladder it is. 
-
-Divination is no more than a rough and ready practical method 
-which we understand hardly at all, and operate only as empincs. 
-Success for the best diviner alive is no more certain m any particular 
-instance than a long putt by a champion golfer. Its calculations 
-
-
-1 . Exce.pt in New York City. 
-
-
-— 172 — 
-
-
-
-are infinitely more complex than Chess, a Chess played on an 
-infinite boarci with men whose moves are indeterminate, and made 
-still more difficult by the interference of imponderable forces and 
-unformulated laws; while its conduct demands not only the 
-virtues, themselves rare enough, of intellectual and moral 
-integrity, but intuition combining delicacy with strength in such 
-perfection and to such extremes as to make its existence appear 
-monstrous and miraculous against Nature. 
-
-To admit this is not to discredit oracles. On the contrary, the 
-oracles fell mto disrepute just because they pretended to do more 
-than they could. To divine concerning a matter is little more than 
-to calculate probabilities. We obtain the use of minds who have 
-access ro knowledge beyond ours, but not to omniscience. Hru ; the 
-greai angel set over the Tarot, is beyond us as we are beyond the 
-antj but, for all we know, the knowledge of Hru is excelled by 
-some mightier mind in the same proportion. Nor have we any 
-warrant for accusing Hru of ignorance or error if we read the 
-Taroi to our own delusion. He may have known, he may have 
-spoken trulyj the fault may lie with our own insight. 1 
-
-The Master Therion has observed on innumerable occasions 
-that divinations, made by him and dismissed as giving untrue 
-answers, have justified themselves months or years later when he 
-was able to revise his judgment in perspective, untroubled by his 
-Personal passion. 
-
-It is mdeed surprising how often the most careless divinations 
-give accurate answers. When things go wrong, it is almost always 
-possible to trace thæ error to one’s own self-willed and insolent 
-presumption in insisting that events shall accommodate themselves 
-to our egoism and vanity. It is comically unscientific to adduce 
-
-
-i. The question of the sense in which an answer is true arises. One 
-not mix up the planes. Yet, as Mr. Russell shows, Of Cit. f. 61, the 
-worlds which lie behind phenomena must possess the same structure as our 
-own. Every proposition having a communicable significance must lie 
-in just that essence of individuality which, for that very reason, is irrelevant 
-to science , Just so : but this is to confess the impotence of science to 
-
-attam truth, and to admit the urgency of developing a mental instrument 
-of supenor capacity. 
-
-
-— x 73 
-
-
-
-
-examples of the mistakes of the diviners as evicience tiiat their ait 
-is fatuous. Every one knows that the simplest Chemical experi- 
-ments often go wrong. Every one knows the eccentricities of 
-fountain pensj but nobody outside Evangelical circles makes fun 
-of the Cavendish experiment, or asserts that, if fountain pens 
-undoubtedly work now and then, their doing so is mer ely 
+It is indeed surprising how often the most careless divinations give accurate answers. When things go wrong, it is almost always possible to trace thæ error to one’s own self-willed and insolent presumption in insisting that events shall accommodate themselves to our egoism and vanity. It is comically unscientific to adduce examples of the mistakes of the diviners as evidence that their art is fatuous. Every one knows that the simplest Chemical experiments often go wrong. Every one knows the eccentricities of fountain pens; but nobody outside Evangelical circles makes fun of the Cavendish experiment, or asserts that, if fountain pens undoubtedly work now and then, their doing so is merely 
 coincidence. 
 
-The fact of the case is that the laws of nature are incomparably 
-more subtle than even science suspects. The phenomena of every 
-plane are intimately interwoven. The arguments of Aristotle 
-were dependent on the atmospheric pressure which prevented his 
-blood from boiling away. Tliere is notiiing in the universe 
-wliicli does not influence every otlier thing in one way or 
-another. There is no reason in Nature why the apparently 
-chance combinations of half-a-dozen sticks oï tortoise-shell should 
-not be so linked both with the human mind and with the entire 
-structure of the Universe that the observation of their fall should 
-not enable us to rneasure all things in heaven and earth. 
-
-With one piece of curved glass we have discovered uncounted 
-galaxies of suns; with another, endless orders of existence in the 
-infinitesimal. With the prism we have analysed light so that 
-matter and force have become intelligible only as forms of light. 
-With a rod we have summoned the invisible energies of electricity 
-to be our familiar spirit serving us to do our Will, whether it be 
-to outsoar the condor, or to dive deeper into the demon world of 
-disease than any of our dreamers dared to dream. 
-
-Since with four bits of common glass mankind has learnt to 
-know so much, achieved so much, who dare deny that the Book of 
-Thoth, the quintessentialized wisdom of our ancestors whose 
-civilizations, penshed though they be, have left monuments which 
-dwarf ours until we wonder whether we are degenerate from them, 
-or evolved from Simians, who dare deny that such a book may be 
-possessed of unimaginable powers? 
-
-It is not so long since the methods of modern science were scoffed 
-at by the whole cultured world. In the sacred halls themselves 
-the roofs rang loud with the scornful laughter of the high pnests 
-as each new postulant approached with his unorthodox offeiing. 
-
-
-174 — 
-
-
-
-There is hardly a scientific discovery in history which was not 
-decried as quackery by the very men whose own achievements were 
-scarce vet recognized by the world at large. 
-
-Within the memory of the present generation, the possibility of 
-aeroplanes was derisively denied by those very engineers accounted 
-most expert to give their opinions. 
-
-The method of divination, the ratio of it, is as obscure to-day as 
-was that of spectrum analysis a generation ago. That the Chemical 
-composition of the fixed stars should become known to man seemed 
-an insane imagining too ridiculous to discuss. To-day it seems 
-equally irrational to enquire of the desert sand concerning the fate 
-of empires. Yet surely it, if any one knows, should know! 
-
-To-day it may Sound impossible for inanimate objects to reveal 
-the inmost secrets of mankind and nature. We cannot say whv 
-divination is valid. We cannot trace the process by which it per- 
-forms its marvels. 1 But the same objections apply equally well 
-to the telephone. No man knows what electricity is, or the nature 
-of the forces which determine its action. We know only that by 
-doing certain things we get certain results, and that the least error 
-
-
-I. The main difference between a Science and an Art is that the 
-former admits mensuration. Its processes must be susceptible of the applica¬ 
-tion of quantitative standards. Its laws reject imponderable variables. 
-Science despises Art for its refusai to conform with calculable conditions. 
-But even to-day, in the boasted Age of Science, man is still dependent on 
-Art as to most matters of practical importance to him; the Arts of Govern¬ 
-ment, of War, of Literature, etc. are supremely influential, and Science 
-does little more than facilitate them by making their materials mechanically 
-docile. The utmost extension of Science can merely organize the household 
-of Art. Art thus progresses in perception and power by increased control 
-or automatic accuracy of its details. The Master Therion has made 
-an Epoch in the Art of Magick by applying the Method of Science to 
-its problems. His Work is a contribution of unique value, comparable 
-only to that of those men of genius who revolutionized the empirical guess- 
-work of “natural philosophers”. The Magicians of to-morrow will be 
-armed with mathematical theory, organized observation, and experimentally- 
-verified practice. But their Art will remain inscrutable as ever in essence; 
-talent will never supplant genius. Education is impotent to produce a poet 
-greater than Robert Burns; the perfection of laboratory apparatus prepare» 
-indeed the path of a Pasteur, but cannot make masters of mediocrities. 
-
-
-175 “ 
-
-
-
-on our part will bring our work to naught. The same is exactly 
-true of divination. The difference between the two sciences is no 
-more than this : that, more minds having been at work on the 
-former we have learnt to master its tricks with greater success than 
-in the case of the latter. 
-
-
+The fact of the case is that the laws of nature are incomparably more subtle than even science suspects. The phenomena of every plane are intimately interwoven. The arguments of Aristotle were dependent on the atmospheric pressure which prevented his blood from boiling away. **There is nothing in the universe which does not influence every other thing in one way or another**. There is no reason in Nature why the apparently chance combinations of half-a-dozen sticks of tortoise-shell should not be so linked both with the human mind and with the entire structure of the Universe that the observation of their fall should not enable us to rneasure all things in heaven and earth. 
 
-CHAPTER XIX 
-
+With one piece of curved glass we have discovered uncounted galaxies of suns; with another, endless orders of existence in the infinitesimal. With the prism we have analysed light so that matter and force have become intelligible only as forms of light. With a rod we have summoned the invisible energies of electricity to be our familiar spirit serving us to do our Will, whether it be to outsoar the condor, or to dive deeper into the demon world of disease than any of our dreamers dared to dream. 
 
-OF DRAMATIC RITUALS 
+Since with four bits of common glass mankind has learnt to know so much, achieved so much, who dare deny that the Book of Thoth, the quintessentialized wisdom of our ancestors whose civilizations, perished though they be, have left monuments which dwarf ours until we wonder whether we are degenerate from them, or evolved from Simians, who dare deny that such a book may be possessed of unimaginable powers? 
 
-The Wheel turns to those effectuai methods of invocation 
-employed in the ancient Mysteries and bv certain secret bodies of 
-initiates to-day. The object of them is almost invariably 1 the 
-invocation of a God, that God conceived in a more or less material 
-and personal fashion. These Rituals are therefore well suited 
-for such persons as are capable of understanding the spirit of 
-Magick as opposed to the letter. One of the great advantages 
-of them is that a large number of persons may take part, so that 
-there is consequently more force available; but it is important 
-that they should all be initiates of the same mysteries, bound by 
-the same oaths, and filled with the same aspirations. They should 
-be associated only for this one purpose. 
+It is not so long since the methods of modern science were scoffed at by the whole cultured world. In the sacred halls themselves the roofs rang loud with the scornful laughter of the high priests as each new postulant approached with his unorthodox offering. 
 
-Such a company being prepared, the story of the God should 
-be dramatised by a well-skilled poet accustomed to this form of 
-composition. Lengthy speeches and invocations should be avoided, 
-but action should be very full. Such ceremonies should be care- 
-fully rehearsed; but in rehearsals care should be taken to omit the 
-climax, which should be studied by the principal character in 
-private. The play should be so arranged that this climax depends 
-on him alone. By this means one prevents the ceremony from 
-becoming mechanical or hackneyed, and the element of surprise 
+There is hardly a scientific discovery in history which was not decried as quackery by the very men whose own achievements were scarce vet recognized by the world at large. 
 
+Within the memory of the present generation, the possibility of aeroplanes was derisively denied by those very engineers accounted most expert to give their opinions. 
 
-I. The Word is unwarrantably universal. It would not be impractic- 
-able to adopt this method to such operations as Talismanic Magick. For 
-example, one might consecrate and charge a Pantacle by the communication 
-by AIWAZ to the Scribe of the BOOK :of the LAW, the Magician repre- 
-senting the Angel, the Pantacle being the Book, and the person on whom 
-the Pantacle is intended to act taking the part of the Scribe. 
+The method of divination, the *ratio* of it, is as obscure to-day as was that of spectrum analysis a generation ago. That the Chemical composition of the fixed stars should become known to man seemed an insane imagining too ridiculous to discuss. To-day it seems equally irrational to enquire of the desert sand concerning the fate of empires. Yet surely it, if any one knows, should know! 
 
+To-day it may sound impossible for inanimate objects to reveal the inmost secrets of mankind and nature. We cannot say why divination is valid. We cannot trace the process by which it performs its marvels.^[The main difference between a Science and an Art is that the former admits mensuration. Its processes must be susceptible of the application of quantitative standards. Its laws reject imponderable variables. Science despises Art for its refusal to conform with calculable conditions. But even to-day, in the boasted Age of Science, man is still dependent on Art as to most matters of practical importance to him; the Arts of Government, of War, of Literature, etc. are supremely influential, and Science does little more than facilitate them by making their materials mechanically docile. The utmost extension of Science can merely organize the household of Art. Art thus progresses in perception and power by increased control or automatic accuracy of its details. The <span class="small-caps">Master Therion</span> has made an Epoch in the Art of Magick by applying the Method of Science to its problems. His Work is a contribution of unique value, comparable only to that of those men of genius who revolutionized the empirical guess-work of “natural philosophers”. The Magicians of to-morrow will be armed with mathematical theory, organized observation, and experimentally-verified practice. But their Art will remain inscrutable as ever in essence; talent will never supplant genius. Education is impotent to produce a poet greater than Robert Burns; the perfection of laboratory apparatus prepares indeed the path of a Pasteur, but cannot make masters of mediocrities.] But the same objections apply equally well to the telephone. No man knows what electricity is, or the nature of the forces which determine its action. We know only that by doing certain things we get certain results, and that the least error on our part will bring our work to naught. The same is exactly true of divination. The difference between the two sciences is no more than this: that, more minds having been at work on the former we have learnt to master its tricks with greater success than in the case of the latter. 
 
-i n — 
+### CHAPTER XIX 
 
+<div class="centered-small-caps">Of Dramatic Rituals</div>
 
+The Wheel turns to those effectuai methods of invocation employed in the ancient Mysteries and bv certain secret bodies of initiates to-day. The object of them is almost invariably^[The Word is unwarrantably universal. It would not be impracticable to adopt this method to such operations as Talismanic Magick. For example, one might consecrate and charge a Pantacle by the communication by AIWAZ to the Scribe of the BOOK :of the LAW, the Magician representing the Angel, the Pantacle being the Book, and the person on whom the Pantacle is intended to act taking the part of the Scribe.] the invocation of a God, that God conceived in a more or less material and personal fashion. These Rituals are therefore well suited for such persons as are capable of understanding the spirit of Magick as opposed to the letter. One of the great advantages of them is that a large number of persons may take part, so that there is consequently more force available; but it is important that they should all be initiates of the same mysteries, bound by the same oaths, and filled with the same aspirations. They should be associated only for this one purpose. 
 
-assists the lesser characters to get out of themselves at the supreme 
-moment. Following the climax there should always be an unre- 
-hearsed ceremony, an impromptu. The most satisfactory form of 
-this is the dance. In such ceremonies appropnate libations may be 
-freely used. 
+Such a company being prepared, the story of the God should be dramatised by a well-skilled poet accustomed to this form of composition. Lengthy speeches and invocations should be avoided, but action should be very full. Such ceremonies should be care- fully rehearsed; but in rehearsals care should be taken to omit the climax, which should be studied by the principal character in private. The play should be so arranged that this climax depends on him alone. By this means one prevents the ceremony from becoming mechanical or hackneyed, and the element of surprise assists the lesser characters to get out of themselves at the supreme moment. Following the climax there should always be an unrehearsed ceremony, an impromptu. The most satisfactory form of this is the dance. In such ceremonies appropnate libations may be freely used. 
 
-The Rite of Luna (Equinox I. VI) is a good example of this 
-use. . Here the climax is the music of the goddess, the assistants 
-remaining in silent ecstasy. 
+The Rite of Luna (Equinox I. VI) is a good example of this use. Here the climax is the music of the goddess, the assistants remaining in silent ecstasy. 
 
-In the rite of Jupiter the impromptu is the dance, in that of 
-Saturn long periods of silence. 
+In the rite of Jupiter the impromptu is the dance, in that of Saturn long periods of silence. 
 
-It will be noticed that in these Rites poetry and music were 
-large!y employed mostly published pieces by well-known 
-authois and composers. It would be better 1 to Write and compose 
-specially for the ceremony 2 . 
+It will be noticed that in these Rites poetry and music were large!y employed mostly published pieces by well-known authors and composers. It would be better^["PERHAPS! One can think of certain Awful Consequences”. “But, after all, they wouldn’t seem so to the authors! ” “But — pity the poor Gods!” “Bother the Gods! ”] to Write and compose specially for the ceremony.^[A body of skilled Magicians accustomed to work in concert may be competent to conduct impromptu Orgia. To cite an actual instance in recent times; the blood of a Christian being required for some purpose, a young cock was procured and baptized into the Roman Catholic Church by a man who, being the son of an ordained Priest, was magicaliy an incarnation of the Being of that Priest, and was therefore congenitally possessed of the powers thereto appurtenant. This cock, “Peter Paul,” was consequently a baptized Christian for all magical purposes. Order was then taken to imprison the bird; which done, the Magicians assuming respectively the characters of Herod, Herodias, Salome, and the Executioner, acted out the scene of the dance and the beheading, on the lines of Oscar Wilde’s drama, “Peter Paul” being cast for the part of John the Baptist. This ceremony was devised and done on the spur of the moment, and its spontaneity and simplicity were presumably potent factors in its success. On the point of theology, I doubt whether Dom Gorenflot sucessfully avoided eating meat in Lent by baptizing the pullet a carp. For as the sacrament — by its intention, despite its defects of form — could not fall of efficacy, the pullet must have become a Christian, and therefore a human being. Carp was therefore only its baptized name — cf. Polycarp — and Dom Gorenflot ate human flesh in Lent, so that, for all he became a bishop, he is damned.]
 
+### CHAPTER XX 
 
-(f ** PERHAPS ! One can think of certain Awful Consequences”. 
-“But, after all, they wouldn’t seem so to the authors! ” “But — pity the 
-poor Gods!” “Bother the Gods! ” 
+<div class="centered-small-caps">Of the Eucharist
 
-2. A bodv of skilled Magicians accustomed to work in concert may be 
-competent to conduct impromptu Orgia. To cite an actual instance in 
-recent times; the blood of a Christian being required for some purpose, 
-a young cock was procured and baptized into the Roman Catholic Church 
-by a man who, being the son of an ordained Priest, was magicaliy an 
-incarnation of the Being of that Priest, and was therefore congenitally 
-possessed of the powers thereto appurtenant. This cock, “Peter Paul,” 
-was consequently a baptized Christian for all magical purposes. Order 
-was then taken to imprison the bird; which done, the Magicians assuming 
-respectively the characters of Herod, Herodias, Salome, and the Execu- 
-•tioner, acted out the scene of the dance and the beheading, on the lines of 
-Oscar Wilde’s drama, “Peter Paul” being cast for the part of John 
-the Baptist. This ceremony was devised and done on the spur of the 
+And of the Art of Alchemy</div>
 
-moment, and its spontaneity and simplicity were presumably potent factors 
-in its success. 
+#### I 
 
-On the point of theology, I doubt whether Dom Gorenflot sucessfully 
-avoided eating meat in Lent by baptizing the pullet a carp. For as the 
-sacrament — by its intention, despite its defects of form — could not fall 
-of efficacy, the pullet must have become a Christian, and therefore a human 
-being. Carp was therefore only its baptized name — cf. Polycarp — and 
-Dom Gorenflot ate human flesh in Lent, so that, for all he became a 
-bishop, he is damned. 
+One of the simplest and most complete of Magick ceremonies is the Eucharist. 
 
+It consists in taking common things, transmuting them into things divine, and consuming them. 
 
-- 178 — 
+So far, it is a type of every magick ceremony, for the reabsorption of the force is a kind of consumption; but it has a more restricted application, as follows. 
 
+**Take a substance**^[This may be of a composite character.] **symbolic of the whole course of nature, make it God, and consume it.**
 
+There are many ways of doing this; but they may easily be classified according to the number of the elements of which the sacrament is composed. 
 
+**The highest form of the Eucharist is that in which the Element consecrated is One.**
 
+**It is one substance and not two, not living and not dead, neither liquid nor solid, neither bot nor cold, neither male nor female.**
 
-CHAPTER XX 
+This sacrament is secret in every respect. For those who may be worthy, although not officially recognized as such, this Eucharist has been described in detail and without concealment, somewhere in the published writings of the <span class="small-caps">Master Therion.</span> But He has told no one where. It is reserved for the highest initiates, and is synonymous with the Accomplished Work on the material plane. It is the Medicine of Metals, the Stone of the Wise, the Potable Gold, the Elixir of Life that is consumed therein. **The altar is the bosom of Isis, the eteraal mother; the chalice is in effect the Cup of our Lady Babalon Herself; the Wand is that which Was and Is and Is To Come.** 
+The Eucharist of two elements has its matter of the passives, The wafer (pantacle) is of corn, typical of earth; the wine (cup) represents water. (There are certain other attributions. The Wafer is the Sun, for instance : and the wine is appropriate to Bacchus). 
 
+The wafer may, however, be more complex, the “Cake of Light” described in Liber Legis. 
 
-OF THE EUCHARIST 
-AND OF THE ART OF ALCHEMY 
+This is used in the exoteric **Mass of the Phoenix** (Liber 333, Cap:44) mixed with the bloocl of the Magus. **This mass should be performed daily at sunset by every magician.**
+Corn and wine are equivalent to flesh and blood; but it is casier to convert live substances into the body and blood of God, than to perform this miracle upon dead matter. 
 
-I 
+The Eucharist of *three* elements has for basis the symbols of the three Gunas. For Tamas (darkness) take opium or nightshade or some sleepy medicine; for Rajas (activity) take strychnine or ocher excitant; for Sattvas (calm) the cakes of Light may again be 
+suitable.^[The Cakes of Light are universally applicable; they contain meal, honey, and oil (carbohydrates, fats, and proteids, the three necessaries of human nutrition) : also perfume of the three essential types of magical and curative virtue; the subtle principle of animal life itself is fixed in them by the introduction of fresh living blood.]
 
-One of the simplest and most complete of Magick ceremonies 
-is the Eucharist. 
+The Eucharist of *four* elements consists of fire, air, water, and earth. These are represented by a flame for fire, by incense or roses for air, by wine for water, and by bread and sart for earth. 
 
-It consists in taking common things, transmuting them into 
-things divine, and consuming them. 
+The Eucharist of *five* elements has for basis wine for taste, a rose for smell, a flame for sight, a bell for sound, and a dagger for touch. This sacrament is implied in the Mass of the Phoenix in a slightly different form. 
 
-So far, it is a type of every magick ceremony, for the reabsorption 
-of the force is a kind of consumption; but it has a more restricted 
-application, as follows. 
+The Eucharist of *six* elements has Father, Son, and Holy Spirit above; breath, water, and blood beneath. It is a sacrament reserved for high initiates.^[The Lance and the Graal are firstly dedicated to the Holy Spirit of Life, in Silence. The Bread and Wine are then fermented and manifested by vibration, and received by the Virgin Mother. The elements are then intermingled and consumed after the Epiphany of Iacchus, when “Countenance beholdeth Countenance”.]
 
-Take a substance 1 symbolic of the whole course of 
-nature, make it God, and consume it, 
+The Eucharist of *seven* elements is mystically identical with that of one. 
 
-There are many ways of doing this; but they may easily be clas- 
-sified according to the number of the elements of which the sacra- 
-ment is composed. 
+**Of the method of consecrating the elements it is only necessary to say that they should be treated as talismans.** The circle and other furniture of the Temple should receive the usual benefit of the banishings and consecrations. The Oath should be taken and the Invocations made. When the divine force mani- fests in the elements, they should be solemnly consumed. There is also a simpler method of consecration reserved for initiates of high rank, of which it is here unlawful to speak. 
 
-The highest form of the Eucharist is ihat in which the 
-Element consecrated is One» 
+According to the nature of the Sacrament, so will its results be. In some one may receive a mvstic gce, culminating in Samadhi; in others a simpler and more material benefit may be obtained. 
 
-It is one substance and not two, not living and not dead, 
-neither liquid nor solid, neither bot nor cold, neither male 
-nor female. 
+**The highest sacrament, that of One element, is universal in its operation; according to the declared purpose of the work so will the result be. It is a universal Key of all Magick.**
 
-This sacrament is secret in every respect. For those who may 
-be worthy, although not officially recognized as such, this 
-Eucharist has been described in detail and without concealment, 
-somewkere in the published writings of the Master Therion. 
-But He has told no one where. It is reserved for the highest 
-initiates, and is synonymous with the Accomplished Work on the 
+These secrets are of supreme practical importance, and are guarded in the Sanctuary with a two-edged sword flaming every way^[J. K. Huysmans, who was afraid of them, and tried to betray the little he knew of them, became a Papist, and died of cancer of the tongue.]; for this sacrament is the Tree of Life itself, and whoso partaketh of the fruit thereof shall never die.^[The use of the Elixir of Life is only justifiable in peculiar circumstances. To go counter to the course of natural Change is to approximate perilously to the error of the “Black Brothers”.]
 
+Unless he so will. Who would not rather work through incarnation; a real renewal of body and brain, than content himself with a stagnant immortality upon this mote in the Sunlight of the Universe which we call earth?
 
-i. This may be of a composite character. 
+With regard to the preparations for such Sacraments, the Catholic Church has maintained well enough the traditions of the true Gnostic Church in whose keeping the secrets are.^[Study, in the Roman Missal, the Canon of the Mass, and the chapter of “defects”.]
 
 
+**Chastity**^[The Word Chastity is used by initiates to signify a certain State of soul and of mind determinant of a certain habit of body which is nowise identical with what is commonly understood. Chastity in the true magical sense of the word is inconceivable to those who are not wholly emancipated from the obsession of sex.] **is a condition; fasting for some hours previous is a condition; an earnest and continual aspiration is a condition.** Without these antecedents even the Eucharist of the One and Seven is partially — though such is its intrinsic virtue that it can never be wholly — baulked of its effect. 
 
-material plane. It is the Medicine of Metals, the Stone of the 
-Wise, the Potable Gold, the Elixir of Life that is consumed 
-therein. The altar is the hosom of Isis, the eteraal motlier ; 
-the chalice is in effect the Cnp of our Lady Bah al on 
-lier self ; the Wand is that which Was and Is and Is To 
-come. 
+**A Eucharist of some sort should most assuredly be consummated daily by every magician, and he should regard if as the main sustenance of bis magical life.** It is of more importance than any other magical ceremony, because it is a complete circle. The whole of the force expended is completely re-absorbed; yet the virtue is that vast gain represented by the abyss between Man and God. 
 
-The Eucharist of two elements has its matter of the passives, 
-The wafer (pantacle) is of corn, typical of earth; the wine (cup) 
-represents water. (There are certain other attributions. The 
-Wafer is the Sun, for instance : and the wine is appropriate to 
-Bacchus). 
+**The magician becomes filled with God, fed upon God, intoxicaied with God. Little by little his body will become purified by the internal lustration of God; day by day his mortal frame, shedding its earthly elements, will become in very truth the Temple of tbe Holy Gliost. Day by day matter is replaced by Spirit, the human by the divine; ultimately the change will be complete; God manifest in flesh will be bis name.**
 
-The wafer may, however, be more complex, the “Cake of 
-Light” described in Liber Legis. 
-
-This is used in the exoteric Mass of the Phoenix (Liber 333, 
-Cap:44) mixed with the bloocl of the Magus. This mass should 
-be performed daiJy at snnset by every magician. 
-
-Corn and wine are equivalent to flesh and blood; but it is 
-casier to couvert live substances into the body and blood of God, 
-than to perform this miracle upon dead matter. 
-
-The Eucharist of three elements has for basis the symbols of the 
-three Gunas. For Tamas (darkness) take opium or nightshade or 
-some sleepy medicine ; for Rajas (activity) take strychnine or ocher 
-excitant; for Sattvas (calm) the cakes of Light may again be 
-suitable. 1 
-
-The Eucharist of jour elements consists of fire, air, water, and 
-earth. These are represented by a flame for fire, by incense or 
-roses for air, by wine for water, and by bread and sait for earth. 
-
-The Eucharist of five elements has for basis wine for taste, a 
-rose for smell, a flame for sight, a bell for sound, and a dagger for 
-touch. This sacrament is implied in the Mass of the Phoenix in 
-a slightly different form. 
-
-
-I. The Cakes of Light are universally applicable; they contain meal, 
-honey, and oil (carbohydrates, fats, and proteids, the three necessaries of 
-human nutrition) : also perfume of the three essential types of magical 
-and curative virtue; the subtle principle of animal life itself is hxed in them 
-by the introduction of fresh living blood. 
-
-
-
-
-The Eucharist of six elements has Father, Son, and Holy Spirit 
-above j breath, water, and blood beneath. It is a sacrament reserved 
-for high initiates. 1 2 
-
-The Eucharist of seven elements is mystically identical with 
-that of one. 
-
-Of the melhod of consecrating tlie elements it is only 
-necessary to say that they should be treated as talismans. 
-
-The circle and other furniture of the Temple should receive the 
-usual benefit of the banishings and consecrations. The Oath should 
-be taken and the Invocations made. When the divine force mani- 
-fests in the elements, they should be solemnly consumed. There 
-is also a simpler method of consecration reserved for initiates of 
-high rank, of which it is here unlawful to speak. 
-
-According to the nature of the Sacrament, so will its results be. 
-In some one may receive a mvstic gce, culminating in Samadhi ; in 
-others a simpler and more material benefit may be obtained. 
-
-The highest sacrament, that of One elemenf, is universal 
-in its operation; according to the declared purpose of the 
-work so will the result be. It is a universal Key of all 
-Magick. 
-
-These secrets are of supreme practical importance, and are 
-guarded in the Sanctuary with a two-edged sword flaming every 
-
-way 2 y for this sacrament is the Tree of Life itself, and 
-whoso partaketh of the fruit thereof shall never die 3 . 
-
-Unless he so will. Who would not rather work through incarna¬ 
-tion; a real renewal of body and brain, than content himself with 
-a stagnant immortality upon this mote in the Sunlight of the 
-Universe which we call earth ? 
-
-
-1. The Lance and the Graal are fïrstly dedicated to the Holy Spirit 
-of Life, in Silence. The Bread and Wine are then fermented and 
-manifested by vibration, and received by the Virgin Mother. The elements 
-are then intermingled and consumed after the Epiphany of Iacchus, when 
-“Countenance beholdeth Countenance”. 
-
-2. J. K. Huysmans, who was afraid of them, and tried to betray the 
-little he knew of them, became a Papist, and died of cancer of the tongue. 
-
-3. The use of the Elixir of Life is only justifiable in peculiar circum- 
-stances. To go counter to the course of natural Change is to approximate 
-perilously to the error of the “Black Brothers”. 
-
-
-— 1S1 
-
-
-
-With regard to the preparations for such Sacraments, the 
-Catholic Church has maintained well enough the traditions of the 
-true Gnostic Church in whose keeping the secrets are. 1 
-
-Chastity 2 is a condition; fastrng for sonie Iiours previons 
-is a condition; an carnest and continuai aspiration is a con¬ 
-dition, Without these antecedents even the Eucharist of the 
-One and Seven is partially — though such is its intrinsic virtue 
-that it can never be wholly — baulked of its effect. 
-
-A Eucharist of some sort sliould most assuredly be cou* 
-summated dally by every magician, and be sboitld regard 
-if as the main sustenance of bis magica! life, It is of more 
-importance than any other magical ceremony, because it is a 
-complete circle. The whole of the force expended is completely 
-re-absorbed 3 yet the virtue is that vast gain represented by the 
-abyss between Man and God. 
-
-The magician becomes fuled with God, fed upon God, 
-intoxicaied with God. Lit lie by little Ms hody will bec orne 
-pnrified by fbe internal lustration of God; day by day bis 
-mort ai frame, shedding its earihly elements, will become 
-in very truth the Temple of tbe Holy Gliost. Day by day 
-matter is repiaeed by Spirit, tbe bmnau by the divine ; 
-uliimately the change will be complete; God manifest in 
-flesh will be bis naine, 
-
-This is the most important of all magical secrets that ever were 
-or are or can be. To a Magician thus renewed the attainment of 
-the Knowledge and Conversation of the Holy Guardian Angel 
-becomes an inevitable task; every force of his nature, unhindered, 
-tends to that aim and goal of whose nature neither man nor god 
-may speak, for that it is infinitely beyond speech or thought or 
-
-
-1. Study, in the Roman Missal, the Canon of the Mass, and the chapter 
-of “defects”. 
-
-2. The Word Chastity is used by initiates to signify a certain State of 
-soul and of mind determinant of a certain habit of body which is nowise 
-identical with what is commonly understood. Chastity in the true magical 
-sense of the word is inconceivable to those who are not wholly emancipated 
-from the obsession of sex. 
-
-
-— 182 — 
-
-
-
-ecstasy or silence. Samadhi and Nibbana are but its shadows cast 
+This is the most important of all magical secrets that ever were or are or can be. To a Magician thus renewed the attainment of the Knowledge and Conversation of the Holy Guardian Angel becomes an inevitable task; every force of his nature, unhindered, tends to that aim and goal of whose nature neither man nor god may speak, for that it is infinitely beyond speech or thought or ecstasy or silence. Samadhi and Nibbana are but its shadows cast 
 upon the universe. 
 
-II 
-
-If the Master Therion effects by tliis book noihing 
-else but to demonstrate the continuily of nature and the 
-uniformity of Law 5 He will feel that Mis work bas not been 
-wasted. In his original design of Part III he did not contemplate 
-any allusion to alchemy. It has somehow been taken for granted 
-that this subject is entirely foreign to regular Magick, both in scope 
-and method. It will be the main object of the following descrip¬ 
-tion to establish it as essentially a branch of the subject, and to 
-show that it may be considered simply as a particular case of the 
-general proposition — differing from evocatory and talismanic 
-Magick only in the values which are represented by the unknown 
-quantities in the pantomorphous equations. 
-
-There is no need to make any systematized attempt to decipher 
-the jargon of Hermetic treatises. We need not enter upon an 
-historical discussion. Let it suffice to say that the Word alchemy is 
-an Arabie term consisting of the article “al” and the adjective 
-“khemi” which means “that which pertains to Egypt” h A rough 
-translation would be “The Egyptian matter”. The assumption is 
-that the Mohammedan grammarians held traditionally that the 
-art was derived from that wisdom of the Egyptians which was the 
-boast of Moses, Plato, and Pythagoras, and the source of their 
-illumination. 
-
-modern research (by profane scholars) leaves it still doubtful 
-as to whether Alchemical treatises should be classified as mystical, 
-magical, medical, or Chemical. The most reasonable opinion is that 
-all these objects formed the pre-occupation of the alchemists in 
-varying proportions. Hermes is alike the God of Wisdom, Thau- 
-maturgy, therapeutics, and physical science. all these may con- 
-sequently claim the title Hermetic. It cannot be doubted that 
-such writers as Fludd aspired to spiritual perfection. It is equally 
-sure that Edward Kelly wrote primarily from the point of view 
-
-
-i. This etymology differs from that given by Skeat; I can do no more 
-than present my submission. 
-
-
-
-
-
-
-of a Magician; that Paracelesus applied himself to the cure of 
-disease and the prolongation of life as the first consideration, ai- 
-though his greatest achievements seem to modern thinkers to have 
-been ratifier his discoveries of opium, zinc, and hydrogen; so that 
-we tend to think of him as a chemist no less than we do of Van 
-Helmont, whose conception of gas ranks him as one of those rare 
-geniuses who have increased human knowledge by a fundamentally 
-important idea. 
-
-The literature of Alchemy is immense. Practicaliy all of it is 
-wholly or partially unintelligible. Its treatises, from the a Asch 
-Metzareph” of the Hebrews to the “Chariot of Antimony” are 
-deliberately couched in hieratic riddles. Ecclesiastical persecution, 
-and the profanation of the secrets of power, were equally dreaded. 
-Worse still, from our point of view, this motive induced writers 
-to insert intentionally misleading statements, the more deeply to 
-bedevil unworthy pretenders to their mysteries. 
-
-We do not propose to discuss any of the actual processes. Most 
-readers will be already aware that the main objects of alchemy 
-were the Philosopheras Stone, the Medicine of Metals, and varions 
-tinctures and elixirs possessing divers virtues; in particular, those 
-of healing disease, extending the span of life, increasing human 
-abilities, perfecting the nature of man in every respect, conferring 
-magical powers, and transmuting material substances, especially 
-metals, into more valuable forms. 
-
-The subject is further complicated by the fact that many 
-authors were unscrupulous quacks. Ignorant of the first elements 
-of the art, they plagiarized without shame, and reaped a harvest 
-of fraudulent gain. They took advantage of the general ignorance, 
-and the convention of mystery, in just the same way as their 
-modern successors do in the matter of all Occult sciences. 
-
-But despite all.this, one thing is abundantly clear; all serious 
-writers, though they seem to speak of an infinity of different 
-subjects, so much so that it has proved impossible for modern 
-analytic research to ascertain the true nature of any single process, 
-were agreed on the fundamental theory on which they based their 
-practices. It appears at first sight as if hardly any two of them 
-were in accord as to the nature of the “First Matter of the Work”. 
-
-
-— 184 
-
-
-They describe this in a bewildering multiplicity of unintelligible 
-symbols. We have no reason to suppose that they were all talking 
-of the same thing, or otherwise. The same remarks apply to 
-every reagent and every process, no less than to the final product 
-or products. 
-
-Yet beneath this diversity, we may perceive an obscure identity. 
-They all begin with a substance in nature which is described as 
-existing almost everywhere, and as universally esteemed of no 
-value. The alchemist is in all cases to take this substance, and 
-subject it to a series of operations. By so doing, he obtains his 
-product, This product, however named or described, is always a 
-substance which represents the truth or perfection of the original 
-“First Matter”; and its qualities are invariably such as pertain to 
-a living being, not to an inanimate mass. In a Word, the alchemist 
-is to take a dead thing, impure, valueless, and powerless, 
-and transform it into a live thing, active, invaluable and 
-thaumaturgie. 
-
-The reader of this book will surely find in this a most striking 
-analogy with what we have already said of the processes of Magick. 
-What, by our definition, is initiation ? The First Matter is a man, 
-that is to say, a perishable parasite, bred of the earth’s crust, crawl- 
-ing irritably upon it for a span, and at last returning to the dirt 
-whence he sprang. The process of initiation consists in removing 
-his impurities, and finding in his true self an immortal intelligence 
-to whom matter is no more than the means of manifestation. The 
-initiate is eternally individual; he is ineffable, incorruptible, im¬ 
-mune from everything. He possesses infinite wisdom and infinite 
-power in himself. This equation is identical with that of a 
-talisman. The Magician takes an idea, purifies it, intensifies it 
-by invoking into it the inspiration of his soul. It is no longer a 
-scrawl scratched on a sheep-skin, but a w T ord of Truth, imperish- 
-able, mighty to prevail throughout the sphere of its purport. The 
-evocation of a spirit is precisely similar in essence. The exorcist 
-takes dead material substances of a nature sympathetic to the being 
-whom he intends to invoke. He banishes all impurities there- 
-fiom, prevents all interference therewith, and proceeds to give 
-life to the subtle substance thus prepared by instilling his soul. 
-
-- 185 — 
-
-
-
-Once again, there is nothing in this exclusively FnagicaP. Rem¬ 
-brandt Van Ryn used to take a number of ores and other crude 
-objects. From these he banished the impurities, and consecrated 
-them to his work, by the preparation of canvasses, brushes, and 
-colours. This done, he compelled them to take the stamp of his 
-soul ; from those dull, valueless creatures of earth he created a vital 
-and powerful being of truth and beauty. It would indeed be 
-surprising to anybody who lias come to a clear comprehension of 
-nature if there were any difference in the essence of these various 
-formulas. The laws of nature apply equally in every possible 
-circumstance. 
-
-We are now in a position to nnderstand wliat alcliemy 
-is. We might even go further and say that even if we liad 
-ne ver lieard of it, we know wliat it mu si be. 
-
-Let us emphasize the fact that the final product is in all cases a 
-living thing. It has been the great stumbling block to modern 
-research that the statements of alchemists cannot be explained away, 
-From the Chemical standpoint it has seemed not à 'priori impossible 
-that lead should be turned into gold. Our recent discovery of the 
-periodicity of the elements has made it seem likely, at least in 
-theory, that our apparently immutable elements should be modi¬ 
-fications of a single one. 1 Organic Chemistry, with its metatheses 
-and syntheses dependent on the conceptions of molecules as geomet- 
-rical structures has demonstrated a praxis which gives this theory 
-body; and the properties of Radium have driven the Old Guard 
-from the redoubt which flew the flag of the essential heterogeneity 
-of the elements. The doctrines of Evolution have brought the 
-alchemical and monistic theory of matter into line with our 
-conception of life ; the collapse of the wall between the animal and 
-vegetable kingdoms has shaken that which divided them from the 
-minerai. 
-
-But even though the advanced chemist might admit the possibi- 
-lity of transmuting lead into gold, he could not conceive of that 
-
-
-I. See R. K. Duncan, “The New Knowledge”, for a popularisation of 
-recent results. 
-
-Aleister Crowley held this doctrine in his teens at a period when it 
-was the grossest heresy. 
-
-
-186 
-
-
-
-
-gold as other than metallic, of the same order of nature as the lead 
-from which it had been made. That this gold should possess the 
-power of multiplying itself, or of acting as a ferment upon other 
-substances, seemed so absurd that he felt obliged to conclude that 
-the alchemists who claimed these properties for their Gold must, 
-after all, have been referring not to Chemistry, but to some spiritual 
-operations whose sanctity demanded some such symbolic veil as 
-the cryptographie use of the language of the laboratory. 
-
-The Master Therion is sanguine that his present reduction 
-of all cases of the art of Magick to a single formula will both 
-elucidate and vindicate Alchemy, while extending chemistry to 
-cover all classes of Change. 
-
-There is an obvious condition which limits our proposed 
-operations. This is that, as the formula of any Work eflfects the 
-extraction and visualization of the Truth from any “First Matter”, 
-the “Stone” or “Elixir” which results from our labours will be the 
-pure and perfect Individual originally inherent in the substance 
-chosen, and nothing else. The most skilful gardener cannot 
-produce lilies from the wild rose; his roses will always be roses, 
-however he have perfected the properties of his stock. 
-
-There is here no contradiction with our previous thesis of the 
-ultimate unity of all substance. It is true that Hobbs and Nobbs 
-are both modifications of the Pleroma. Both vanish in the Pleroma 
-when they attain Samadhi. But they are not interchangeable 
-to the extent that they are individual modifications ; the initiate 
-Hobbs is not the initiate Nobbs any more than Hobbs the 
-haberdasher is Nobbs of “the nall and sarspan business as he got his 
-money by”. Our skill in producing aniline dyes does not enable us 
-to dispense with the original aniline, and use sugar instead. Thus 
-the Alchemists said : “To make gold you must take gold”; their 
-art was to bring each substance to the perfection of its own proper 
-nature. 
-
-No doubt, part of this process involved the withdrawal of the 
-essence of the “First Matter” within the homogeneity of “Hyle”, 
-just as initiation insists on the annihilation of the individual in the 
-Impersonal Infinity of Existence to emerge once more as a less 
-confused and deformed Eidolon of the Truth of Himself. This 
-is the guarantee that he is uncontaminated by alien elements. The 
-
-
-187 — 
-
-
-“Elixir” must possess the activity of a “nascent” substance, just as 
-“nascent” hydrogen combines with arsenic (in “Marsh’s test”) 
-when the ordinary form of the gas is inert. Again, oxygen satisfied 
-by sodium or diluted by nitrogen will not attack combustible 
-materials with the vehemence proper to the pure gas. 
-
-We may summarize this thesis by saying that Àlcîiemy 
-includes as many possible operations as tliere are original 
-ideas inberent in nature. 
-
-Alchemy resembles evocation in its selection of appropriate 
-material bases for the manifestation of the Will5 but differs from 
-it in proceeding without personification, or the intervention of alien 
-planes. 1 It may be more closely compared with Initiation; for the 
-effective element of the Product is of the essence of its own nature, 
-and inherent therein; the Work similarly consists in isolating it 
-from its accretions. 
-
-Now just as the Aspirant, on the Threshold of Initiation, finds 
-himself assalled by the “complexes” which have corrupted him, 
-their externalization excruciating him, and his agonized reluctance 
-to their elimination plunging him into such ordeals that he seems 
-(both to himself and to others) to have turned from a noble and 
-upright man into an unutterable scoundrel ; so does the First 
-Matter blacken and putrefy as the Alchemist breaks up its coagu¬ 
-lations of impurity. 
-
-The student may work out for himself the varions analogies 
-involved, and discover the “Black Dragon”, the “Green Lion”, the 
-“Lunar Water”, the “Raven’s Head”, and so forth. The indi¬ 
-cations above given should suffice all who possess aptitude for 
-Alchemical Research. 
-
-Only one further reflection appears necessary; namely, that the 
-Eucharist, with which this chapter is properly preoccupied, must 
-be conceived as one case — as the critical case — of the Art of the 
-Alchemist. 
-
-The reader will have observed, perhaps with surprise, that The 
-Master Therion describes several types of Eucharist. The 
-reason is that given above; there is no substance incompetent to 
-
-
-I. Some alchemists may object to this statement. I prefer to express 
-no final opinion on the matter. 
-
-
-— 188 
-
-
-
-serve as an element in some Sacrament; also, each spiritual Gce 
-should possess its peculiar form of Mass, and therefore its own 
-“materia magica 77 . It is utterly unscientific to treat “God 77 as a 
-universal homogeneity, and use the same means to prolong life as 
-to bewitch cattle. One does not invoke “Electricity 77 indiscrimi- 
-nately to light one 7 s house and to propel one’s brougham; one 
-Works by measured application of one 7 s powers to intelligent 
-analytical comprehension of the conditions of each separate case. 
-
-There is a Eucharist for every Gce that we may need; we 
-must apprehend the essential characters in each case, select suitable 
-Elements, and devise proper processes. 
-
-To consider the classical problems of Alchemy: the Medicine of 
-Metals must be the quintessence of some substance that serves to 
-determine the structure (or rate of vibration) whose manifestation 
-is in characteristic metallic qualities. This need not be a Chemical 
-substance at all in the ordinary sense of the Word. 
-
-The Elixir of Life will similarly consist of a living organism 
-capable of growth, at the expense of its environment ; and of such 
-a nature that its “true Will 75 is to cause that environment to serve 
-it as its means of expression in the physical world of human life. 
-
-The Universal Medicine will be a menstruum of such subtlety 
-as to be able to penetrate all matter and transmute it in the sense 
-of its own tendency, while of such impartial purity as to accept 
-perfectly the impression of the Will of the Alchemist. This 
-substance, properly prepared, and properly charged, is able to 
-perform all things soever that are physically possible, within the 
-limits of the proportions of its momentum to the inertia of the 
-object to which it is applied. 
-
-It may be observed in conclusion that, in dealing with forms of 
-Matter-Motion so subtle as these, it is not enough to pass the Pons 
-Asinorum of intellectual knowledge. 
-
-The Master Therion has possessed the theory of these Powers 
-for many years; but Elis practice is still in progress towards 
-perfection. Even efficiency in the preparation is not all; there is 
-need to be judicious in the manipulation, and adroit in the admi¬ 
-nistration, of the product. Ele does not perform haphazard 
-miracles, but applies His science and skill in conformity with the 
-laws of nature. 
-
-
-CHAPTER XXI 
-
-
-OF BLACK MAGIC 
-
-OF THE MAIN TYPES OF THE OPERATIONS OF MAGICK ART 
-AND OF THE POWERS OF THE SPHINX 
-
-I 
-
-As was said at the opening of the second chapter, the Single 
-Supreme Ritual is the attainment of the Knowledge and Conver¬ 
-sation of the Holy Guardian Angel. It is the raisin g of the 
-complete man in a vertical straight line. 
-
-Any deviation from tliis line tends to become black 
-magic. Any otlier operation is black magic. 
-
-In the True Operation the Exaltation is equilibrated by an 
-expansion in the other three arms of the Cross. Hence the Angel 
-immediately gives the Adept power over the Four Great Princes 
-and their servitors. 1 
-
-If the magician needs to perform any other operation than this, 
-it is only lawful in so far as it is a necessary preliminary to That 
-One Work. 
-
-There are, however many shades of grey. It is not every 
-magician who is well armed with theory. Perhaps one such may 
-invoke Jupiter, with the wish to heal others of their physical ills. 
-This sort of thing is harmless, 2 or almost so. It is not evil in 
-
-
-1. See the Book of the Sacred Magic of Abramelin the Mage. 
-
-2. There is nevertheless the general objection to the diversion of 
-channels of Initiation to the Sea of Attainment, into ditches of irrigation 
-for the fields of material advantage. It is bad business to pay good coin 
-for perishable products; like marrying for money, or prostituting poetic 
-genius to political purposes. The converse course, though equally 
-
-
-— 190 
-
-
-
-itself. It anses from a defect of understanding. Until tlie 
-Great Work lias been performed, it is presumptuous for the 
-magician to pretend to understand the universe, and dictate 
-its policy. Only the Master of the Temple can say whether 
-
-any given act is a crime. “Slay that innocent child?” (I hear 
-the ignorant say) “What a horror!” “Ah!” replies the Knower, 
-with foresight of history, “but that child will become Nero. 
-Hasten to strangle him!” 
-
-lhere is a third, above these, who understands that Nero was 
-as necessary as Julius Caesar. 
-
-The Master of the Temple accordingly interferes not with the 
-scheme of things except just so far as he is doing the Work which 
-he is sent to do. Why should he struggle against imprisonment, 
-banishment, death? It is all part of the game in which he is a 
-pawn. “It was necessary for the Son of Man to suffer these things, 
-and to enter into His glory.” 
-
-The Master of the Temple is so far from the man in whom He 
-manifests that all these matters are of no importance to Him. It 
-may be of importance to His Work that man shall sit upon 
-a throne, or be hanged. In such a case He informs his Magus, 
-who exerts the power intrusted to Him, and it happens accord¬ 
-ingly. Yet all happens naturally, and of necessity, and to all 
-appearance without a Word from Him. 
-
-Nor will the mere Master of the Temple, as a rule, presume to 
-act upon the Universe, save as the servant of his own destiny. It 
-is only the Magus, He of the grade above, who has attained to 
-Chokhmah, Wisdom, and so dare act. He must dare act, although 
-ii like Him not. But He must assume the Curse of His grade, as 
-it is written in the Book of the Magus. * 1 
-
-There are, of course, entirely black forms of magic. To him 
-who has not given every drop of his blood for the cup of Babalon 
-
-objectionable as pollution of the purity of the planes, is at least respectable 
-for its nobility. The ascetic of the Thebaid or the Trappist Monastery is 
-infinitely worthier than the health-peddler and success-monger of Boston 
-or Los Angeles; for the one offers temporal trash to gain eternal wealth, 
-while the other values spiritual substance only as enabling him to get better 
-bodily conditions, and a hrmer grip on the dollars. 
-
-I. Equinox I, VII, 5-9. 
-
-
-
-all magic power is dangerous. There are even more debased and 
-evil forms, things in themselves black. Such is the use of spiritual 
-force to material ends. Christian Scientists, Mental Healers, 
-Professional Diviners, Psychics and the like, are all ipso facto Black 
-M agi ci ans. 
-
-Thev exchange gold for dross. They sell their higher powers 
-for gross and temporary benefit. 
-
-That the most crass ignorance of Magick is their principal 
-characteristic is no excuse, even if Nature accepted excuses, which 
-she does not. If you drink poison in mistake for wine, your 
-“mistake” will not save your life. 
-
-Below these in one sense, yet far above them in another, are 
-the Brothers of the Left Hand Path L These are they who 
-“shut themselves up”, who refuse their blood to the Cup, who 
-have trampled Love in the Race for self-aggrandisement. 
-
-As far as the grade of Exempt Adept, they are en the 
-same path as the White Brotherhood; for until that grade 
-is attained, the goal is not disclosed. Then only are the 
-goats, the lonely leaping mountain-masters, separated from the 
-gregarious huddling vallev-bound sheep. Then those who have 
-well learned the lessons of the Path are ready to be torn asunder, 
-to givc up their own life to the Babe of the Abyss which is — and 
-is not — they. 
-
-The others, proud in their purple, refuse. They make themselves 
-a false crown of the Horror of the Abyss ; they set the Dispersion 
-of Choronzon upon their brows; they clothe themselves in the 
-poisoned robes of Form; they shut themselves up; and when the 
-force that made them what they are is exhausted, their strong 
-towers fall, they become the Eaters of Dung in the Day of Be- 
-with-us, and their shreds, strewn in the Abyss, are lost. 
-
-Not so the Masters of the Temple, that sit as piles of dust in 
-the City of the Pyramids, awaiting the Great Flame that shall 
-consume that dust to ashes. For the blood that they have surren- 
-dered is treasured in the Cup of our Lady Babalon, a mighty 
-
-
-I. See Liber 418, and study it well, in this matter. Equinox I, V. Sup¬ 
-plement. 
-
-
-— 192 
-
-
-
-
-medicine to a wake the Eld of the All-Father, and redeem the 
-Virgin of the World from her virginity. 
-
-II 
-
-Before leaving the subject of Black Magic, one may touch 
-lightly on the question of Pacts with the Devil. 
-
-The Devil tloes not exist. It is a false name invenied by 
-tlie Black Brothers to imply a Unity in tlieir ignorant 
-muddle of dispersions» A devil who liad unity would be 
-a God L . 
-
-It was said by the Sorcerer of the Jura that in order to invoke 
-the Devil it is only necessary to cail him with y our whole 
-
-will. 
-
-This is an universal magical truth, and applies to every other 
-being as much as to the Devil. For the whole will of every man 
-is in reality the whole will of the Uni verse. 
-
-It is, however, always easy to call up the demons, for they are 
-always calling you; and you have only to step down to their level 
-
-
-i. “The Devil” is, historically, the God of any people that one 
-personally dislikes. This has led to so much confusion of thought that 
-The Beast 666 has preferred to let names stand as they are, and to 
-proclaim simply that Aiwaz — the solar-phallic-hermetic “Lucifer” is His 
-own Holy Guardian Angel, and “The Devil” Satan or Hadit of our 
-particular unit of the Starry Universe. This serpent, Satan, is not the 
-enemy of Man, but He who made Gods of our race, knowing Good and 
-Evil; He bade “Know Thyself!” and taught Initiation. He is “the Devil” 
-of the Book of Thoth, and His emblem is Baphomet, the Androgyne who 
-is the hieroglyph of arcane perfection. The number of His Atu is xv, which 
-is Yod He, the Monogram of the Eternal, the Father one with the Mother, 
-the Virgin Seed one with all-containing Space. He is therefore Life, and 
-Love. But moreover his letter is Ayin, the Eye; he is Light, and his 
-Zodiacal image is Capricornus, that leaping goat whose attribute is Liberty. 
-(Note that the “Jehovah” of the Hebrews is etymologically connected with 
-these. The classical example of such antinomy, one which has led to such 
-disastrous misunderstandings, is that between Nu and HAD,North and South, 
-Jesus and John. The subject is too abstruse and complicated to be discussed 
-in detail here. The student shouid consult the writings of Sir R. Payne 
-Knight, General Forlong, Gerald Massey, Fabre d’Olivet; etc. etc., for 
-the data on which these considerations are ultimately based.) 
-
-
-193 
-
-
-
-and fraternize with them. They will then tear you in pieces at 
-their leisure. Not at once 3 they will wait until you have wholly 
-broken the link between you and your Holy Guardian Angel before 
-they pounce, lest at the last moment you escape. 
-
-Antony of Padua and (in our own times) “Macgregor” Mathers 
-are examples of such victims. 
-
-Neverthless, every magician must firmly extend his empire to 
-the depth of hell. a My adepts stand upright, their heads above 
-the heavens, their feet below the hells.” 1 
-
-This is the reason why the magician who performs the Operation 
-of the “Sacred Magic of Abramelin the Mage”, immediately after 
-attaining to the Knowledge and Conversation of the Holy Guardian 
-Angel, must evoke the Four Great Princes of the Évil of the 
-World. 
-
-“Obedience and faith to Him that liveth and triumpheth, 
-that reigneth above yon in your palaces as the Balance of 
-Righteousness and Truth” is your duty to your Holy Guar¬ 
-dian Angel, and the duty of the demon world to you. 
-
-These powers of “evil” nature are wild beasts; they must be 
-tamed, trained to the saddle and the bridle; they will bear you 
-well. There is nothing useless in the Universe: do not wrap up 
-your Talent in a napkin, because it is only “dirty money”! 
-
-With regard to Pacts, they are rarely lawful. There should be 
-no bargain struck. Magick is not a trade, and no hucksters need 
-apply. Master everything, but give generouslv to your servants, 
-once they have unconditionally submitted. 
-
-There is also the question of alliances with various Powers. 
-These again are hardly ever allowable. 2 No Power which is not 
-
-
-1. Liber XC, verse 40. See The Equinox. 
-
-2. Notwithstanding, there exist certain bodies of spiritual beings, in 
-whose ranks are not only angelic forces, but elementals, and even daemons, 
-who have attained to such Right Understanding of the Universe that they 
-have banded themselves together with the object of becoming Microcosms, 
-and realize that their best means to this end is devotion to the service of the 
-true interests of Mankind. Societies of spiritual forces, organized on these 
-lines, dispose of enormous resources. The Magician who is himself sworn 
-to the service of humanity may count upon the heartiest help of these 
-Orders. Their sincerity may always be assured by putting them to the 
-
-
-194 — 
-
-
-
-a microcosm in itself — and even archangels reach rarely to this 
-centre of balance — is fit to treat on an equality with Man. The 
-proper study of mankind is God; with Him is his business; and 
-with Him alone. Some magicians have hired legions of spirits for 
-some special purpose; but it has always proved a serious mistake. 
-The whole idea of exchange is foreign to magick. The dignity of 
-the magician forbids compacts. “The Earth is the Lord’s and the 
-fulness thereof”. 
-
-III 
-
-The operations of Magick art are difficult to classify, as they 
-merge into each other, owing to the essential unity of their method 
-and result. We may mention : 
-
-1. Operations such as evocation, in which a live spirit is brought 
-from dead matter. 
-
-2. Consecrations of talismans in which a live spirit is bound 
-into “dead” matter and vivifies the same. 
-
-3. Works of divination, in which a live spirit is made to control 
-operations of the hand or brain of the Magician. Such works are 
-accordingly most dangerous, to be used only by advanced 
-magicians, and then with great care. 
-
-4. Works of fascination, such as operations of invisibility, and 
-transformations of the apparent form of the person or thing 
-concerned. This consists almost altogether in distracting the 
-attention, or disturbing the judgment, of the person whom it is 
-wished to deceive. There are, however, “real” transformations of 
-the adept himself which are very useful. See the Book of the 
-Dead for methods. The assumption of God-Forms can be carried 
-to the point of actual transformation. 
-
-5. Works of Love and Hate, which are also performed (as 
-
-
-test of the acceptance of the Law of Thelema. Whoso denies “Do what 
-thou wilt shall be the Whole of the Law” confesses that he still clings to 
-the conflict in his own nature; he is not, and does not want to be, true to 
-himself. A fortiori , he will prove false to you. 
-
-
-— 195 — 
-
-
-
-a rule) by a fascination. These Works are too easy 3 and rarely 
-useful. They have a nasty trick of recoiling on the magician. 
-
-6. Works of destruction, which may be done in many different 
-ways. One may fascinate and bend to one’s will a person who has 
-of his own right the power to destroy. One may employ spirits 
-or talismans. The more powerful magicians of the last few 
-centuries have employed books. 
-
-In private matters these Works are very easy, if they be neces- 
-sary. An adept known to The Master Therion once found it 
-necessary to slay a Circe who was bewitching brethren. He merely 
-walked to the door of her room, and drew an Astral T (“tradi- 
-tore”, and the symbol of Saturn) with an astral dagger. Within 
-48 h ours she shot herself. 1 
-
-7. Works of creation and dissolution, and the higher invoca¬ 
-tions. 
-
-There are also hundreds of other operations 3 2 to bring wanted 
-objects — gold, books, women and the like; to open locked doors, 
-to discover treasure; to swim under water3 to have armed nen at 
-command — etc., etc. all these are really matters of detail 3 the 
-Adeptus Major will easily understand how to perform them if 
-necessary. 3 
-
-
-1. As explained above, in another connexion, he who' “destroys” any 
-being must accept it, with all the responsibilities attached, as part of 
-himself. The Adept here in question was therefore obliged to incorporate 
-the elemental spirit of the girl — she was not human, the sheath of a Star, 
-but an advanced planetary daemon, whose rash ambition had captured a body 
-beyond its capacity -to conduct — in his own magical vehicie. He thereby 
-pledged himself to subordinate all the sudden accession of qualities — pas- 
-sionate, capricious, impulsive, irrational, selfish, short-sightedness, sensual, 
-fickle, crazy, and desperate, to his True Will; to discipline, co-ordinate, 
-and employ them in the Great Work, under the penalty of being torn 
-asunder by the wild horses which he had bound fast to his own body by the 
-act of “destroying” their independent consciousness and control of their 
-
-chosen vehicle. See His Magical Record An XX, Q in bb and 
-onward. 
-
-2. Examples of Rituals for several such purposes are given in the 
-Equinox. 
-
-3. Moral : become an Adeptus Major ! 
+#### II 
+
+**If the Master Therion effects by this book nothing else but to demonstrate the continuity of nature and the uniformity of Law, He will feel that His work has not been wasted.** In his original design of Part III he did not contemplate any allusion to alchemy. It has somehow been taken for granted that this subject is entirely foreign to regular Magick, both in scope and method. It will be the main object of the following description to establish it as essentially a branch of the subject, and to show that it may be considered simply as a particular case of the general proposition — differing from evocatory and talismanic Magick only in the values which are represented by the unknown quantities in the pantomorphous equations. 
+
+There is no need to make any systematized attempt to decipher the jargon of Hermetic treatises. We need not enter upon an historical discussion. Let it suffice to say that the Word alchemy is an Arabic term consisting of the article “al” and the adjective “khemi” which means “that which pertains to Egypt”.^[This etymology differs from that given by Skeat; I can do no more than present my submission.]
+
+A rough translation would be “The Egyptian matter”. The assumption is that the Mohammedan grammarians held traditionally that the art was derived from that wisdom of the Egyptians which was the boast of Moses, Plato, and Pythagoras, and the source of their illumination. 
+
+Modern research (by profane scholars) leaves it still doubtful as to whether Alchemical treatises should be classified as mystical, magical, medical, or Chemical. The most reasonable opinion is that all these objects formed the pre-occupation of the alchemists in varying proportions. Hermes is alike the God of Wisdom, Thaumaturgy, therapeutics, and physical science. all these may consequently claim the title Hermetic. It cannot be doubted that such writers as Fludd aspired to spiritual perfection. It is equally sure that Edward Kelly wrote primarily from the point of view of a Magician; that Paracelsus applied himself to the cure of disease and the prolongation of life as the first consideration, although his greatest achievements seem to modern thinkers to have been rather his discoveries of opium, zinc, and hydrogen; so that we tend to think of him as a chemist no less than we do of Van Helmont, whose conception of gas ranks him as one of those rare geniuses who have increased human knowledge by a fundamentally important idea. 
+
+The literature of Alchemy is immense. Practicaliy all of it is wholly or partially unintelligible. Its treatises, from the "Asch Metzareph” of the Hebrews to the “Chariot of Antimony” are deliberately couched in hieratic riddles. Ecclesiastical persecution, and the profanation of the secrets of power, were equally dreaded. Worse still, from our point of view, this motive induced writers to insert intentionally misleading statements, the more deeply to bedevil unworthy pretenders to their mysteries. 
+
+We do not propose to discuss any of the actual processes. Most readers will be already aware that the main objects of alchemy were the Philosopher's Stone, the Medicine of Metals, and varions tinctures and elixirs possessing divers virtues; in particular, those of healing disease, extending the span of life, increasing human abilities, perfecting the nature of man in every respect, conferring magical powers, and transmuting material substances, especially metals, into more valuable forms. 
+
+The subject is further complicated by the fact that many authors were unscrupulous quacks. Ignorant of the first elements of the art, they plagiarized without shame, and reaped a harvest of fraudulent gain. They took advantage of the general ignorance, and the convention of mystery, in just the same way as their modern successors do in the matter of all Occult sciences. 
+
+But despite all.this, one thing is abundantly clear; all serious writers, though they seem to speak of an infinity of different subjects, so much so that it has proved impossible for modern analytic research to ascertain the true nature of any single process, were agreed on the fundamental theory on which they based their practices. It appears at first sight as if hardly any two of them were in accord as to the nature of the “First Matter of the Work”. 
+
+They describe this in a bewildering multiplicity of unintelligible symbols. We have no reason to suppose that they were all talking of the same thing, or otherwise. The same remarks apply to every reagent and every process, no less than to the final product or products. 
+
+Yet beneath this diversity, we may perceive an obscure identity. They all begin with a substance in nature which is described as existing almost everywhere, and as universally esteemed of no value. The alchemist is in all cases to take this substance, and subject it to a series of operations. By so doing, he obtains his product, This product, however named or described, is always a substance which represents the truth or perfection of the original “First Matter”; and its qualities are invariably such as pertain to a living being, not to an inanimate mass. In a Word, **the alchemist is to take a dead thing, impure, valueless, and powerless, and transform it into a live thing, active, invaluable and thaumaturgic.**
+
+The reader of this book will surely find in this a most striking analogy with what we have already said of the processes of Magick. What, by our definition, is initiation? The First Matter is a man, that is to say, a perishable parasite, bred of the earth’s crust, crawling irritably upon it for a span, and at last returning to the dirt whence he sprang. The process of initiation consists in removing his impurities, and finding in his true self an immortal intelligence to whom matter is no more than the means of manifestation. The initiate is eternally individual; he is ineffable, incorruptible, immune from everything. He possesses infinite wisdom and infinite power in himself. This equation is identical with that of a talisman. The Magician takes an idea, purifies it, intensifies it by invoking into it the inspiration of his soul. It is no longer a scrawl scratched on a sheep-skin, but a w T ord of Truth, imperishable, mighty to prevail throughout the sphere of its purport. The evocation of a spirit is precisely similar in essence. The exorcist takes dead material substances of a nature sympathetic to the being whom he intends to invoke. He banishes all impurities therefrom, prevents all interference therewith, and proceeds to give life to the subtle substance thus prepared by instilling his soul. 
+
+Once again, there is nothing in this exclusively 'magical'. Rembrandt Van Ryn used to take a number of ores and other crude objects. From these he banished the impurities, and consecrated them to his work, by the preparation of canvasses, brushes, and colours. This done, he compelled them to take the stamp of his soul; from those dull, valueless creatures of earth he created a vital and powerful being of truth and beauty. It would indeed be surprising to anybody who lias come to a clear comprehension of nature if there were any difference in the essence of these various formulas. The laws of nature apply equally in every possible circumstance. 
+
+**We are now in a position to understand what alchemy is. We might even go further and say that even if we had never heard of it, we know what it must be.**
+
+Let us emphasize the fact that the final product is in all cases a living thing. It has been the great stumbling block to modern research that the statements of alchemists cannot be explained away. From the Chemical standpoint it has seemed not *a priori* impossible that lead should be turned into gold. Our recent discovery of the periodicity of the elements has made it seem likely, at least in theory, that our apparently immutable elements should be modifications of a single one.^[See R. K. Duncan, “The New Knowledge”, for a popularisation of recent results. Aleister Crowley held this doctrine in his teens at a period when it was the grossest heresy.]
+
+Organic Chemistry, with its metatheses and syntheses dependent on the conceptions of molecules as geometrical structures has demonstrated a praxis which gives this theory body; and the properties of Radium have driven the Old Guard from the redoubt which flew the flag of the essential heterogeneity of the elements. The doctrines of Evolution have brought the alchemical and monistic theory of matter into line with our conception of life ; the collapse of the wall between the animal and vegetable kingdoms has shaken that which divided them from the mineral. 
+
+But even though the advanced chemist might admit the possibility of transmuting lead into gold, he could not conceive of that gold as other than metallic, of the same order of nature as the lead from which it had been made. That this gold should possess the power of multiplying itself, or of acting as a ferment upon other substances, seemed so absurd that he felt obliged to conclude that the alchemists who claimed these properties for their Gold must, after all, have been referring not to Chemistry, but to some spiritual operations whose sanctity demanded some such symbolic veil as the cryptographie use of the language of the laboratory. 
+
+The <span class="small-caps">Master Therion</span> is sanguine that his present reduction of all cases of the art of Magick to a single formula will both elucidate and vindicate Alchemy, while extending chemistry to cover all classes of Change. 
+
+There is an obvious condition which limits our proposed operations. This is that, as the formula of any Work effects the extraction and visualization of the Truth from any “First Matter”, the “Stone” or “Elixir” which results from our labours will be the pure and perfect Individual originally inherent in the substance chosen, and nothing else. The most skilful gardener cannot produce lilies from the wild rose; his roses will always be roses, however he have perfected the properties of his stock. 
+
+There is here no contradiction with our previous thesis of the ultimate unity of all substance. It is true that Hobbs and Nobbs are both modifications of the Pleroma. Both vanish in the Pleroma when they attain Samadhi. But they are not interchangeable to the extent that they are individual modifications; the initiate Hobbs is not the initiate Nobbs any more than Hobbs the haberdasher is Nobbs of “the nail and sarspan business as he got his money by”. Our skill in producing aniline dyes does not enable us to dispense with the original aniline, and use sugar instead. Thus the Alchemists said: “To make gold you must take gold”; their art was to bring each substance to the perfection of its own proper nature. 
+
+No doubt, part of this process involved the withdrawal of the essence of the “First Matter” within the homogeneity of “Hyle”, just as initiation insists on the annihilation of the individual in the Impersonal Infinity of Existence to emerge once more as a less confused and deformed Eidolon of the Truth of Himself. This is the guarantee that he is uncontaminated by alien elements. The “Elixir” must possess the activity of a “nascent” substance, just as “nascent” hydrogen combines with arsenic (in “Marsh’s test”) when the ordinary form of the gas is inert. Again, oxygen satisfied by sodium or diluted by nitrogen will not attack combustible materials with the vehemence proper to the pure gas. 
+
+We may summarize this thesis by saying that **Alchemy includes as many possible operations as there are original ideas inherent in nature.**
+
+Alchemy resembles evocation in its selection of appropriate material bases for the manifestation of the Will; but differs from it in proceeding without personification, or the intervention of alien planes.^[Some alchemists may object to this statement. I prefer to express no final opinion on the matter.]
+
+It may be more closely compared with Initiation; for the effective element of the Product is of the essence of its own nature, and inherent therein; the Work similarly consists in isolating it from its accretions. 
+
+Now just as the Aspirant, on the Threshold of Initiation, finds himself assailed by the “complexes” which have corrupted him, their externalization excruciating him, and his agonized reluctance to their elimination plunging him into such ordeals that he seems (both to himself and to others) to have turned from a noble and upright man into an unutterable scoundrel; so does the *First Matter* blacken and putrefy as the Alchemist breaks up its coagulations of impurity. 
+
+The student may work out for himself the varions analogies involved, and discover the “Black Dragon”, the “Green Lion”, the “Lunar Water”, the “Raven’s Head”, and so forth. The indications above given should suffice all who possess aptitude for Alchemical Research. 
+
+Only one further reflection appears necessary; namely, that the Eucharist, with which this chapter is properly preoccupied, must be conceived as one case — as the critical case — of the Art of the Alchemist. 
+
+The reader will have observed, perhaps with surprise, that The <span class="small-caps">Master Therion</span> describes several types of Eucharist. The reason is that given above; there is no substance incompetent to serve as an element in some Sacrament; also, each spiritual Grace should possess its peculiar form of Mass, and therefore its own “materia magica". It is utterly unscientific to treat “God" as a universal homogeneity, and use the same means to prolong life as to bewitch cattle. One does not invoke “Electricity" indiscriminately to light one's house and to propel one’s brougham; one Works by measured application of one 7 s powers to intelligent analytical comprehension of the conditions of each separate case. 
+
+There is a Eucharist for every Grace that we may need; we must apprehend the essential characters in each case, select suitable Elements, and devise proper processes. 
+
+To consider the classical problems of Alchemy: the Medicine of Metals must be the quintessence of some substance that serves to determine the structure (or rate of vibration) whose manifestation is in characteristic metallic qualities. This need not be a Chemical substance at all in the ordinary sense of the Word. 
+
+The Elixir of Life will similarly consist of a living organism capable of growth, at the expense of its environment ; and of such a nature that its “true Will" is to cause that environment to serve it as its means of expression in the physical world of human life. 
+
+The Universal Medicine will be a menstruum of such subtlety as to be able to penetrate all matter and transmute it in the sense of its own tendency, while of such impartial purity as to accept perfectly the impression of the Will of the Alchemist. This substance, properly prepared, and properly charged, is able to perform all things soever that are physically possible, within the limits of the proportions of its momentum to the inertia of the object to which it is applied. 
+
+It may be observed in conclusion that, in dealing with forms of Matter-Motion so subtle as these, it is not enough to pass the Pons Asinorum of intellectual knowledge. 
+
+The <span class="small-caps">Master Therion</span> has possessed the theory of these Powers for many years; but His practice is still in progress towards perfection. Even efficiency in the preparation is not all; there is need to be judicious in the manipulation, and adroit in the administration, of the product. He does not perform haphazard miracles, but applies His science and skill in conformity with the laws of nature. 
+
+
+### CHAPTER XXI 
+
+<div class="centered-small-caps">Of Black Magick
+
+Of the main Types of the Operations of Magick Art
+
+And of the Powers of the Sphinx</div>
+
+#### I 
+
+As was said at the opening of the second chapter, the Single Supreme Ritual is the attainment of the Knowledge and Conversation of the Holy Guardian Angel. *It is the raising of the complete man in a vertical straight line.*
+
+**Any deviation from this line tends to become black magic. Any otlier operation is black magic.**
+
+In the True Operation the Exaltation is equilibrated by an expansion in the other three arms of the Cross. Hence the Angel immediately gives the Adept power over the Four Great Princes and their servitors.^[See the Book of the Sacred Magic of Abramelin the Mage.]
+
+
+
+If the magician needs to perform any other operation than this, it is only lawful in so far as it is a necessary preliminary to That One Work. 
+
+There are, however many shades of grey. It is not every magician who is well armed with theory. Perhaps one such may invoke Jupiter, with the wish to heal others of their physical ills. This sort of thing is harmless^[There is nevertheless the general objection to the diversion of channels of Initiation to the Sea of Attainment, into ditches of irrigation for the fields of material advantage. It is bad business to pay good coin for perishable products; like marrying for money, or prostituting poetic genius to political purposes. The converse course, though equally objectionable as pollution of the purity of the planes, is at least respectable for its nobility. The ascetic of the Thebaid or the Trappist Monastery is infinitely worthier than the health-peddler and success-monger of Boston or Los Angeles; for the one offers temporal trash to gain eternal wealth, while the other values spiritual substance only as enabling him to get better bodily conditions, and a hrmer grip on the dollars.], or almost so. It is not evil in itself. It arises from a defect of understanding. **Until the Great Work has been performed, it is presumptuous for the magician to pretend to understand the universe, and dictate its policy. Only the Master of the Temple can say whether any given act is a crime.** “Slay that innocent child?” (I hear the ignorant say) “What a horror!” “Ah!” replies the Knower, with foresight of history, “but that child will become Nero. Hasten to strangle him!” 
+
+There is a third, above these, who understands that Nero was as necessary as Julius Caesar. 
+
+The Master of the Temple accordingly interferes not with the scheme of things except just so far as he is doing the Work which he is sent to do. Why should he struggle against imprisonment, banishment, death? It is all part of the game in which he is a pawn. “It was necessary for the Son of Man to suffer these things, and to enter into His glory.” 
+
+The Master of the Temple is so far from the man in whom He manifests that all these matters are of no importance to Him. It may be of importance to His Work that man shall sit upon a throne, or be hanged. In such a case He informs his Magus, who exerts the power intrusted to Him, and it happens accordingly. Yet all happens naturally, and of necessity, and to all appearance without a Word from Him. 
+
+Nor will the mere Master of the Temple, as a rule, presume to act upon the Universe, save as the servant of his own destiny. It is only the Magus, He of the grade above, who has attained to Chokhmah, Wisdom, and so dare act. He must dare act, although it like Him not. But He must assume the Curse of His grade, as it is written in the Book of the Magus.^[Equinox I, VII, 5-9.]
+
+There are, of course, entirely black forms of magic. To him who has not given every drop of his blood for the cup of <span class="small-caps">Babalon</span> all magic power is dangerous. There are even more debased and evil forms, things in themselves black. Such is the use of spiritual force to material ends. Christian Scientists, Mental Healers, Professional Diviners, Psychics and the like, are all *ipso facto* Black Magicians. 
+
+They exchange gold for dross. They sell their higher powers for gross and temporary benefit. 
+
+That the most crass ignorance of Magick is their principal characteristic is no excuse, even if Nature accepted excuses, which she does not. If you drink poison in mistake for wine, your “mistake” will not save your life. 
+
+Below these in one sense, yet far above them in another, **are the Brothers of the Left Hand Path**^[See Liber 418, and study it well, in this matter. Equinox I, V. Supplement.]
+These are they who “shut themselves up”, who refuse their blood to the Cup, who have trampled Love in the Race for self-aggrandisement. 
+
+**As far as the grade of Exempt Adept, they are on the same path as the White Brotherhood; for until that grade is attained, the goal is not disclosed.** Then only are the goats, the lonely leaping mountain-masters, separated from the gregarious huddling vallev-bound sheep. Then those who have well learned the lessons of the Path are ready to be torn asunder, to give up their own life to the Babe of the Abyss which is — and is not — they. 
+
+The others, proud in their purple, refuse. They make themselves a false crown of the Horror of the Abyss ; they set the Dispersion of Choronzon upon their brows; they clothe themselves in the poisoned robes of Form; they shut themselves up; and when the force that made them what they are is exhausted, their strong towers fall, they become the Eaters of Dung in the Day of Be-with-us, and their shreds, strewn in the Abyss, are lost. 
+
+Not so the Masters of the Temple, that sit as piles of dust in the City of the Pyramids, awarting the Great Flame that shall consume that dust to ashes. For the blood that they have surren- dered is treasured in the Cup of <span class="small-caps">Our Lady Babalon</span>, a mighty medicine to a wake the Eld of the All-Father, and redeem the Virgin of the World from her virginity. 
+
+#### II 
+
+Before leaving the subject of Black Magic, one may touch lightly on the question of Pacts with the Devil. 
+
+**The Devil does not exist. It is a false name invenied by the Black Brothers to imply a Unity in their ignorant muddle of dispersions. A devil who had unity would be 
+a God.**^[“The Devil” is, historically, the God of any people that one personally dislikes. This has led to so much confusion of thought that The Beast 666 has preferred to let names stand as they are, and to proclaim simply that Aiwaz — the solar-phallic-hermetic “Lucifer” is His own Holy Guardian Angel, and “The Devil” Satan or Hadit of our particular unit of the Starry Universe. This serpent, Satan, is not the enemy of Man, but He who made Gods of our race, knowing Good and Evil; He bade “Know Thyself!” and taught Initiation. He is “the Devil” of the Book of Thoth, and His emblem is Baphomet, the Androgyne who is the hieroglyph of arcane perfection. The number of His Atu is xv, which is Yod He, the Monogram of the Eternal, the Father one with the Mother, the Virgin Seed one with all-containing Space. He is therefore Life, and Love. But moreover his letter is Ayin, the Eye; he is Light, and his Zodiacal image is Capricornus, that leaping goat whose attribute is Liberty. (Note that the “Jehovah” of the Hebrews is etymologically connected with these. The classical example of such antinomy, one which has led to such disastrous misunderstandings, is that between Nu and HAD,North and South, Jesus and John. The subject is too abstruse and complicated to be discussed in detail here. The student should consult the writings of Sir R. Payne Knight, General Forlong, Gerald Massey, Fabre d’Olivet; etc. etc., for the data on which these considerations are ultimately based.)]
+
+It was said by the Sorcerer of the Jura that **in order to invoke the Devil it is only necessary to call him with your whole will.**
+
+This is an universal magical truth, and applies to every other being as much as to the Devil. For the whole will of every man is in reality the whole will of the Universe. 
+
+It is, however, always easy to call up the demons, for they are always calling you; and you have only to step down to their level and fraternize with them. They will then tear you in pieces at their leisure. Not at once; they will wait until you have wholly broken the link between you and your Holy Guardian Angel before they pounce, lest at the last moment you escape. 
+
+Antony of Padua and (in our own times) “Macgregor” Mathers are examples of such victims. 
+
+Neverthless, every magician must firmly extend his empire to the depth of hell. a My adepts stand upright, their heads above the heavens, their feet below the hells.”^[Liber XC, verse 40. See The Equinox.]
+
+This is the reason why the magician who performs the Operation of the “Sacred Magic of Abramelin the Mage”, immediately after attaining to the Knowledge and Conversation of the Holy Guardian Angel, must evoke the Four Great Princes of the Evil of the World. 
+
+**“Obedience and farth to Him that liveth and triumpheth, that reigneth above you in your palaces as the Balance of Righteousness and Truth” is your duty to your Holy Guardian Angel, and the duty of the demon world to you.**
+
+These powers of “evil” nature are wild beasts; they must be tamed, trained to the saddle and the bridle; they will bear you well. There is nothing useless in the Universe: do not wrap up your Talent in a napkin, because it is only “dirty money”! 
+
+With regard to Pacts, they are rarely lawful. There should be no bargain struck. Magick is not a trade, and no hucksters need apply. Master everything, but give generously to your servants, once they have unconditionally submitted. 
+
+There is also the question of alliances with various Powers. These again are hardly ever allowable.^[Notwithstanding, there exist certain bodies of spiritual beings, in whose ranks are not only angelic forces, but elementals, and even daemons, who have attained to such Right Understanding of the Universe that they have banded themselves together with the object of becoming Microcosms, and realize that their best means to this end is devotion to the service of the true interests of Mankind. Societies of spiritual forces, organized on these lines, dispose of enormous resources. The Magician who is himself sworn to the service of humanity may count upon the heartiest help of these Orders. Their sincerity may always be assured by putting them to the test of the acceptance of the Law of Thelema. Whoso denies “Do what thou wilt shall be the Whole of the Law” confesses that he still clings to the conflict in his own nature; he is not, and does not want to be, true to himself. *A fortiori*, he will prove false to you.]
+
+No Power which is not a microcosm in itself — and even archangels reach rarely to this centre of balance — is fit to treat on an equality with Man. The proper study of mankind is God; with Him is his business; and with Him alone. Some magicians have hired legions of spirits for some special purpose; but it has always proved a serious mistake. The whole idea of exchange is foreign to magick. The dignity of the magician forbids compacts. “The Earth is the Lord’s and the fulness thereof”. 
+
+#### III 
+
+The operations of Magick art are difficult to classify, as they merge into each other, owing to the essential unity of their method and result. We may mention:
+
+1. Operations such as evocation, in which a live spirit is brought from dead matter. 
+
+2. Consecrations of talismans in which a live spirit is bound into “dead” matter and vivifies the same. 
+
+3. Works of divination, in which a live spirit is made to control operations of the hand or brain of the Magician. Such works are accordingly most dangerous, to be used only by advanced magicians, and then with great care. 
+
+4. Works of fascination, such as operations of invisibility, and transformations of the apparent form of the person or thing concerned. This consists almost altogether in distracting the attention, or disturbing the judgment, of the person whom it is wished to deceive. There are, however, “real” transformations of the adept himself which are very useful. See the Book of the Dead for methods. The assumption of God-Forms can be carried to the point of actual transformation. 
+
+5. Works of Love and Hate, which are also performed (as a rule) by a fascination. These Works are too easy; and rarely useful. They have a nasty trick of recoiling on the magician. 
+
+6. Works of destruction, which may be done in many different ways. One may fascinate and bend to one’s will a person who has of his own right the power to destroy. One may employ spirits or talismans. The more powerful magicians of the last few centuries have employed books. 
+
+In private matters these Works are very easy, if they be necessary. An adept known to The <span class="small-caps">Master Therion</span> once found it necessary to slay a Circe who was bewitching brethren. He merely walked to the door of her room, and drew an Astral T (“tradi- tore”, and the symbol of Saturn) with an astral dagger. Within 48h ours she shot herself.^[As explained above, in another connexion, he who' “destroys” any being must accept it, with all the responsibilities attached, as part of himself. The Adept here in question was therefore obliged to incorporate the elemental spirit of the girl — she was not human, the sheath of a Star, but an advanced planetary daemon, whose rash ambition had captured a body beyond its capacity -to conduct — in his own magical vehicie. He thereby pledged himself to subordinate all the sudden accession of qualities — pas- sionate, capricious, impulsive, irrational, selfish, short-sightedness, sensual, fickle, crazy, and desperate, to his True Will; to discipline, co-ordinate, and employ them in the Great Work, under the penalty of being torn asunder by the wild horses which he had bound fast to his own body by the act of “destroying” their independent consciousness and control of their chosen vehicle. See His Magical Record An XX, Sol in Libra and onward.]
+
+7. Works of creation and dissolution, and the higher invocations. 
+
+There are also hundreds of other operations^[Examples of Rituals for several such purposes are given in the Equinox.] to bring wanted objects — gold, books, women and the like; to open locked doors, to discover treasure; to swim under water3 to have armed nen at command — etc., etc. all these are really matters of detail; the Adeptus Major will easily understand how to perform them if necessary.^[Moral: become an Adeptus Major!]
 
 
 — 196 — 
@@ -5877,7 +2556,7 @@ iscipline as the brain in the case of mysticism. The essence of the
 echnique of Magick is the development of the body of Light 
 
 which must be extended to include all members of the organism,’ 
-and mdeed of the cosmos. 
+and indeed of the cosmos. 
 
 The most important drill practices are : 
 
@@ -6425,7 +3104,7 @@ attainment of Gotama Buddha.
 The Rosicrucians, by Hargrave Jennings. Valuable to those 
 who can read between the lines. 
 
-The Real History of the Rosicrucians, by A. E. Waite. A 
+The Real History of the Rosicrucians, by A. E. Warte. A 
 
 good vulgar piece of journalism on the subject. 
 
@@ -7378,7 +4057,7 @@ Thy G ods proved puppets of the priest.
 In bondaae with thy brother beast, 
 
 Love tortured thee, as Love’s hope died 
-And Love’s faith rotted. Life no least 
+And Love’s farth rotted. Life no least 
 Dim star descried. 
 
 Thy cringing carrion cowered and crawled 
@@ -7854,7 +4533,7 @@ Three Tasks; the acquisition of absolute Self-Reliance, working in
 complete isolation, yet transmitting the word of his superior 
 clearly, forcibly and subtlv; and the comprehension and use of the 
 Revolution of the wheel of force, under its three successive forms 
-of Radiation, Conduction and Convection (Mercury, Sulphur, Sait ; 
+of Radiation, Conduction and Convection (Mercury, Sulphur, Sart ; 
 or Sattvas, Rajas, Tamas), with their corresponding natures on 
 
 
@@ -8104,7 +4783,7 @@ a brilliant Exorcist might be an incompetent Diviner. In such a case the
 A A would refuse to swerve from Its system; the Aspirant wouid be 
 compelled to remain at the Barrier until he succeeded in breaking it down, 
 though a new incarnation were necessary to permit him to do so. But no 
-technical fallure of any kind soever could necessarily prevent him from 
+technical failure of any kind soever could necessarily prevent him from 
 accomplishing the Two Critical Tasks, since the fact of his incarnation 
 itself proves that he has taken the Oath which entitled him to attain to 
 the Knowledge and Conversation of his Holy Guardian Angel, and the 
@@ -8124,7 +4803,7 @@ pleteness in the nature which disowns it ; that particular gap in
 one’s defences may admit the enemy at the very turning-point of 
 some battle. Worse, one were shamed for ever if one ? s inferior 
 should happen to ask for advice and aid on that subject and one 
-were to fall in service to him! His fallure — one’s own fallure 
+were to fall in service to him! His failure — one’s own fallure 
 also! No step, however well won for oneself, till he is ready for 
 his own advance! 
 
@@ -8282,7 +4961,7 @@ Conv emence is our canon of “Truth”. 1 We may thus refer
 1 The passages referred to are as follows : 
 
 , ^ e f ax iomes geometriques ne sont donc ni des jugements synthetiques 
-a priori ni des faits experimentaux. Ce sont des conventions... 
+a priori ni des farts experimentaux. Ce sont des conventions... 
 
 Des lors, que doit-on penser de cette question : La geometrie Euclidienne 
 est-elle vraie ? 
@@ -8295,7 +4974,7 @@ qu’une autre; elle peut seulement être plus commode.
 . P n veut d ire ( l ue P ar selection naturelle notre esprit s’est adapte aux con¬ 
 ditions^ du monde exterieur, qu’il a adopte la géométrie la plus avantageuse 
 à l’espece; ou en d’autres termes la plus commode. Cela est conforme tout 
-a fait à nos conclusions; la geometrie n’est pas vraie: elle est avantageuse.” 
+a fart à nos conclusions; la geometrie n’est pas vraie: elle est avantageuse.” 
 Poincare, IL,a Science et P Hypothese. 
 
 Nous choisirons donc ces regles non parce qu’elles sont vraies, mais 
@@ -8456,7 +5135,7 @@ whether \/— 1 ha s “meaning” in the sense that \L\ has, the
 number of umts in the side of a square of 4 units. 
 
 The Astral Plane — real or imaginary — is a danger to any- 
-body who takes it without the grain of sait contained in the 
+body who takes it without the grain of sart contained in the 
 Wisdom of the above point of view; who violates its laws, either 
 wilfully, carelessly, ignorantly, or by presuming that their psycho- 
 logical character differentiates them from physical laws in the 
@@ -8728,7 +5407,7 @@ him in every way, it may throw light upon most holy mysteries,
 yet withal be no more than an interpretation of the individual to 
 himself, the formula not of Abraham but of Onan. 
 
-These plastic "Portraits of the Artist as a Young Man” are well 
+These plastic "Portrarts of the Artist as a Young Man” are well 
 enough for those who have heard “Know Thyself”. They are 
 necessary, even, to assist that analysis of one’s nature which the 
 Probationer of A.-. A.*, is sworn to accomplish. But "Love is 
@@ -9045,7 +5724,7 @@ meaning to many passages. A third 31 is the compound letter
 ShT, the two hieroglyphs of Sh and T (many centuries old) being 
 pictures of the “Dramatis Personæ” of the Book; and ShT being 
 a haphazard line scrawled on the MS. touch letters which added to 
-418, valuing “this circle squared in its fallure” as tc correct to six 
+418, valuing “this circle squared in its failure” as tc correct to six 
 places of decimais, etc. 
 
 Again: “thou shalt know not”, meaning “thou shalt know LA”; 
@@ -10113,7 +6792,7 @@ where revolves the Wheel of the Gunas, the
 Three forms 1 of Being. The Aethyr is the 
 
 
-I* They correspond to the Sulphur, Mercury, and Sait of Alchemy; to 
+I* They correspond to the Sulphur, Mercury, and Sart of Alchemy; to 
 Sattvas, Rajas, and Tamas in the Hindu System; and are rather modes of 
 action than actual qualities even when conceived as latent. They are the 
 apparatus of communication between the planes; as such, they are 
@@ -10255,7 +6934,7 @@ we have enacted to govern our lives. To resent
 destiny is thus to abdicate our sovereignty, and to 
 invoke death. Indeed, we have decreed the doom 
 of death for every breach of the law of life. And 
-every fallure to incorporate any impression starves 
+every failure to incorporate any impression starves 
 the particular faculty which stood in need of it. 
 
 This Section B invokes Air in the East, with a 
@@ -10316,7 +6995,7 @@ before, but vertically upward. At the same time he
 expands the Source of that Will — the secret 
 symbol of Self — both about him and below, as 
 if to affirm that Self, duplex as is its form, 
-reluctant to acquiesce in its fallure to coincide with 
+reluctant to acquiesce in its failure to coincide with 
 the Sphere of Nuith. Let him now imagine, at the 
 last Word, that the Head of his will, where his 
 consciousness is fixed, opens its fissure (the Brah- 
@@ -10576,7 +7255,7 @@ This means the recognition of the Angel as the
 True Self of his subconscious self, the hidden Life 
 of his physical life. 
 
-The Adept realises every breath, everv word of 
+The Adept realises every breath, every word of 
 his Angel as charged with Creative fire. Tiphereth 
 is the Sun, and the Angel is the spiritual Sun of 
 the Soul of the Adept. 
@@ -11022,7 +7701,7 @@ Conformably with this doctrine, we read of illuminations
 experienced by simple-minded men, such as a workman who “saw 
 God” and likened Him to “a quantity of little pears”. Again, we 
 know that ecstasy, impinging upon unbalanced minds, inflames the 
-idolised idea, and produces fanatical faith fierce even to frenzy, 
+idolised idea, and produces fanatical farth fierce even to frenzy, 
 with intolerance and insanely disordered energy which is yet so 
 powerful as to effect the destinies of empires. 
 
@@ -11127,7 +7806,7 @@ triumph. He should increase his efforts.
 
 Let him beware of the “lust of result”, of expecting too much, 
 of losing courage if his first success is followed by a series of 
-fallures. 
+failures. 
 
 For success makes success seem so incredible that one is apt to 
 create an inhibition fatal to subsequent attempts. One fears to 
@@ -13892,9 +10571,9 @@ The Sickle.
 32 bis 
 
 
-Sait. 
+Sart. 
 
-The Pantacie, the Sait. 
+The Pantacie, the Sart. 
 
 31 bis 
 
@@ -16293,7 +12972,7 @@ passeth, so to project the force that radiateth from Boles¬
 kine before him. 
 
 4. Let him pace his path until he comes to the North; there 
-let him hait, and turn his face to the North. 
+let him hart, and turn his face to the North. 
 
 5. Let him trace with his wand the Averse Pentagram proper 
 to invoke Air (Aquarius). 
@@ -16313,7 +12992,7 @@ breast (attitude of the Venus de Medici).
 
 8. Let him turn again to the left, and pursue his Path as 
 before, projecting the force from Boleskine as he passeth; 
-let him hait when he next cometh to the South and face 
+let him hart when he next cometh to the South and face 
 outward. 
 
 9. Let him trace the Averse Pentagram that invoketh Fire 
@@ -16363,7 +13042,7 @@ Part II).
 18. Let him break into the dance, tracing a centripetal spiral 
 widdershins, enriched by revolutions upon his axis as he 
 passeth each quarter, until he come to the centre of the 
-circle. There let him hait, facing Boleskine. 
+circle. There let him hart, facing Boleskine. 
 
 19. Let him raise the wand, trace the Mark of the Beast, and 
 cry AIWAZ! 
@@ -16613,7 +13292,7 @@ conditions ; and to accustom the mind “to make no difference”
 between any two ideas as such is to emancipate it from the thralldom 
 of terror. 
 
-We affirm on our altars our faith in ourselves and our wills, 
+We affirm on our altars our farth in ourselves and our wills, 
 our love of all aspects of the Absolute all. 
 
 
@@ -16934,7 +13613,7 @@ Ihe DEACON. He is clothed in white and yellow. He bears
 the Book of the Law. 
 
 Two Children. They are clothed in white and black. One bears 
-a pitcher of water and a cellar of sait, the other a censer of lire and 
+a pitcher of water and a cellar of sart, the other a censer of lire and 
 a casket of perfume. 
 
 IIP 
@@ -16996,7 +13675,7 @@ is, and is to come.
 
 AÏMLN, ATMTN, AÏMTN. 
 
-Music is now played. The child enter s with the ewer and the sait. 
+Music is now played. The child enter s with the ewer and the sart. 
 The VIRGIN enter s with the Sword and the Paten. The child 
 enter s with the censer and the per fume. They face the DEACON 
 deploying into line from the space hetween the two altars. 
@@ -17008,7 +13687,7 @@ leading.
 
 The PRIESTESS, the negative child on her left y the positive 
 child on her right y asc ends the steps of the High Altar. They 
-await her helow. She places the Paten hefore the Graal. Having 
+awart her helow. She places the Paten hefore the Graal. Having 
 adored it y she descends , and with the children following her y the 
 positive next her y she moves in a serpentine manner involving 3 1/2 
 circles of the Temple. (Deosil about altar y widdershins about font y 
@@ -17046,7 +13725,7 @@ virtues to the Brethren?
 The PRIESTESS takes jrom the chïld the water and the salt y 
 and mixes them in the font. 
 
-The PRIESTESS. Let the sait of Earth admonish the Water 
+The PRIESTESS. Let the sart of Earth admonish the Water 
 to bear the virtue of the Great Sea. (Genujlects). Mother, be 
 thou adored! 
 
@@ -17605,7 +14284,7 @@ FIRST SEMICHORUS: MEN. Glory to thee from Gilded
 Tomb. 
 
 SECOND SEMICHORUS: WOMEN. Glory to thee from 
-Waiting Womb. 
+Warting Womb. 
 
 MEN. Glory to Thee from earth unploughed! 
 
@@ -18524,7 +15203,7 @@ if he were a victor ere the fight is well begun.
 — 375 — 
 
 
-It k desireable that the student shouid never attach to any result 
+It k desireable that the student should never attach to any result 
 the importance which it at first seems to possess. 
 
 6. First, then, let us consider the Book 777 and its use; the 
@@ -19237,7 +15916,7 @@ that hath occurred, yea a record of all that hath occurred.
 EXPLICIT 
 
 
-1, This in case of fallure. The results of success are so many and 
+1, This in case of failure. The results of success are so many and 
 wonderful that no effort is here made to describe them. They are classified,, 
 tentatively, in the “Herb Dangerous”, Part II, Equinox I, 2. 
 
@@ -19489,7 +16168,7 @@ and the atoms.”
 
 And Remember Well, that if thou wert in truth a lover, all this 
 wouldst thou do of thine own nature without the slightest flaw or 
-fallure in the minutest part thereof. 
+failure in the minutest part thereof. 
 
 19. Concerning the Lections. — Let the Philosophus read 
 solely in his copies of the holy books of Thelema, during the 
@@ -19587,11 +16266,11 @@ and armed against all other.
 
 25. Concerning the Active and the Passive. — Let the Philo¬ 
 sophus change from the active love of his particular deity to a 
-State of passive waiting, even almost a repulsion, the repulsion not 
+State of passive warting, even almost a repulsion, the repulsion not 
 of distaste, but of a sublime modesty. 
 
 As it is written, Liber LXV. ii. 59, “I have called unto thee, and 
-I have journeyed with Thee, and it avalled me not.” 60. “I waited 
+I have journeyed with Thee, and it avalled me not.” 60. “I warted 
 patiently, and Thou wast with me from the beginning.” 
 
 Then let him change back to the Active, until a veritable rhythm 
@@ -20508,7 +17187,7 @@ on the strength and direction of the latter. 3
 3. Should one rashly dare the passage, and take the irrevocable 
 Oath of the Abyss, he might be lost therein through Aeons of 
 incalculable agony; he might even be thrown back upon Chesed, 
-with the terrible Karma of fallure added to his original imperfec¬ 
+with the terrible Karma of failure added to his original imperfec¬ 
 tion. 
 
 4. It is even said that in certain circumstances it is possible to 
@@ -21278,7 +17957,7 @@ vultures.
 — 430 — 
 
 
-this despite thy wiJl. So that thou attain to the Sacrament of the 
+this despite thy will. So that thou attain to the Sacrament of the 
 Graal in the Chapel of Abominations. 
 
 12. And behold ! If by stealth thou keep unto thyself onc 

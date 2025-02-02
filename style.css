@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "RoseCaps";
+  src: url("Fonts/rosecaps.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   font-family: "Georgia", serif;
   line-height: 1.2;
@@ -31,7 +38,20 @@ p {
   margin-bottom: 0.4em; /* Slightly reduced space below the paragraph */
   line-height: 1.5;    /* Ensures good readability */
 }
-
+/*
+h1 + p:not(.centered-small-caps)::first-letter,
+h3 + p:not(.centered-small-caps)::first-letter,
+h4 + p:not(.centered-small-caps)::first-letter,
+.centered-small-caps +p:not(.centered-small-caps)::first-letter {
+  font-family: "RoseCaps", serif;
+  font-size: 3em;
+  font-weight: normal;
+  float: left;
+  margin-right: 0.2em;
+  line-height: 1.2;
+  vertical-align: -1.3em;
+}
+*/
 /* Avoid overly aggressive resets */
 * {
   margin: 0; /* Reset default margins */
@@ -107,6 +127,7 @@ hr {
 .centered-small-caps {
   text-align: center;
   font-variant: small-caps;
+  font-size: 1.2em;
 	display: block;
 	width: 100%;
 	margin: 0 auto;
