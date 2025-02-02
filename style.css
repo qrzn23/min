@@ -1,12 +1,16 @@
 body {
   font-family: "Georgia", serif;
-  line-height: 1.6;
+  line-height: 1.2;
   margin: 1em;
+	text-align: justify;
+	text-justify: inter-word;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
   text-align: center;
+	font-variant: small-caps;
   margin-top: 2em;
+	margin-bottom: 2em;
   color: #4a4a4a;
 }
 
@@ -16,7 +20,7 @@ blockquote {
   color: #555;
 }
 
-h3 {
+h1, h3 {
   page-break-before: always;
 }
 
@@ -33,4 +37,77 @@ p {
   margin: 0; /* Reset default margins */
   padding: 0; /* Reset default padding */
   box-sizing: border-box; /* Ensure consistent box-sizing */
+}
+
+hr {
+  display: block;
+  max-width: 33%;
+  margin-left: 33%;
+  margin-right: 33%;
+	margin-top: 3em;
+	margin-bottom: 3em;
+  border: none;
+  border: 1px solid #4a4a4a;
+	opacity: 0.7;
+}
+
+/* Cover image styling */
+.cover {
+  width: 100%;
+  height: 100vh; /* Makes it take the full viewport height */
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+}
+
+.cover img {
+  max-width: 100%;  /* Ensures the image doesn't overflow horizontally */
+  max-height: 100%; /* Ensures the image doesn't overflow vertically */
+}
+
+/* Footnote reference (superscript) */
+.footnote-ref {
+  font-size: 0.8em; /* Adjusts the size to be smaller */
+  color: #4a4a4a; /* Sets the color to match the headings */
+  vertical-align: super; /* Aligns the reference in superscript position */
+  position: relative;
+  top: -0.2em; /* Fine-tune vertical positioning */
+}
+
+/* Footnote content */
+.footnote {
+  font-size: 0.9em;  /* Slightly smaller than regular text */
+  color: #4a4a4a;  /* Matching the color to keep consistency */
+  line-height: 1.5; /* Improved readability */
+  margin-top: 1em;  /* Space above the footnote */
+  border-top: 1px solid #4a4a4a; /* Optional border for separation */
+  padding-top: 1em;
+}
+
+.footnotes {
+  margin-top: 2em;  /* Space above the footnotes section */
+  padding-top: 1em;
+  border-top: 1px solid #4a4a4a;
+}
+
+/* Small-caps styling for specific words */
+.small-caps {
+  font-variant: small-caps;
+}
+
+/* Centered text styling */
+.centered {
+  text-align: center;
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+}
+
+/* Combined small-caps and centered styling */
+.centered-small-caps {
+  text-align: center;
+  font-variant: small-caps;
+	display: block;
+	width: 100%;
+	margin: 0 auto;
 }
