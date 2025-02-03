@@ -1,7 +1,3 @@
-Here's an improved version of your README with better clarity, structure, and formatting:
-
----
-
 # min - An eBook Publishing Service  
 
 Finely handcrafted eBooks available here.  
