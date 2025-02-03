@@ -8,15 +8,17 @@ This project provides a simple workflow for generating ePub files from Markdown 
 
 ### File Structure  
 
-- **`style.css`** – Defines the styles used in the generated eBooks.  
-- **`generate.sh`** – A script that compiles a `.epub` file from a Markdown file.  
-- **`wip/`** – A working directory for projects in progress.  
+- **`books/`** – Directory containing finished eBooks.  
+- **`fonts/`** – Custom fonts that can be used for eBook generation.  
+- **`wip/`** – Working directory for projects in progress.  
+  - **`wip/style.css`** – Defines the styles used in the generated eBooks.  
+  - **`wip/generate.sh`** – Script that compiles a `.epub` file from a Markdown file.  
 
 ### Usage  
 
 #### Basic ePub Generation  
 
-To generate an `.epub` from the `content.md` file inside a project directory, navigate to the respective folder, for example:  
+To generate an `.epub` from the `content.md` file inside a project directory, navigate to the respective folder and run:  
 
 ```sh
 cd wip/ttk/
@@ -25,14 +27,15 @@ cd wip/ttk/
 
 #### Custom ePub Generation  
 
-For more control, you can specify custom input and output files:  
+For more control, specify all required parameters in order:  
 
 ```sh
 ./generate-epub.sh my_content.md my_output.epub my_metadata.yaml my_cover.jpg
 ```
 
-Here’s what each parameter does:  
+⚠️ **Important:** The script requires all four parameters in the correct order to function properly.  
+
 - **`my_content.md`** – The source Markdown file.  
 - **`my_output.epub`** – The name of the generated ePub file.  
-- **`my_metadata.yaml`** – (Optional) Metadata file for additional eBook information.  
-- **`my_cover.jpg`** – (Optional) Cover image for the eBook.  
+- **`my_metadata.yaml`** – Metadata file containing additional eBook details.  
+- **`my_cover.jpg`** – Cover image for the eBook.  
