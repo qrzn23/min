@@ -2221,548 +2221,102 @@ In private matters these Works are very easy, if they be necessary. An adept kno
 
 There are also hundreds of other operations^[Examples of Rituals for several such purposes are given in the Equinox.] to bring wanted objects — gold, books, women and the like; to open locked doors, to discover treasure; to swim under water3 to have armed nen at command — etc., etc. all these are really matters of detail; the Adeptus Major will easily understand how to perform them if necessary.^[Moral: become an Adeptus Major!]
 
+It should be added that all these things happen “naturally”.^[The value of the evidence that your operations have influenced the course of events is only to be assessed by the application of the Laws of probability. The Master Therion would not accept any one single case as conclusive, however improbable it might be. A man might make a correct guess at one chance in ten million, no less than at one in three. If one pick up a pebble, the chance was infinitely great against that particular pebble; yet whichever one was chosen, the same chance “came off”. It requires a series of events antecedently unlikely to deduce that design is a work, that the observed changes are causally, not casually, produced. The prediction of events is further evidence that they are effected by will. Thus, any man may fluke a ten shot at billiard, or even make a break of a few strokes. But chance cannot account for consistent success, even if moderate, when it extends over a long period of time. And the ability of the expert to “name his shot” manifests a knowledge of the relations of cause and effect which confirms the testimony of his empirical skill that his success is not chance and coincidence.]
 
-— 196 — 
 
+Perform an operation to bring Gold — your rich uncle dies and leaves you his money; books — you see the book wanted in a catalogue that very day, although you have advertised in vain for a year; woman — but if you have made the spirits bring you enough gold, this operation will become unnecessary.^[This cynical statement is an absurdity of Black Magic.]
 
+It must further be remarked that it is absolute Black Magic to use any of these powers if the object can possibly be otherwise attained. If your child is drowning, you must jump and try to save him; it won’t do to invoke the Undines. 
 
+Nor is it lawful in all circumstances to invoke those Undines even where the case is hopeless; maybe it is necessary to you and to the child that it should die. An Exempt Adept on the right road will make no error here — an Adept Major is only too likely to do so. A through apprehension of this book will arm adepts of every grade against all the more serious blunders incidental to their unfortunate positions. 
 
+#### IV 
 
-lt should be added that all these things happen “naturally”. 1 
-Perform an operation to bring Gold — your rich uncle dies and 
-leaves you his moneyj books — you see the book wanted in a 
-catalogue that very day, although you have advertised in vain 
-for a year; woman — but if you have made the spirits bring 
-you enough gold, this operation will become unnecessary. 2 
+Necromancy is of sufficient importance to demand a section to itself. 
 
-It must further be remarked that it is absolute Black Magic to 
-use any of these powers if the object can possibly be otherwise 
-attained. If your child is drowning, you must jump and try to 
-save him; it won’t do to invoke the Undines. 
+It is justifiable in some exceptional cases. Suppose the magician fall to obtain. access to living Teachers, or should he need some especial piece of knowledge which he has reason to believe died with some teacher of the past, it may be useful to evoke the “shade” of such a one, or read the “Akasic record” of his mind.^[The only minds likeiy to be useful to the Magician belong to Adepts sworn to suffer reincarnation at short intervals, and the best elements of such minds are bound up in the “Unconscious Self” of the Adept, not left to wandei idly about the Astral Plane. It will thus be more profitable to try to get into touch with the “Dead Teacher” in his present avatar. Moreover, Adepts are at pains to record their teachings in books, monu¬ ments, or pictures, and to appoint spiritual guardians to preserve such heirlooms throughout the generations. Whenever these are destroyed or lost, the reason usually is that the Adept himself judges that their usefulness is over, and withdraws the forces which protected them. The student is therefore advised to acquiesce; the sources of information available for him are probably selected by the Wardens of Mankind with a view to his real necessities. One must learn to trust one’s Holy Guardian Angel to shape one’s circumstances with skill. If one be but absorbed in the ardour of one’s aspiration toward Him, short indeed is the time before Experience instils the certain conviction that His Works and His ways are inhnitely apt to one’s needs.]
 
-Nor is it lawful in all circumstances to invoke those Undines 
-even where the case is hopeless; maybe it is necessary to ycu and to 
-the child that it should die. An Exempt Adept on the right road 
-will make no error here — an Adept Major is only too likely to 
-do so. A through apprehension of this book will arm adepts of 
-every grade against all the more serious blunders incidental to 
-their unfortunate positions. 
+If this be done it must be done properly very much on the lines of the evocation of Apollonius of Tyana, which Eliphaz Levi performed.^[See Rituel et Dogme de la Haute Magie; Rituel, ch. XIII.]
 
-IV 
+The utmost care must be taken to prevent personation of the “shade”. It is of course easy, but can rarely be advisable, to evoke the shade of a suicide, or of one violently slain or suddenly dead. 
 
-Necromancy is of sufficient importance to demand a section to 
-itself. 
+Of what use is such an operation, save to gratify curiosity or vanity? 
 
-It is justifiable in some exceptional cases. Suppose the magician 
-fall to obtain. access to living Teachers, or should he need some 
+One must add a Word on spiritism, which is a sort of indiscriminate necromancy — one might prefer the word necrophilia — by amateurs. They make themselves perfectly passive, and, so far from employing any methods of protection, deliberately invite all and sundry spirits, demons, shells of the dead, all the excrement and filth of earth and hell, to squirt their slime over them. This invitation is readily accepted, unless a clean man be present with an aura good enough to frighten these foul denizens of the pit. 
 
-1. The value of the evidence that your operations have influenced the 
-course of events is only to be assessed by the application of the Laws of 
-probability. The Master Therion would not accept any one single case 
-as conclusive, however improbable it might be. A man might make a 
-correct guess at one chance in ten million, no less than at one in three. 
-If one pick up a pebble, the chance was infinitely great against that particular 
-pebble; yet whichever one was chosen, the same chance “came off”. 
-It requires a series of events antecedently unlikely to deduce that design is 
-a work, that the observed changes are causally, not casually, produced. The 
-prediction of events is further evidence that they are effected by will. Thus, 
-any man may fluke a ten shot at billiard, or even make a break of a few 
-strokes. But chance cannot account for consistent success, even if moderate, 
-when it extends over a long period of time. And the ability of the expert 
-to “name his shot” manifests a knowledge of the relations of cause and 
-effect which confirms the testimony of his empirical skill that his success is 
-not chance and coincidence. 
+No spiritualistic manifestation has ever taken place in the presence even of <span class="small-caps">Frater Perdurabo</span>; how much less in that of The <span class="small-caps">Master Therion</span>!^[Even the earliest Initiations confer protection. Compare the fear felt by D.D. Home for Eliphas Levi. See Equinox I, X, “The Key of the Mysteries”.]
 
-2 . This cynical statement is an absurdity of Black Magic. 
 
+Of all the creatures He ever met, the most prominent of English spiritists (a journalist and pacifist of more than European fame) had the filthiest mind and the foulest mouth. He would break off any conversation to tell a stupid smutty story, and could hardly conceive of any society assembling for any other purpose than “phallic orgies", whatever they may be. Utterly incapable of keeping to a subject, he would drag the conversation down again and again to the sole subject of which he really thought — sex and sex-perversions and sex and sex and sex and sex again. This was the plain result of his spiritism. All spiritists are more or less similarly afflicted. They feel dirty even across the Street; their auras are ragged, muddy and malodorous; they ooze the slime of putrefying coprses. 
 
-ï 9 7 — 
+No spiritist, once he is wholly enmeshed in sentimentality and Freudian fear-phantasms, is capable of concentrated thought, of persistent will, or of moral character. Devoid of every spark of the divine light which was his birthright, a prey before death to the ghastly tenants of the grave, the wretch, like the mesmerized and living corpse of Poe’s Monsieur Valdemar, is a “nearly liquid mass of loathsome, of detestable putrescence.” 
 
+The student of this Holy Magick is most earnestly warned against frequenting their seances, or even admitting them to his presence. 
 
+They are contagious as Syphilis, and more deadly and disgusting. **Unless your aura is strong enough to inhibit any manifestation of the loatïily iarvae that have taken up their habitation in them, shun them as you need not mere lepers!**^[It occurs in certain rare cases that a very unusual degree of personal purity combined with integrity and force of character provides even the ignorant with a certain natural defence, and attracts into his aura only intelligent and beneficent entities. Such persons may perhaps practise spiritualism without obvious bad results, and even with good results, within limits. But such exceptions in no wise invalidate the general rule, or in any way serve as argument against the magical theory outlined above with such mild suasion.]
 
+#### V 
 
+Of the powers of the Sphinx much has been written.^[In Liber CXI (Aleph) the subject is treated with profound and all-comprehensive wisdom.] Wisely they have been kept in the forefront of true magical instruction. Even the tyro can always rattle off that he has to know, to dare to will and to keep silence. It is difficult to Write on this subject, for these powers are indeed comprehensive, and the interplay of one with the other becomes increasingly evident as one goes more deeply into the subject. 
 
-especial piece of knowledge which he has reason to believe died 
-with some teacher of the past, it may be useful to evoke the 
-“shade” of such a one, or read the “Akasic record” of his mind. 1 
+But there is one general principle which seems worthy of special emphasis in this place. These four powers are thus complex because they are the powers of the Sphinx, that is, they are functions of a single organism. 
 
-If this be done it must be done properly very much on the lines 
-of the evocation of Apollonius of Tyana, which Eliphaz Levi 
-performed. 2 
+Now those who understand the growth of organisms are aware that evolution depends on adaptation to environment. If an animal which cannot swim is occasionally thrown into water, it may escape by some piece of good fortune, but if it is thrown into water continuously it will drown sooner or later, unless it learns to swim. 
 
-The utmost care must be taken to prevent personation of the 
-“shade”. It is of course easy, but can rarely be advisable, to evoke 
-the shade of a suicide, or of one violently slain or suddenly dead. 
+Organisms being to a certain extent elastic, they soon adapt themselves to a new environment, provided that the change is not so sudden as to destroy that elasticity. 
 
-Of what use is such an operation, save to gratify curiosity or 
-vanity ? 
+Now a change in environment involves a repeated meeting of new conditions, and if you want to adapt yourself to any given set of conditions, the best thing you can do is to place yourself cautiously and persistently among them. That is the foundation of all education. 
 
-One must add a Word on spiritism, which is a sort of indiscrimi- 
-nate necromancy — one might prefer the word necrophilia — by 
-amateurs. They make themselves perfectly passive, and, so far 
-from employing any methods of protection, deliberately invite 
-all and sundrv spirits, demons, shells of the dead, all the excre- 
-ment and filth of earth and hell, to squirt their slime over them. 
-This invitation is readily accepted, unless a clean man be present 
+The old-fashioned pedagogues were not all so stupid as some modern educators would have us think. The principle of the System was to strike the brain a series of constantly repeated blows until the proper reaction became normal to the organism. 
 
-with an aura good enough to frighten these foui denizens of 
-the pit. 
+It is not desireable to use ideas which excite interest, or may come in handy later as weapons, in this fundamental training of the mind. It is much better to compel the mind to busy itself with root ideas which do not mean very much to the child, because you are not trying to excite the brain, but to drill it. **For this reason, all the hest minds have been trained by preliminary study of classics and mathematics.**
 
-No spiritualistic manifestation has ever taken place in the 
+The same principle applies to the training of the body. The original exercises should be of a character to train the muscles generally to perform any kind or work, rather than to train them for some special kind of work, concentration on which will unfit them for other tasks by depriving them of the elasticity which is the proper condition of life.^[Some few forms of exercise are exempt from these strictures. Rock-climbing, in particular, trains every muscle in an endless variety of ways. It moreover compels the learner to use his own judgment, to rely on himself, to develop resource, and to depend upon his own originality to attack each new problem that presents itself. This principle may be extended to all departments of the education of children. They should be put into contact with all kinds of truth, and allowed to make their own reflections thereon and reactions thereto, without the least attempt to bias their judgment. Magical pupils should be trained on similar lines. They should be made to work alone from the first, to cover the whole ground impartially, to devise their own experiments and draw their own conclusions.]
 
+In Magick and meditation this principle applies with tremendous force. It is quite useless to teach people how to perform magical operations, when it may be that such operations, when they have learned to do them, are not in accordance with their 
+wills. What must be done is to drill the Aspirant in the hard routine of the elements of the Royal Art. 
 
-1. The only minds likeiy to be useful to the Magician belong to Adepts 
-sworn to suffer reincarnation at short intervals, and the best elements of 
-such minds are bound up in the “Unconscious Self” of the Adept, not left 
-to wandei idly about the Astral Plane. It will thus be more profitable to 
-try to get into touch with the “Dead Teacher” in his present avatar. 
-Moreover, Adepts are at pains to record their teachings in books, monu¬ 
-ments, or pictures, and to appoint spiritual guardians to preserve such 
-heirlooms throughout the generations. Whenever these are destroyed or 
-lost, the reason usually is that the Adept himself judges that their usefulness 
-is over, and withdraws the forces which protected them. The student is 
-therefore advised to acquiesce; the sources of information available for him 
-aie probably selected by the Wardens of Mankind with a view to his real 
-necessities. One must learn to trust one’s Holy Guardian Angel to shape 
-one’s circumstances with skill. If one be but absorbed in the ardour of 
-one’s aspiration toward Him, short indeed is the time before Experience 
-instils the certain conviction that His Works and His ways are inhnitely apt 
-to one’s needs. 
+So far as mysticism is concerned, the technique is extremely simple, and has been very simply described in Part I of this Book 4. **It cannot be said too strongly that any amount of mystical success whatever is compensation for slackness with regard to the technique. There may come a time when Samadhi itself is no part of the business of the mystic. But the character developed by the original training remains an asset.** In other words, the person who has made himself a first-class brain capable of elasticity is competent to attack any problem soever, when he who has merely specialized has got into a groove, and can no longer adapt and adjust himself to new conditions. 
 
-2 . See Rituel et Dogme de la Haute Magie; Rituel, ch. XIII. 
+The principle is quite universal. You do not train a violonist to play the Beethoven Concerto 3 you train him to play every conceivable consecution of notes with perfect ease, and you keep him at the most monotonous drill possible for years and years before you allow him to go on the platform. You make of him an instrument perfectly able to adjust itself to any musical problem that may be set before him. This technique of Yoga is the most important detail of all our work. The <span class="small-caps">Master Therion has been himself somewhat to blame in representing this technique as of value simply because it leads to the great rewards, such as Samadhi. He would have been wiser to base His teaching solely on the ground of evolution. But probably He thought of the 
+words of the poet: 
 
+<div class="centered">*"You dangle a canot in front of her nose.  
+And she goes wherever the carrot goes.*</div>  
 
+For, after all, one cannot explain the necessity of the study of Latin either to imbecile children or to stupid educationalists; for, not having learned Latin, they have not developed the brains to learn anything. 
 
-presence even of Frater Perdurabo; how much less in that of 
-The Master Therion ! 1 
+The Hindus, understanding these difficulties, have taken the God-Almighty attitude about the matter. If you go to a Hindu teacher, he treats you as less than an earthworm. You have to do this, and you have to do that, and you are not allowed to know why you are doing it.^[This does not conflict with the “go-as-you-please” plan put forward in the previous note. An autocratie Adept is indeed a blessing to the disciple, not because he is able to guide the pupil “aright” in the particular path which happens to suit his personality, but because he can compel the beginner to grind away at the weariest work and thus acquire all-round ability, and prevent him from picking out the plums which please him from the Pie of Knowledge, and making himself sick of a surfeit of sweets to the neglect of a balanced diet of wholesome nourishment.]
 
-Of all the creatures He ever met, the most prominent of 
-English spiritists (a journalist and pacifist of more than European 
-fame) had the filthiest mind and the foulest mouth. He would 
-break off any conversation to tell a stupid smutty story, and could 
-hardi y conceive of any society assembling for any other purpose 
-than “phallic orgies 7 ’, whatever they may be. Utterly incapable 
-of keeping to a subject, he would drag the conversation down 
-again and again to the sole subject of which he really thought — 
-sex and sex-perversions and sex and sex and sex and sex again, 
+After years of experience in teaching, The <span class="small-caps">Master Therion</span> is not altogether convinced that this is not the right attitude. 
 
-This was the plain result of his spiritism. all spiritists are 
-more or less similarly afflicted. They feel dirty even across the 
-Street j their auras are ragged, muddy and malodorous; they ooze 
-the slime of putrefying coprses. 
+When people begin to argue about things instead of doing them they become absolutely impossible. Their minds begin to work about it and about, and they come out by the same door as in they went. They remain brutish, voluble, and uncomprehending. 
 
-No spiritist, once he is wholly enmeshed in sentimentality and 
-Freudian fear-phantasms, is capable of concentrated thought, of 
-persistent will, or of moral character. Devoid of every spark of 
-the divine light which was his birthright, a prey before death to 
-the ghastly tenants of the grave, the wretch, like the mesmerized 
-and living corpse of Poe’s Monsieur Valdemar, is a “nearly liquid 
-mass of loathsome, of detestable putrescence.” 
-
-The student of this Holy Magick is most earnestly warned 
-against frequenting their seances, or even admitting them to his 
-presence. 
-
-They are contagious as Syphilis, and more deadly and disgus- 
-
-ting. Unless your aura is strong enough to inhibit any 
-manifestation of the loatïily iarvae that have taken up their 
-habitation in them, shun them as you need not mere 
-lepers! 2 * * * 
-
-
-1. Even the earliest Initiations confer protection. Compare the fear 
-felt by D. D. Home for Eliphas Levi. See Equinox I, X, “The Key of 
-the Mysteries”. 
-
-2 . It occurs in certain rare cases that a very unusual degree of personal 
-
-purity combined with integrity and force of character provides even the 
-
-ignorant with a certain natural defence, and attracts into his aura only 
-
-intelligent and beneficent entities. Such persons may perhaps practise 
-
-
-— 199 
-
-
-
-V 
-
-
-Of the powers of the Sphinx much has been written. * 1 Wisely 
-they have been kept in the forefront of true magical instruction. 
-Even the tyro can always rattle off that he has to know, to dare 
-to will and to keep silence. It is difficult to Write on this subject, 
-for these powers are indeed comprehensive, and the interplay of 
-one with the other becomes increasingly evident as one goes more 
-deeply into the subject. 
-
-But there is one general principle which seems worthy of special 
-emphasis in this place. These four powers are thus complex 
-because they are the powers of the Sphinx, that is, they are func- 
-tions of a single organism. 
-
-Now those who understand the growth of organisms are aware 
-that evolution depends on adaptation to environment. If an 
-animal which cannot swim is occasionally thrown into water, it may 
-escape by some piece of good fortune, but if it is thrown into water 
-continuously it will drown sooner or later, unless it learns to 
-swim. 
-
-Organisms being to a certain extent elastic, they soon adapt 
-themselves to a new environment, provided that the change is not 
-so sudden as to destroy that elasticity. 
-
-Now a change in environment involves a repeated meeting of 
-new conditions, and if you want to adapt yourself to any given set 
-of conditions, the best thing you can do is to place yourself 
-cautiously and persistently among them. That is the foundation 
-of all education. 
-
-The old-fashioned pedagogues were not all so stupid as some 
-modern educators wx&gt;uld have us think. The principle of the 
-System was to strike the brain a series of constantly repeated blows 
-until the proper reaction became normal to the organism. 
-
-It is not desireable to use ideas which excite interest, or may come 
-
-
-spiritualism without ohvious bad results, and even with good results, within 
-limits. But such exceptions in no wise invalidate the general rule, or in any 
-way serve as argument against the magical theory outlined above with 
-such mild suasion. 
-
-i. In Liber CXI (Aleph) the subject is treated with profound and all- 
-comprehensive wisdom. 
-
-
-200 
-
-
-
-in handy later as weapons, in this fundamental training of the 
-mind. It is much better to compel the mind to busy itself with 
-root ideas which do not mean very much to the child, because you 
-are not trying to excite the brain, but to drill it. For this reason, 
-all the hest mincis liave been trained by preliminary study 
-of classics and mathematics. 
-
-The same principle applies to the training of the body. The 
-original exercises should be of a character to train the muscles 
-generally to perform any kind or work, rather than to train them 
-for some special kind of work, concentration on which will unfit 
-them for other tasks by depriving them of the elasticity which is 
-the proper condition of life. 1 
-
-In Magick and meditation this principle applies with tremend- 
-ous force. It is quite useless to teach people how to perform 
-magical operations, when it may be that such operations, when 
-thev have learned to do them, are not in accordance with their 
-wills. What must be done is to drill the Aspirant in the hard 
-routine of the elements of the Royal Art. 
-
-So far as mysticism is concerned, the technique is extremely 
-simple, and has been very simply described in Part I of this 
-Book 4. It cannot be said too strongly that any amouni of 
-mystical success whatever is 110 compensation for slackness 
-with regard to the technique. There may come a time 
-when Samadhi itself is no part of the business of the mystic. 
-But the character developed by the original training re¬ 
-mains an asset. In other words, the person who has made 
-himself a first-class brain capable of elasticity is competent to 
-
-
-1. Some few forms of exercise are exempt from these strictures. Rock- 
-climbing, in particular, trains every muscle in an endless variety of ways. 
-It moreover compels the learner to use his own judgment, to rely on 
-himself, to develop resource, and to depend upon his own originality to 
-attack each new problem that presents itself. This principle may be extended 
-to all departments of the education of children. They should be put into 
-contact with all kinds of truth, and allowed to make their own reflections 
-thereon and reactions thereto, without the least attempt to bias their judg¬ 
-ment. Magical pupils should be trained on similar lines. They should be 
-made to work alone from the first, to cover the whole ground impartially, 
-to devise their own experiments and draw their own conclusions. 
-
-
-201 
-
-
-
-attack any problem soever, when he who has merely specialized 
-has got into a groove, and can no longer adapt and adjust himself 
-to new conditions. 
-
-The principle is quite universal. You do not train a violonist 
-to play the Beethoven Concerto 3 you train him to play every 
-conceivable consecution of notes with perfect ease, and you keep 
-him at the most monotonous drill possible for years and years 
-before you allow him to go on the platform. You make of him 
-an instrument perfectly able to adjust itself to any musical problem 
-that may be set before him. This technique of Yoga is the most 
-important detail of all our work. The Master Therion has 
-been himself somewhat to blame in representing this technique as 
-of value simply because it leads to the great rewards, such as 
-Samadhi. He would have been wiser to base His teaching solely 
-on the ground of evolution. But probably He thought of the 
-words of the poet : 
-
-U Y ou dangle a canot in front of her no se. 
-
-And she go es wherever the canot go es 
-
-For, after all, one cannot explain the necessity of the study of 
-Latin either to imbecile children or to stupid educationalists; for, 
-not having learned Latin, they have not developed the brains to 
-learn anvthing. 
-
-The Hindus, understanding these difficulties, have taken the 
-God-Almighty attitude about the matter. If you go to a Hindu 
-teacher, he treats you as less than an earthworm. You have to do 
-this, and you have to do that, and you are not allowed to know 
-why you are doing it. 1 
-
-After years of experience in teaching, The Master Tuerion 
-is not altogether convinced that this is not the right attitude. 
-
-
-1. This does not conflict with the “go-as-you-please” plan put forward 
-in the previous note. An autocratie Adept is indeed a blessing to the 
-disciple, not because he is able to guide the pupil “aright” in the particular 
-path which happens to suit his personality, but because he can compel the 
-beginner to grind away at the weariest work and thus acquire all-round 
-ability, and prevent him from picking out the plums which please him from 
-the Pie of Knowledge, and making himself sick of a surfeit of sweets to the 
-neglect of a balanced diet of wholesome nourishment. 
-
-
-202 
-
-
-
-en peop.e begin to argue about things instead of doing them 
-they become absolutely impossible. Their minds begin to work 
-about it and about, and they come out by the same door as in they 
-went. ey remain brutish, voluble, and uncomprehending. 
-
-. lhe L tech mque of Magick is just as important as that of mysti- 
-asm, but here we have a very much more difficult problem, 
-because the original unit of Magick, the Body of Light, is alreadv 
-something unfamiliar to the ordinary person. Nevertheless, this 
-body must be developed and trained with exactly the same rigid 
-iscipline as the brain in the case of mysticism. The essence of the 
-echnique of Magick is the development of the body of Light 
-
-which must be extended to include all members of the organism,’ 
-and indeed of the cosmos. 
+The technique of Magick is just as important as that of mysticism, but here we have a very much more difficult problem, because the original unit of Magick, the Body of Light, is already something unfamiliar to the ordinary person. Nevertheless, this body must be developed and trained with exactly the same rigid iscipline as the brain in the case of mysticism. The essence of the echnique of Magick is the development of the body of Light which must be extended to include all members of the organism, and indeed of the cosmos. 
 
 The most important drill practices are : 
 
-i. The fortification of the Body of Light by the constant use 
-of rituals, by the assumption of God-forms, and by the right use of 
-the liucharist. 
+1. The fortification of the Body of Light by the constant use of rituals, by the assumption of God-forms, and by the right use of the Eucharist. 
 
-2.1 he purification and consecration and exaltation of that 
-uody by the use of rituals of invocation. 
+2. The purification and consecration and exaltation of that Body by the use of rituals of invocation. 
 
-3- The education of that Body by experience. It must learn 
-to travel on every plane; to break down every obstacle which may 
-confront it This experience must be as systematic and regular as 
-possible ; for it is of no use merely to travel to the spheres of 
+3. The education of that Body by experience. It must learn to travel on every plane; to break down every obstacle which may confront it. This experience must be as systematic and regular as possible; for it is of no use merely to travel to the spheres of Jupiter and Venus, or even to explore the 30 Aethyrs, neglecting unattractive meridians.^[The Aspirant should remember that be is a Microcosm. “Universus sum et Nihil universi, a me alienum puto” should be his motto. He should make it his daily practice to travel on the Astral Plane, taking in turn each of the most synthetic sections, the Sephiroth and the Paths. These being thoroughly understood, and an Angel in each pledged to guard or to guide him at need, he should start on a new series of expeditions to explore the subordinate sections of each — He may then practice Rising on the Planes from these spheres, one after the other in rotation. When he is thoroughly conversant with the various methods of meeting unexpected emergencies, he may preceed to investigate the regions of the Qliphoth and the Demonic Forces. It should be his aim to obtain a comprehensive knowledge of the entire Astral Plane, with impartial love of truth for his own sake, just as a child learns the geography of the whole planet, though he may have no intention of ever leaving his native land.]
 
-Jupiter and Venus, or even to explore the 30 Aethyrs, neglectin^ 
-unattractive meridians. 1 6 
+**The object is to possess a Body which is capable of doing easily any particular task that may lie before it. There musi be no selection of special experience which appeals to one’s immediate desire. One must go steadily through all the possible pylons.**
 
+<span class="small-caps">Frater Perdurabo</span> was very unfortunate in not having magical teachers to explain these things to Him. He was rather encouraged in unsystematic working. Very fortunate, on the other hand, was He to have found a Guru who instructed Him in the proper principles of the technique of Yoga, and He, having sufficient sense to recognize the universal application of those principles, was able to some extent to repair His original defects. But even to this day, despite the fact this His original inclination is much stronger towards Magick than towards mysticism, he is much less competent in Magick.^[Reconsideration of these remarks, at the request of a loyal colleague, compels Him to admit that this may not be the case. It is true that He has been granted all Mystical Attainment that is theoretically possible, while His powers in Magick seem to be uneven and imperfect. Despite this, it may yet be that He has compassed the Possible. For Mystical Attainments are never mutually exclusive; the trance of Sorrow (for example) is not incompatible with the Beatifie Vision, or the “Universal Joke”. But in Magick any one Operation debars its performer from accomplishing some other. The reason of this is that the Oath of any Work bonds the Magician once and for all to be the principles implied therein. See Chapter XVI Part I. Further, it is obviously possible to reach the essence of anything without interfering with other things which obstruct each other. Cross-country journeys are often scarcely practicable.]
 
-T xrd Sp,rant Sh ° U d remenlber that be « a Microcosm. “Universus 
-sum et Nihil univers, a me alienum puto” should be his motto. He 
+A trace of this can be seen even in His method of combining the two divisions of our science, for in that method He makes concentration bear the Cross of the Work. 
 
-should make it his da.ly practice to travel on the Astral Plane, taking in 
+This is possibly an error, probably a defect, certainly an impurity of thought, and the root of it is to be found in His original bad discipline with regard to Magick. 
 
-turn each of the most synthetic sections, the Sephiroth and the Paths. 
+If the reader will turn to the account of his astral journeys in the Second Number of the First Volume of the Equinox, he will find that these experiments were quite capricious. Even when, in Mexico, He got the idea of exploring the 30 Aethyrs systematically, He abandoned the vision after only 2 Aethyrs had been investigated. 
 
-These being thoroughly understood, and an Angel in each pledged to guard 
+Very different is His record after the training in 1901 e. v. had put Him in the way of discipline.^[Recent developments have enabled Him to correct these conditions, so that this Book (as now finally revised for the Press) may be considered practically free from serious defect in this particular.]
 
-or to guide him at need, he should start on a new series of expeditions to 
+At the conclusion of this part of this book, one may sum up the whole matter in these words: **There is no object whatever worthy of attainment but the regular development of the being of the Aspirant by steady scientific work; he should not attempt to run before he can walk; he should not wish to go somewhere until he knows for certain whither he wills to go.**
 
-the PI a the f SUb ° rd ’ nate Se . ctlons of each — He may then practice Rising on 
-. e Pla nes from these spheres, one after the other in rotation. When he 
-
-.s thoroughly conversant with the various methods of meeting unexpected 
-emergencies, he may preceed to investigate the regions of the Qliphoth and 
-the Demon,c Forces It should be his aim to obtain a comprehensive 
-knowledge of the ent.re Astral Plane, with impartial love of truth for ks 
-own sake, just as a child learns the geography of the whole planet, though 
-he may have no intention of ever leaving his native land. ^ 
-
-
-— 203 — 
-
-
-
-The object is to possess a Body wkicli is capable of doing 
-easily any particular task tbat may lie before it. There 
-musi be no selection of special experience which appeals 
-to one’s immediate desire. One must go steadily through 
-all the possible pylons. 
-
-Frater Perdurabo was very unfortunate in not having magical 
-teachers to explain these things to Him. He was rather encouraged 
-in unsystematic working. Very fortunate, on the other hand, was 
-He to have found a Guru who instructed Him in the proper 
-principles of the technique of Yoga, and He, having suffirent 
-sense to recognize the universal application of those principles, was 
-able to some extent to repair His original defects. But even to 
-this day, despite the fact this His original inclination is much 
-stronger towards Magick than towards mysticism, he is much 
-less competent in Magick. 1 A trace of this can be seen even in 
-His method of combining the two divisions of our science, for in 
-that method He makes concentration bear the Cross of the Work. 
-
-This is possibly an error, probably a defect, certainly an impurity 
-of thought, and the root of it is to be found in His original bad 
-discipline with regard to Magick. 
-
-If the reader will turn to the account of his astral journeys in 
-the Second Number of the First Volume of the Equinox, he will 
-find that these experiments were quite capricious. Even when, 
-in Mexico, He got the idea of exploring the 30 Aethyrs systemat- 
-ically, He abandoned the vision after only 2 Aethyrs had been 
-investigated. 
-
-
-1. Reconsideration of these remarks, at the request of a loyal colleague, 
-compels Him to admit that this may not be the case. It is true that He has 
-been granted all Mystical Attainment that is theoretically possible, while 
-His powers in Magick seem to be uneven and imperfect. Despite this, it 
-may yet be that He has compassed the Possible. For Mystical Attainments 
-are never mutually exclusive; the trance of Sorrow (for example) is not 
-incompatible with the Beatifie Vision, or the “Universal Joke”. But in 
-Magick any one Operation debars its performer from accomplishing some 
-other. The reason of this is that the Oath of any Work bonds the Magi- 
-cian once and for all to be the principles implied therein. See Chapter XVI 
-Part I. Further, it is obviously possible to reach the essence of anything 
-without interfering with other things which obstruct each other. Cross- 
-country journeys are often scarcely practicable. 
-
-
-204 — 
-
-
-
-Very different is His record after the training in 1901 e. v. had 
-put Him in the wav of discipline. 1 
-
-At the conclusion of this part of this book, one may sum up 
-the whole matter in these words : There is no object whatever 
-worthy of attainment but the regular development of tbe 
-being of the Aspirant by steady scientific work; he should 
-not attempt to run before he can walk; he should not wish 
-to go somewhere until he knows for certain whither he wills 
-£0 go. 
-
-
-1. Recent developments have enabled Him to correct these conditions, 
-so that this Book (as now hnally revised for the Press) may be considered 
-practically free from serious defect in this particular. 
-
-
-— 205 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-APPENDIX I. 
-
+# APPENDIX I. 
 
 The reader will find excellent classical examples of rituals of 
 Magick in The Equinox, Volume I, in the following places — 

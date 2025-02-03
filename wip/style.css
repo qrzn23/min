@@ -1,10 +1,11 @@
+/*
 @font-face {
   font-family: "RoseCaps";
   src: url("Fonts/rosecaps.TTF") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
-
+*/
 body {
   font-family: "Georgia", serif;
   line-height: 1.2;
