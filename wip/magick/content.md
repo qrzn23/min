@@ -283,7 +283,7 @@ The only difficult question is that of continence, which is complicated by many 
 
 We may then dismiss Yama and Niyama with this advice: let the student decide for himself what form of life, what moral code, will least tend to excite his mind; but once he has formulated it, let him stick to it, avoiding opportunism; and let him be very careful to take no credit for what he does or refrains from doing -- it is a purely practical code, of no value in itself.
 
-The cleanliness which assists the surgeon in his work would prevent the engineer from doing his at all. (Ethical questions are adequately dealt with in "Then Tao" in "Konx Om Pax," and should be there studied. Also see Liber XXX of the A.A. Also in Liber CCXX, the "Book of the Law," it is said: **"DO WHAT THOU WILT shall be the whole of the Law."** Remember that for the purpose of this treatise the whole object of Yama and Niyama is to live so that no emotion or passion disturbs the mind.)
+The cleanliness which assists the surgeon in his work would prevent the engineer from doing his at all. (Ethical questions are adequately dealt with in "Then Tao" in "Konx Om Pax," and should be there studied. Also see Liber XXX of the A.·.A.·.Also in Liber CCXX, the "Book of the Law," it is said: **"DO WHAT THOU WILT shall be the whole of the Law."** Remember that for the purpose of this treatise the whole object of Yama and Niyama is to live so that no emotion or passion disturbs the mind.)
 
 ### Chapter IV &mdash; Pratyahara 
 
@@ -1306,7 +1306,7 @@ This mystery is all too complex to be elucidated in these fragments of impure th
 
 
 
-An Interlude
+### An Interlude
 
 
 
@@ -1314,17 +1314,12 @@ Every nursery rime contains profound magical secrets which are open to everyone 
 
 For instance:
 
-Old Mother Hubbard
-
-Went to her cupboard
-
-To get her poor dog a bone;
-
-When she got there,
-
-The cupboard was bare,
-
-And so the poor dog had none.
+> Old Mother Hubbard
+> Went to her cupboard
+> To get her poor dog a bone;
+> When she got there,
+> The cupboard was bare,
+> And so the poor dog had none.
 
 Who is this ancient and venerable mother of whom it is spoken? Verily she is none other than Binah, as is evident in the use of the holy letter H with which her name begins.
 
@@ -1342,17 +1337,12 @@ Isis sought them in every corner of the Universe, and she found all except his s
 
 Let us take another example from this rich storehouse of magick lore.
 
-Little Bo Peep
-
-She lost her sheep,
-
-And couldn't tell where to find them.
-
-Leave them alone!
-
-And they'll come home,
-
-Dragging their tails behind them.
+> Little Bo Peep
+> She lost her sheep,
+> And couldn't tell where to find them.
+> Leave them alone!
+> And they'll come home,
+> Dragging their tails behind them.
 
 "Bo" is the root meaning Light, from which spring such words as Bo-Tree, Bodhisattva, and Buddha.
 
@@ -1364,17 +1354,12 @@ This ancient one, the Wisdom of Eternity, sits in its old anguish awaiting the R
 
 Again we read:
 
-Little Miss Muffett
-
-Sat on a tuffet,
-
-Eating of curds and whey,
-
-Up came a big spider,
-
-And sat down beside her,
-
-And frightened Miss Muffett away.
+> Little Miss Muffett
+> Sat on a tuffet,
+> Eating of curds and whey,
+> Up came a big spider,
+> And sat down beside her,
+> And frightened Miss Muffett away.
 
 Little Miss Muffett unquestionably represents Malkah; for she is unmarried. She is seated upon a "tuffet"; id est, she is the unregenerate soul upon Tophet, the pit of hell. And she eats curds and whey, that is, not the pure milk of the mother, but milk which has undergone decomposition.
 
@@ -1384,17 +1369,12 @@ It would be interesting if tradition had preserved for us Miss Muffett's subsequ
 
 But we must proceed to consider the interpretation of the following rime:
 
-Little Jack Horner
-
-Sat in a corner,
-
-Eating a Christmas pie.
-
-He stuck in his thumb,
-
-And pulled out a plum,
-
-And said, "What a good boy am I!"
+> Little Jack Horner
+> Sat in a corner,
+> Eating a Christmas pie.
+> He stuck in his thumb,
+> And pulled out a plum,
+> And said, "What a good boy am I!"
 
 In the interpretation of this remarkable poem there is a difference between two great schools of Adepts.
 
@@ -1402,15 +1382,11 @@ One holds that Jack is merely a corruption of John, Ion, he who goes-Hermes, the
 
 Let us pass from this most blessed subject to yet another.
 
-Tom, Tom, the piper's son,
-
-Stole a pig and away he run.
-
-The pig was eat,
-
-And Tom was beat,
-
-And Tom went roaring down the street.
+> Tom, Tom, the piper's son,
+> Stole a pig and away he run.
+> The pig was eat,
+> And Tom was beat,
+> And Tom went roaring down the street.
 
 This is one of the more exoteric of these rimes. In fact, it is not much better than a sun-myth. Tom is Toum, the God of the Sunset (called the Son of Apollo, the Piper, the maker of music). The only difficulty in the poem concerns the pig; for anyone who has watched an angry sunset in the Tropics upon the sea, will recognize how incomparable a description of that sunset is given in that wonderful last line. Some have thought that the pig refers to the evening sacrifice, others that she is Hathor, the Lady of the West, in her more sensual aspect.
 
@@ -1418,15 +1394,11 @@ But it is probable that this poem is only the first stanza of an epic. It has al
 
 It must be abandoned, then, as at least partially insoluble. Let us consider this poem:
 
-Hickory, dickory, dock!
-
-The mouse ran up the clock;
-
-The clock struck one,
-
-And the mouse ran down,
-
-Hickory, dickory, dock!
+> Hickory, dickory, dock!
+> The mouse ran up the clock;
+> The clock struck one,
+> And the mouse ran down,
+> Hickory, dickory, dock!
 
 Here we are on higher ground at once. The clock symbolizes the spinal column, or, if you prefer it, Time, chosen as one of the conditions of normal consciousness. The mouse is the Ego; "Mus," a mouse, being only Sum, "I am," spelt Qabalistically backwards.
 
@@ -1434,15 +1406,11 @@ This Ego or Prana or Kundalini force being driven up the spine, the clock strike
 
 "Hickory, dickory, dock!" is perhaps the mantra which was used by the adept who constructed this rime, thereby hoping to fix it in the minds of men; so that they might attain to Samadhi by the same method. Others attribute to it a more profound significance—which it is impossible to go into at this moment, for we must turn to:-
 
-Humpty Dumpty sat on a wall;
-
-Humpty Dumpty got a great fall;
-
-All the king's horses
-
-And all the king's men
-
-Couldn't set up Humpty Dumpty again.
+> Humpty Dumpty sat on a wall;
+> Humpty Dumpty got a great fall;
+> All the king's horses
+> And all the king's men
+> Couldn't set up Humpty Dumpty again.
 
 This is so simple as hardly to require explanation. Humpty Dumpty is of course the Egg of Spirit, and the wall is the Abyss—his "fall" is therefore the descent of spirit into matter; and it is only too painfully familiar to us that all the king's horses and all his men cannot restore us to the height.
 
@@ -1466,21 +1434,14 @@ Peter is therefore the Arahat who has put an end to his series of resurrections.
 
 Buddha said that if any man became an Arahat he must either take the vows of a Bhikkhu that very day, or die, and it is this saying of Buddha's that the unknown poet wished to commemorate.
 
-Taffy was a Welshman
-
-Taffy was a thief;
-
-Taffy came to my house
-
-And stole a leg of beef.
-
-I went to Taffy's house;
-
-Taffy was in bed.
-
-I took a carving knife,
-
-And cut off Taffy's head.
+> Taffy was a Welshman
+> Taffy was a thief;
+> Taffy came to my house
+> And stole a leg of beef.
+> I went to Taffy's house;
+> Taffy was in bed.
+> I took a carving knife,
+> And cut off Taffy's head.
 
 Taffy is merely short for Taphthatharath, the Spirit of Mercury and the God of Welshmen or thieves. "My house" is of course equivalent to "my magick circle." Note that Beth, the letter of Mercury and "The Magus," means "a house."
 
@@ -1490,23 +1451,17 @@ In the following verse we find that Taffy is "in bed," owing to the operation of
 
 One can then take the Holy Dagger, and separate the Caput Mortuum from the Elixir. Some Alchemists believe that the beef represents that dense physical substance which is imbibed by Mercury for his fixation; but here as always we should prefer the more spiritual interpretation.
 
-Bye, Baby Bunting!
-
-Daddy's gone a-hunting.
-
-He's gone to get a rabbit-skin
-
-To wrap my Baby Bunting in.
+> Bye, Baby Bunting!
+> Daddy's gone a-hunting.
+> He's gone to get a rabbit-skin
+> To wrap my Baby Bunting in.
 
 This is mystical charge to the new-born soul to keep still, to remain steadfast in meditation; for, in Bye, Beth is the letter of thought, Yod that of the Hermit. It tells the soul that the Father of All will clothe him about with His own majestical silence. For is not the rabbit he "who lay low and said nuffin'"?
 
-Pat-a-cake, pat-a-cake, baker's man!
-
-Bake me a cake as fast as you can!
-
-Pat it and prick it and mark it with P!
-
-Bake it in the oven for baby and me!
+> Pat-a-cake, pat-a-cake, baker's man!
+> Bake me a cake as fast as you can!
+> Pat it and prick it and mark it with P!
+> Bake it in the oven for baby and me!
 
 This rime is usually accompanied (even today in the nursery) with a ceremonial clapping of hands-the symbol of Samadhi. Compare what is said on this subject in our comment on the famous "Advent" passage in Thessalonians.
 
@@ -1516,7 +1471,7 @@ The cake is of course the bread of the sacrament, and it would ill become Frater
 
 
 
-### Chapter VIII — THE SWORD
+### Chapter VIII — The Sword
 
 
 
@@ -4180,7 +4135,7 @@ The are also planes corresponding to various religions past and present, all of 
 
 **It is of the utmost importance to the “Clairvoyant” or "traveller in the fine body" to be able to find his way to any desired plane, and operate therein as its ruler.**
 
-**The Neophyte of A.A. is examined most strict ly in this practice before he is passed to the degree of Zelator.**
+**The Neophyte of A.·.A.·.is examined most strict ly in this practice before he is passed to the degree of Zelator.**
 
 In “Rising on the Planes” one must usually pass clear through the Astral to the Spiritual. Sonie will be unable to do this. The “fine body” which is good enough to subsist on lower planes, a shadow among shadows, will fall to penetrate the higher strata. It requires a great development of this body, and an intense infusion of the highest spiritual constituents of man, before he can pierce the veils. The constant practice of Magick is the best preparation possible. Even though the human consciousness fall to reach the goal, the consciousness of the fine body itself may do so, wherefore whoso travels in that body on a subsequent occasion may be found worthy; and its success will react favourably on the human consciousness, and increase its likelihood of success in its next magical operation. 
 
@@ -4737,13 +4692,13 @@ Pages 81-90 — Fragment of ritual of a very advanced character.
 
 VOL. III. 
 
-No. 1. — This volume contains an immense number of articles of primary importance to every student of magick. 
+*No. 1.* — This volume contains an immense number of articles of primary importance to every student of magick. 
 
 The rituals of the Book of Lies and the Goetia are also to be studied. The “preliminary invocation” of the Goetia is in particular recommended for dally use and work. 
 
 *Orpheus* by by Aleister Crowley, contains a large number of magical invocations in verse. There are also a good many others in other parts of his poetical Works. 
 
-The following is a complete curriculum of reading officially approved by the A.A. 
+The following is a complete curriculum of reading officially approved by the A.·.A.·.
 
 ### CURRICULUM OF A. A. 
 
@@ -4778,1248 +4733,637 @@ matters. The Encyclopædia of Initiation.
 
 **Erdmann’s “History of Philosophy”.** A compendious account of philosophy from the earliest times. Most valuable as a general education of the mind. 
 
+**The Spiritual Guide of Molinos.** A simple manual of Christian mysticism. 
 
-— 209 — 
+**The Star of the West.** (Captain Fuller.) An introduction to the study of the Works of Aleister Crowley. 
 
+**The Dhammapada.** (S.B.E. series, Oxford Umversity Press.) The best of the Buddhist classics. 
 
-The Spiritual Guide of Molinos. A simple manual of Chris- 
-tian mysticism. 
+**The Questions of King Milinda.** (S.B.E. series.) Technical points of Buddhist dogma, illustrated by dialogues. 
 
-The Star of the West. (Captain Fuller.) An introduction to 
-the study of the Works of Aleister Crowley. 
+**Varieties of Religious Experience.** (James.) Valuable as showing the uniformity of mystical attainment. 
 
-The Dhammapada. (S.B.E. series, Oxford Umversity Press.) 
-The best of the Buddhist classics. 
+**Kabbala Denudata,** von Rosenroth: also the Kabbalah Unveiled, by S. L. Mathers. 
 
-The Questions of King Milinda. (S.B.E. series.) Technical 
-points of Buddhist dogma, illustrated by dialogues. 
+The text of the **Kabalah**, with commentary. A good elementary introduction to the subject. 
 
-Varieties of Religious Experience. (James.) Valuable as 
-showing the uniformity of mystical attainment. 
+**Konx om Pax.** Four invaluable treatises and a preface on Mysticism and Magick. 
 
-Kabbala Denudata, von Rosenroth: aiso the Kabbalah Un- 
-veiled, by S. L. Mathers. 
+**The Pistis Sophia.** An admirable introduction to the study of Gnosticism. 
 
-The text of the Kabalah, with commentary. A good elementary 
-introduction to the subject. 
+**The Oracles of Zoroaster.** An invaluable collection of precepts mystical and magical. 
+**The Dream of Scipio,** by Cicero. Excellent for its Vision and its Philosophy. 
 
-Konx om Pax. Four invaluable treatises and a preface on 
-Mysticism and Magick. 
+**The Golden Verses of Pythagoras,** by Fabre d’Olivet. An interesting study of the exoteric doctrines of this Master. 
 
-The Pistis Sophia. An admirable introduction to the study 
-of Gnosticism. 
+**The Divine Pymander,** by Hermes Trismegistus. Invaluable as bearing on the Gnostic Philosophy. 
 
-The Oracles of Zoroaster. An invaluable collection of 
-precepts mystical and magical. 
+**The Secret Symbols of the Rosicrucians,** reprint of Franz Hartmann. An invaluable compendium. 
 
-The Dream of Scipio, by Cicero. Excellent for its Vision and 
-its Philosophy. 
+**Scrutinium Chymicum,** by Michael Maier. One of the best treatises on alchemy. 
 
-The Golden Verses of Pythagoras, by Fabre d’Olivet. An 
-interesting study of the exoteric doctrines of this Master. 
+**Science and the Infinite,** by Sidney Klein. One of the best essays written in recent years. 
 
-The Divine Pymander, by Hermes Trismegistus. Invaluable 
-as bearing on the Gnostic Philosophy. 
+**Two Essays on the Worship of Priapus,** by Richard Payne Knight. Invaluable to all students. 
 
-The Secret Symbols of the Rosicrucians, reprint of Franz 
-Hartmann. An invaluable compendium. 
+**The Golden Bough,** by J. G. Frazer. The Text-Book of Folk Lore. Invalidable to all students. 
 
-Scrutinium Chymicum, by Michael Maier. One of the best 
-treatises on alchemy. 
+**The Age of Reason,** by Thomas Paine. Excellent, though elementary, as a corrective to superstition. 
 
-Science and the Infinite, by Sidney Klein. One of the best 
-essays written in recent years. 
+**Rivers of Life,** by General Forlong. An invaluable text-book of old Systems of initiation. 
 
-Two Essays on the Worship of Priapus, by Richard Payne 
-Knight. Invaluable to all students. 
+**Three Dialogues,** by Bishop Berkeley. The Classic of subjective idealism. 
 
+**Essays of David Hume.** The Classic of Academic Scepticism. 
 
-— 210 — 
+**First Principles,** by Herbert Spencer. The Classic of Agnosticism. 
 
+**Prolegomena,** by Emanuel Kant. The best introduction to Metaphysics. 
 
-The Golden Bough, by J. G. Frazer. The Text-Book of Folk 
-Lore. Invalidable to all students. 
+**The Canon.** The best text-book of Applied Qabalah. 
 
-The Age of Reason, by Thomas Paine. Excellent, though 
-elementary, as a corrective to superstition. 
+**The Fourth Dimension,** by H. Hinton. The text-book on this subject.
 
-Rivers of Life, by General Forlong. An invaluable text-book 
-of old Systems of initiation. 
+**The Essays of Thomas Henry Huxley.** Masterpieces of philosophy, as of prose. 
 
-Tliree Dialogues, by Bishop Berkeley. The Classic of sub¬ 
-jective idealism. 
+The object of this course of reading is to familiarize the student with all that has been said by the Great Masters in every time and country. He should make a critical examination of themj not so much with the idea of discovering where truth lies, for he cannot do this except by virtue of his own spiritual experience, but rather to discover the essential harmony in those varied Works. He should be on his guard against partisanship with a favourite author. He should familiarize himself thoroughly with the method of mental equilibrium, endeavouring to contradict any statement soever, although it may be apparently axiomatic. 
 
-Essays of David Hume. The Classic of Academie Scepticism. 
+The general object of this course, besides that already stated, is to assure sound education in occult matters, so that when spiritual illumination comes it may find a well-built temple. Where the mind is strongly biased towards any special theory, the result of an illumination is often to inflame that portion of the mind which is thus overdeveloped, with the result that the aspirant, instead of becoming an Adept, becomes a bigot and fanatic. 
 
-First Principles, by Herbert Spencer. The Classic of Agnos- 
-ticism. 
+The A.·. A.·. does not offer examination in this course, but recommends these books as the foundation of a library. 
 
-Prolegomena, by Emanuel Kant. The best introduction to 
-Metaphysics. 
 
-The Canon. The best text-book of Applied Qabalah. 
+SECTION 2. Other books, principally fiction, of a generally suggestive and helpful kind: 
 
-The Fourth Dimension, by H. Hinton. The text-book on 
-this subject. 
+**Zanoni,** by Sir Edward Bulwer Lytton. Valuable for its facts and suggestions about Mysticism. 
 
-The Essays of Thomas Henry Huxley. Masterpieces of 
-philosophy, as of prose. 
+**A Strange Story,** by Sir Edward Bulwer Lytton. Valuable for its facts and suggestions about Magick. 
 
-The object of this course of reading is to familiarize the student 
-with all that has been said by the Great Masters in every time and 
-country. He should make a critical examination of themj not so 
-much with the idea of discovering where truth lies, for he cannot 
-do this except by virtue of his own spiritual experience, but rather 
-to discover the essential harmony in those varied Works. He should 
-be on his guard against partisanship with a favourite author. He 
-should familiarize himself thoroughly with the method of mental 
-equilibrium, endeavouring to contradict any statement soever, 
-although it may be apparently axiomatic. 
+**The Blossom and the Fruit,** by Mabel Collins. Valuable for its account of the Path. 
 
-The general object of this course, besides that already stated, is 
-to assure sound education in occult matters, so that when spiritual 
-illumination comes it may find a well-built temple. Where the 
-mind is strongly biased towards any special theory, the result of an 
-illumination is often to inflame that portion of the mind which is 
-thus overdeveloped, with the result that the aspirant, instead of 
-becoming an Adept, becomes a bigot and fanatic. 
+**Petronius Arbiter.** Valuable for those who have wit to understand it. 
 
+**The Golden Ass,** by Apuleius. Valuable for those who have wit to understand it. 
 
-211 
+**Le Comte de Gabalis.** Valuable for its hints of those things which it mocks. 
 
+**The Rape of the Lock,** by Alexander Pope. Valuable for its account of elementals. 
 
-The A.*. A.', does not offer examination in this course, but 
-recommends these books as the foundation of a library. 
+**Undine,** by de la Motte Fouque. Valuable as an account of elementals. 
 
-SEC I ION 2. Other books, principally fiction, of a genera Hy 
-suggestive and helpful kind: 
+**Black Magic,** by Marjorie Bowen. An intensely interesting story of sorcery. 
 
-Zanoni, by Sir Edward Bulwer Lytton. Valuable for its facts 
-and suggestions about Mysticism. 
+**La Peau de Chagrin,** by Honoré de Balzac. A magnificent magical allegory. 
 
-A Strange Story, by Sir Edward Bulwer Lytton. Valuable for 
-its facts and suggestions about Magick. 
+**Number Nineteen,** by Edgar Jepson. An excellent tale of modern magic. 
 
-The Blossom and the Fruit, by Mabel Collins. Valuable for 
-its account of the Path. 
+**Dracula,** by Bram Stoker. Valuable for its account of legends concerning vampires. 
 
-Petronius Arbiter. Valuable for those who have wit to under- 
-stand it. 
+**Scientific Romances,** by H. Hinton. Valuable as an introduction to the study of the Fourth Dimension. 
 
-The Golden Ass, by Apuleius. Valuable for those who have 
-wit to understand it. 
+**Alice in Wonderland,** by Lewis Carroll. Valuable to those who understand the Qabalah. 
+**Alice Through the Looking Glass,** by Lewis Carroll. Valuable to those who understand the Qabalah. 
 
-Le Comte de Gahalis. Valuable for its hints of those things 
-which it mocks. 
+**The Hunting of the Snark,** by Lewis Carroll. Valuable to those who understand the Qabalah. 
 
-The Rape of the Lock, by Alexander Pope. Valuable for its 
-account of elementals. 
+**The Arabian Nights,** translated by either Sir Richard Burton or John Payne. Valuable as a storehouse of oriental magick-lore. 
 
-Undine, by de la Motte Fouque. Valuable as an account of 
-elementals. 
+**Morte d’Arthur,** by Sir Thomas Mallory. Valuable as a storehouse of occidental magick-lore. 
 
-Black Magie, by Marjorie Bowen. An intensely interesting 
-story of sorcery. 
+**The Works of François Rabelais.** Invaluable for Wisdom. 
 
-La Peau de Chagrin, by Honore de Balzac. A magnificent 
-magical allegory. 
+**The Kasidah,** by Sir Richard Burton. Valuable as a summary of philosophy. 
 
-Number Nineteen, by Edgar Jepson. An excellent taie of 
-modern magic. 
+**The Song Celestial,** by Sir Edwin Arnold. “The Bhagavad-Gita” in verse. 
 
-Dracula, by Bram Stoker. Valuable for its account of legends 
-concerning vampires. 
+**The Light of Asia,** by Sir Edwin Arnold. An account of the attainment of Gotama Buddha. 
 
-Scientific Romances, by H. Hinton. Valuable as an introduc¬ 
-tion to the study of the Fourth Dimension. 
+**The Rosicrucians,** by Hargrave Jennings. Valuable to those who can read between the lines. 
 
-Alice in Wonderland, by Lewis Carroll. Valuable to those 
-who understand the Qabalah. 
+**The Real History of the Rosicrucians,** by A. E. Waite. A good vulgar piece of journalism on the subject. 
 
+**The Works of Arthur Machen.** Most of these stories are of great magical interest. 
 
-212 
+**The Writings of William O’Neill (Blake).** Invaluable to all students. 
 
+**The Shaving of Shagpat,** by George Meredith. An excellent allegory. 
 
+**Lilith,** by George MacDonald. A good introduction to the Astral. 
 
+**Là-Bas,** By J. K. Huysmans. An account of the extravagances caused by the Sin-complex. 
 
-Alice Through tlie Looking Glass, by Lewis Carroll. 
+**The Lore of Proserpine,** by Maurice Hewlett. A suggestive enquiry into the Hermetic Arcanum. 
 
-Valuable to those who understand the Qabalah. 
+**En Route,** by J. K. Huysmans. An account of the follies of Christian mysticism. 
 
-The Hunting of the Snark, by Lewis Carroll. Valuable to 
-those who understand the Qabalah. 
+**Sidonia the Sorceress,** by Wilhelm Meinhold. 
 
-The Arabian Niglits, translated by either Sir Richard Burton 
-or John Payne. Valuable as a storehouse of oriental magick-lore. 
+**The Amber Witch,** by Wilhelm Meinhold. These two tales are highly informative. 
 
-Morte d’Arthur, by Sir Thomas Mallory. Valuable as a store¬ 
-house of occidental magick-lore. 
+**Macbeth; Midsummer Night’s Dream; The Tempest,** by W. Shakespeare. Interesting for traditions treated. 
 
-The Works of François Rabelais. Invaluable for Wisdom. 
+**Redgauntlet,** by Sir Walter Scott. Also one or two other novels. Interesting for traditions treated. 
 
-The Kasidah, by Sir Richard Burton. Valuable as a summary 
-of philosophy. 
+**Rob Roy,** by James Grant. Interesting for traditions treated. 
 
-The Song Celestial, by Sir Edwin Arnold. “The Bhagavad- 
-Gita” in verse. 
+**The Magician,** by W. Somerset Maugham. An amusing hotch-pot of stolen goods. 
 
-The Light of Asia, by Sir Edwin Arnold. An account of the 
-attainment of Gotama Buddha. 
+**The Bible,** by various authors unknown. The Hebrew and Greek Originals are of Qabalistic value. It contains also many magical apologues, and recounts many taies of folk-lore and magical rites. 
 
-The Rosicrucians, by Hargrave Jennings. Valuable to those 
-who can read between the lines. 
-
-The Real History of the Rosicrucians, by A. E. Warte. A 
-
-good vulgar piece of journalism on the subject. 
-
-The Works of Arthur Machen. Most of these stories are of 
-
-great magical interest. 
-
-The Writings of William O’Neill (Blake). Invaluable to 
-
-all students. 
-
-The Shaviug of Shagpat, by George Meredith. An excellent 
-allegory. 
-
-Lilith, by George MacDonald. A good introduction to the 
-Astral. 
-
-Là-Bas, By J. K. Huysmans. An account of the extravagances 
-
-caused by the Sin-complex. 
-
-The Lore of Proserpine, by Maurice Hewlett. A suggestive 
-enquiry into the Hermetic Arcanum. 
-
-En Route, by J. K. Huysmans. An account of the follies of 
-Christian mysticism. 
-
-Sidonia the Sorceress, by Wilhelm Meinhold. 
-
-
-213 
-
-
-
-t 
-
-
-The Amber Witch, by Wilhelm Meinhold. 
-
-These two taies are highly informative. 
-
-Macbeth; Midsummer Night’s Dream; The Tempest, by 
-
-W. Shakespeare. Interesting for traditions treated. 
-
-Redgaimtlet, by Sir Walter Scott. Also one or two other 
-novels. Interesting for traditions treated. 
-
-Rob Roy, by James Grant. Interesting for traditions treated. 
-
-The Magician, by W. Somerset Maugham. An amusing hotch- 
-pot of stolen goods. 
-
-The Bible, by various authors unknown. The Hebrew and 
-Greek Originals are of Qabalistic value. It contains also many 
-magical apologues, and recounts many taies of folk-lore and magical 
-rites. 
-
-Kim, by Rudyard Kipling. An admirable study of Eastern 
-thought and life. Many other stories by this author are highly 
-suggestive and informative. 
+**Kim,** by Rudyard Kipling. An admirable study of Eastern thought and life. Many other stories by this author are highly suggestive and informative. 
 
 For Mythology, as teaching Correspondences: 
 
-Books of Fairy Taies generally. 
+* Books of Fairy Taies generally. 
+* Oriental Classics generally. 
+* Sufi Poetry generally. 
+* Scandinavian and Teutonic Sagas generally. 
+* Celtic Folk-Lore generally. 
 
-Oriental Classics generally. 
+This course is of general value to the beginner. While it is not to be taken, in all cases, too seriously, it will give him a general fàmiliarity with the mystical and magical tradition, create a deep interest in the subject, and suggest many helpful lines of thought. It has been impossible to do more, in this list, than to suggest a fairly comprehensive course of reading. 
 
-Sufi Poetry generally. 
+SECTION 3. — Official publications of the A.·. A.·. 
 
-' Scandinavian and Teutonic Sagas generally. 
+*Liber I.* &mdash; *Liber B vel Magi.*
 
-Celtic Folk-Lore generally. 
+An account of the Grade of Magus, the highest grade which it is ever possible to manifest in any way whatever upon this plane. Or so it is said by the Masters of the Temple. Equinox VII, p. 5. 
 
-This course is of general value to the beginner. While it is not 
-to be taken, in all cases, too seriously, it will give him a general 
-fàmiliarity with the mystical and magical tradition, create a deep 
-interest in the subject, and suggest many helpful lines of thought. 
+*Liber II*
 
-It has been impossible to do more, in this list, than to suggest a 
-fairly comprehensive course of reading. 
+The Message of the Master Therion. Explains the Essence of the new law in a very simple manner. Equinox XI (Vol. III, No. 1), p. 39. 
 
-SECTION 3. — Official publications of the A A 
+*Liber III.* &mdash; *Liber Jugorum*
 
-Liber 7. 
+An instruction for the control of speech, action and thought. Equinox IV, p. 9 & Appendix VI of this book. 
 
-Liber B vel Magi. 
+*Liber IV. ABA.*
 
-An account of the Grade of Magus, the highest grade which 
+A general account in elementary terms of magical and mystical powers. 
 
+Part.
 
-— 214 — 
+1. *Mysticism* — published. 
 
+2. *Magick* (Elementary Theory) — published. 
 
-
-it is ever possible to manifest in any way whatever upon this 
-plane. Or so it is said by the Masters of the Temple. 
-
-Equinox VII, p. 5. 
-
-Liber IL 
-
-The Message of the Master Therion. Explains the Essence 
-of the new law in a very simple manner. 
-
-Equinox XI (Vol. III, No. 1), p. 39. 
-
-Liber III. 
-
-Liber Jugorum 
-
-An instruction for the control of speech, action and thought. 
-Equinox IV, p. 9 &amp; Appendix VI of this book. 
-
-Liber IV. AB A. 
-
-A general account in elementary terms of magical and mystical 
-powers. 
-
-Part. 1. Mysticïsm — published. 
-
-2. Magick (Elementary Theory) — published. 
-
-3. IVIagick in Practice and Theory (this book). 
+3. *Magick in Practice and Theory* (this book). 
 
 4. The Law. Not yet completed. 
 
-Liber VI. 
+*Liber VI.* &mdash; *Liber O Vel Manus et Sagittæ.*
 
-Liber O Vel Manus et Sagittæ. 
+Instructions given for elementary study of the Qabalah, Assumption of God forms, Vibration of Divine Names, the Rituals of Pentagram and Hexagram, and their uses in protection and invocation, a method of attaining astral visions so-called, and an instruction in the practice called Rising on the Planes. Equinox II, p. 11 and appendix VI in this book. 
 
-Instructions given for elementary study of the Qabalah, 
-Assumption of God forms, Vibration of Divine Names, the 
-Rituals of Pentagram and Hexagram, and their uses in 
-protection and invocation, a method of attaining astral visions 
-so-called, and an instruction in the practice called Rising on 
-the Planes. 
+*Liber VII* &mdash; *Liber Liberi vel Lapis Lazuli,  Adumbratio Kabbalæ Aegyptiorum* sub Figura VII. 
 
-Equinox II, p. 11 and appendix VI in this book. 
+Being the Voluntary Emancipation of a certain exempt Adept from his Adeptship. These are the Birth Words of a Master of the Temple. 
 
-Liber VIL 
-
-Liber Liberi vel Lafis Lazuli y Adumbratio Kabbalæ 
-A egy'ptiorum -. 
-
-sub Figura VII. 
-
-Being the Voluntary Emancipation of a certain exempt 
-Adept from his Adeptship. These are the Birth Words of 
-a Master of the Temple. 
-
-
-215 — 
-
-
-Its 7 chapters are referred to the 7 planets in the 
-following order: 
+Its 7 chapters are referred to the 7 planets in the following order: 
 
 Mars, Saturn, Jupiter, Sol, Mercury, Luna, Venus. 
 
-Liber VIII. 
+*Liber VIII.*
 
 See CCCCXVIII. 
 
-Liber IX. 
+*Liber IX.* &mdash; *Liber E Vel Exercitiorum.*
 
-Liber E Vel Exercitiorum. 
+Instructs the aspirant in the necessity of keeping a record. Suggests methods of testing physical clairvoyance. Gives instruction in Asana, Pranayama and Dharana, and advises the application of tests to the physical body, in order that the student may thoroughly understand his own limitations. Equinox 1, p. 25 & Appendix VI of this Book. 
 
-Instructs the aspirant in the necessity of keeping a record. 
-Suggests methods of testing physical clairvoyance. Gives 
-instruction in Asana, Pranayama and Dharana, and advises the 
-application of tests to the physical body, in order that the 
-student may thoroughly understand his own limitations. 
-Equinox 1, p. 25 &amp; Appendix VI of this Book. 
+*Liber X.* &mdash; *Liber Porta Lucis.*
 
-Liber X. 
+An account of the sending forth of the Master Therion by the A.·. A.·. and an explanation of His mission. Equinox VI, p. 3. 
 
-Liber Porta Lucis . 
+*Liber XI.*
 
-An account of the sending forth of the Master Therion by 
-the A.*. A.*, and an explanation of His mission. 
+*Liber NV.*
 
-Equinox VI, p. 3. 
+An Instruction for attaining Nuit. Equinox VII, p. 11. 
 
-Liber XI. 
+*Liber XIII.* &mdash; *Graduum Montis Abiegni.*
 
-Liber NV. 
+An account of the task of the Aspirant from Probationer to Adept. Equinox III, p. 3. 
 
-An Instruction for attaining Nuit. 
+*Liber XV.* &mdash; *Ecclesiæ Gnosticœ Catholicœ Canon Missœ.*
 
-Equinox VII, p. 11. 
+Represents the original and true pre-Christian Christianity. Equinox XI (vol. iii, part 1) and Appendix VI of this book. 
 
-Liber XIII. 
+*Liber XVI.* &mdash; *Liber Turris Vet Domus Dei.*
 
-Graduum Montis Abiegni. 
+An Instruction for attainment by the direct destruction of thoughts as they arise in the mind. Equinox VI, p. 9. 
 
-An account of the task of the Aspirant 
-from Probationer to Adept. 
+*Liber XVII.* &mdash; *Liber I.A.O.*
 
-Equinox III, p. 3. 
-
-Liber XV. 
-
-Ecclesiæ Gnosticœ Catholicœ Canon Missœ. 
-
-Represents the original and true pre-Christian Christianity. 
-Equinox XI (vol. iii, part 1) and Appendix VI of this 
-book. 
-
-
-216 — 
-
-
-
-Liber XVI. 
-
-
-Liber Turris Vet Domus Dei. 
-
-An Instruction for attainment by the direct destruction of 
-thoughts as they arise in the mind. 
-
-Equinox VI, p. 9. 
-
-Liber XVII. 
-
-Liber LA.O. 
-
-Gives three methods of attainment through a willed series of 
-thoughts. 
+Gives three methods of attainment through a willed series of thoughts. 
 
 Unpublished. It is the active form of Liber CCCLXI. 
-Liber XXL 
 
-The Classic of Purity , by Ko Hsuen. 
-
+*Liber XXI* &mdash; *The Classic of Purity,* by Ko Hsuen. 
 A new translation from the Chinese by the Master Therion. 
 Unpublished. 
 
-Liber XXV. 
+*Liber XXV.* &mdash; *The Ritual of the Star Ruby.*
 
-The Ritual of the Star Ruby. 
+An improved form of the lesser ritual of the Pentagram, Liber CCCXXXIII, The Book of Lies, pp. 34 & 35. Also Appendix VI of this book. 
 
-An improved form of the lesser ritual of the Pentagram, 
-Liber CCCXXXIII, The Book of Lies, pp. 34 &amp; 35. 
+*Liber XXVII.* &mdash; *Liber Trigrammaton; being a book of Trigrams of the Mutations of the Tao with the Yin and the Yang.*
 
-Also Appendix VI of this book. 
-
-Liber XXVII. 
-
-Liber T rigrammaton&gt; being a book of Trigrams of the Muta¬ 
-tions of the T ao with the Y in and the Yang. 
-
-An account of the cosmic process: corresponding to the stanzas 
-of Dzyan in another System. 
-
+An account of the cosmic process: corresponding to the stanzas of Dzyan in another System. 
 Unpublished. 
 
-Liber XXX. 
+*Liber XXX.* &mdash; *Liber Libræ.*
 
-Liber Libræ. 
+An elementary course of morality suitable for the average man. Equinox 1, p. 17. 
 
-An elementary course of morality suitable for the average 
-man. 
+*Liber XXXIII.* 
 
-Equinox 1, p. 17. 
+An account of A.·.A.·. first written in the Language of this period by the Councillor Von Eckartshausen and now revised and rewritten in the Universal Cipher. Equinox I, p. 4. 
 
-Liber XXXIII. 
+*Liber XXXVI.* &mdash; *The Star Sapphire.*
 
-An account of A A .-. first written in the Language of his 
+An improved ritual of the Hexagram. Liber CCCXXXIII (The Book of Lies), p.p. 46 & 7, and Appendix VI of this book. 
 
+*Liber XLI.* &mdash; *Thien Tao.*
 
-period by the Councillor Von Eckartshausen and now revised 
-and rewritten in the Universal Cipher. 
+An Essay on Attainment by the Way of Equilibrium. Konx Om Pax, p. 52. 
 
-Equinox i, p. 4. 
+*Liber XLIV.* &mdash; *The Mass of the Phoenix.*
 
-Liber XXXVI. 
+A Ritual of the Law. Liber CCCXXXIII (Book of Lies), pp. 57-7, and Appendix VI in this book.
 
-The Star Sapfhire. 
+*Liber XLVI.* &mdash; *The Key of the Mysteries.*
 
-An improved ritual of the Hexagram. Liber CCCXXXIII 
-(The Book of Lies), p.p. 46 &amp; 7, and Appendix VI of this 
-book. 
+A Translation of La Clef des Grands Mysteres, by Eliphas Levi. Specially adapted to the task of the Attainment of Bhakti-Yoga. Equinox X, Supplement. 
 
-Liber XLI. 
+*Liber XLIX.* &mdash; *Shi Yi Chien.*
 
-Thien Tao. 
-
-An Essay on Attainment by the Way of Equilibrium. 
-
-Konx Om Pax, p. 52. 
-
-Liber XLIV. 
-
-The Mass of the Phoenix. 
-
-A Ritual of the Law. 
-
-Liber CCCXXXIII (Book of Lies), pp. 57-7, and Appen¬ 
-dix VI in this book.. 
-
-Liber XLVI. 
-
-The Key of the Mysteries. 
-
-A Translation of La Clef des Grands Mysteres , by Eliphas 
-Levi. 
-
-Specially adapted to the task of the Attainment of Bhakta- 
-Yoga. 
-
-Equinox X, Supplement. 
-
-Liber XLIX. 
-
-Shi Yi Chien. 
-
-An account of the divine perfection illustrated by the seven- 
-fold permutation of the Dyad. 
-
+An account of the divine perfection illustrated by the seven-fold permutation of the Dyad. 
 Unpublished. 
 
-Liber LI. 
+*Liber LI.* &mdash; *The Lost Continent.*
 
-The Lost Continent. 
-
-An account of the continent of Atlantis: the manners and 
-customs, magical rites and opinions of its people, together 
-
-
-— 218 
-
-
-
-with a true account of the catastrophe, so called, which ended 
-in its disappearance. 
-
+An account of the continent of Atlantis: the manners and customs, magical rites and opinions of its people, together with a true account of the catastrophe, so called, which ended in its disappearance. 
 Unpublished. 
 
-Liber LV. 
+*Liber LV.* &mdash; *The Chymical Jousting of Brother Perardua with the seven Lances that he brake.**
 
-The Chymical J ous tin g of Brother Perardua with the seven 
-Lances that he brake. 
+An account of the Magical and Mystic Path in the language of Alchemy. Equinox i, p. 88. 
 
-An account of the Magical and Mystic Path in the ianguage 
-of Alchemy. 
+*Liber LVIII.*
 
-Equinox i, p. 88. 
+An article on the Qabalah in Equinox V, p. 65.
 
-Liber LVIII. 
+*Liber LIX.* &mdash; *Across the Gulf.*
 
-An article on the Qabalah in Equinox V, p. 65 . 
+A fantastic account of a previous Incarnation. Its principal interest lies in the fact that its story of the overthrowing. of Isis by Osiris may help the reader to understand the meaning of the overthrowing of Osiris by Horus in the present Aeon. Equinox VII, p. 293. 
 
-Liber L1X. 
+*Liber LXI.* &mdash; *Liber Causæ.*
 
-A cross the Gulf. 
+Explains the actual history and origin of the present movement. Its statements are accurate in the ordinary sense of the word. The object of the book is to discount Mythopeia. Equinox XI, p. 55
 
-A fantastic account of a previous Incarnation. Its principal 
-interest lies in the fact that its story of the overthrowing. of 
-Isis by Osiris may help the reader to understand the meaning 
-of the overthrowing of Osiris by Horus in the present Aeon. 
-Equinox VII, p. 293. 
-
-Liber LXL 
-
-Liber Causæ. 
-
-Explains the actual history and origin of the present move- 
-ment. Its statements are accurate in the ordinary sense of 
-the word. The object of the book is to discount Mythopeia. 
-Equinox XI, p. 55 * 
-
-Liber LX1V. 
-
-Liber lsrafel y formerly called Anubis. 
+*Liber LXV.* &mdash; *Liber Israfel, formerly called Anubis.*
 
 An instruction in a suitable method of preaching. 
-
 Unpublished. 
 
-Liber LXV . 
+*Liber LXV.* &mdash; *Liber Cordis Cincti Serpente.*
 
-Liber Cordis Cincti Serf ente. 
+An account of the relations of the Aspirant with his Holy Guardian Angel. Equinox XI (vol. iii, part 1), p. 65. 
 
-An account of the relations of the Aspirant with his Moly 
-Guardian Angel. 
+*Liber LXVI.* &mdash; *Liber Stellae Rubeœ.*
 
-Equinox XI (vol. iii, part 1), p. 65. 
-
-
-— 219 — 
-
-
-Liber LXVI. 
-
-Liber Stella? Rubeœ. 
-
-A secret ritual, the Heart of IAO-OAI, delivered unto 
-V.V.V.V.V. for his use in a certain matter of Liber Legis. 
-See Liber CCCXXXIII (Book of Lies), pp. 34-5. Also 
+A secret ritual, the Heart of IAO-OAI, delivered unto V.V.V.V.V. for his use in a certain matter of Liber Legis. See Liber CCCXXXIII (Book of Lies), pp. 34-5. Also 
 Appendix VI in this book. 
 
-Liber LXVIL 
+*Liber LXVII* &mdash; *The Sword of Song.*
 
-The S word of S on g. 
+A critical study of varions philosophies. An account of Buddhism. A. Crowley, Collected Works, Vol. ii, pp. 140-203. 
 
-A critical study of varions philosophies. An account of 
-Buddhism. 
+*Liber LXXL* &mdash; *The Voice of the Silence, the Two Paths, the Seven Portals,* by H. P. Blavatsky, with an elaborate commentary by Frater O. M. Equinox III. I. Supplement. 
 
-A. Crowley, Collected Works, Vol. ii, pp. 140-203. 
+*Liber LXXXIIL — The Urn.* 
 
-Liber LXXL 
-
-The Voice of the Silence , the Two Paths y the Seven Portais , 
-by H. P. Blavatsky, with an elaborate commentary by Frater 
-O. M. 
-
-Equinox III. I. Supplement. 
-
-Liber LXXXIIL — The Urn. 
-
-This is the sequel to The Temple of Solomon the King y and is 
-the Diary of a Magus. This book contains a detailed account 
-of all the experiencees passed through by the Master Therion 
-in his attainment of this grade of Initiation, the highest 
-possible to any manifested Man. 
-
+This is the sequel to *The Temple of Solomon the King*, and is the Diary of a Magus. This book contains a detailed account of all the experiencees passed through by the Master Therion in his attainment of this grade of Initiation, the highest possible to any manifested Man. 
 Unpublished. 
 
-Liber LXXVIIL 
+*Liber LXXVIIL*
 
-A complete treatise on the Tarot giving the correct designs of 
-the cards with their attributions and symbolic meanings on 
-all the planes. 
+A complete treatise on the Tarot giving the correct designs of the cards with their attributions and symbolic meanings on all the planes. Part-published in Equinox VII, p. 143. 
 
-Part-published in Equinox VII, p. 143. 
+*Liber LXXXI.* &mdash; *The Butterfly Net.*
 
-Liber LXXXI. 
+An account of a magical operation, particularly concerning the planet Luna, written in the form of a novel. 
 
-The Butterfly Net. 
+Published under the title “Moon-Child” by the Mandrake Press, 41, Museum St., London, W.C.i. 
 
-An account of a magical operation, particularly concerning the 
-planet Luna, written in the form of a novel. 
+*Liber LXXXIV.* &mdash; *Vel Chanokh.*
 
-Published under the title “Moon-child” by the Man¬ 
-drake Press, 41, Museum St., London, W.C.i. 
+A brief abstraction of the Symbolic representation of the Universe derived by Dr. John Dee through the Scrying of Sir Edward Kelly. Part-published in Equinox VII, p. 229 & VIII, p. 99. 
 
+*Liber XC.* &mdash; *Tzaddi vel Hamus Hermeticus.*
 
-220 
+An account of Initiation, and an indication as to those who are suitable for the same. Equinox VI, p. 17. 
 
+*Liber XCV.* &mdash; *The Wake-World.*
 
+A poetical allegory of the relations of the soul and the Holy Guardian Angel. Konx Om Pax, p. 1. 
 
-Liber LXXXIV. 
+*Liber XCVI.* &mdash; *Liber Gaias.*
 
-Vel Chanokh. 
+A Handbook of Geomancy. Equinox II, p. 137. 
 
-A brief abstraction of the Symbolic representation of the 
-Universe derived by Dr. John Dee through the Scrying of 
-Sir Edward Kelly. 
+*Liber CVI* 
 
-Part-published in Equinox VII, p. 229 &amp; VIII, p. 99. 
-Liber XC. 
+*A Treatise on the Nature of Death, and the proper attitude to be taken towards it.* Published in “The International”, New York, 1917.
 
-Tzaddi vel Hamus Hermeticus. 
+*Liber CXI* (Aleph). &mdash; *The Book of Wisdom or Folly.*
 
-An account of Initiation, and an indication as to those who are 
-suitable for the same. 
-
-Equinox VI, p. 17. 
-
-Liber XCV. 
-
-The Wake-World. 
-
-A poetical allegory of the relations of the soul and the Holy 
-Guardian Angel. 
-
-Konx Om Pax, p. 1. 
-
-Liber XCVI. 
-
-Liber Gaias. 
-
-A Handbook of Geomancy. 
-
-Equinox II, p. 137. 
-
-Liber CVL 
-
-A Treatise on the Nature of Death y and the proper attitude 
-to be taken towards it. 
-
-Published in “The International”, New York, 1917. 
-Liber CXI (Aleph). 
-
-The B 00 k of Wisdom or Folly. 
-
-An extended and elaborate commentary on the Book of the 
-Law, in the form of a letter from the Master Therion to his 
-magical son. Contains some of the deepest secrets of initiation, 
-with a clear solution of many cosmic and ethical problems. 
+An extended and elaborate commentary on the Book of the Law, in the form of a letter from the Master Therion to his magical son. Contains some of the deepest secrets of initiation, with a clear solution of many cosmic and ethical problems. 
 Unpublished. 
 
-Liber CL. 
+*Liber CL.* &mdash; *De Lege Libellum.*
 
-De Lege Libellum. 
+A further explanation of the Book of the Law, with special reference to the Powers and Privileges conferred by its acceptance. Equinox III, part I, p. 99. 
 
+*Liber CLVI.* &mdash; *Liber Cheth, vel Valium Abiegni.*
 
-221 
+A perfect account of the task of the Exempt Adept considered under the symbols of a particular plane, not the intellectual. Equinox VI, p. 23. 
 
-
-A further explanation of the Book of the Law, with special 
-reference to the Powers and Privileges conferred by its 
-acceptance. 
-
-Equinox III, part i, p. 99. 
-
-Liber CLVI. 
-
-Liber Cheth, vel Valium Abiegni . 
-
-A perfect account of the task of the Exempt Adept considered 
-under the symbols of a particular plane, not the intellectual. 
-Equinox VI, p. 23. 
-
-Liber CLVII. 
-
-The Tao T eh King. 
+*Liber CLVII.* &mdash; *The Tao Teh King.* 
 
 A new translation, with a commentary, by the Master Therion. 
 Unpublished. 
 
-Liber CLXV . 
+*Liber CLXV.*
 
-A Master of the Temple , being an account of the attainment 
-of Frater Unus In Omnibus. 
+*A Master of the Temple*, being an account of the attainment of Frater Unus In Omnibus. 
 
 The record of a man who actually attained by the System 
-taught by the A . *. A . *. 
+taught by the A.·.A .·. 
 
 Part-published in Equinox III. I., p. 127. 
 
-Liber CLXXV. 
+*Liber CLXXV.* &mdash *Astarte vel Liber Berylli.*
 
-A star te vel Liber Berylli. 
+An instruction in attainment by the method of devotion, or Bhakti-Yogi. Equinox VII, p. 37. 
 
-An instruction in attainment by the method of devotion, or 
-Bhakta-Yogi. 
+*Liber CLXXXV.* &mdash; *Liber Collegii Sancti.*
 
-Equinox VII, p. 37. 
-
-Liber CLXXXV. 
-
-Liber Collegii Sancti. 
-
-Being the tasks of the Grades and their Oaths proper to 
-Liber XIII. This is the official paper of the various grades. 
-It includes the Task and Oath of a Probationer. 
-
+Being the tasks of the Grades and their Oaths proper to Liber XIII. This is the official paper of the various grades. It includes the Task and Oath of a Probationer. 
 Unpublished. 
 
-Liber CXCVIL 
+*Liber CXCVIL*
 
-The High History of Good Sir Palamedes the Saracen Knight 
-and of his following of the Questing Beast. 
+*The High History of Good Sir Palamedes the Saracen Knight and of his following of the Questing Beast.*
 
+A poetic account of the Great Work and enumeration of many obstacles. Equinox IV, Special Supplement. 
 
-222 
+*Liber CC.* &mdash; *Resh vel Helios.*
 
+An instruction for the adoration of the with the object of composing the mind to meditation, and of regularising the practices. Equinox VI, p. 29. 
 
-A poetic account of the Great Work and enumeration of many 
-obstacles. 
+*Liber CCVI.* *Liber RU Vel Spiritus.*
 
-Equinox IV, Special Supplement. 
+Full instruction in Pranayama. Equinox VII, p. 59. 
 
-Liber CC. 
+*Liber CCVII.*
 
-Res h vel Helios. 
-
-An instruction for the adoration of the 
-with the object of composing the mind 
-regularising the practices. 
-
-Equinox VI, p. 29. 
-
-Liber CCVI. 
-
-Liber RU Vel Spiritus . 
-
-Full instruction in Pranayama. 
-
-Equinox VII, p. 59. 
-
-Liber CCV1I. 
-
-Syllabus. An enumeration of the Official publications of the 
-A.*. A .'. with a brief description of the contents of each book. 
-
-Equinox XI (vol. iii part 1), p. 11. 
+*Syllabus.* An enumeration of the Official publications of the A.·.A.·. with a brief description of the contents of each book. Equinox XI (vol. iii part 1), p. 11. 
 
 This appendix is extracted therefrom. 
 
-Liber CCXX (L vel Legis). 
+*Liber CCXX* (L vel Legis). 
 
-The Book of the Law , which is the foundation of the whole 
-work. 
+The Book of the Law , which is the foundation of the whole work. 
 
-Text in Equinox x, p. 9. Short commentary in Equinox VII, 
-p. 378. Full commentary by the Master Therion through 
-whom it was given to the world, will be published shortly. 
+Text in Equinox x, p. 9. Short commentary in Equinox VII, p. 378. Full commentary by the Master Therion through whom it was given to the world, will be published shortly. 
 
-Liber CCXVI. 
-
-The Yi King. 
+*Liber CCXVI.* &mdash; *The Yi King.*
 
 A new translation, with a commentary by the Master Therion. 
 Unpublished. 
 
-Liber CCXXXI. 
+*Liber CCXXXI.* *Liber Arcanorum* ton ATU tou TAHUTI quas vidit ASAR in AMENNTI sub figura CCXXXI. Liber Carcerorum tov QLIPHOTH cum suis Geniis. Adduntur Sigilla et Nomina Eorum. 
 
-Liber Arcanorum twv ATU tou TAHUTI quas vidit ASAR 
-in AMENNTI sub figura CCXXXI. Liber Carcerorum tov 
-QLIPHOTH cum suis Geniis. Adduntur Sigilla et Nomina 
-Eorum. 
+An account of the cosmic process so far as it is indicated by the Tarot Trumps. Equinox VII, p. 69. 
 
+*Liber CCXLII.* AHA!
 
-Sun four times dally, 
-to meditation, and of 
+An exposition in poetic language of severaJ of the ways of attainment and the results obtained. Equinox III, p. 9. 
 
+*Liber CCLXV.* &mdash; *The Structure of the Mind.*
 
-223 — 
+A Treatise on psychology from the mystic and magical stand-point. Its study will help the aspirant to make a detailed scientific analysis of his mind, and so learn to control it. 
+Unpublished. 
 
+*Liber CCC. Khabs am Pekht.*
 
-An account of the cosmic process so far as it is indicated by 
-the Tarot Trumps. 
+A special instruction for the Promulgation of the Law. This is the first and most important duty of every Aspirant of whatever grade. It builds up in him the character and Karma which forms the Spine of Attainment. Equinox III. I., p. 171. 
 
-Equinox VII, p. 69. 
+*Liber CCCXXXIIL* &mdash; *The Book of Lies falsely so-called.*
 
-Liber CCXLIL AHA! 
-
-An exposition in poetic language of severaJ of the ways of 
-attainment and the results obtained. 
-
-Equinox III, p. 9. 
-
-Liber CCLXV. 
-
-The Structure of the Mind. 
-
-A Treatise on psychology from the mystic and magical stand- 
-point. Its study will help the aspirant to make a detailed 
-scientific analysis of his mind, and so learn to control it. 
-Uupublished. 
-
-Liber CGC . Khabs am Tekht . 
-
-A special instruction for the Promulgation of the Law. This 
-is the first and most important duty of every Aspirant of 
-whatever grade. It builds up in him the character and Karma 
-which forms the Spine of Attainment. 
-
-Equinox III. I., p. 171. 
-
-Liber CCCXXXIIL 
-
-The B00k of Lies falsely so-called. 
-
-Deals with many matters on all planes of the very highest 
-importance. It is an official publication for Babes of the 
-Abyss, but is recommended even to beginners as highly 
-suggestive. 
-
+Deals with many matters on all planes of the very highest importance. It is an official publication for Babes of the Abyss, but is recommended even to beginners as highly suggestive. 
 Published. 
 
-Liber CCCXXXV. Adonis. 
+*Liber CCCXXXV. Adonis.*
 
-An account in poetic language of the struggle of the human 
-and divine elements in the consciousness of man, giving their 
-harmony following on the victory of the latter. 
+An account in poetic language of the struggle of the human and divine elements in the consciousness of man, giving their harmony following on the victory of the latter. Equinox VII, p. 117. 
 
-Equinox VII, p. 117. 
+*Liber CCCLXI.* &mdash; *Liber H.H.H.*
 
-Liber CCCLXI. 
+Gives three methods of attainment through a willed series of thoughts. 
 
-Liber H.H.H. 
+*Liber CCCLXV, vel CXX.*
 
+The Preliminary Invocation of the Goetia so-called, with a complete explanation of the barbarous names of evocation used therein, and the secret rubric of the ritual, by the Master Therion. This is the most potent invocation extant, and was used by the Master Himself in his attainment. See p. 265 of this book. 
 
-— 224 — 
+*Liber CD.* &mdash; *Liber TAU Vel Kabbalæ Trium Literarum sub figura CD.*
 
+A graphic interpretation of the Tarot on the plane of initiation. Equinox VII, p. 75. 
 
-Gives three methods of attainment through a willed series of 
-thoughts. 
+*Liber CCCCXII.* &mdash; *A Vel Armorum.*
 
-Liber CCCLXV , vel CXX. 
+An instruction for the preparation of the Elemental Instruments. Equinox IV, p. 15. 
 
-The Preliminary Invocation of the Goetia so-called, with a 
-complete explanation of the barbarous names of evocation 
-used therein, and the secret rubric of the ritual, by the Master 
-Therion. This is the most potent invocation extant, and was 
-used by the Master Himself in his attainment. 
+*Liber CDXVIII.* &mdash; *Liber XXX AERUM vel Saeculi.*
 
-See p. 265 of this book. 
-
-Liber CD. 
-
-Liber TAU Vel Kabbalæ T rium Literarum sub figura CD . 
-
-A graphie interpretation of the Tarot on the plane of initiation. 
-Equinox VII, p. 75. 
-
-Liber CCCCXII. 
-
-A Vel Armorum. 
-
-An instruction for the preparation of the Elemental Instru¬ 
-ments. 
-
-Equinox IV, p. 15. 
-
-Liber CCCCXVI1I. 
-
-Liber XXX AERUM vel Saeculi. 
-
-Being of the Angels of the Thirty Aethyrs. the Vision and the 
-Voice. Besides being the classical account of the thirty Aethyrs 
-and a model of all visions, the cries of the Angels should be 
-regarded as accurate, and the doctrine of the function of the 
-Great White Brotherhood understood as the foundation of 
-the Aspiration of the Adept. The account of the Master of 
-the Temple should in particular be taken as authentic. 
+Being of the Angels of the Thirty Aethyrs. the Vision and the Voice. Besides being the classical account of the thirty Aethyrs and a model of all visions, the cries of the Angels should be regarded as accurate, and the doctrine of the function of the Great White Brotherhood understood as the foundation of the Aspiration of the Adept. The account of the Master of the Temple should in particular be taken as authentic. 
 Equinox V, Special Supplement. 
 
-Liber CDLXXIV. Os Abysmi vel Da’ath. 
+*Liber CDLXXIV.* &mdash; *Os Abysmi vel Da’ath.*
 
-An instruction in a purely intellectual method of entering the 
-Abyss. 
+An instruction in a purely intellectual method of entering the Abyss. Equinox VII, p. 77. 
 
-Equinox VII, p. 77. 
+*Liber D.* &mdash; *Sepher Sephiroth*
 
-Liber D. Sepher Sephiroth . 
+A dictionary of Hebrew words arranged according to their numerical value. This is an Encyclopædia of the Holy Qabalah, which is a Map of the Universe, and enables man to attain Perfect Understanding. Equinox VIII, Special Supplement. 
 
-A dictionary of Hebrew words arranged according to their 
+*Liber DXXXVI.* &mdash; *A complete Treatise on Astrology.*
 
-
-225 
-
-
-numerical value. This is an Encyclopædia of the Holy 
-Qabalah, which is a Map of the Universe, and enables man 
-to attain Perfect Understanding. 
-
-Equinox VIII, Special Supplement. 
-
-Liber DXXXVI. 
-
-A complete Treatise on Astrology . 
-
-This is the only text book on astrology composed on scientific 
-lines by classifying observed facts instead of deducting from a 
-priori theories. 
-
+This is the only text book on astrology composed on scientific lines by classifying observed facts instead of deducting from *a priori* theories. 
 Unpublished. 
 
-Liber DXXXVI. 
+*Liber DXXXVI.* &mdash; *BATRACHOFRENOBOOKOSMOAXIA.*
 
-B ATP AXOfcPENOBOOKOEMOM AXIA. 
+An instruction in expansion of the field of the mind. Equinox X, p. 35. 
 
-An instruction in expansion of the field of the mind. 
+*Liber DLV.* &mdash; *Liber HAD.*
 
-Equinox X, p. 35. 
+An instruction for attaining Hadit. Equinox VII, p. 83. 
 
-Liber DLV. Liber HAD. 
+*Liber DCXXXIII.* &mdash; *De Thaumaturgie.*
 
-An instruction for attaining Hadit. 
-
-Equinox VII, p. 83. 
-
-Liber DCXXXII 1 . 
-
-De Thaumaturgie. 
-
-A statement of certain ethical considerations concerning 
-Magick. 
-
+A statement of certain ethical considerations concerning Magick. 
 Unpublished. 
 
-Liber DCLXVI. 
+*Liber DCLXVI.* &mdash; *The Beast.*
 
-The Beast. 
-
-An account of the Magical Personality who is the Logos of 
-the present Aeon. 
-
+An account of the Magical Personality who is the Logos of the present Aeon. 
 Unpublished. 
 
-Liber DCCLXXVIL (777). 
+*Liber DCCLXXVI* (777). &mdash; *Vel Prolegomena Symbolica Ad Systemam Sceptico-Mysticœ Viae Explicandae, Fundamentum Hieroglyphicorum Sanctissimorum Scientiæ Summae.*
 
-Vel Proiegomena Symbolica Ad Systemam Sceptico-IÆysticœ 
-Vice Explicandce , Fundamentum Hieroglyphicorum Sanctissi- 
-morum Scientiæ Summce. 
-
-A complete Dictionary of the Correspondences of all magical 
-elements, reprinted with extensive additions, making it the 
-
-
-226 
-
-
-only standard comprehensive book of reference ever published. 
-It is to the language of Occultism what Webster or Murray 
-is to the English Language. 
+A complete Dictionary of the Correspondences of all magical elements, reprinted with extensive additions, making it the only standard comprehensive book of reference ever published. It is to the language of Occultism what Webster or Murray is to the English Language. 
 
 The reprint with additions will shortly be published. 
 
-Liber DCCCXL 
+*Liber DCCCXL* &mdash; *Energised Enthusiasm.*
 
-Energised Enthusiasm. 
+Specially adapted to the task of Attainment of Control of the Body of Light, development of Intuition and Hathayoga. Equinox IX, p. 17. 
 
-Specially adapted to the task of Attainment of Control of the 
-Body of Light, development of Intuition and Hathayoga. 
-Equinox IX, p. 17. 
+*Liber DCCCXIII.* &mdash; *Vel ARARITA.*
 
-Liber DCCCXIII. 
-
-Vel ARARITA . 
-
-An account of the Hexagram and the method of reducing it 
-to the Unity, and Beyond. 
-
+An account of the Hexagram and the method of reducing it to the Unity, and Beyond. 
 Unpublished. 
 
-Liber DCCCXXXI. 
+*Liber DCCCXXXI.* &mdash; *Liber IOD, formerly called VESTA.* 
 
-Liber IOD y formerly called VESTA. 
+An instruction giving three methods of reducing the manifold consciousness to the Unity. 
 
-An instruction giving three methods of reducing the manifold 
-consciousness to the Unity. 
+Adapted to facilitate the task of the Attainment of Raja-Yoga and of the Knowledge and Conversation of the Holy Guardian Angel. Equinox VII, p. 101. 
 
-Adapted to facilitate the task of the Attainment of Raja-Yoga 
-and of the Knowledge and Conversation of the Holy Guardian 
-Angel. 
+*Liber DCCCXXXVII* &mdash *The Law of Liberty.*
 
-Equinox VII, p. 101. 
+This is a further explanation of the Book of the Law in reference to certain Ethical problems. Equinox XI (vol. III, No. 1), p. 45. 
 
-Liber DCCCXXXV1L 
+*Liber DCCCLX.* &mdash; *John St. John.* 
 
-The Law of Liberty . This is a further explanation of the 
-Book of the Law in reference to certain Ethical problems. 
-Equinox XI (vol. III, No. 1), p. 45. 
+The Record of the Magical Retirement of G. H. Frater O.·.M.·. 
 
-Liber DCCCLX. 
-
-John St. John . 
-
-The Record of the Magical Retirement of G. H. Frater 
-O .*. M 
-
-A model of what a magical record should be, so far as accurate 
-analysis and fullness of description are concerned. 
-
-Equinox 1, Supplement. 
+A model of what a magical record should be, so far as accurate analysis and fullness of description are concerned. Equinox I, Supplement. 
 
 
-Uber DCCCLXVIIL 
-Liber Viarum Vice. 
+*Liber DCCCLXVIII* &mdash; *Liber Viarum Viae.*
 
-A graphical account of magical powers classified under the 
-Tarot Trumps. 
+A graphical account of magical powers classified under the Tarot Trumps. Equinox VII, p. 101. 
 
-Equinox VII, p. ioi. 
-
-Liber DCCCLXXXVIIL 
+*Liber DCCCLXXXVIII*
 
 A complete study of the origins of Christianity. 
-
 Unpublished. 
 
-Liber CMXIII. 
+*Liber CMXIII.* &mdash; *Liber Viae Memoriœ.*
 
-Liber Vice Memoriœ. 
+Gives methods for attaining the magical memory, or memory of past lives, and an insight into the function of the Aspirant in this present life. Equinox VII, p. 105. 
 
-Gives methods for attaining the magical memory, or memory 
-of past lives, and an insight into the function of the Aspirant 
-in this present life. 
+*Liber CMXXXIV.* &mdash; *The Cactus.*
 
-Equinox VII, p. 105. 
-
-Liber CMXXXIV. 
-
-The Cactus . 
-
-An elaborate study of the psychological effects produced by 
-Anhalonium Lewinii (Mescal Buttons), compiled from the 
-actual records of some hundreds of experiments. 
-
+An elaborate study of the psychological effects produced by Anhalonium Lewinii (Mescal Buttons), compiled from the actual records of some hundreds of experiments. 
 Unpublished. 
 
-Liber DCCCCLXIII. 
+*Liber DDLXIII.* &mdash; *The Treasure House of Images.*
 
-The Treasure House of Images . 
+A superb collection of Litanies appropriate to the Signs of the Zodiac. Equinox III, Supplement. 
 
-A superb collection of Litanies appropriate to the Signs of the 
-Zodiac. 
+*Liber MMCCMXI.* &mdash; *A Note on Genesis.*
 
-Equinox III, Supplement. 
+A model of Qabalistic ratiocination. Specially adapted to Gnana Yoga. 
 
-Liber MMCCMXI. 
+*Liber MCCLXIV.* &mdash; *The Greek Qabalah.*
 
-A Note on Genesis. 
-
-A model of Qabalistic ratiocination. Specially adapted to 
-Gnana Yoga. 
-
-Liber MCCLXIV . 
-
-The Greek Qabalah . 
-
-A complete dictionary of all sacred and important words and 
-phrases given in the Books of the Gnosis and other important 
-writings both in the Greek and the Coptic. 
-
+A complete dictionary of all sacred and important words and phrases given in the Books of the Gnosis and other important writings both in the Greek and the Coptic. 
 Unpublished. 
 
 
-228 — 
+# APPENDIX II 
+
+#### ONE STAR IN SIGHT. 
+
+> Thy feet in mire, thine head in murk,  
+> O man, how piteous thy plight,  
+> The doubts that daunt, the ills that irk,  
+> Thou hast nor wit nor will to fight —  
+> How hope in heart, or worth in work ?  
+> No star in sight!  
+>  
+> Thy Godsproved puppets of the priest.  
+>  
+> “Truth? All’s relation!” science sighed.  
+> In bondaae with thy brother beast,  
+> Love tortured thee, as Love’s hope died  
+> And Love’s farth rotted. Life no least  
+> Dim star descried.  
+>  
+> Thy cringing carrion cowered and crawled  
+> To find itself a chance-cast clod  
+> Whose Pain was purposeless; appalled  
+> That aimless accident thus trod  
+> Its agony, that void skies sprawled  
+> On the vain sod!  
+>  
+> All souls eternally exist,  
+> Each individual, ultimate,  
+> Perfect &mdash; each makes itself a mist  
+> Of mind and flesh to celebrate  
+> With some twin mask their tender tryst  
+> Insatiate.  
+>  
+> Some drunkards, doting on the dream,  
+> Despair that it should die, mistake  
+> Themselves for their own shadow-scheme.  
+>  
+> One star can summon them to wake  
+> To self; star-sonis serene that gleàm  
+> On life life's calm lake.  
+>  
+> That shall end never that began.  
+> all things endure because they are.  
+> Do what thou wilt, for every man  
+> And every woman is a star.  
+> Pan is not dead; he liveth, Pan!  
+> Break down the bar!  
+>  
+> To man I come, the number of  
+> A man my number, Lion of Light;  
+> I am The Beast whose Law is Love.  
+> Love under will, his royal right &mdash;  
+> Behold within, and not above,  
+> One star in sight!  
+
+### ONE STAR IN SIGHT. 
+
+A glimpse of the structure and System of the Great White Brotherhood. 
+
+<div class="centered">A.·.A.·.</div>^[The Name of The Order and those of its three divisions are not disclosed to the profane. Certain swindlers have recently stolen the initials A.·.A.·., in order to profit by its reputation.]
+
+<div class="centered">Do what thou wilt shall be the whole of the Law.</div>
 
 
+1. The Order of the Star called S. S. is, in respect of its 
+existence upon the Earth, an organised body of men and women distinguished among their fellows by the qualities here enumerated. They exist in their own Truth, which is both universal and unique. 
 
-APPENDIX IL 
+They move in accordance with their own Wills, which are each unique, yet coherent with the universal will. 
 
-
-ONE STAR IN SIGHT. 
-
-Thy feet in mire, thine head in murk, 
-
-O man, how piteous thy plight, 
-
-The doubts that daunt, the ills that irk, 
-
-Thon hast nor wit nor will to fight — 
-
-How hope in heart, or worth in work ? 
-
-No star in siglit ! 
-
-Thy G ods proved puppets of the priest. 
-
-“Truth ? All’s relation !” science sighed. 
-In bondaae with thy brother beast, 
-
-Love tortured thee, as Love’s hope died 
-And Love’s farth rotted. Life no least 
-Dim star descried. 
-
-Thy cringing carrion cowered and crawled 
-To find itself a chance-cast clod 
-Whose Pain was purposeless; appalled 
-That aimless accident thus trod 
-Its agony, that void skies sprawled 
-On the vain sod ! 
-
-all souls eternally exist, 
-
-Each individual, ultimate, 
-
-Perfect -— each makes itself a mist 
-Of mind and flesh to celebrate 
-With some twin mask their tender tryst 
-Insatiate. 
-
-
-— 229 
-
-
-Some drunkards, dofing on tiie dream, 
-Despair thaï il should die, mistake 
-Themselves for their own shadow-scheme. 
-
-One star can summon tliem to wake 
-To self; star-sonis serene that gleàm 
-On life f s calm lake. 
-
-That shall end never that began. 
-
-all things endure hecause they are. 
-Do what thon wilt, for every man 
-And every woman is a star. 
-
-Pan is not dead; he liveth, Pan ! 
-
-Break down the bar ! 
-
-To man I come, the number of 
-
-A man my number, Lion of Light; 
-
-I am The Beast whose Law is Love. 
-
-Love under will, bis royal right — 
-Behold within, and not above, 
-
-One star in sight ! 
-
-
-ONE STAR IN SIGHT. 
-
-A glimpse of the structure and System of the Great White 
-Brotherhood. 
-
-
-Do what thou wilt shall be the whole of the Law. 
-
-i. The Order of the Star called S. S. is, in respect of its 
-existence upon the Earth, an organised body of men and women 
-distinguished among their fellows by the qualities here enumerated. 
-They exist in their own Truth, which is both universal and unique. 
-
-
-i. The Name of The Order and those of its three divisions are not 
-disclosed to the profane. Certain swindlers have recently stolen the initiais 
-A A.-, in order to profit by its reputation. 
-
-
-230 — 
-
-
-
-
-They move in accordance with their own Wills, which are each 
-unique, yet coherent with the universal will. 
-
-lhey perceive (that is, understand, know, and feel) in love, 
-which is both unique and universal. 
+They perceive (that is, understand, know, and feel) in love, which is both unique and universal. 
 
 2. The order consists of eleven grades or degrees, and is 
 numbered as follows: these compose three groups, the Orders of 
 the S. S., of the R. C., and of the G. D. respectively. 
 
 
-The Order 
+*The Order of the S. S.*
 
-of the S. S. 
-
-
-Ipsissimus. 
-
-10 ° 
-
-1 G 
+Ipsissimus 10° = 1° 
 
 Magus .... 
 
@@ -7819,7 +7163,7 @@ The Oath.
 
 T Thee, that didst create the darkness and the Light. 
 
-5. Thou art ASAR UN-NEFER ( a Myself made Perfect”) : 
+5. Thou art A.·.A.·.UN-NEFER ( a Myself made Perfect”) : 
 
 Whom no man hath seen at any time. 
 
@@ -18531,7 +17875,7 @@ wise confuse this invocation with that.
 
 49. The Benediction. — And so may the love that passeth all 
 Understanding keep your hearts and minds through IAÜ 
-AAONAI 2 ABAQ and through BABALON of the City of the 
+AAONAI 2 A.·.A.·.and through BABALON of the City of the 
 Pyramids, and through Astarte, the Starry One green-girdled, in 
 the name ARARITA. Amen. 
 
@@ -20159,98 +19503,4 @@ And again, “I am armed, I am armed.”
 
 LECRAM. IM P. PARIS 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
- 
-
- 
-
-
-
-
-
- 
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# PART IV - THE LAW
