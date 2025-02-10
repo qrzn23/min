@@ -62,6 +62,14 @@ hr {
   opacity: 0.7;
 }
 
+img {
+  font-size: 0; /* Hides alt text */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
 /* Lists */
 ul, ol {
   margin-left: 1.5em; /* Indentation for both lists */
@@ -128,6 +136,10 @@ ul li, ol li {
   display: block;
   width: 100%;
   margin: 0 auto;
+}
+
+.align-right {
+  float: right;
 }
 
 /* Cover image styling */

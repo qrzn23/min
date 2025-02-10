@@ -8,6 +8,7 @@ CONTENT_FILE="${1:-content.md}"
 OUTPUT_FILE="${2:-output.epub}"
 METADATA_FILE="${3:-metadata.yaml}"
 COVER_IMAGE="${4:-cover.jpg}"
+RESOURCE_PATH="img:."
 
 # Function to check if a file exists
 check_file() {
@@ -33,6 +34,7 @@ echo "Generating EPUB..."
 pandoc "$CONTENT_FILE" -o "$OUTPUT_FILE" \
   --metadata-file="$METADATA_FILE" \
   --epub-cover-image="$COVER_IMAGE" \
+  --resource-path="$RESOURCE_PATH" \
   --toc --split-level=3
 
 # Confirm success
