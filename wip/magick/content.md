@@ -2350,9 +2350,9 @@ SOPH. AJ.
 > Thrill with lissome lust of the light,  
 > O man! My man!  
 > Come careering out of the night  
-> Io Pan ! Io Pan!  
-> Io Pan ! Io Pan ! Come over the sea  
-> From Sicily and from Arcady !  
+> Io Pan! Io Pan!  
+> Io Pan! Io Pan! Come over the sea  
+> From Sicily and from Arcady!  
 > Roaming as Bacchus, with fauns and pards  
 > And nymphs and satyrs for thy gnards,  
 > On a milk-white ass, come over the sea  
@@ -2374,7 +2374,7 @@ SOPH. AJ.
 > Devil or god, to me, to me,  
 > My man! my man!  
 > Come with trumpets sounding shrill  
-> Over the hill !  
+> Over the hill!  
 > come with drums low muttering  
 > From the spring!  
 > Come with flute and come with pipe!  
@@ -2396,14 +2396,14 @@ SOPH. AJ.
 > I am a man:  
 > Do as thou wilt, as a great god can,  
 > O Pan! Io Pan!  
-> Io Pan ! Io Pan Pan ! I am awake  
+> Io Pan! Io Pan Pan! I am awake  
 > In the grip of the snake.  
 > The eagle slashes with beak and claw;  
 > The gods withdraw:  
 > The great beasts come, Io Pan! I am borne  
 > To death on the horn  
 > Of the Unicorn.  
-> I am Pan ! Io Pan ! Io Pan Pan ! Pan !  
+> I am Pan! Io Pan! Io Pan Pan! Pan!  
 > I am thy mate, I am thy man,  
 > Goat of thy flock, I am gold, I am god,  
 > Flesh to thy bone, flower to thy rod.  
@@ -2865,7 +2865,7 @@ Let us say, once again, that the magical language is nothing but a convenient Sy
 
 Yet this is true also, that, once the language is mastered, one can divine the unknown by study of the known, just as one’s knowledge of Latin and Greek enables one to understand some unfamiliar English word derived from those sources. Also, there is the similar case of the Periodic Law in Chemistry, which enables Science to prophesy, and so in the end to discover, the existence of certain previously unsuspected elements in nature. **All discussions upon philosophy are necessarily sterile, since truth is beyond language. Tliey are, however, useful if carried far enough — if carried to the point when it becomes apparent that all arguments are arguments in a circle.**^[See “The Soldier and the Hunchback" Equinox I, I. The apparatus of human reason is simply one particular System of coordinating impressions; its structure is determined by the course of the evolution of the species. It is no more absolute than the evolution of the species. It is no more absolute than the mechanism of our muscles is a complete type wherewith ali other Systems of transmitting Force must conform.] But discussions of the details of purely imaginary: qualities are frivolous and may be deadly. For the great danger of this magical theory is that the student may mistake the alphabet for the things which the words represent. 
 
-An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a art was a creature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense.^[Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to have known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the supreme atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is evident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead ? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it.] 
+An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a art was a creature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense.^[Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to have known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the supreme atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is evident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it.] 
 
 A synopsis of the grades of the A. A., as illustrative of the Magical Hierarchy in Man is given in Appendix 2 “One Star in Sight.” This should be read before proceeding with the chapter. The subject is very difficult. To deal with it in full is entirely beyond the limits of this small treatise. 
 
@@ -2926,7 +2926,7 @@ In the second method identity is attained by paying special attention to the des
 
 In the third, identity is attained by sympathy. It is very difficult for the ordinary man to lose himself completely in the subject of a play or of a novel but for those who can do so, this method is unquestionably the best. 
 
-Observe: each element in this cycle is of equal value. It is wrong to say triumphantly “Mors janua vitæ”, unless you add, with equal triumph, “Vita janua mortis”. To one who understands this chain of the Aeons from the point of view alike of the sorrowing Isis and of the triumphant Osiris, not forgetting their link in the destroyer Apophis, there remains no secret veiled in Nature. He cries that name of God which throughout History has been echoed by one religion to another, the infinite swelling paean I.A.O. !^[This name. I. A. O. is qabalistically identical with that of The Beast and with His number 666, so that he who invokes the former invokes also the latter. Also with AIWAZ and the Number 93. See Chapter V.] 
+Observe: each element in this cycle is of equal value. It is wrong to say triumphantly “Mors janua vitæ”, unless you add, with equal triumph, “Vita janua mortis”. To one who understands this chain of the Aeons from the point of view alike of the sorrowing Isis and of the triumphant Osiris, not forgetting their link in the destroyer Apophis, there remains no secret veiled in Nature. He cries that name of God which throughout History has been echoed by one religion to another, the infinite swelling paean I.A.O.!^[This name. I. A. O. is qabalistically identical with that of The Beast and with His number 666, so that he who invokes the former invokes also the latter. Also with AIWAZ and the Number 93. See Chapter V.] 
 
 ### Chapter II — The Formulae of the Elemental Weapons
 
@@ -3025,7 +3025,7 @@ to some feminine correlative.
 
 The word ALIM may in fact be considered as neuter. By a rather absurd convention, neuter objects are treated as feminine on account of their superficial resemblance in passivity and inertness with the unfertilized female. But the female produces life by the intervention of the male, while the neuter does so only when impregnated by Spirit. Thus we find the feminine AMA becoming AIMA^[AMA is 42, the number of sterility; AIMA, 52, that of fertility, of BN, the SON.] through the operation of the phallic Yod, while ALIM, the congress of dead elements, only fructifies by the brooding of Spirit. 
 
-This being so, how can we describe ALIM as containing a Magical formula ? Inquiry discloses the fact that this formula is of a very special kind. 
+This being so, how can we describe ALIM as containing a Magical formula? Inquiry discloses the fact that this formula is of a very special kind. 
 
 The word adds up to 81, which is a number of the moon. It is thus the formula of witchcraft, which is under Hecate^[See A. Crowley “Orpheus" for an Invocation of this Goddess.] . It is only the romantic mediaeval perversion of science that represents young women as partaking in witchcraft, which is, properly speaking, restricted to the use of such women as are no longer women in the Magical sense of the word, because they are no longer capable of corresponding to the formula of the male, and are therefore neuter rather than feminine. It is for this reason that their method has always been referred to the moon, in that sense of the term in which she appears, not as the feminine correlative of the sun, but as the burnt-out, dead, airless satellite of earth. 
 
@@ -3401,7 +3401,7 @@ It is found by experience (confirming the statement of Zoroaster) that the most 
 The conjurations given by Dr. Dee (vide Equinox I, VIII) are an a language called Angelic, or Enochian. Its source has hitherto baffled research, but it is a language and not a jargon, for it possesses a structure of its own, and there are traces or grammar 
 and syntax. 
 
-However this may be, it works. Even the beginner finds that “things happen” when he uses it: and this is an advantage or disadvantage ! —shared by no other type of language. The rest need skill. This needs Prudence! 
+However this may be, it works. Even the beginner finds that “things happen” when he uses it: and this is an advantage or disadvantage! —shared by no other type of language. The rest need skill. This needs Prudence! 
 
 The Egyptian Invocations are much purer, but their meaning has not been sufficiently studied by persons magically competent. We possess a number of Invocations in Greek of every degree of excellence; in Latin but few, and those of inferior quality. It will 
 be noticed that in every case the conjurations are very sonorous, and there is a certain magical voice in which they should be recited. This special voice was a natural gift of the Master Therion; but it can be easily taught — to the right people. 
@@ -3866,7 +3866,7 @@ The third operation in any magical ceremony is the oath or proclamation. The Mag
 
 Yet, having demonstrated himself in that position at once infinitely lofty and infinitely unimportant, the instrument of destiny, he balances this by the *Confession*, in which there is again an infinite exaltation harmonised with an infinite humility. He admits himself to be a weak human being humbly aspiring to something higher; a creature of circumstance utterly dependent — even for the breath of life — upon a series of fortunate accidents. 
 
-He makes this confession prostrate^[Compare the remarks in a previous chapter. But this is a particular case. We leave its justification as a problem.] before the altar in agony and bloody sweat. He trembles at the thought of the operation which he has dared to undertake, saying, “Father, if it be Thy Will, let this cup pass from me ! Nevertheless not my will but Thine be done !”^[Of course this is for the beginner. As soon as it is assimilated as true, he will say : “My will which is thine be done ! ” And ultimately no more distinguish “mine” from “thine”. A sympathetic change of gesture will accompany the mental change.]
+He makes this confession prostrate^[Compare the remarks in a previous chapter. But this is a particular case. We leave its justification as a problem.] before the altar in agony and bloody sweat. He trembles at the thought of the operation which he has dared to undertake, saying, “Father, if it be Thy Will, let this cup pass from me! Nevertheless not my will but Thine be done!”^[Of course this is for the beginner. As soon as it is assimilated as true, he will say : “My will which is thine be done! ” And ultimately no more distinguish “mine” from “thine”. A sympathetic change of gesture will accompany the mental change.]
 
 
 The dread answer comes that It Must Be, and this answer so fortifies him with holy zeal that it will seem to him as if he were raised by divine hands from that prostrate position; with a thrill of holy exaltation he renews joyfully the Oath, feeling himself once again no longer the man but the Magician, yet not merely the Magician, but the chosen and appointed person to accomplish a task which, however apparently unimportant, is yet an integral part of universal destiny, so that if it were not accomplished the Kingdom of Heaven would be burst in pieces. 
@@ -4272,7 +4272,7 @@ As against this, one must insist that it is obviously to the advantage of the di
 It is sometimes better to act on the advice of a spirit even when one knows it to be wrong, though in such a case one must take the proper precautions against an undesirable result. The reason for this is that spirits of this type are very sensitive. They suffer agonies of remorse on realising that they have injured their Master; for he is their God; they know themselves to be part of him, their aim is to attain to absorption in him. They understand therefore that his interests are theirs. Care must be taken to employ none but spirits who are fit for the purpose, not only by reason of their capacity to supply information, but for their sympathy with the personality of the Magician. Any attempt to coerce unwilling spirits is dangerous. They obey from fear; their fear makes them flatter, and tell amiable falsehoods. It also creates phantasmal projections of themselves to personate them; and these phantasms, besides being worthless, become the prey of malicious daemons who use them to attack the Magician in various ways whose prospect of success is enhanced by the fact that he has him¬ 
 self created a link with them. 
 
-One more observation seems desireable while on this subject. Divination of any kind is improper in matters directly concerning the Great Work itself. **In the Knowledge and Conversation of his Holy Guardian Angel, the adept is possessed of all he can possibly need. To consult any other is to insult one’s Angel.** Moreover, it is to abandon the only person who really knows, and really cares, in favour of one who by the nature of the case, must be ignorant^[No intelligence of the type that operates divination is a complete Microscosm as Man is. He knows in perfection what lies within his own Sphere, and little or nothing beyond it. Graphiel knows all that is knowable about Martial matters, as no Man can possibly do. For even the most Martial man is limited as to Madim by the fact that Mars is only one element in his molecule; the other elements both inhibit concentration on their colleague, and veil him by insisting on his being interpreted in reference to themselves. No entity whose structure does not include the entire Tree of Life is capable of the Formulae of Initiation. Graphiel, consulted by the Aspirants to Adeptship, would be bound to regard the Great Work as purely a question of Combat, and ignore all other considerations. His advice wouid be absolute on technical points of this kind; but its very perfection would persuade the Aspirant to an unbalanced course of action which would entall failure and destruction. It is pertinent to mention in this connection that one must not expect absolute information as to what is going to happen. “Fortune-telling” is an abuse of divination. At the utmost one can only ascertain what may reasonably be expected. The proper function of the process is to guide one’s judgrnent. Diagnosis is fairly reliable; advice may be trusted, generally speaking; but prognosis should always be cautious. The essence of the business is the consultation of specialists.] of the essence of the matter — one whose interest in it is no more (at the best) than that of a well-meaning stranger. It should go without saying that until the Magician has attained to the Knowledge and Conversation of his Holy Guardian Angel he is liable to endless deceptions. He does not know Himself; how can he explain his business to others? How can those others, though they do their best for him, aid in anything but trifles ? One must therefore be prepared for disappointment at every stage until one attains to adeptship. 
+One more observation seems desireable while on this subject. Divination of any kind is improper in matters directly concerning the Great Work itself. **In the Knowledge and Conversation of his Holy Guardian Angel, the adept is possessed of all he can possibly need. To consult any other is to insult one’s Angel.** Moreover, it is to abandon the only person who really knows, and really cares, in favour of one who by the nature of the case, must be ignorant^[No intelligence of the type that operates divination is a complete Microscosm as Man is. He knows in perfection what lies within his own Sphere, and little or nothing beyond it. Graphiel knows all that is knowable about Martial matters, as no Man can possibly do. For even the most Martial man is limited as to Madim by the fact that Mars is only one element in his molecule; the other elements both inhibit concentration on their colleague, and veil him by insisting on his being interpreted in reference to themselves. No entity whose structure does not include the entire Tree of Life is capable of the Formulae of Initiation. Graphiel, consulted by the Aspirants to Adeptship, would be bound to regard the Great Work as purely a question of Combat, and ignore all other considerations. His advice wouid be absolute on technical points of this kind; but its very perfection would persuade the Aspirant to an unbalanced course of action which would entall failure and destruction. It is pertinent to mention in this connection that one must not expect absolute information as to what is going to happen. “Fortune-telling” is an abuse of divination. At the utmost one can only ascertain what may reasonably be expected. The proper function of the process is to guide one’s judgrnent. Diagnosis is fairly reliable; advice may be trusted, generally speaking; but prognosis should always be cautious. The essence of the business is the consultation of specialists.] of the essence of the matter — one whose interest in it is no more (at the best) than that of a well-meaning stranger. It should go without saying that until the Magician has attained to the Knowledge and Conversation of his Holy Guardian Angel he is liable to endless deceptions. He does not know Himself; how can he explain his business to others? How can those others, though they do their best for him, aid in anything but trifles? One must therefore be prepared for disappointment at every stage until one attains to adeptship. 
 
 This is especially true of divination, because the essence of the horror of not knowing one’s Angel is the utter bewilderment and anguish of the mind, complicated by the persecution of the body, and envenomed by the ache of the soul. One puts the wrong ques¬ tions, and puts them wrong; gets the wrong answers, judges them wrong, and acts wrongly upon them. One must nevertheless persist, aspiring with ardour towards one’s Angel, and comforted by te assurance that He is guiding one secretly towards Himself, and that all one’s mistakes are necessary preparations for the appointed hour of meeting Him. Each mistake is the combing-out of some tangle in the hair of the bride as she is being coiffed for marriage. 
 
@@ -4651,6 +4651,10 @@ If the reader will turn to the account of his astral journeys in the Second Numb
 Very different is His record after the training in 1901 e. v. had put Him in the way of discipline.^[Recent developments have enabled Him to correct these conditions, so that this Book (as now finally revised for the Press) may be considered practically free from serious defect in this particular.]
 
 At the conclusion of this part of this book, one may sum up the whole matter in these words: **There is no object whatever worthy of attainment but the regular development of the being of the Aspirant by steady scientific work; he should not attempt to run before he can walk; he should not wish to go somewhere until he knows for certain whither he wills to go.**
+
+# PART IV - THE LAW
+
+
 
 # APPENDIX
 
@@ -5295,7 +5299,7 @@ Unpublished.
 > O man, how piteous thy plight,  
 > The doubts that daunt, the ills that irk,  
 > Thou hast nor wit nor will to fight —  
-> How hope in heart, or worth in work ?  
+> How hope in heart, or worth in work?  
 > No star in sight!  
 >  
 > Thy Godsproved puppets of the priest.  
@@ -5922,7 +5926,7 @@ BABALON-BAL-BIN-ABAFT <span class="align-right">“Babalon! Thou Woman of Whored
 
 <span class="align-right">"Thou Lady of the Understanding of the Ways!”</span>
 
-ASAL-ON-AI <span class="align-right">“Hail Thou, the unstirred! Hail, sister and bride of ON, of the God that is all and is none, by the Power of Eleven !"</span>
+ASAL-ON-AI <span class="align-right">“Hail Thou, the unstirred! Hail, sister and bride of ON, of the God that is all and is none, by the Power of Eleven!"</span>
 
 APhEN-IAF <span class="align-right">"Thou Treasure of IAO!”</span>
 
@@ -5948,7 +5952,7 @@ Hear Me: and make all Spirits subject unto Me: so that every Spirit of the Firma
 
 I invoke Thee: — 
 
-MA “O Mother ! O Truth ! ” 
+MA “O Mother! O Truth! ” 
 
 BARRAIO <span class="align-right">“Thou Mass!”</span>^[“Mass”, in the sense of the word which is used by physicists. The impossibility of defining it will not deter the intrepid initiate (in view of the fact that the fundamental conception is beyond the normal categories of reason.)]
 
@@ -6043,7 +6047,7 @@ GAIA <span class="align-right">“Leap up, thou Earth!”</span>
 
 <span class="align-right">(This is also an agonising appeal to the Earth, the Mother; for at this point of the ceremony the Adept should be torn from his mortal attachments, and die to himself in the orgasm of his operation.^[A thorough comprehension of Psycho-analysis will contribute notably to the proper appreciation of this Ritual.])</span>
 
-AEPE <span class="align-right">“Thou Exalted One! It (i.e. the spiritual “semen ? , the Adept’s secret ideas, drawn irresistibly from their “Hell”^[It is said among men that the word Hell deriveth from the word ‘helan’, to hele or conceal, in the tongue of the Anglo-Saxons. That is, it is the concealed place, which since all things are in thine own self, is the unconscious. Liber CXI (Aleph) cap Aç] by the love of his Angel) leaps up; it leaps forth!^[But compare the use of the saine word in section C.]</span>
+AEPE <span class="align-right">“Thou Exalted One! It (i.e. the spiritual “semen? , the Adept’s secret ideas, drawn irresistibly from their “Hell”^[It is said among men that the word Hell deriveth from the word ‘helan’, to hele or conceal, in the tongue of the Anglo-Saxons. That is, it is the concealed place, which since all things are in thine own self, is the unconscious. Liber CXI (Aleph) cap Aç] by the love of his Angel) leaps up; it leaps forth!^[But compare the use of the saine word in section C.]</span>
 
 DIATHARNA THORON <span class="align-right">“Lo! the out-splashing of the seeds of Immortality! ”</span> 
 
@@ -6094,7 +6098,7 @@ He recites Section A as a rehearsal before His Holy Guardian Angel of the attrib
 
 *Lines 2, 3, 4* He asserts that His Angel has created (for the purpose of self-realisation through projection in conditioned Form) three pairs of opposites: (a) The Fixed and the Volatile; (b) The Unmanifested and the Manifest; and (c) the Unmoved and the Moved. Otherwise, the Negative and the Positive in respect of Matter, Mind and Motion. 
 
-*Line 5* He acclaims his Angel as “Himself Made Perfect”; adding that this Individuality is inscrutable and inviolable. In the Neophyte Ritual of G.·.D.·. (as it is printed in Equinox I, II, for the old aeon) the Hierophant is the perfected Osiris, who brings the candidate, the natural Osiris, to identity with himself. But in the new Aeon the Hierophant is Horus (Liber CCXX, I 49) therefore the Candidate will be Horus too. What then is the formula of the initiation of Horus ? It will no longer be that of the Man, through Death. It will be the natural growth of the Child. His experiences will no more be regarded as catastrophic. Their hieroglyph is the Pool: the innocent and impotent Harpocrates Babe becomes the Horus Adult by obtaining the Wand. “Der reine Thor” seizes the Sacred Lance. Bacchus becomes Pan. The Holy Guardian Angel is the Unconscious Creature Self — the Spiritual Phallus. His knowledge and Conversation contributes occult puberty. It is therefore advisable to replace the name Asar Un-nefer by that of Ra-Hoor-Khuit at the outset, and by that of one’s own Holy Guardian Angel when it has been communicated. 
+*Line 5* He acclaims his Angel as “Himself Made Perfect”; adding that this Individuality is inscrutable and inviolable. In the Neophyte Ritual of G.·.D.·. (as it is printed in Equinox I, II, for the old aeon) the Hierophant is the perfected Osiris, who brings the candidate, the natural Osiris, to identity with himself. But in the new Aeon the Hierophant is Horus (Liber CCXX, I 49) therefore the Candidate will be Horus too. What then is the formula of the initiation of Horus? It will no longer be that of the Man, through Death. It will be the natural growth of the Child. His experiences will no more be regarded as catastrophic. Their hieroglyph is the Pool: the innocent and impotent Harpocrates Babe becomes the Horus Adult by obtaining the Wand. “Der reine Thor” seizes the Sacred Lance. Bacchus becomes Pan. The Holy Guardian Angel is the Unconscious Creature Self — the Spiritual Phallus. His knowledge and Conversation contributes occult puberty. It is therefore advisable to replace the name Asar Un-nefer by that of Ra-Hoor-Khuit at the outset, and by that of one’s own Holy Guardian Angel when it has been communicated. 
 
 *Line 6* He hails Him as BESZ, the Matter that destroys and devours Godhead, for the purpose of the Incarnation of any God. 
 
@@ -6169,7 +6173,7 @@ Angel.
 
 Now let him strive with all the strength of his Soul to withstand the Will of his Angel, concealing himself in the closest cell of the citadel of consciousness. Let him consecrate himself to resist the assault of the Voice and the Vibration until his consciousness faint away into Nothing. For if there abide unabsorbed even one single atom of the false Ego, that atom should stain the virginity of the True Self and profane the Oath; then that atom should be so inflamed by the approach of the Angel that it should overwhelm the rest of the mind, tyrannize over it, and become an insane despot to the total ruin of the realm. 
 
-But, all being dead to sense, who then is able to strive against the Angel ? He shall intensify the stress of His Spirit so that His loyal legions of Lion-Serpents leap from the ambush, awakening the adept to witness their Will and sweep him with them in their enthusiasm, so that he consciously partakes their purpose, and sees in its simplicity the solution of all his perplexities. Thus then shall the Adept be aware that he is being swept away through the column of his Will Symbol, and that His Angel is indeed himself, with intimacy so intense as to become identity, and that not in a single Ego, but in every unconscious element that shares in that manifold uprush. 
+But, all being dead to sense, who then is able to strive against the Angel? He shall intensify the stress of His Spirit so that His loyal legions of Lion-Serpents leap from the ambush, awakening the adept to witness their Will and sweep him with them in their enthusiasm, so that he consciously partakes their purpose, and sees in its simplicity the solution of all his perplexities. Thus then shall the Adept be aware that he is being swept away through the column of his Will Symbol, and that His Angel is indeed himself, with intimacy so intense as to become identity, and that not in a single Ego, but in every unconscious element that shares in that manifold uprush. 
 
 This rapture is accompanied by a tempest of brilliant light, almost always, and also in many cases by an outburst of sound, stupendous and sublime in all cases, though its character may vary within wide limits.^[These phenomena are not wholly subjective; they may be perceived, though often under other forms, by even the ordinary man.]
 
@@ -6676,7 +6680,7 @@ outward.
 21. Let him lower the wand, striking the Earth therewith. 
 
 22. Let him give the sign of Mater Triumphans (The feet are together; the left arm is curved as if it supported a child; the thumb and index finger of the right hand pinch the nipple of the left breast, as if ofiering it to that child). 
-Let him utter the word 0 EAHMA ! 
+Let him utter the word 0 EAHMA! 
 
 23. Perform the spiral dance, moving deosil and whirling widdershins. 
 
@@ -7377,7 +7381,7 @@ Then being prepared and fortified, well fitted for the work, perform the whole m
 
 “But it is death, and the flame of the pyre. 
 
-“Ascend in the flame of the pyre, O my Soul ! 
+“Ascend in the flame of the pyre, O my Soul! 
 
 “Thy God is like the cold emptiness of the utmost heaven, into which thou radiatest thy little light. 
 
@@ -8207,927 +8211,330 @@ And they are in any case more likely to lead to madness than to Samadhi. He inde
 
 2. Let the Zelator observe the current of his breath. 
 
-3. Let him investigate the following statements, and prepare a 
-careful record of research. 
+3. Let him investigate the following statements, and prepare a careful record of research. 
 
-(a) Certain actions induce the flow of the breath through the 
-right nostril (Pingala) 5 and, conversely, the flow of the breath 
-through Pingala induces certain actions. 
+(a) Certain actions induce the flow of the breath through the right nostril (Pingala); and, conversely, the flow of the breath through Pingala induces certain actions. 
 
-(b) Certain other actions induce the flow of the breath through 
-the left nostril (Ida), and conversely. 
+(b) Certain other actions induce the flow of the breath through the left nostril (Ida), and conversely. 
 
-(c) Yet a third class of actions induce the flow of the breath 
-through both nostrils at once (Sushumna), and conversely. 
+(c) Yet a third class of actions induce the flow of the breath through both nostrils at once (Sushumna), and conversely. 
 
-(d) The degree of mental and physical activity is interdependent 
-with the distance from the nostrils at which the breath can be felt 
-by the back of the hand. 
+(d) The degree of mental and physical activity is interdependent with the distance from the nostrils at which the breath can be felt by the back of the hand. 
 
-4. First practice. — Let him concentrate his mind upon the act 
-of breathing, saying mentally, “The breath flows in”, “the breath 
-flows out”, and record the results. [This practice may resolve 
-itself into Mahasatipatthana (vide Liber XXV) or induce Samadhi. 
-Whichever occurs should be followed up as the right Ingenium of 
-the Zelator, or the advice of his Practicus, may determine.] 
+4. *First practice.* — Let him concentrate his mind upon the act of breathing, saying mentally, “The breath flows in”, “the breath flows out”, and record the results. [This practice may resolve itself into Mahasatipatthana (vide Liber XXV) or induce Samadhi. Whichever occurs should be followed up as the right Ingenium of the Zelator, or the advice of his Practicus, may determine.] 
 
-5. Second practice. Pranayama. — This is outlined in Liber E. 
-Further, let the Zelator accomplished in those practices endeavour 
-to master a cycle of 10, 20, 40 or even 16, 32, 64. But let this be 
-done gradually and with due caution. And when he is steady and 
-easy both in Asana and Pranayama, let him still further increase 
-the period. 
+5. *Second practice. Pranayama.* — This is outlined in Liber E. Further, let the Zelator accomplished in those practices endeavour to master a cycle of 10, 20, 40 or even 16, 32, 64. But let this be done gradually and with due caution. And when he is steady and easy both in Asana and Pranayama, let him still further increase the period. 
 
 Thus let him investigate these statements which follow: — 
 
-(a) If Pranayama be properly performed, the body will first of 
-all become covered with sweat. This sweat is different in character 
-from that customarily induced by exertion. If the Practitioner rub 
-this sweat thoroughly into his body, he will greatly strengthen it. 
+(a) If Pranayama be properly performed, the body will first of all become covered with sweat. This sweat is different in character from that customarily induced by exertion. If the Practitioner rub this sweat thoroughly into his body, he will greatly strengthen it. 
 
-
-405 
-
-
-
-(b) The tendency to perspiration will stop as the practice is 
-continue^ and the body become automatically rigid. 
+(b) The tendency to perspiration will stop as the practice is continued and the body become automatically rigid. 
 
 Describe this rigidity with minute accuracy. 
 
-(c) The State of automatic rigidity will develop into a State 
-characterised by violent spasmodic movements of which the 
-Practitioner is unconscious, but of whose result he is aware. This 
-result is that the body hops gently from place to place. After the 
-first two or three occurrences of this experience, Asana is not lost. 
-The body appears (on another theory) to have lost its weight almost 
-completely and to be moved by an unknown force. 
+(c) The State of automatic rigidity will develop into a State characterised by violent spasmodic movements of which the Practitioner is unconscious, but of whose result he is aware. This result is that the body hops gently from place to place. After the first two or three occurrences of this experience, Asana is not lost. The body appears (on another theory) to have lost its weight almost completely and to be moved by an unknown force. 
 
-(d) As a development of this stage, the body rises into the air, 
-and remains there for an appreciably long period, from a second to 
-an hour or more. 
+(d) As a development of this stage, the body rises into the air, and remains there for an appreciably long period, from a second to an hour or more. 
 
 Let him further investigate any mental results w’hich may occur. 
 
-6. Third Practice . — In order both to economise his time and 
-to develop his powers, let the Zelator practise the deep full 
-breathing which his preliminary exercises will have taught him 
-during his walks. Let him repeat a sacred sentence (mantra) or 
-let him count, in such a way that his footfall beats accurately with 
-the rhythm thereof, as is done in dancing. Then let him practise 
-Pranayama, at first without the Kumbhakam, and paying no atten¬ 
-tion to the nostrils otherwise than to keep them clear. Let him begin 
-by an indrawing of the breath for 4 paces, and a breathing out for 
-4 paces. Let him increase this gradually to 6.6, 8.8, 12.12, 16.16 
-and 24.24, or more if he be able. Next let him practise in the 
-proper proportion 4.8, 6.12, 8.16, 12.24 and so on. Then if he 
-choose, let him recommence the series, adding a gradually increasing 
-period of Kumbhakam. 
+6. *Third Practice.* — In order both to economise his time and to develop his powers, let the Zelator practise the deep full breathing which his preliminary exercises will have taught him during his walks. Let him repeat a sacred sentence (mantra) or let him count, in such a way that his footfall beats accurately with the rhythm thereof, as is done in dancing. Then let him practise Pranayama, at first without the Kumbhakam, and paying no attention to the nostrils otherwise than to keep them clear. Let him begin by an indrawing of the breath for 4 paces, and a breathing out for 4 paces. Let him increase this gradually to 6.6, 8.8, 12.12, 16.16 and 24.24, or more if he be able. Next let him practise in the proper proportion 4.8, 6.12, 8.16, 12.24 and so on. Then if he choose, let him recommence the series, adding a gradually increasing period of Kumbhakam. 
 
-7. Fourth fractice. — Following on this third practice, let him 
-quicken his mantra and his pace until the walk develops into a 
-dance. This may also be practised with the ordinary waltz step, 
-using a mantra in three-time, such as iizzkuov, etusAÔov, ApTspaç; 
+7. *Fourth fractice.* — Following on this third practice, let him quicken his mantra and his pace until the walk develops into a dance. This may also be practised with the ordinary waltz step, using a mantra in three-time, such as ἐπελθον, ἐπελθον, Αρτεμις; or Iao; Iao Sabao; in such cases the practice may be combined with devotion to a particular deity: see Liber CLXXV. For the dance as such it is better to use a mantra of a non-committal character, such as Τὸ εἶναι, Τὸ Καλόν, Τὸ Ἀγαθόν or the like. 
 
-or Iaoj Iao Sabao; in such cases the practice may be combined with 
-devotion to a particular deity: see Liber CLXXV. For the dance 
-as such it is better to use a mantra of a non-committal character, 
-such as J 0 aval, lo KaAov, To Ayaôov, or the like. 
-
-
-— 406 
-
-
-
-8. Fifth practice. — Let him practice mental concentration 
-during the dance, and investigate the following experiments: 
+8. *Fifth practice.* — Let him practice mental concentration during the dance, and investigate the following experiments: 
 
 (a) The dance becomes independent of the will. 
 
-(b) Similar phenomena to those described in 5 (a), (b), (c), (d), 
+(b) Similar phenomena to those described in 5 (a), (b), (c), (d), occur. 
 
-occur. 
+9. A note concerning the depth and fullness of the breathing. In all proper expiration the last possible portion of air should be expelled. In this the muscles of the throat, chest, ribs, and abdomen must be fully employed, and aided by the pressing of the upper arms into the flanks, and of the head into the thorax. 
 
-9. A note concerning the depth and fullness of the breathing. 
-In all proper expiration the last possible portion of air should be 
-expelled. In this the muscles of the throat, chest, ribs, and 
-abdomen must be fully employed, and aided by the pressing of the 
-upper arms into the flanks, and of the head into the thorax. 
+In all proper inspiration the last possible portion of air must be drawn into the lungs. 
 
-In all proper inspiration the last possible portion of air must be 
-drawn into the lungs. 
+In all proper holding of the breath, the body must remain absolutely still. 
 
-In all proper holding of the breath, the body must remain 
-absolutely still. 
+Ten minutes of such practice is ample to induce profuse sweating in any place of a temperature of 17°C or over. 
 
-Ten minutes of such practice is ample to induce profuse sweating 
-in any place of a temperature of 17 0 C. or over. 
+The progress of the Zelator in acquiring a depth and fullness of breath should be tested by the respirometer. 
 
-The progress of the Zelator in acquiring a depth and fullness of 
-breath should be tested by the respirometer. 
+The exercises should be carefully graduated to avoid overstrain and possible damage to the lungs. 
 
-The exercises should be carefully graduated to avoid overstrain 
-and possible damage to the lungs. 
+This depth and fullness of breath should be kept as much as possible, even in the rapid exercises, with the exception of the sixth practice following. 
 
-This depth and fullness of breath should be kept as much as 
-possible, even in the rapid exercises, with the exception of the sixth 
-practice following. 
+10. *Sixth Practice.* — Let the Zelator breathe as shallowly and rapidly as possible. He should assume the attitude of his moment of greatest expiration, and breathe only with the muscles of his throat. He may also practice lengthening the period between each shallow breathing. 
 
-10. Sixth Practice. — Let the Zelator breathe as shallowly and 
-rapidly as possible. He should assume the attitude of his moment 
-of greatest expiration, and breathe only with the muscles of his 
-throat. He may also practice lengthening the period between each 
-shallow breathing. 
+(This may be combined, when acquired, with concentration on the Visuddhi cakkra, i.e. let him fix his mind unwaveringly upon a point in the spine opposite the larynx.) 
 
-(This may be combined, when acquired, with concentration on 
-the Visuddhi cakkra, i.e. let him fix his mind unwaveringly upon a 
-point in the spine opposite the larynx.) 
+11. *Seventh practice.* — Let the Zelator practise restraint of breathing in the following manner. At any stage of breathing let him suddenly hold the breath, enduring the need to breathe until it passes, returns, and passes again, and so on until consciousness is lost, either rising to Samadhi or similar supernormal condition, or falling into oblivion. 
 
-11. Seventh practice. — Let the Zelator practise restraint of 
-breathing in the following manner. At any stage of breathing let 
-him suddenly hold the breath, enduring the need to breathe until 
-it passes, returns, and passes again, and so on until consciousness 
-is lost, either rising to Samadhi or similar supernormal condition, 
-or falling into oblivion. 
-
-
-407 — 
-
-
-
-13- Ninth practice .—Let him practice the usual forms of 
-Pranayama, but let Kumbhakarn be used after instead of before 
-expiration. Let him gradually increase the period of this 
-Kumbhakarn as in the case of the other. 
+13. *Ninth practice.* — Let him practice the usual forms of Pranayama, but let Kumbhakarn be used after instead of before expiration. Let him gradually increase the period of this Kumbhakam as in the case of the other. 
 
 14. A note concerning the conditions of these experiments. 
 
-The conditions favourable are dry, bracing air, a warm climate, 
+The conditions favourable are dry, bracing air, a warm climate, absence of wind, absence of noise, insects and all other disturbing influences, 1 a retired situation, simple food eaten in great modera¬ tion at the conclusion of the practices of morning and afternoon, and on no account before practising. Bodily health is almost essential, and should be most carefully guarded (See Liber CLXXXV, *Task of a Neophyte*). A diligent and tractable disciple, or the Practicus of the Zelator, should aid him in his work. Such a disciple should be noiseless, patient, vigilant, prompt, cheerful, of gentle manner and reverent to his master, intelligent to anticipate his wants, cleanly and gracious, not given to speech, devoted and unselfish. With all this he should be fierce and terrible to strangers and all hostile influences, determined and vigorous, increasingly vigilant, the guardian of the threshold. 
 
-absence of wind, absence of noise, insects and all other disturbing 
-influences, 1 a retired situation, simple food eaten in great modera¬ 
-tion at the conclusion of the practices of morning and afternoon, and 
-on no account before practising. Bodily health is almost essential, 
-and should be most carefully guarded (See Liber CLXXXV, Task 
-of a Neophyte ). A diligent and tractable disciple, or the Practicus 
-of the Zelator, should aid him in his work. Such a disciple should 
-be noiseless, patient, vigilant, prompt, cheerful, of gentle manner 
-and reverent to his master, intelligent to anticipate his wants, 
-cleanly and gracious, not given to speech, devoted and unselfish. 
-With all this he should be fierce and terrible to strangers and all 
-hostile influences, determined and vigorous, increasingly vigilant, 
-the guardian of the threshold. 
+It is not desireable that the Zelator should employ any other creature than a man, save in cases of necessity. Yet for some of these purposes a dog will serve, for others a woman. There are also others appointed to serve, but these are not for the Zelator. 
 
-It is not desireable that the Zelator should employ any other 
-creature than a man, save in cases of necessity. Yet for some of 
-these purposes a dog will serve, for others a woman. There are 
-also others appointed to serve, but these are not for the Zelator. 
+15. *Tenth practice.* — Let the Zelator experiment if he will with inhalations of oxygen, nitrous oxide, carbon dioxide, and other gases mixed in small proportion with his air during his practices. These experiments are to be conducted with caution in the presence of a medical man of experience, and they are only useful as facilitating a simulacrum of the results of the proper practices and thereby enheartening the Zelator. 
 
-15. Tenth practice. — Let the Zelator experiment if he will 
-with inhalations of oxygen, nitrous oxide, carbon dioxide, and other 
-gases mixed in small proportion with his air during his practices. 
-These experiments are to be conducted with caution in the presence 
-of a medical man of experience, and they are only useful as 
-facilitating a simulacrum of the results of the proper practices and 
-thereby enheartening the Zelator. 
+16. *Eleventh practice.* — Let the Zelator at any time during the practices, especially during the periods of Kumbhakarn, throw his will utterly towards his Holy Guardian Angel, directing his eyes inward and upward, and turning back his tongue as if to swallow it. 
 
-16. Kleventh practice. — Let the Zelator at any time during 
-the practices, especially during the periods of Kumbhakarn, throw 
-his will utterly towards his Holy Guardian Angel, directing his 
-eyes inward and upward, and turning back his tongue as if to 
-swallow it. 
+1. Note that in the early stages of concentration of the mind, such annoyances become negligible. 
 
-1. Note that in the early stages of concentration of the mind, such 
-annoyances become negligible. 
+(This latter operation is facilitated by severing the fraenum linguæ, which, if done, shouJd be done by a competent surgeon. We do not advise this or any similar method of cheating difficultes. This is, however, harmless.) 
+
+In this manner the practice is to be raised from the physical to the spiritual plane, even as the words Ruh, Ruach, Pneuma, Spiritus, Geist, Ghost, and indeed words of almost all languages, have been raised from their physical meaning of wind, breath, or movement, to the spiritual plane. (RV is the old root meaning Yoni and hence Wheel (Fr. roue, Lat. rota, wheel) and the corresponding Semitic root means “to go”. Similarly spirit is connected with “spiral”. — Ed.) 
+
+17. Let the Zelator attach no credit to any statements that may have been made throughout the course of this instruction, and reflect that even the counsel which we have given as suitable to the average case may be entirely unsuitable to his own. 
 
 
-408 — 
+### LIBER YOD 
 
+#### SUB FIGURA DCCCXXI 
 
+(This book was formerly called Vesta. It is referred to the path of Virgo and the letter Yod.) 
 
-(This latter operation is facilitated by severing the fraenum 
-linguæ, which, if done, shouJd be done by a competent surgeon. 
-We do not advise this or any similar method of cheating difficultes. 
-This is, however, harmless.) 
-
-In this manner the practice is to be raised from the physical to 
-the spiritual plane, even as the words Ruh, Ruach, Pneuma, Spiritus, 
-Geist, Ghost, and indeed words of almost all languages, have been 
-raised from their physical meaning of wind, breath, or movement, 
-to the spiritual plane. (RV is the old root meaning Yoni and 
-hence Wheel (Fr. roue, Lat. rota, wheel) and the corresponding 
-Semitic root means “to go”. Similarly spirit is connected with 
-“spiral”. — Ed.) 
-
-17- Let the Zelator attach no credit to any statements that may 
-have been made throughout the course of this instruction, and 
-reflect that even the counsel which we have given as suitable to 
-the average case may be entirely unsuitable to his own. 
-
-
-409 — 
-
-
-LIBER YOD 
-
-SUB FIGURA DCCCXXI 
-
-(This book was formerly called Vesta. It is referred to the path 
-of Virgo and the letter Yod.) 
-
-
-L 
+#### I
 
 1. This is the book of drawing all to a point. 
 
-2 . Herein are described three methods whereby the conscious- 
-ness of the Many may be melted to that of the One. 
+2 . Herein are described three methods whereby the consciousness of the Many may be melted to that of the One. 
 
-II. 
+#### II 
 
-FIRST METHOD 
+#### FIRST METHOD 
 
-O. Let a magical circle be constructed, and within it an upright 
-Tau drawn upon the ground. Let this Tau be devised into io 
-squares (See Liber CMLXIII., Illustration i.) 
+0. Let a magical circle be constructed, and within it an upright Tau drawn upon the ground. Let this Tau be devised into io squares (See Liber CMLXIII., Illustration I.) 
 
-1. Let the magician be armed with the Sword of Art. 1 
+1. Let the magician be armed with the Sword of Art.^[In circumstances where this is inappropriate let him be armed with wand and lamp instead of as in text. — N.] 
 
 2. Let him wear the black robe of a Neophyte. 
 
-3. Let a single flame of camphor burn at the top of the Tau, 
-and let there be no other light or ornament. 1 
+3. Let a single flame of camphor burn at the top of the Tau, and let there be no other light or ornament.^[If armed with wand and lamp let him extinguish the light with his hand. — N.]
 
-4- Let him “open” the Temple as in DCLXXI or in any other 
-convenient manner. 
+4. Let him “open” the Temple as in DCLXXI or in any other convenient manner. 
 
-5. Standing at the appropriate quarters, at the edge of the circle, 
-let him banish the 5 elements by the appropriate rituals. 
+5. Standing at the appropriate quarters, at the edge of the circle, let him banish the 5 elements by the appropriate rituals. 
 
-6. Standing at the edge of the circle, let him banish the 7 
-planets by the appropriate rituals. Let him face the actual position 
-of each planet in the heavens at the time of his working. 
+6. Standing at the edge of the circle, let him banish the 7 planets by the appropriate rituals. Let him face the actual position of each planet in the heavens at the time of his working. 
 
-7. Let him further banish the twelve signs of the Zodiac by 
-the appropriate rituals, facing each sign in turn. 
+7. Let him further banish the twelve signs of the Zodiac by the appropriate rituals, facing each sign in turn. 
 
-8. Let him at each of these 24 banishings make three 
-circumambulations widdershins, with the signs of Horus and 
-Harpocrates in the East as he passes it. 
+8. Let him at each of these 24 banishings make three circumambulations widdershins, with the signs of Horus and Harpocrates in the East as he passes it. 
 
+9. Let him advance to the square of Malkuth in the Tau, and perform a ritual of banishing Malkuth. But here let him not leave the square to circumambulate the circle, but use the formula and God-form of Harpocrates. 
 
-1. In circumstances where this is inappropriate let him be armed 
-with wand and lamp instead of as in text. — N. 
+10. Let him advance in turn to the squares Jesod, Hod, Netzach, Tiphereth, Geburah, Chesed and banish each by appropriate rituals. 
 
+11. And let him know that such rituals include the pronunciation of the appropriate names of God backwards, and also a curse against the Sephira in respect of all that which it is, for that which distinguishes and sepates it from Kether. 
 
-— 410 
+12. Advancing to the squares of Binah and Chokmah in turn, let him banish these also. And for that by now an awe and trembling shall have taken hold upon him, let him banish these by a supreme ritual of inestimable puissance; and let him beware exceedingly lest his will falter or his courage fall. 
 
+13. Finally, let him, advancing to the square of Kether, banish that also by what means he may. At the end whereof let him set his foot upon the light, extinguishing it 1; and, as he falleth, let him falJ within the circle. 
 
+#### SECOND METHOD 
 
-9. Let him advance to the square of Malkuth in the Tau, and 
-perform a ritual of banishing Malkuth. But here let him not leave 
-the square to circumambulate the circle, but use the formula and 
-God-form of Harpocrates. 
+1. Let the Hermit be seated in his Asana, robed, and let him meditate in turn upon every several part of his body until that part is so unreal to him that he no longer includes it in his comprehension of himself. For example if it be his right foot, let him touch that foot, and be alarmed, thinking, “A foot!... foot! What is this foot? Surely I am not alone in the Hermitage!” 
 
-10. Let him advance in turn to the squares Jesod, Hod, 
-Netzach, Tiphereth, Geburah, Chesed and banish each by appro- 
-priate rituals. 
+And this practice should be carried out not only at the time of meditation, but during the day’s work. 
 
-11. And let him know that such rituals include the pronuncia- 
-tion of the appropriate names of God backwards, and also a curse 
-against the Sephira in respect of all that which it is, for that which 
-distinguishes and sepates it from Kether. 
+2. This meditation is to be assisted by reasoning- as, “This foot is not I. If I should lose my foot, I should still be I. This foot is a mass of changing and decaying flesh, bone, skin, blood, lymph, etc. while I am the Unchanging and Immortal Spirit, uniform, not made, unbegotten, formless, self-luminous,” etc. 
 
-12. Advancing to the squares of Binah and Chokmah in turn, let 
-him banish these also. And for that by now an awe and trembling 
-shall have taken hold upon him, let him banish these by a supreme 
-ritual of inestimable puissance; and let him beware exceedingly lest 
-his will falter or his courage fall. 
+3. This practice being perfect for each part of the body, let him combine his workings until the whole body is thus ur.derstood as the non-Ego and as illusion. 
 
-13. Finally, let him, advancing to the square of Kether, banish 
-that also by what means he may. At the end whereof let him set 
-his foot upon the light, extinguishing it 1; and, as he falleth, let 
-him falJ within the circle. 
+4. Let then the Hermit, seated in his Asana, meditate upon the Muladhara Cakkra ana its correspondence as a power of the mind, and destroy it in the same manner as aforesaid. Also by reasoning: 
 
-SECOND METHOD 
+This emotion (memory, imagination, intellect, will, as it may be) is not I. This emotion is transient: I am immovable. This emotion is passion. I am peace”, and so on. 
 
-1. Let the Hermit be seated in his Asana, robed, and let him 
-meditate in turn upon every several part of his body until that part 
-is so unreal to him that he no longer includes it in his comprehension 
-of himself. For example if it be his right foot, let him touch that 
-foot, and be alarmed, thinking, “A foot!... foot! What is this foot? 
-Surely I am not alone in the Hermitage! ” 
+Let the other Cakkras in their turn be thus destroyed, each one with its mental or moral attribute. 
 
-And this practice should be carried out not only at the time of 
-meditation, but during the day’s work. 
+5. In this let him be aided by his own psychological analysis, so that no part of his conscious being be thus left undestroyed. And on his thoroughness in this matter may turn his success. 
 
-2. This meditation is to be assisted by reasoning- as, “This 
-foot is not I. If I should lose my foot, I should still be I. This 
-foot is a mass of changing and decaying flesh, bone, skin, blood, 
-
-
-I. If armed with wand and lamp let him extinguish the light with 
-his hand. — N. 
-
-
-— 411 
-
-
-
-
-lymph, etc. while I am the Unchanging and Immortal Spirit, 
-uniform, not made, unbegotten, formless, self-luminous,” etc. 
-
-_ 3 — This practice being perfect for each part of the body, let 
-him combine his workings until the whole body is thus ur.derstood 
-as the non-Ego and as illusion. 
-
-4. Let then the Hermit, seated in his Asana, meditate upon the 
-Muladhara Cakkra ana its correspondence as a power of the mind, 
-and destroy it in the same manner as aforesaid. Also by reasoning: 
-
-This emotion (memory, imagination, intellect, will, as it may be) 
-is not I. This emotion is transient: I am immovable. This emotion 
-is passion. I am peace”, and so on. 
-
-Let the other Cakkras in their turn be thus destroyed, each 
-one with its mental or moral attribute. 
-
-5- In this let him be aided by his own psychological analysis, 
-so that no part of his conscious being be thus left undestroyed. 
-And on his thoroughness in this matter may turn his success. 
-
-6. Lastly, having drawn all his being into the highest Sahasrara 
-Cakkra, let him remain eternally fixed in meditation thereupon. 
+6. Lastly, having drawn all his being into the highest Sahasrara Cakkra, let him remain eternally fixed in meditation thereupon. 
 
 7. AUM. 
 
-THIRD METHOD. 
+#### THIRD METHOD. 
 
-i; Tet the Hermit stimulate each of the senses in turn, concen- 
-trating upon each until it ceases to stimulate. 
+1. Let the Hermit stimulate each of the senses in turn, concentrating upon each until it ceases to stimulate. 
 
-(The senses of sight and touch are extremely difficult to conquer. 
-In the end the Hermit must be utterly unable by any effort to see 
-or feel the object of those senses, O. M.) 
+(The senses of sight and touch are extremely difficult to conquer. In the end the Hermit must be utterly unable by any effort to see or feel the object of those senses, O. M.) 
 
 2. This being perfected, let him combine them two at a time. 
 
-For example, let him chew ginger (taste and touch), and watch 
+For example, let him chew ginger (taste and touch), and watch a waterfall (sight and hearing) and watch incense (sight and smell) and crush sugar in his teeth (taste and hearing) and so on. 
 
-a waterfall (sight and hearing) and watch incense (sight and smell) 
-and crush sugar in his teeth (taste and hearing) and so on. 
-
-3. These twenty-five practices being accomplished, let him 
-combine them three at a time, then four at a time. 
+3. These twenty-five practices being accomplished, let him combine them three at a time, then four at a time. 
 
 4. Lastly, let him combine all the senses in a single object. 
 
-And herein may a sixth sense be included. He is then to with- 
+And herein may a sixth sense be included. He is then to withdraw himself entirely from all these stimulations, *perinde ac cadaver*, in spite of his own efforts to attach himself to them. 
 
-draw himself entirely from all these stimulations, ferinde ac 
-cadaver , in spite of his own efforts to attach himself to them. 
+5. By this method it is said that the demons of the Ruach, that is, thoughts and memories, are inhibited, and We deny it not. But if so be that they arise, let him build a wall between himself and them according to the method. 
 
+6. Thus having stilled the voices of the Six, may he obtain in sense the subtlety of the Seventh. 
 
-— 412 — 
+7. ΑΥΜΓΝ. 
 
+(We add the following, contributed by a friend at that time without the A.·.A.·. and its dependent orders. He worked out the method himself, and we think it may prove useful to many. O. M.). 
 
-5 — By this method it is said that the demons of the Ruach, that 
-is, thoughts and memories, are inhibited, and We deny it not. But 
-if so be that they arise, let him build a wall between himself and 
-them according to the method. 
+I. The beginner must first practise breathing regularly through the nose, at the same time trying hard to believe that the breath goes to the Ajna and not to the lungs. 
 
-6. Thus having stilled the voices of the Six, may he obtain in 
-sense the subtlety of the Seventh. 
+The Pranayama exercises described in the Equinox Vol. I, No. 4, p. 101 must next be practised, always with the idea that Ajna is breathing. 
 
-7- ATMrN. 
+Try to realise that *power*, not air, is being drawn into the Ajna, is being concentrated there during Kumbhakam, and is vivifying the Ajna during expiration. Try rather to increase the force of concentration in Ajna than to increase so excessively the length of Kumbhakam as this is dangerous if rashly undertaken. 
 
-(We add the following, contributed by a friend at that time 
-without the A.-. A .'. and its dependent orders. He worked out 
-the method himself, and we think it may prove useful to many. 
-O. M.). 
-
-i. The beginner must first practise breathing regularly through 
-the nose, at the same time trying hard to believe that the breath 
-goes to the Ajna and not to the lungs. 
-
-The Pranayama exercises described in the Equinox Vol. i, 
-No. 4, p. ioi must next be practised, always with the idea that 
-Ajna is breathing. 
-
-Try to realise that power, not air, is being drawn into the Ajna, 
-is being concentrated there during Kumbhakam, and is vivifying the 
-Ajna during expiration. Try rather to increase the force of con¬ 
-centration in Ajna than to increase so excessively the length of 
-Kumbhakam as this is dangerous if rashly undertaken. 
-
-(2) Walk slowly in a quiet place; realise that the legs are 
-moving, and study their movements. Understand thoroughly that 
-these movements are due to nerve messages sent down from the 
-brain, and that the controlling power lies in the Ajna. The legs 
-are automatic, like those of a wooden monkey: the power in Ajna 
-is that which does the work, is that which walks. This is not hard 
-to realise, and should be grasped firmly, ignoring all other walking 
-sensations. 
+(2) Walk slowly in a quiet place; realise that the legs are moving, and study their movements. Understand thoroughly that these movements are due to nerve messages sent down from the brain, and that the controlling power lies in the Ajna. The legs are automatic, like those of a wooden monkey: the power in Ajna is that which does the work, is that which walks. This is not hard to realise, and should be grasped firmly, ignoring all other walking sensations. 
 
 Apply this method to every other muscular movement. 
 
-(3) Lie fiat on the back with the feet under a heavy piece of 
-furniture. Keeping the spine straight and the arms in a line with 
-the body, rise slowly to a sitting posture, by means of the force 
-residing in the Ajna (i.e. try to prevent the mind dwelling on any 
-other exertion or sensation.) 
+(3) Lie flat on the back with the feet under a heavy piece of furniture. Keeping the spine straight and the arms in a line with the body, rise slowly to a sitting posture, by means of the force residing in the Ajna (i.e. try to prevent the mind dwelling on any other exertion or sensation.) 
 
-Then let the body slowly down to its original position. Repeat 
+Then let the body slowly down to its original position. Repeat this two or three times, every night and morning, and slowly increase the number of repetitions. 
 
+(4) Try to transfer all bodily sensations to the Ajna, e.g., “I am cold” should mean “I feel cold”, or better still, “I am aware of a sensation of cold” — transfer this to the Ajna, “the Ajna is aware”, etc. 
 
-4i3 
+(5) Pain if very slight may easily be transferred to the Ajna after a little practice. The best method for a beginner is to imagine he has a pain in the body and then imagine that it passes directly into the Ajna. It does not pass through the intervening structures, but goes direct. After continuai practice even severe pain may be transferred to the Ajna. 
 
+(6) Fix the mind on the base of the spine and then gradually move the thoughts upwards to the Ajna. 
 
-this two or three times, every night and morning, and slowly 
-increase the number of repetitions. 
+(In this meditation Ajna is the Holy of Holies, but it is dark and empty.) 
 
-(4) Try to transfer all bodily sensations to the Ajna, e.g., “I 
-am cold” should mean “I feel cold”, or better still, “I am aware 
-of a sensation of cold” — transfer this to the Ajna, “the Ajna is 
-aware”, etc. 
+Finally, strive hard to drive anger and other obsessing thoughts into the Ajna. Try to develop a tendency to think hard of Ajna when these thoughts attack the mind, and let Ajna conquer them. 
 
-(5) Pain if very slight may easily be transferred to the Ajna 
-after a little practice. The best method for a beginner is to imagine 
-he has a pain in the body and then imagine that it passes directly 
-into the Ajna. It does not pass through the intervening structures, 
-but goes direct. After continuai practice even severe pain may be 
-transferred to the Ajna. 
+Beware of thinking of a "*My* Ajna”. In these meditations and practices, Ajna does not belong to you; Ajna is the master and worker, you are the wooden monkey. 
 
-(6) Fix the mind on the base of the spine and then gradually 
-move the thoughts upwards to the Ajna. 
+### Liber תישארב vel THISHARB 
 
-(In this meditation Ajna is the Holy of Holies, but it is dark 
-and empty.) 
+#### SUB FIGURA CMXIII. 
 
-Finally, strive hard to drive anger and other obsessing thoughts 
-into the Ajna. Try to develop a tendency to think hard of Ajna 
-when these thoughts attack the mind, and let Ajna conquer them. 
+000. May be. 
 
-Beware of thinking of a My Ajna”. In these meditations and 
-practices, Ajna does not belong to, ou; Ajna is the master and 
-worker, you are the wooden monkey. 
+00. It has not been possible to construct this book on a basis of pure Scepticism. This matters less, as the practice leads to scepticism, and it mav be through it.
 
+0. This book is not intended to lead to the supreme attainment. On the contrary, its results define the separate being of the Exempt Adept from the rest of the Universe, and discover his relation to the Universe.^[This book tells how to enquire “Who am I? ” “What is my relation with nature?”]
 
-414 — 
+1. It is of such importance to the Exempt Adept that We cannot overrate it. Let him in no wise adventure the plunge into the Abyss until he has accomplished this to his most perfect satisfaction.^[One must destroy one’s false notions about who and what one is before one can hnd the truth of the matter. One must therefore under- stand those false notions before giving them up. Unless this be done perfectly, one will get the True mixed up with the remains of the False.]
 
+2. For in the Abyss no effort is anywise possible. The Abyss is passed by virtue of the mass of the Adept and his Karma. Two forces impel him: (i) the attraction of Binah, (2) the impulse of his Karma; and the ease and even the safety of his passage depend on the strength and direction of the latter.^[One’s life has hitherto been guided by those false notions. Therefore on giving them up, one has no standard of control of thought or action; and, until the truth is born, one can move only by virtue of one’s momentum. It is jumping off.]
 
+3. Should one rashly dare the passage, and take the irrevocable Oath of the Abyss, he might be lost therein through Aeons of incalculable agony; he might even be thrown back upon Chesed, with the terrible Karma of failure added to his original imperfection. 
 
-liber rnaunn 
+4. It is even said that in certain circumstances it is possible to fall altogether from the Tree of Life and to attain the Towers of the Black Brothers. But We hold that this is not possible for any adept who has truly attained his grade, or even for any rrian who has really sought to help humanity even for a single second^[Those in possession of Liber CLXXXV will note that in every grade but one the aspirant is pledged to serve his inferiors in the Order.], and that although his aspiration have been impure through vanity or any similar imperfections. 
 
-vel THISHARB 
+5. Let then the Adept who finds the result of these meditations unsatisfactory refuse the Oath of the Abyss, and live so that his Karma gains strength and direction suitable to the task at some future period.^[Make the Adeptus Exemptus perfect as such before proceeding.]
 
-SUB FIGURA CMXIII. 
+6. Memory is essential to the individual consciousness; otherwise the mind were but a blank sheet on which shadows are cast. But we see that not only does the mind retain impressions, but that it is so constituted that its tendency is to retain some more excellently than others. Thus the great classical scholar, Sir Richard Jebb, was unable to learn even the schoolboy mathematics required for the preliminary examination at Cambridge University, and a special Grace of the authorities was required in order to admit him. 
 
-ooo. May be. 
+7. The first method to be described has been detailed in Bhikkhu Ananda Metteya’s a "Training of the Mind” (Equinox 1,5, pp. 28-59, and especially pp. 48-57). We have little to alter or to add. Its most important result as regards the Oath of the Abyss, is the freedom from all desire or clinging to anything which it gives, Its second result is to aid the adept in the second method, by supplying him with further data for his investigation.^[The Magical Memory (i.e. of former incarnations) frees one from desire by shewing how futile and sorrow-breeding all earthly and even sub-magical attainment prove.]
 
-(oo. It has not been possible to construct this book on a basis of 
-pure Scepticism. This matters less, as the practice leads to 
-scepticism, and it mav be through it.) 
+8. The stimulation of memory useful in both practices is also achieved by simple meditation (Liber E), in a certain stage of which old memories arise unbidden. The adept may then practise this, stopping at this stage, and encouraging instead of suppressing the flashes of memory. 
 
-o. This book is not intended to lead to the supreme attainment. 
-On the contrary, its results define the separate being of the Exempt 
-Adept from the rest of the Universe, and discover his relation to 
-the Universe. 1 
+9. Zoroaster has said, “Explore the River of the Soul, whence or in what order you have come; so that although you have become a servant to the body, you may again rise to that Order (the A.·.A.·.) from which you descended, joining Works (Kamma) to the Sacred Reason (the Tao)”. 
 
-1. It is of such importance to the Exempt Adept that We 
-cannot overrate it. Let him in no wise adventure the plunge into 
-the Abyss until he has accomplished this to his most perfect 
-satisfaction. 2 
+10. The Resuit of the Second Method is to show the Adept to what end his powers are destined. When he has passed the Abyss and becomes Nemo, the return of the current causes him a to appear in the Heaven of Jupiter as a morning star or as an evening star”^[The formula of the Great Work “Solve et Coagula” may be thus interpreted. *Solve* , the dissolution of the self in the Infinite; *Coagula*, the presentation of the Infinite, in a concrete form, to the outer. Both are necessary to the Task of a Master of the Temple. He may appear in any other Heaven, according to his general nature, in his magical mask of initiation.] In other words he should discover what may be the nature of his work. Thus Mohammed was a Brother reflected into Netzach, Buddha a Brother reflected into Hod, or, as some say, Daath. The present manifestation of Frater P. to the outer is in Tiphereth, to the inner in the path of Leo. 
 
-2. For in the Abyss no effort is anywise possible. The Abyss 
-is passed by virtue of the mass of the Adept and his Karma. Two 
-forces impel him : (i) the attraction of Binah, (2) the impulse of 
-his Karma; and the ease and even the safety of his passage depend 
-on the strength and direction of the latter. 3 
-
-3. Should one rashly dare the passage, and take the irrevocable 
-Oath of the Abyss, he might be lost therein through Aeons of 
-incalculable agony; he might even be thrown back upon Chesed, 
-with the terrible Karma of failure added to his original imperfec¬ 
-tion. 
-
-4. It is even said that in certain circumstances it is possible to 
-
-1. This book tells how to enquire “Who am I? ” “What is my relation 
-with nature ? ” 
-
-2. One must destroy one’s false notions about who and what one is 
-before one can hnd the truth of the matter. One must therefore under- 
-stand those false notions before giving them up. Unless this be done 
-perfectly, one will get the True mixed up with the remains of the False. 
-
-3. One’s life has hitherto been guided by those false notions. There¬ 
-fore on giving them up, one has no standard of control of thought or action; 
-and, until the truth is born, one can move only by virtue of one’s momentum. 
-It is jumping off. 
-
-
-415 — 
-
-
-
-fall altogether from the Tree of Life and to attain the Towers of 
-the Black Brothers. But We hold that this is not possible for any 
-adept who has truly attained his grade, or even for any rrian who 
-has really sought to help humanity even for a single second x , and 
-that although his aspiration have been impure through vanity or 
-any similar imperfections. 
-
-5. Let then the Adept who finds the result of these meditations 
-unsatisfactory refuse the Oath of the Abyss, and live so that his 
-Karma gains strength and direction suitable to the task at some 
-future period. 1 2 
-
-6. Memory is essential to the individual consciousness; other- 
-wise the mind were but a blank sheet on which shadows are cast. 
-But we see that not only does the mind retain impressions, but that 
-it is so constituted that its tendency is to retain some more excel- 
-lently than others. Thus the great classical scholar, Sir Richard 
-Jebb, was unable to learn even the schoolboy mathematics required 
-for the preliminary examination at Cambridge University, and a 
-special Gce of the authorities was required in order to admit him. 
-
-7. The first method to be described has been detailed in 
-Bhikkhu Ananda Metteya’s a Training of the Mind” (Equinox 1,5, 
-pp. 28-59, an d especially pp. 48-57). We have little to alter or 
-to add. Its most important result as regards the Oath of the Abyss, 
-is the freedom from all desire or clinging to anything which it 
-gives, Its second result is to aid the adept in the second method, 
-by supplying him with further data for his investigation. 3 
-
-8. The stimulation of memory useful in both practices is also 
-achieved by simple meditation (Liber E), in a certain stage of 
-which old memories arise unbidden. The adept may then practise 
-this, stopping at this stage, and encouraging instead of suppressing 
-the flashes of memory. 
-
-9. Zoroaster has said, “Explore the River of the Soul, whence 
-
-1. Those in possession of Liber CLXXXV will note that in every 
-grade but one the aspirant is pledged to serve his inferiors in the Order. 
-
-2. Make the Adeptus Exemptus perfect as such before proceeding. 
-
-3. The Magical Memory (i.e. of former incarnations) frees one from 
-desire by shewing how futile and sorrow-breeding all earthly and even sub- 
-magical attainment prove. 
-
-
-— 416 — 
-
-
-
-or in what order you have come; so that although you have become 
-a servant to the body, you may again rise to that Order (the 
-A.*. A.*.) from which you descended, joining Works (Kamma) 
-to the Sacred Reason (the Tao)”. 
-
-io. The Resuit of the Second Method is to show the Adept 
-to what end his powers are destined. When he has passed the 
-Abyss and becomes Nemo, the return of the current causes him a to 
-appear in the Heaven of Jupiter as a morning star or as an evening 
-star” 1 In other words he should discover what may be the nature 
-of his work. Thus Mohammed was a Brother reflected into 
-Netzach, Buddha a Brother reflected into Hod, or, as some say, 
-Daath. The present manifestation of Frater P. to the outer is in 
-Tiphereth, to the inner in the path of Leo. 
-
-IL First Method. Let the Exempt Adept first train himself 
-to think backwards by external means, as set forth here following.— 
+II. *First Method.* Let the Exempt Adept first train himself to think backwards by external means, as set forth here following.— 
 
 (a) Let him learn to write backwards, with either hand. 
 
 (b) Let him learn to walk backwards. 
 
-(c) Let him constantly watch, if convenient, cinematograph 
+(c) Let him constantly watch, if convenient, cinematograph films, and listen to phonograph records, reversed, and let him so accustom himself to these that they appear natural and appreciable as a whole. 
 
-films, and listen to phonograph records, reversed, 
-and let him so accustom himself to these that they 
-appear natural and appreciable as a whole. 
+(d) Let him practise speaking backwards: thus for “I am He” let him say, “Eh ma I”. 
 
-(d) Let him practise speaking backwards: thus for “I am 
-
-He” let him say, “Eh ma I”. 
-
-(e) Let him learn to read backwards. In this it is difficult to 
-
-avoid cheating one’s self, as an expert reader sees a 
-sentence at a glance. Let his disciple read aloud to 
-him backwards, slowly at first, then more quickly. 
+(e) Let him learn to read backwards. In this it is difficult to avoid cheating one’s self, as an expert reader sees a sentence at a glance. Let his disciple read aloud to him backwards, slowly at first, then more quickly. 
 
 (f) Of his own ingenium, let him devise other methods. 
 
-12. In this his brain will at first be overwhelmed by a sense of 
-utter confusion; secondly, it will endeavour to evade the difficulty 
-by a trick. The brain will pretend to be workmg backwards when 
+12. In this his brain will at first be overwhelmed by a sense of utter confusion; secondly, it will endeavour to evade the difficulty by a trick. The brain will pretend to be workmg backwards when it is merely normal. It is difficult to describe the nature of the trick, but it will be quite obvious to anyone who has done practices (a) and (b) for a day or two. They become quite easy, and he will think that he is making progress, an illusion which close analysis will dispel. 
 
+13. Having begun to train his brain in this manner and obtained some little success, let the Exempt Adept, seated in his Asana, think first of his present attitude, next of the act of being seated, next of his entering the room, next of his robing, etc. exactly as it happened. And let him most strenuously endeavour to think each act as happening backwards. It is not enough to think, “I am seated here, and before that I was standing, and before that I entered the room”, etc. That series is the trick detected in the preliminary practices. The series must not run “ghi-def-abc” but “ihgfedcba”: not “horse a is this” but a esroh a si siht”. To obtain this thoroughly well, practice (c) is very useful. The brain will be found to struggle constantly to right itself, soon accustoming itself to accept “esroh” as merely another glyph for “horse”. This tendency must be constantly combated. 
 
-i. The formula of the Great Work “Solve et Coagula” may be thus 
-interpreted. Solve , the dissolution of the self in the Infinite; Coagula , the 
-presentation of the Infinite, in a concrete form, to the outer. Both are 
-necessary to the Task of a Master of the Temple. He may appear in any 
-other Heaven, according to his general nature, in his magical mask of 
+14. In the early stages of this practice, the endeavour should be to meticulous minuteness of detail in remembering actions; for the brain’s habit of thinking forward will at first be insuperable. Thinking of large and complex actions, then, will give a series which we may symbolically Write “opqrstu-hijklmn-abcdefg”. If these be split into detail, we shall have “stu-pqr-o-mn-kl-hij-fg-cde-ab” which is much nearer to the ideal “utsrqponmlkjihgfedcba”. 
 
-initiation. 
+15. Capacities differ widely, but the Exempt Adept need have no reason to be discouraged if after a month’s continuous labour he find that now and again for a few seconds his brain really Works backwards. 
 
+16. The Exempt Adept should concentrate his efforts upon obtaining a perfect picture of five minutes backwards rather than upon extending the time covered by his meditation. For this preliminary training of the brain is the Pons Asinorum of the whole process. 
 
-— 4 L — 
+17. This five minutes 5 exercise being satisfactory, the Exempt Adept may extend the same at his discretion to cover an hour, a day; a week, and so on. Difficultes vanish before him as he advances; the extension from a day to the course of his whole life will not prove so difficult as the perfecting of the five minutes. 
 
+18. This practice should be repeated at least four times daily, and progress is shown firstly by the ever easier running of the brain, secondly by the added memories which arise. 
 
+19. It is useful to reflect during this practice, which in time becomes almost mechanical, upon the way in which effects spring from causes. This aids the mind to link its memories, and prepares the adept for the preliminary practice of the second method. 
 
+20. Having allowed the mind to return for some hundred times to the hour of birth, it should be encouraged to endeavour to penetrate beyond that period.^[Freudian forgetfulness tries to shield one from the shock of death. One has to brace oneself to face it in other ways, as by risking one’s life habitually.] If it be properly trained to run backwards, there will be little difficulty in doing this, although it is one of the distinct steps in the practice. 
 
-it is merely normal. It is difficult to describe the nature of the 
-trick, but it will be quite obvious to anyone who has done practices 
-(a) and (b) for a day or two. They become quite easy, and he will 
-think that he is making progress, an illusion which close analysis 
-will dispel. 
+21. It may be then that the memory will persuade the adept of some previous existence. Where this is possible, let it be checked by an appeal to facts, as follows : -— 
 
-13. Having begun to train his brain in this manner and obtained 
-some little success, let the Exempt Adept, seated in his Asana, 
-think first of his present attitude, next of the act of being seated, 
-next of his entering the room, next of his robing, etc. exactly as it 
-happened. And let him most strenuously endeavour to think each 
-act as happening backwards. It is not enough to think, “I am 
-seated here, and before that I was standing, and before that I 
-entered the room”, etc. That series is the trick detected in the 
-preliminary practices. The series must not run “ghi-def-abc” 
-but “ihgfedcba”: not “horse a is this” but a esroh a si siht”. To 
-obtain this thoroughly well, practice (c) is very useful. The brain 
-will be found to struggle constantly to right itself, soon accustoming 
-itself to accept “esroh” as merely another glyph for “horse”. This 
-tendency must be constantly combated. 
+22. It often occurs to men that on visiting a place to which they have never been, it appears familiar. This may arise from a confusion of thought or a slipping of the memory, but it is conceivably a fact. 
 
-14. In the early stages of this practice, the endeavour should 
-be to meticulous minuteness of detail in remembering actions 3 for 
-the brain’s habit of thinking forward will at first be insuperable. 
-Thinking of large and complex actions, then, will give a series 
-which we may symbolically Write “opqrstu-hijklmn-abcdefg”. If 
-these be split into detail, we shall have “stu-pqr-o-mn-kl-hij-fg- 
-cde-ab” which is much nearer to the ideal “utsrqponmlkjihgfedcba”. 
+If, then, the adept "remember" that he was in a previous life in some City, say Cracow, which he has in this life never visited, let him describe from memory the appearance of Cracow, and of its inhabitants, setting down their names. Let him further enter into details of the city and its customs. And having done this with great minuteness, let him confirm the same by consultation with historians and geographers, or by a personal visit, remembering (both to the credit of his memory and its discredit) that historians, geographers, and himself are alike fallible. But let him not trust his memory, to assert its conclusions as fact, and act thereupon, without most adequate confirmation. 
 
-15. Capacities differ widely, but the Exempt Adept need have 
-no reason to be discouraged if after a month’s continuous labour he 
-find that now and again for a few seconds his brain really Works 
-backwards. 
+23. This process of checking his memory should be practised with the earlier memories of childhood and youth by reference to the memories and records of others, always reflecting upon the fallibility even of such safeguards. 
 
-16. The Exempt Adept should concentrate his efforts upon 
-obtaining a perfect picture of five minutes backwards rather than 
-upon extending the time covered by his meditation. For this 
-preliminary training of the brain is the Pons Asinorum of the whole 
-process. 
+24. all this being perfected, so that the memory reaches back into aeons incalculably distant, let the Exempt Adept meditate upon the fruitlessness of all those years, and upon the fruit thereof, severing that which is transitory and worthless from that which is eternal. And it may be that he being but an Exempt Adept may hold ali to be savourless and full of sorrow. 
 
-17. This five minutes 5 exercise being satisfactory, the Exempt 
-Adept may extend the same at his discretion to cover an hour, a 
+25. This being so, without reluctance will he swear the Oath of the Abyss. 
 
+26. *Second Method.* — Let the Exempt Adept, fortified by the practice of the first method, enter the preliminary practice of the second method. 
 
-— 418 — 
+27. *Second Method.* — Preliminary Practices. Let him, seated in his Asana, consider any event, and trace it to its immediate causes. And let this be doue very fully and minutely. Here, for example, is a body erect and motionless. Let the adept consider the many forces which maintain it; firstly, the attraction cf the earth, of the sun, of the planets, of the farthest stars, nay of every mote of dust in the room, one cf which (could it be annihilated) would cause that body to move, although so imperceptibly. Also the resistance of the floor, the pressure of the air, and all other external conditions. Secondly, the internal forces which sustain it, the vast and complex machinery of the skeleton, the muscles, the blood, the lymph, the marrow, all that makes up a man. Thirdly the moral and intellectual forces involved, the mind, the will, the consciousness. Let him continue this with unremitting ardour, searching Nature, leaving nothing out. 
 
+28. Next, let him take one of the immediate causes of his position, and trace out its equilibrium. For example, the will. What determines the will to aid in holding the body erect and motionless?
 
-day; a week, and so on. Difficultes vanish before him as he 
-advancesj the extension from a day to the course of his whole life 
-will not prove so difficult as the perfecting of the five minutes. 
+29. This being discovered, let him choose one of the forces which determined his will, and trace out that in similar fashion; and let this process be continued for many days until the inter- dependence of all things is a truth assimilated in his inmost being. 
 
-18. This practice should be repeated at least four times dally, 
-and progress is shown firstly by the ever easier running of the 
-brain, secondly by the added memories which arise. 
+30. This being accomplished, let him trace his own history with special reference to the causes of each event. And in this practice he may neglect to some extent the universal forces which at all times act on all, as for example, the attraction of masses, and let him concentrate his attention upon the principal and determining or effective causes. 
 
-19. It is useful to reflect during this practice, which in time 
-becomes almost mechanical, upon the way in which effects spring 
-from causes. This aids the mind to link its memories, and prepares 
-the adept for the preliminary practice of the second method. 
+For instance, he is seated, perhaps, in a country place in Spain. Why? Because Spain is warm and suitable for meditation, and because cities are noisy and crowded. Why is Spain warm? And why does he wish to meditate? Why choose warm Spain rather than warm India? To the last question: Because Spain is nearer to his home. Then why is his home near Spain? Because his parents were Germans. And why did they go to Germany? And so during the whole meditation. 
 
-20. Having allowed the mind to return for some hundred times 
-to the hour of birth, it should be encouraged to endeavour to 
-penetrate beyond that period. 1 If it be properly trained to run 
-backwards, there will be little difficulty in doing this, although it 
-is one of the distinct steps in the practice. 
+31. On another day, let him begin with a question of another kind, and every day devise new questions, not concerning his present situation, but also abstract questions. Thus let him connect the prevalence of water upon the surface of the globe with its necessity to such life as we know, with the specifie gravity and other physical properties of water, and let him perceive ultimately through all this the necessity and concord of things, not concord as the school-men of old believed, making all things for man’s benefit or convenience, but the essential mechanical concord whose final law is inertie. And in these meditations let him avoid as if it were the plague any speculations sentimental or fantastic. 
 
-21. It may be then that the memory will persuade the adept 
-of some previous existence. Where this is possible, let it be checked 
-by an appeal to facts, as follows : -— 
+32. *Second Method.* The Practice Proper. — Having then perfected in his mind these conceptions, let him apply them to his own career, forging the links of memory into the chain of necessity. 
 
-22. It often occurs to men that on visiting a place to which 
-they have never been, it appears familiar. This may arise from a 
-confusion of thought or a slipping of the memory, but it is con- 
-ceivably a fact. 
+And let this be his final question: To what purpose am I fitted? Of what service can my being prove to the Brothers of the A.·.A.·. if I cross the Abyss, and am admitted to the City of the Pyramids? 
 
-If, then, the adept a remember i? that he was in a previous life 
-in some City, say Cracow, which he has in this life never visited, let 
-him describe from memory the appearance of Cracow, and of its 
-inhabitants, setting down their names. Let him further enter into 
-details of the city and its customs. And having done this with 
-great minuteness, let him confirm the same by consultation with 
-historians and geographers, or by a personal visit, remembering 
-(both to the credit of his memory and its discredit) that historians, 
-geographers, and himself are alike fallible. But let him not trust 
-his memory, to assert its conclusions as fact, and act thereupon, 
-without most adequate confirmation. 
-
-23. — This process of checking his memory should be practised 
-
-1. Freudian forgetfulness tries to shield one from the shock of death. 
-One has to brace oneself to face it in other ways, as by risking one’s life 
-habitually. 
-
-
-419 — 
-
-
-
-with the earlier memories of childhood and youth by reference to 
-the memories and records of others, always reflecting upon the 
-fallibility even of such safeguards. 
-
-24. all this being perfected, so that the memory reaches back 
-into aeons incalculably distant, let the Exempt Adept meditate upon 
-the fruitlessness of all those years, and upon the fruit thereof, 
-severing that which is transitory and worthless from that which is 
-eternal. And it may be that he being but an Exempt Adept may 
-hold ali to be savourless and full of sorrow. 
-
-25. This being so, without reluctance will he swear the Oath of 
-the Abyss. 
-
-26. Second Method. — Let the Exempt Adept, fortified by 
-the practice of the first method, enter the preliminary practice of 
-the second method. 
-
-27. Second Method. — Preliminary Practices. Let him, 
-seated in his Asana, consider any event, and trace it to its immediate 
-causes. And let this be doue very fully and minutely. Here, for 
-example, is a body erect and motionless. Let the adept consider 
-the many forces which maintain it 5 firstly, the attraction cf the 
-earth, of the sun, of the planets, of the farthest stars, nay of 
-every mote of dust in the room, one cf which (could it be 
-annihilated) would cause that body to move, although so imper- 
-ceptibly. Also the resistance of the floor, the pressure of the air, 
-and all other external conditions. Secondly, the internal forces 
-which sustain it, the vast and complex machinery of the skeleton, 
-the muscles, the blood, the lymph, the marrow, all that makes up 
-a man. Thirdly the moral and intellectual forces involved, the 
-mind, the will, the consciousness. Let him continue this with 
-unremitting ardour, searching Nature, leaving nothing out. 
-
-28. Next, let him take one of the immediate causes of his 
-position, and trace out its equilibrium. For example, the will. 
-What determines the will to aid in holding the body erect and 
-motionless ? 
-
-29. This being discovered, let him choose one of the forces 
-which determined his will, and trace out that in similar fashion; 
-and let this process be continued for many days until the inter- 
-dependence of all things is a truth assimilated in his inmost being. 
-
-
-420 
-
-
-
-
-
-30. This being accomplished, let him trace his own history 
-with special reference to the causes of each event. And in this 
-practice he may neglect to some extent the universal forces which at 
-all times act on all, as for example, the attraction of masses, and 
-let him concentrate his attention upon the principal and determining 
-or effective causes. 
-
-For instance, he is seated, perhaps, in a country place in Spain. 
-Why ? Because Spain is warm and suitable for meditation, and 
-because cities are noisy and crowded. Why is Spain warm ? and 
-why does he wish to meditate ? Why choose warm Spain rather 
-than warm India? To the last question: Because Spain is nearer 
-to his home. Then why is his home near Spain ? Because his 
-parents were Germans. And why did they go to Germany ? And 
-so during the whole meditation. 
-
-31. On another day, let him begin with a question of another 
-kind, and every day devise new questions, not concerning his present 
-situation, but also abstract questions. Thus let him connect the 
-prevalence of water upon the surface of the globe with its necessity 
-to such life as we know, with the specifie gravity and other physical 
-properties of water, and let him perceive ultimately through all 
-this the necessity and concord of things, not concord as the school- 
-men of old believed, making all things for man’s benefit or 
-convenience, but the essential mechanical concord whose final law 
-is inertie. And in these meditations let him avoid as if it were the 
-plague any speculations sentimental or fantastic. 
-
-32. Second Method. The Practice Proper. — Having then 
-perfected in his mind these conceptions, let him apply them to his 
-own career, forging the links of memory into the chain of necessity. 
-
-And let this be his final question: To what purpose am I fitted ? 
-Of what service can my being prove to the Brothers of the 
-A A .'. if I cross the Abyss, and am admitted to the City of the 
-Pyramids ? 
-
-33. Now that he may clearly understand the nature of this 
-question, and the method of solution, let him study the reasoning 
-of the anatomist who reconstructs an animal from a single bone. 
+33. Now that he may clearly understand the nature of this question, and the method of solution, let him study the reasoning of the anatomist who reconstructs an animal from a single bone. 
 
 To take a simple example. — 
 
-34. Suppose, having lived all my life among savages, a ship is 
+34. Suppose, having lived all my life among savages, a ship is cast upon the shore and wrecked. Undamaged among the cargo is a “Victoria”. What is its use? The wheels speak of roads, their slimness of smooth roads, the brake of hilly roads. The shafts show that it was meant to be drawn by an animal, their height and length suggest an animal of the size of a horse. That the carnage is open suggests a climate tolerable at any time of the year. The height of the box suggests crowded streets, or the spirited character of the animal employed to draw it. The cushions indicate its use to convey men rather than merchandise; its hood that rain sometimes falls, or that the sun is at times powerful. The springs would imply considerable skill in metals; the varnish much attainment in that craft. 
 
+35. Similarly, let the adept consider of his own case. Now that he is on the point of plunging into the Abyss a giant Why? confronts him with uplifted club. 
+36. There is no minutest atom of his composition which can be withdrawn without making him some other than he is; no useless moment in his past. Then what is his future? The “Victoria” is not a wagon; it is not intended for carting hay. It is not a sulky; it is useless in trotting races. 
 
-421 
+37. So the adept has military genius, or much knowledge of Greek; how do these attainments help his purpose, or the purpose of the Brothers? He was put to death by Calvin, or stoned by Hezekiah; as a snake he was killed by a villager, or as an elephant slain in battle under Hamilcar. How do such memories help him? Until he have thoroughly mastered the reason for every incident in his past, and found a purpose for every item of his present equipment, he cannot truly answer even those Three Questions that were first put to him, even the Three Questions of the Ritual of the Pyramid; he is not ready to swear the Oath of the Abyss. 
 
+38. But being thus enlightened, let him swear the Oath of the Abyss; yea, le t him swear the Oath of the Abyss. 
 
+^[A brother known to me was repeatedly baffled in this meditation. But one day being thrown with his horse over a sheer cliff of forty feet, and escaping without a scratch or a bruise, he was reminded of his many narrow escapes from death. These proved to be the last factors in his problem, which, thus completed, solved itself in a moment. (O. M. Chinese Frontier 1905-6.)]
 
-cast upon the shore and wrecked. Undamaged among the cargo is 
-a “Victoria”. What is its use ? The wheels speak of roads, their 
-slimness of smooth roads, the brake of hilly roads. The shafts show 
-that it was meant to be drawn by an animal, their height and length 
-suggest an animal of the size of a horse. That the carnage is 
-open suggests a climate tolerable at any time of the year. The 
-height of the box suggests crowded streets, or the spirited character 
-of the animal employed to draw it. The cushions indicate its use 
-to convey men rather than merchandise; its hood that rain some- 
-j mes falls, or that the sun is at times powerful. The springs would 
+### LIBER B vel MAGI 
 
-imply considerable skill in metals; the varnish much attainment in 
-that craft. 
-
-35 * Similarly, let the adept consider of his own case. Now that 
-he is on the point of plunging into the Abyss a giant Why ? 
-confronts him with uplifted club. 
-
-3 b. There is no minutest atom of his composition which can be 
-withdrawn without making him some other than he is; no useless 
-moment in his past. Then what is his future ? The “Victoria” is 
-not a wagon; it is not intended for carting hay. It is not a sulky; 
-it is useless in trotting races. 
-
-3/* So the adept has military genius, or much knowledge of 
-Greek; how do these attainments help his purpose, or the purpose 
-of the Brothers ? He was put to death by Calvin, or stoned by 
-Hezekiah; as a snake he was killed by a villager, or as an elephant 
-slain in battle under Hamilcar. How do such memories help him ? 
-Until he have thoroughly mastered the reason for every incident 
-in his past, and found a purpose for every item of his present 
-equipment, he cannot truly answer even those Three Questions 
-that were first put to him, even the Three Questions of the Ritual 
-of the Pyramid; he is not ready to swear the Oath of the Abyss. 
-
-38. But being thus enlightened, let him swear the Oath of the 
-Abyss; yea, le t him swear the Oath of the Abyss. 
-
-I. A brother known to me was repeatedly baffled in this meditation. 
-But one day being thrown with his horse over a sheer cliff of forty feet, 
-and escaping without a scratch or a bruise, he was reminded of his many 
-narrow escapes from death. These proved to be the last factors in his 
-problem, which, thus completed, solved itself in a moment. (O. M. 
-Chinese Frontier 1905-6.) 
-
-
-422 — 
-
-
-
-LIBER B 
-
-vel 
-
-MAGI 
-
-SUB FIGURA I. 
+#### SUB FIGURA I. 
 
 00. One is the Magus : twain His forces 3 four His weapons. 
 These are the seven Spirits of Unrighteousness; seven vultures of 
 evil. Thus is the art and craft of the Magus but glamour. How 
-shall He destroy Himself ? 
+shall He destroy Himself? 
 
-o. Y et the Magus hath power upon the Mother both directly 
-and through love. And the Magus is Love, and bindeth together 
-That and This in His Conjuration. 
+0. Yet the Magus hath power upon the Mother both directly and through love. And the Magus is Love, and bindeth together That and This in His Conjuration. 
 
-1. In the beginning doth the Magus speak Truth, and send 
-forth Illusion and Falsehood to enslave the soul. Yet therein is 
-the Mystery of Redemption. 
+1. In the beginning doth the Magus speak Truth, and send forth Illusion and Falsehood to enslave the soul. Yet therein is the Mystery of Redemption. 
 
-2. By his Wisdom made He the Worlds: the World that is 
-God is none other than He. 
+2. By his Wisdom made He the Worlds: the World that is God is none other than He. 
 
-3. How then shall He end His Speech with Silence ? For 
-He is Speech. 
+3. How then shall He end His Speech with Silence? For He is Speech. 
 
-4. He is the First and the Last. How shall He cease to 
-number Himself ? 
+4. He is the First and the Last. How shall He cease to number Himself? 
 
-5. By a Magus is this writing made known through the mind 
-of a Magister. The one uttereth clearly, and the other Under- 
-standeth; yet the Word is falsehood, and the LJnderstanding 
-darkness. And this saying is of all Truth. 
+5. By a Magus is this writing made known through the mind of a Magister. The one uttereth clearly, and the other Understandeth; yet the Word is falsehood, and the Understanding darkness. And this saying is of all Truth. 
 
-6. Nevertheless it is written; for there be times of darkness, 
-and this as a lamp therein. 
+6. Nevertheless it is written; for there be times of darkness, and this as a lamp therein. 
 
 7. With the Wand createth He. 
 
@@ -9137,224 +8544,109 @@ and this as a lamp therein.
 
 10. With the Coin redeemeth He. 
 
-11. His weapons fulfil the wheel; and on What Axle that 
-turneth is not known unto Him. 
+11. His weapons fulfil the wheel; and on What Axle that turneth is not known unto Him. 
 
-12. From all these actions must He cease before the curse of 
-His Grade is uplifted from Him. Before He attain to that which 
-existeth without Form. 
+12. From all these actions must He cease before the curse of His Grade is uplifted from Him. Before He attain to that which existeth without Form. 
 
-13. And if at this time He be manifested upon earth as a Man, 
-and therefore is this present writing, let this be His method, that 
+13. And if at this time He be manifested upon earth as a Man, and therefore is this present writing, let this be His method, that the curse of His grade, and the burden of His attainment, be uplifted from Him. 
 
+14. Let Him beware of abstinence from action. For the curse of His grade is that he must speak Truth, that the Faisehood thereof may enslave the souls of men. Let Him then utter that without Fear, that the Law may be fulfilled. And according to His Original Nature will that law be shapen, so that one may declare gentleness and quietness, being an Hindu- and another fierceness and servility, being a Jew; and yet another ardour and manuness, bemg an Arab. Y et this matter toucheth the mystery of Incarnation, and is not here to be declared. 
 
-423 
+15. Now the grade of a Magister teacheth the Mystery of Sorrow, and the grade of a Magus the Mystery of Change, and the grade of Ipsissimus the Mystery of Selflessness, which is called also the Mystery of Pan. 
 
+16. Let the Magus then contemplate each in turn, raising it to the ultimate power of Infinity. Wherein Sorrow is Joy, and Change is Stability, and Selflessness is Self. For the interplay of the parts hath no action upon the whole. And this contemplation shall be performed not by simple meditation — how much less then by reason! but by the method which shall have been given unto Him in His initiation to the Grade.
 
-the curse of His grade, and the burden of His attainment, be 
-uplifted from Him. 
+17. Following which method, it shall be easy for Him to combine that trinity from its elements, and further to combine Sat-Chit-Ananda, and Light, Love, Life, three by three into nine that are one, in which meditation success shall be That which was first adumbrated to Him in the grade of Practicus (which reflecteth Mercury into the lowest world) in Liber XXVII, “Here is Nothing under its three Forms.” 
 
-14. Let Him beware of abstinence from action. For the curse 
-of His grade is that he must speak Truth, that the Faisehood 
-thereof may enslave the souls of men. Let Him then utter that 
-without Fear, that the Law may be fulfilled. And according to 
-His Original Nature will that law be shapen, so that one may 
-declare gentleness and quietness, being an Hindu- and another 
-fierceness and servility, being a Jew; and yet another ardour and 
-manuness, bemg an Arab. Y et this matter toucheth the mystery 
-of Incarnation, and is not here to be declared. 
+18. And this is the Opening of the Grade of Ipsissimus, and by the Buddhists it is called the trance Nerodha-Samapatti. 
 
-15. Now the grade of a Magister teacheth the Mystery of 
-Sorrow, and the grade of a Magus the Mystery of Change, and 
-the grade of Ipsissimus the Mystery of Selflessness, which is called 
-also the Mystery of Pan. 
+19. And woe, woe, woe, yea woe, and again woe, woe, woe, unto seven times be His that preacheth not His law to men! 
 
-16. Let the Magus then contemplate each in turn, raising it to 
-the ultimate power of Infinity. Wherein Sorrow is Joy, and 
-Change is Stability, and Selflessness is Self. For the interplay of 
-the parts hath no action upon the whole. And this contemplation 
-shall be performed not by simple meditation — how much less then 
-by reason! but by the method which shall have been given unto 
-Him in His initiation to the Grade. 
+20. And woe also be unto Him that refuseth the curse of the grade of a Magus, and the burden of the Attainment thereof. 
 
-17. Following which method, it shall be easy for Him to 
-combine that trinity from its elements, and further to combine Sat- 
-Chit-Ananda, and Light, Love, Life, three by three into nine that 
-are one, in which meditation success shall be That which was first 
-adumbrated to Him in the grade of Practicus (which reflecteth 
-Mercury into the lowest world) in Liber XXVII, “Here is Nothing 
-under its three Forms.” 
+21. And in the word CHAOS let the book be sealed, yea, let the Book be sealed. 
 
-18. And this is the Opening of the Grade of Ipsissimus, and by 
-the Buddhists it is called the trance Nerodha-Samapatti. 
+### LIBER RESH vel HELIOS 
 
-19* And woe, woe, woe, yea woe, and again woe, woe, woe, 
-unto seven times be His that preacheth not His law to men ! 
+#### SUB FIGURA CC. 
 
-20. And woe also be unto Him that refuseth the curse of the 
-grade of a Magus, and the burden of the Attainment thereof. 
+0. These are the adorations to be performed by aspirants to the A.·.A.·. 
 
-21. And in the word CHAOS let the book be sealed, yea, let 
-the Book be sealed. 
+1. Let him greet the Sun at dawn, facing East, giving the sign of his grade. And let him say in a loud voice: 
 
+> Hail unto Thee who art Ra in Thy rising, even unto Thee who art Ra in Thy strength, who travellest over the Heavens in Thy bark at the Uprising of the Sun. 
+> 
+> Tahuti standeth in His splendour at the prow, and Ra-Hoor abideth at the helm. 
+> 
+> Hall unto Thee from the Abodes of Night! 
 
-— 424 — 
+2. Also at Noon, let him greet the Sun, facing South, giving the sign of his grade. And let him say in a loud voice: 
 
+> Hail unto Thee who art Ahathoor in Thy triumphing, even unto Thee who art Ahathoor in Thy beauty, who travellest over the heavens in Thy bark at the Mid-course of the Sun. 
+> 
+> Tahuti standeth in His splendour at the prow, and Ra-Hoor abideth at the helm. 
+> 
+> Hail unto Thee from the Abodes of Morning! 
 
-LIBER RESH 
+3. Also, at Sunset, let him greet the Sun, facing West, giving the sign of his grade. And let him say in a loud voice: 
 
-vel 
+> Hail unto Thee who art Tum in Thy setting, even unto Thee who art Tum in Thy joy, who travellest over the Heavens in Thy bark at the Down-going of the Sun. 
+> 
+> Tahuti standeth in His splendour at the prow, and Ra-Hoor abideth at the helm. 
+> 
+> Hail unto Thee from the Abodes of Day! 
 
-HELIOS 
+4. Lastly, at Midnight, let him greet the Sun, facing North, giving the sign of his grade, and let him say in a loud voice: 
 
-SUE FIGURA CC. 
+> Hail unto Thee who art Khephra in Thy hiding, even unto Thee who art Khephra in Thy silence, who travellest over the heavens in Thy bark at the Midnight Hour of the Sun. 
+> 
+> Tahuti standeth in His splendour at the prow, and Ra-Hoor abideth at the helm. 
+> 
+> Hail unto Thee from the Abodes of Evening. 
 
-o. These are the adorations to be performed by aspirants to 
-the A A 
+5. And after each of these invocations thou shalt give the sign of silence, and afterward thou shalt perform the adoration that is taught thee by thy Superior. And then do thou compose Thyself to holy meditation. 
 
-1. Let him greet the Sun at dawn, facing East, giving the 
-sign of his grade. And let him say in a loud voice: 
+6. Also it is better if in these adorations thou assume the God-form of Whom thou adorest, as if thou didst unite with Him in the adoration of That which is beyond Him. 
 
-Hall unto Thee who art Ra in Thy rising, even unto Thee who 
-art Ra in Thy strength, who travellest over the Heavens in Thy 
-bark at the Uprising of the Sun. 
+7. Thus shalt thou ever be mindful of the Great Work which thou hast undeitaken to perform? and thus shalt thou be strengthened to pursue it unto the attainment of the Stone of the Wise; the Summum Bonum; True Wisdom and Perfect Happiness. 
 
-Tahuti standeth in His splendour at the prow, and Ra-Hoor 
-abideth at the helm. 
+### LIBER III vel JUGORUM. 
 
-Hall unto Thee from the Abodes of Night ! 
+#### 0
 
-2. Also at Noon, let him greet the Sun, facing South, giving 
-the sign of his grade. And let him say in a loud voice: 
+0. Behold the Yoke upon the neck of the Oxen! Is it not thereby that the Field shall be ploughed? The Yoke is heavy, but ioineth together them that are separate—Glory to Nuit and to Hadit, and to Him that hath given us the Symbol of the Rosy Cross! 
 
-Hall unto Thee who art Ahathoor in Thy triumphing, even unto 
-Thee who art Ahathoor in Thy beauty, who travellest over the 
-heavens in Thy bark at the Mid-course of the Sun. 
+Glory unto the Lord of the Word Abrahadabra, and Glory unto Him that hath given us the Symbol of the Ankh, and of the Cross within the Circle! 
 
-Tahuti standeth in His splendour at the prow, and Ra-Hoor 
-abideth at the helm. 
+1. Three are the Beasts wherewith thou must plough the Field; the Unicom, the Horse, and the Ox. And these shalt thou yoke in a triple yoke that is governed by One Whip. 
 
-Hall unto Thee from the Abodes of Morning ! 
+2. Now these Beasts run wildly upon the earths and are not easily obedient to the Man. 
 
-3. Also, at Sunset, let him greet the Sun, facing West, giving 
-the sign of his grade. And let him say in a loud voice: 
+3. Nothing shall be said here of Cerberus, the great Beast of Hell that is every one of these and all of these, even as Athanasius hath foreshadowed. For this matter^[(i.e. the matter of Cerberus).] is not of Tiphereth without, but Tiphereth within. 
 
-Hall unto Thee who art Tum in Thy setting, even unto Thee 
-who art Tum in Thy joy, who travellest over the Heavens in 
-Thy bark at the Down-going of the Sun. 
+#### I 
 
-Tahuti standeth in His splendour at the prow, and Ra-Hoor 
-abideth at the helm. 
-
-Hall unto Thee from the Abodes of Day ! 
-
-4. Lastly, at Midnight, let him greet the Sun, facing North, 
-giving the sign of his grade, and let him say in a loud voice: 
-
-Hall unto Thee who art Khephra in Thy hiding, even unto 
-Thee who art Khephra in Thy silence, who travellest over the 
-heavens in Thy bark at the Midnight Hour of the Sun. 
-
-
-— 425 — 
-
-
-Tahuti standeth in His splendour at the prow, and Ra-Hoor 
-abideth at the helm. 
-
-Hall unto Thee from the Abodes of Evening. 
-
-5. And after each of these invocations thou shalt give the 
-sign of silence, and afterward thou shalt perform the adoration 
-that is taught thee by thy Superior. And then do thou compose 
-Thyself to holy meditation. 
-
-6. Also it is better if in these adorations thou assume the 
-God-form of Whom thou adorest, as if thou didst unite with Him 
-in the adoration of That which is beyond Him. 
-
-7 — Thus shalt thou ever be mindful of the Great Work which 
-thou hast undeitaken to perform ? and thus shalt thou be 
-strengthened to pursue it unto the attainment of the Stone of the 
-Wi se ? the Summum Bonum ? True Wisdom and Terfect Happmess. 
-
-
-— 426 — 
-
-
-LIBER III 
-
-vel 
-
-JUGORUM. 
-
-O. 
-
-O. Behold the Yoke upon the neck of the Oxen ! Is it not 
-thereby that the Field shali be ploughed ? The Yoke is heavy, 
-but ioineth together them that are separate—Glory to Nuit and 
-to Hadit, and to Him that hath given us the Symbol of the Rosy 
-Cross ! 
-
-Glory unto the Lord of the Word Abrahadabra, and Glory 
-unto Him that hath given us the Symbol of the Ankh, and of the 
-Cross within the Circle ! 
-
-1. Three are the Beasts wherewith thou must plough the 
-Field; the Unicom, the Horse, and the Ox. And these shalt thou 
-yoke in a triple yoke that is governed by One Whip. 
-
-2. Now these Beasts run wildly upon the earths and are not 
-easily obedient to the Man. 
-
-3. Nothing shall be said here of Cerberus, the great Beast of 
-Hell that is every one of these and all of these, even as Athanasius 
-hath foreshadowed. For this matter 1 is not of Tiphereth without, 
-but Tiphereth within. 
-
-I. 
-
-o. The Unicom is speech. Man, rule thy Speech! How else 
-shalt thou master the Son, and answer the Magician at the right 
-hand gateway of the Crown ? 
+0. The Unicom is speech. Man, rule thy Speech! How else shalt thou master the Son, and answer the Magician at the right hand gateway of the Crown? 
 
 1. Here are practices. Each may last for a week or more. 
 
-2. (a) Avoid using some common Word, such as “and” or 
-“the” or “but”; use a paraphrase. 
+2. (a) Avoid using some common Word, such as “and” or “the” or “but”; use a paraphrase. 
 
-(b) Avoid using some letter of the alphabet, such as “t”, or 
-“s”, or “m”; use a paraphrase. 
+(b) Avoid using some letter of the alphabet, such as “t”, or “s”, or “m”; use a paraphrase. 
 
-(c) Avoid using the pronouns and adjectives of the first per- 
-son; use a paraphrase. 
+(c) Avoid using the pronouns and adjectives of the first person; use a paraphrase. 
 
 Of thine own ingenium devise others. 
 
-I. (i.e. the matter of Cerberus). 
+1. On each occasion that thou art betrayed into saying that thou art sworn to avoid, eut thyself sharply upon the wrist or forearm with a razor; even as thou shouldst beat a disobedient dog. Feareth not the Unicom the claws and teeth of the Lion? 
 
-
-427 — 
-
-
-
-1 . On each occasion that thou art betrayed into saying that 
-thou art sworn to avoid, eut thyself sharply upon the wrist or 
-forearm with a razor; even as thou shouldst beat a disobedient 
-dog. Feareth not the Unicom the claws and teeth of the Lion ? 
-
-3. Thine arm then serveth thee both for a warning and for 
-a record. Thou shalt Write down thy dally progress in these 
-practices, until thou art perfecily vigilant at all times over the 
-least word that slippeth from thy tongue. 
+3. Thine arm then serveth thee both for a warning and for a record. Thou shalt Write down thy dally progress in these practices, until thou art perfecily vigilant at all times over the least word that slippeth from thy tongue. 
 
 Thus bind thyself, and thou shalt be for ever free. 
 
-IL 
+#### II
 
-o. The Morse is Action. Man, rule thine Action. How 
-else shalt thou master the Father, and answer the Fool at the Left 
-Hand Gateway of the Crown ? 
+0. The Horse is Action. Man, rule thine Action. How else shalt thou master the Father, and answer the Fool at the Left Hand Gateway of the Crown? 
 
 1. Here are practices. Each may last for a week, or more. 
 
@@ -9364,282 +8656,138 @@ Hand Gateway of the Crown ?
 
 Of thine own ingenium devise others. 
 
-2. On each occasion that thou art betrayed into doing that thou 
-art sworn to avoid, eut thyself sharply upon the wrist or forearm 
-with a razor$ even as thou shouldst beat a disobedient dog. Feareth 
-not the Horse the teeth of the Camel ? 
+2. On each occasion that thou art betrayed into doing that thou art sworn to avoid, eut thyself sharply upon the wrist or forearm with a razor; even as thou shouldst beat a disobedient dog. Feareth not the Horse the teeth of the Camel? 
 
-3. Thme arm then serveth thee both for a warning and for a 
-record. Thou shalt Write down thy dally progress in these practices, 
-until thou art perfectlv vigilant at all times over the least action 
-that slippeth from the least of thy fingers. 
+3. Thme arm then serveth thee both for a warning and for a record. Thou shalt Write down thy dally progress in these practices, until thou art perfectlv vigilant at all times over the least action that slippeth from the least of thy fingers. 
 
 Thus bind thyself, and thou shalt be for ever free. 
 
-III. 
+#### III 
 
-o. The Ox is Thought. Man, rule thy Thought! How 
-else shalt thou master the Holy Spirit, and answer the High 
-Priestess in the Middle Gateway of the Crown ? 
+0. The Ox is Thought. Man, rule thy Thought! How else shalt thou master the Holy Spirit, and answer the High Priestess in the Middle Gateway of the Crown? 
 
 1. Here are practices. Each may last for a week or more. 
 
-(a) Avoid thinking of a definite subject and all things con- 
-nected with it, and let that subject be one which commonly occu- 
-pies much of thy thought, being frequently stimulated by sense- 
+(a) Avoid thinking of a definite subject and all things connected with it, and let that subject be one which commonly occupies much of thy thought, being frequently stimulated by sense- 
 perceptions or the conversation of others. 
 
-
-— 428 — 
-
-
-(b) By some device, such as the changing of thy ring from one 
-finger to another, create in thyself two personalities, the thoughts 
-of one being within entirely different limits from that of the other, 
-the common ground being the necessities of life. 1 
+(b) By some device, such as the changing of thy ring from one finger to another, create in thyself two personalities, the thoughts of one being within entirely different limits from that of the other, the common ground being the necessities of life.^[For instance, let a be a man of strong passions, skilled in the Holy Qabalah, a vegetarian, and a keen “reactionary” politician. Let B be a bloodless and ascetic thinker, occupied with business and family cares, an eater of meat, and a keen progressive politician. Let no thought proper to “A” arise when the ring is on the “B” finger, and vice versa.]
 
 Of thine own Ingenium devise others. 
 
-2. On each occasion that thou art betrayed into thinking that 
-thou art sworn to avoid, eut thyself sharply upon the wrist or 
-forearm with a razor; even as thou shouldst beat a disobedient dog. 
-Feareth not the Ox the Goad of the Floughman ? 
+2. On each occasion that thou art betrayed into thinking that thou art sworn to avoid, eut thyself sharply upon the wrist or forearm with a razor; even as thou shouldst beat a disobedient dog. Feareth not the Ox the Goad of the Ploughman? 
 
-3. Thine arm then serveth thee both for a warning and for a 
-record. Thou shalt Write down thy clally progress in these practices, 
-until thou art perfectly vigilant at all times over the least thought 
-that ariseth in thy brain. 
+3. Thine arm then serveth thee both for a warning and for a record. Thou shalt Write down thy clally progress in these practices, until thou art perfectly vigilant at all times over the least thought that ariseth in thy brain. 
 
 Thus bind thyself, and thou shalt be for ever free. 
 
 
-I. For instance, let A be a man of strong passions, skilled in the Holy 
-Qabalah, a vegetarian, and a keen “reactionary” politician. Let B be a 
-bloodless and ascetic thinker, occupied with business and family cares, an 
-eater of meat, and a keen progressive politician. Let no thought proper 
-to “A” arise when the ring is on the “B” finger, and vice versa. 
+### LIBER CHETH vel VALLUM ABIEGNI 
 
+#### SUB FIGURA CLVI. 
 
-— 429 
+1. This is the secret of the Holy Graal, that is the sacred vessel of our Lady, the Scarlet Woman, Babalon the Mother of Abominations, the Bride of Chaos, that rideth upon our Lord the Beast. 
 
+2. Thou shalt drain out thy blood that is thy life into the golden cup of her fornication. 
 
+3. Thou shalt mingle thy life with the universal life. Thou shalt keep not back one drop. 
 
-LIBER CHETH 
-
-vel 
-
-VALLUM ABIEGNI 
-
-SUB FIGURA CLVI. 
-
-1. This is the secret of the Lïoly Graal, that is the sacred vessei 
-of our Lady, the Scarlet Woman, Babalon the IVlother of Abomina¬ 
-tions, the Bride of Chaos, that rideth upon our Lord the Beast. 
-
-2. Thou shalt drain out thy blood that is thy life into the 
-golden cup of her fornication. 
-
-3. Thou shalt mingle thy life with the universal life. Thou 
-shalt keep not back one drop. 
-
-4» Then shall thy brain be dumb, and thy heart beat no more, 
-and all thy life shall go from thee; and thou shalt be cast out 
-upon the midden, and the birds of the air shall feast upon thy 
+4. Then shall thy brain be dumb, and thy heart beat no more, and all thy life shall go from thee; and thou shalt be cast out upon the midden, and the birds of the air shall feast upon thy 
 flesh, and thy bones shall whiten in the sun. 
 
-5. Then shall the winds gather themselves together and bear 
-thee up as it were a little heap of dust in a sheet that hath four 
-comers, and they shall give it unto the guardian of the Abyss. 
+5. Then shall the winds gather themselves together and bear thee up as it were a little heap of dust in a sheet that hath four comers, and they shall give it unto the guardian of the Abyss. 
 
-6. And because there is no life therein, the guardian of the 
-Abyss shall bid the angels of the winds pass by. And the angels 
-thereof shall be no more. 
+6. And because there is no life therein, the guardian of the Abyss shall bid the angels of the winds pass by. And the angels thereof shall be no more. 
 
-7 ' N° w therefore that thou mayest achieve this ritual of the 
-Holy Graal, do thou divest thyself of all thy goods. 
+7. Now therefore that thou mayest achieve this ritual of the Holy Graal, do thou divest thyself of all thy goods. 
 
-8. Thou hast wealth; give it unto them that have need thereof, 
-yet no desire toward it. 
+8. Thou hast wealth; give it unto them that have need thereof, yet no desire toward it. 
 
-9. Thou hast health$ slay thyself in the fervour of thine 
-abandonment unto Our Lady. Let thy flesh hang loose upon thy 
-bones, and thine eyes glare with thy quenchless lust unto the 
-Infinite, with thy passion for the Unknown, for Her that is beyond 
-Knowledge the accursed one. 
+9. Thou hast health; slay thyself in the fervour of thine abandonment unto Our Lady. Let thy flesh hang loose upon thy bones, and thine eyes glare with thy quenchless lust unto the Infinite, with thy passion for the Unknown, for Her that is beyond Knowledge the accursed one. 
 
-IG. Thou hast love3 tear thy mother from thine heart and 
-spit in the face of thy father. Let thy foot trample the belly of thy 
+10. Thou hast love; tear thy mother from thine heart and spit in the face of thy father. Let thy foot trample the belly of thy wife, and let the babe at her breast be the prey of dogs and vultures. 
 
-wife, and let the babe at her breast be the prey of dogs and 
-vultures. 
+11. For if thou dost not this with thy will, then shall We do this despite thy will. So that thou attain to the Sacrament of the Graal in the Chapel of Abominations. 
 
-11. For if thou dost not this with thy will, then shall We do 
+12. And behold! If by stealth thou keep unto thyself one thought of thine, then shalt thou be cast out into the abyss for ever; and thou shalt be the lonely one, the eater of dung, the afflicted in the Day of Be-With-Us. 
 
+13. Yea! verily this is the Truth, this is the Truth, this is the l'ruth. Unto thee shall be granted joy and health and wealth and wisdom when thou art no longer thou. 
 
-— 430 — 
+14. Then shall every gain be a new sacrament, and it shall not defile thee; thou shalt revel with the wantons in the market place, and the virgins shall fling roses upon thee, and the merchants bend their knees and bring thee gold and spiees. Also young boys shall pour wonderful wines for thee, and the singers and the dancers shall sing and dance for thee. 
 
+15. Yet shalt thou not be therein, for thou shalt be forgotten, dust lost in dust. 
 
-this despite thy will. So that thou attain to the Sacrament of the 
-Graal in the Chapel of Abominations. 
+16. Nor shall the aeon itself avall thee in this; for from the dust shall a white ash be prepared by Hermes the Invisible. 
 
-12. And behold ! If by stealth thou keep unto thyself onc 
-thought of thine, then shalt thou be cast out into the abyss for 
-ever; and thou shalt be the lonely one, the eater of dung, the 
-afflicted in the Day of Be-With-Us. 
+17. And this is the wrath of God, that these things should be thus. 
 
-13. Yea! verily this is the Truth, this is the Truth, this is the 
-l'ruth. Unto thee shall be granted joy and health and wealth and 
-wisdom when thou art no longer thou. 
+18. And this is the gce of God, that these things should be thus. 
 
-14. Then shall every gain be a new sacrament, and it shall not 
-defile thee; thou shalt revel with the wantons in the market place, 
-and the virgins shall fling roses upon thee, and the merchants 
-bend their knees and bring thee gold and spiees. Also young boys 
-shall pour wonderful wines for thee, and the singers and the 
-dancers shall sing and dance for thee. 
+19. Wherefore I charge you that ye come unto me in the Beginning; for if ye take but one step in this Path, ye must arrive inevitably at the end thereof. 
 
-15. Yet shalt thou not be therein, for thou shalt be forgotten, 
-dust lost in dust. 
+20. This Path is beyond Life and Death; it is also beyond Love, but that ye know not, for ye know not Love. 
 
-16. Nor shall the aeon itself avall thee in this; for from the 
-dust shall a white ash be prepared by Hermes the Invisible. 
+21. And the end thereof is known not even unto Our Lady, nor to the Beast whereon She rideth, nor unto the Virgin her daughter, nor unto Chaos her lawful Lord; but unto the Crowned Child is it known? It is not known if it be known. 
 
-17. And this is the wrath of God, that these things should be 
-thus. 
+22. Therefore unto Hadit and unto Nuit be the glory in the End and the Beginning; yea, in the End and the Beginning. 
 
-18. And this is the gce of God, that these things should be 
-thus. 
+#### LIBER A’ASH vel CAPRICORNI PNEUMATICI 
 
-19. Wherefore I charge you that ye come unto me in the 
-Beginning; for if ye take but one step in this Path, ye must arrive 
-inevitably at the end thereof. 
+#### SUE FIGURA CCCLXX. 
 
-20. This Path is beyond Life and Death; it is also beyond 
-Love, but that ye know not, for ye know not Love. 
+0. Gnarled Oak of God! In thy branches is the lightning nested! Above thee hangs the Eyeless Hawk. 
 
-21. And the end thereof is known not even unto Our Ladv, 
+1. Thou art blasted and black! Supremely solitary in that heath of scrub. 
 
-J s 
-
-nor to the Beast whereon She rideth, nor unto the Virgin her 
-daughter, nor unto Chaos her lawful Lord; but unto the Crowned 
-Child is it known ? It is not known if it be known. 
-
-22. Therefore unto Hadit and unto Nuit be the glory in the 
-End and the Beginning; yea, in the End and the Beginning. 
-
-
-— 431 — 
-
-
-9 
-
-
-LIBER A’ASH 
-
-vel 
-
-CAPRICORNI PNEUMATICI 
-
-SUE FIGURA CCCLXX. 
-
-o. Gnarled Oak of God ! In thy branches is the lightning 
-nested ! Above thee hangs the Eyeless Hawk. 
-
-1. Thou art blasted and black! Supremely solitary in that 
-heath of scrub. 
-
-2. Up ! The ruddy clouds hang over thee ! ït is the storm. 
+2. Up! The ruddy clouds hang over thee! ït is the storm. 
 
 3. There is a flaming gash in the sky. 
 
-4- Up. 
+4. Up. 
 
-5. Thou art tossed about in the grip of the storm for an aeon 
-and an aeon and an aeon. But thou givest not thy sap; thou 
-fallest not. 
+5. Thou art tossed about in the grip of the storm for an aeon and an aeon and an aeon. But thou givest not thy sap; thou fallest not. 
 
-6. Only in the end shalt thou give up thy sap when the great 
-God F.I.A.T. is enthroned on the day of Be-With-Us. 
+6. Only in the end shalt thou give up thy sap when the great God F.I.A.T. is enthroned on the day of Be-With-Us. 
 
-7. For two things are done and a third thing is begun. Isis 
-and Osiris are given over to incest and adultery. Horus leaps up 
-thrice armed from the womb of his mother. Harpocrates his twin 
-is hidden within him. SET is his holy covenant, that he shall 
-display in the great day of M.A.A.T., that is being interpreted the 
-Master of the Temple of A .\ A whose name is Truth. 
+7. For two things are done and a third thing is begun. Isis and Osiris are given over to incest and adultery. Horus leaps up thrice armed from the womb of his mother. Harpocrates his twin is hidden within him. SET is his holy covenant, that he shall display in the great day of M.A.A.T., that is being interpreted the Master of the Temple of A .\ A whose name is Truth. 
 
 8. Now in this is the magical power known. 
 
-9. It is like the oak that hardens itself and bears up against the 
-storm. It is weather-beaten and scarred and confident like a sea- 
-captain. 
+9. It is like the oak that hardens itself and bears up against the storm. It is weather-beaten and scarred and confident like a sea-captain. 
 
 10. Also it straineth like a hound in the leash. 
 
-11. It hath pride and great subtlety. Yea, and glee also ! 
+11. It hath pride and great subtlety. Yea, and glee also! 
 
 12. Let the Magus act thus in his conjuration. 
 
-13. Let him sit and conjure3 let him draw himself together in 
-that forcefulness; let him rise next swollen and straining; let him 
-dash back the hood from his head and fix his basilisk eye upon the 
-sigil of the demon. Then let him sway the force of him to and fro 
-like a satyr in silence, until the Word burst from his throat. 
+13. Let him sit and conjure3 let him draw himself together in that forcefulness; let him rise next swollen and straining; let him dash back the hood from his head and fix his basilisk eye upon the sigil of the demon. Then let him sway the force of him to and fro like a satyr in silence, until the Word burst from his throat. 
 
-14. Then let him not fall exhausted, although he might have 
-been ten thousandfold the human; but that which floodeth him is 
+14. Then let him not fall exhausted, although he might have been ten thousandfold the human; but that which floodeth him is the infinite mercy of the Genitor-Genitrix of the Universe, whereof he is the Vessel. 
 
+15. Nor do thou deceive thyself. It is easy to tell the live force from the dead matter. It is 110 easier to tell the live snake from the dead snake. 
 
-— 43 2 
+16. Also concerning vows. Be obstinate, and be not obstinate. Understand that the yieldmg of the Yoni is one with the lengthening of the Lingam. Thou art both these; and thy vow is but the rustling of the wind on Mount Meru. 
 
+17. How shalt thou adore me who am the Eye and the Tooth, the Goat of the Spirit, the Lord of creation. I am the Eye in the Triangle, the Silver Star that ye adore. 
 
-the infinite mercy of the Genitor-Genitrix of the Universe, whereof 
-he is the Vessel. 
+18. I am Baphomet, that is the Eightfold Word that shall be equilibrated with the Three. 
 
-15. Nor do thou deceive thyself. It is easy to tell the live 
+9.  There is no act or passion that shall not be an hymn in mine honour. 
 
-force from the dead matter. It is 110 easier to tell the live snake 
-from the dead snake. 
+20. All holy things and all symbolic things shall be my sacraments. 
 
-16. Also concerning vows. Be obstinate, and be not obstinate. 
-Understand that the yieldmg of the Yoni is 011e with the 
-lengthening of the Lingam. Thou art both these; and thy vow is 
-but the rustling of the wind on Mount Meru. 
+21. These animais are sacred unto me 5 the goat, and the duck, and the ass, and the gazelle, the man, the woman and the child. 
 
-17. How shalt thou adore me who am the Eye and the Tooth, 
-the Goat of the Spirit, the Lord of creation. I am the Eye in the 
-Triangle, the Silver Star that ye adore. 
+22. all corpses are sacred unto me3 they shall not be touched save in mine eucharist. all lonely places are sacred unto me; where one man gathereth himself together in my name, there will I leap forth in the midst of him. 
 
-18. I am Baphomet, that is the Eightfold Word that shall be 
-equilibrated with the Three. 
+23. I am the hideous god, and who mastereth me is uglier than I. 
 
-* 9 — There is no act or passion that shall not be an hymn in 
-mine honour. 
-
-20. all holy things and all symbolic things shall be my 
-sacraments. 
-
-21. These animais are sacred unto me 5 the goat, and the duck, 
-and the ass, and the gazelle, the man, the woman and the child. 
-
-22. all corpses are sacred unto me3 they shall not be touched 
-save in mine eucharist. all lonely places are sacred unto me; 
-where one man gathereth himself together in my name, there will 
-I leap forth in the midst of him. 
-
-23. I am the hideous god, and who mastereth me is uglier 
-than I. 
-
-2 4 — Yet I give more than Bacchus and Apolio; my gifts exceed 
-the olive and the horse. 
+24. Yet I give more than Bacchus and Apolio; my gifts exceed the olive and the horse. 
 
 25. Who worshippeth me must worship me with many rites. 
 
-26. I am concealed with all concealments3 when the Most 
-Holy Ancient One is stripped and driven through the market place, 
-
-I am still secret and apart. 
+26. I am concealed with all concealments3 when the Most Holy Ancient One is stripped and driven through the market place, I am still secret and apart. 
 
 27. Whom I love I chastise with many rods. 
 
@@ -9647,173 +8795,104 @@ I am still secret and apart.
 
 29. For there is no holiness where I am not. 
 
-30. Fear not when I fall in the fury of the storm; for mine 
-acorns are blown afar by the wind; and verily I shall rise again, 
-
-
-— 433 
-
-
-and my children about me, so that we shall uplift our forest in 
-Eternity. 
+30. Fear not when I fall in the fury of the storm; for mine acorns are blown afar by the wind; and verily I shall rise again, and my children about me, so that we shall uplift our forest in Eternity. 
 
 31. Eternity is the storm that covereth me. 
 
-32. I am Existence, the Existence that existeth not save through 
-its own Existence, that is beyond the Existence of Existences, and 
-rooted deeper than the No-Thing-Tree in the Land of No-Thing. 
+32. I am Existence, the Existence that existeth not save through its own Existence, that is beyond the Existence of Existences, and rooted deeper than the No-Thing-Tree in the Land of No-Thing. 
 
-33. Now therefore thou knowest when I am within Thee, 
-when my hood is spread over thy skull, when my might is more 
-than the penned Indus, and resistless as the Giant Glacier. 
+33. Now therefore thou knowest when I am within Thee, when my hood is spread over thy skull, when my might is more than the penned Indus, and resistless as the Giant Glacier. 
 
-34. For as thou art before a lewd woman in Thy nakedness in 
-the bazaar, sucked up by her slyness and smiles, so art thou wholly 
-and no more in part before the symbol of the beloved, though it 
-be but a Pisacha or a Yantra or a Deva. 
+34. For as thou art before a lewd woman in Thy nakedness in the bazaar, sucked up by her slyness and smiles, so art thou wholly and no more in part before the symbol of the beloved, though it be but a Pisacha or a Yantra or a Deva. 
 
-35. And in all shalt thou create the Infinite Bliss and the 
-next link of the Infinite Chain. 
+35. And in all shalt thou create the Infinite Bliss and the next link of the Infinite Chain. 
 
-36. This chain reaches from Eternity to Eternity, ever in 
-triangles — is not my symbol a triangle ? — ever in circles — is 
-not the symbol of the Beloved a circle? Therein is all progress 
-base illusion, for every circle is alike and every triangle alike! 
+36. This chain reaches from Eternity to Eternity, ever in triangles — is not my symbol a triangle? — ever in circles — is not the symbol of the Beloved a circle? Therein is all progress base illusion, for every circle is alike and every triangle alike! 
 
-37. But the progress is progress, and progress is rapture, 
-constant, dazzling, showers of light, waves of dew, fiames of the 
-haïr of the Great Goddess, flowers of the roses that are about her 
-neck, Amen ! 
+37. But the progress is progress, and progress is rapture, constant, dazzling, showers of light, waves of dew, fiames of the haïr of the Great Goddess, flowers of the roses that are about her neck, Amen! 
 
 38. Therefore lift up thyself as I am lifted up. 
 
-Hold thyself in as I am master to accomplish. At the end, be 
-the end far distant as the stars that lie in the navel of Nuit, do thou 
-slay thyself as I at the end am slain, in the death that is life, in 
-the peace that is mother of war, in the darkness that holds light 
-in his hand, as an harlot that plucks a jewel from her nostrils. 
+Hold thyself in as I am master to accomplish. At the end, be the end far distant as the stars that lie in the navel of Nuit, do thou slay thyself as I at the end am slain, in the death that is life, in the peace that is mother of war, in the darkness that holds light in his hand, as an harlot that plucks a jewel from her nostrils. 
 
-39. So therefore the beginning is delight, and the end is 
-delight, and delight is in the midst, even as the Indus is water 
-in the cavern of the glacier, and water among the greater hills and 
-the lesser hills and through the ramparts of the hills and through 
-the plains, and water at the mouth thereof when it leaps forth into 
-the mighty sea, yea, into the mighty sea. 
+39. So therefore the beginning is delight, and the end is delight, and delight is in the midst, even as the Indus is water in the cavern of the glacier, and water among the greater hills and the lesser hills and through the ramparts of the hills and through the plains, and water at the mouth thereof when it leaps forth into the mighty sea, yea, into the mighty sea. 
 
-(The interpretation of this Book will be given to members of 
-the Grade of Dominus Liminis on application, each to his Adeptus.) 
+(The interpretation of this Book will be given to members of the Grade of Dominus Liminis on application, each to his Adeptus.) 
 
 
-4.34 
 
 
-LIBER A 
+### LIBER A vel ARMORUM 
 
+#### SUB FIGURA CCCXII. 
 
-vel 
+“ The obeah and the wanga; the work of the wand and the work of the sword; these shall he learn and teach.” Liber L. II. 37. 
 
-ARMORUM 
+#### The Pantacle. 
 
-SUB FIGURA CCCXII. 
+Take pure wax, or a plate of gold, silver-gilt or Electrum Magicum. The diameter shall be eight inches, and the thickness half an inch. 
 
-“ The ubeah and the wanga; the work of the wand and the work 
-of the swordj these shall he learn and teach.” Liber L. II. 37. 
-
-The Pantacle. 
-
-Take pure wax, or a plate of gold, silver-gilt or Electrum 
-Magicum. The diameter shall be eight inches, and the thickness 
-half an inch. 
-
-Let the Neophyte by his understanding and ingenium devise a 
-symbol to represent the Universe. 
+Let the Neophyte by his understanding and ingenium devise a symbol to represent the Universe. 
 
 Let his Zelator approve thereof. 
 
-Let the Neophyte engrave the same upon his plate with his own 
-h and and weapon. 
+Let the Neophyte engrave the same upon his plate with his own h and and weapon. 
 
-Let it when finished be consecrated as he hath skill to perform, 
-and kept wrapped in silk of emerald green. 
+Let it when finished be consecrated as he hath skill to perform, and kept wrapped in silk of emerald green. 
 
-The Dagger. 
+#### The Dagger. 
 
-Let the Zelator take a piece of pure Steel, and beat it, grind it, 
-sharpen it, and polish it, according to the art of the swordsmith. 
+Let the Zelator take a piece of pure Steel, and beat it, grind it, sharpen it, and polish it, according to the art of the swordsmith. 
 
-Let him further take a piece of oak wood, and carve a hilt. The 
-length shall be eight inches. 
+Let him further take a piece of oak wood, and carve a hilt. The length shall be eight inches. 
 
-Let him by his understanding and ingenium devise a Word to 
-represent the Universe. 
+Let him by his understanding and ingenium devise a Word to represent the Universe. 
 
 Let his Practicus approve thereof. 
 
-Let the Zelator engrave the same upon his dagger with his own 
-hand and instruments. 
+Let the Zelator engrave the same upon his dagger with his own hand and instruments. 
 
 Let him further gild the wood of his hilt. 
 
-Let it when finished be consecrated as he hath skill to perform, 
-and kept wrapped in silk of golden yellow. 
+Let it when finished be consecrated as he hath skill to perform, and kept wrapped in silk of golden yellow. 
 
+#### The Cup.
 
-435 
+Let the Practicus take a piece of Silver and fashion therefrom a cup. The height shall be 8 inches, and the diameter 3 inches. 
 
-
-The Cup . 
-
-Let the Practicus take a piece of Silver and fashion therefrom 
-a cup. The height shall be 8 inches, and the diameter 3 inches. 
-
-Let him by his understanding and ingenium devise a Number 
-to represent the Universe. 
+Let him by his understanding and ingenium devise a Number to represent the Universe. 
 
 Let his Philosophus approve thereof. 
 
-Let the Practicus engrave the same upon his cup with his own 
-hand and instrument. 
+Let the Practicus engrave the same upon his cup with his own hand and instrument. 
 
-Let it when finished be consecrated as he hath skill to perform, 
-and kept wrapped in silk of azure blue. 
+Let it when finished be consecrated as he hath skill to perform, and kept wrapped in silk of azure blue. 
 
-The Baculum, 
+#### The Baculum 
 
-Let the Philosophus take a rod of copper, of length eight inches 
-and diameter half an inch. 
+Let the Philosophus take a rod of copper, of length eight inches and diameter half an inch. 
 
 Let him fashion about the top a triple flame of gold. 
 
-Let him by his understanding and ingenium devise a Deed to 
-represent the Universe. 
+Let him by his understanding and ingenium devise a Deed to represent the Universe. 
 
 Let his Dominus Liminis approve thereof. 
 
-Let the Philosophus perform the same in such a way that the 
-Baculum may be partaker therein. 
+Let the Philosophus perform the same in such a way that the Baculum may be partaker therein. 
 
-Let it when finished be consecrated as he hath skill to perform, 
-and kept wrapped in silk of fiery scarlet. 
+Let it when finished be consecrated as he hath skill to perform, and kept wrapped in silk of fiery scarlet. 
 
-The Larnp. 
+#### The Lamp. 
 
-Let the Dominus Liminis take pure lead, tin, and quicksilver, 
-with platinum, and, if need be, gJass. 
+Let the Dominus Liminis take pure lead, tin, and quicksilver, with platinum, and, if need be, gJass. 
 
-Let him by his understanding and ingenium devise a Magick 
-Lamp that shall burn without wick or oil, being fed by the Aethyr. 
+Let him by his understanding and ingenium devise a Magick Lamp that shall burn without wick or oil, being fed by the Aethyr. 
 
-This shall he accomplish secretly and apart, without asking the 
-advice or approval of his Adeptus Minor. 
+This shall he accomplish secretly and apart, without asking the advice or approval of his Adeptus Minor. 
 
-Let the Dominus Liminis keep it when consecrated in the secret 
-chamber of Art. 
+Let the Dominus Liminis keep it when consecrated in the secret chamber of Art. 
 
-This ithen is that which is written: “Being furnished with 
-complete armour and armed, he is similar to the goddess.” 
+This ithen is that which is written: “Being furnished with complete armour and armed, he is similar to the goddess.” 
 
 And again, “I am armed, I am armed.” 
 
-LECRAM. IM P. PARIS 
-
-# PART IV - THE LAW
