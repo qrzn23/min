@@ -46,6 +46,7 @@ p {
 blockquote {
   margin: 1em 2em;
   font-style: italic;
+  color: #555;
 }
 
 /* Horizontal rule */
