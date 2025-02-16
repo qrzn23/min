@@ -80,7 +80,9 @@ O Ye Heavens which dwell in the first Aire1, ye are mighty in the parts of the E
 
 O ye Heavens arise! The lower heavens beneath you, let them serve you! Govern those that govern! Cast down such as fall. Bring forth with those that increase, and destroy the rotten. No place let it remain in one number. Add an diminish until the stars be numbered. Arise! Move! and appear before the Covenant of His mouth, which He hath sworn unto us in His Justice. Open the Mysteries of your Creation, and make us partakers of THE UNDEFILED KNOWLEDGE.
 
-### A BRIEF SYNOPSIS OF THE CONTENTS OF THE CALLS OF THE THIRTY AIRES OR AETHYRS
+### A BRIEF SYNOPSIS 
+
+### OF THE CONTENTS OF THE CALLS OF THE THIRTY AIRES OR AETHYRS
 
 Aethyr
 
@@ -153,7 +155,9 @@ Note: In various footnotes to the text, Crowley makes correspondences to Enochia
 WEH = Bill Heidrick (William E. Heidrick, TG OTO)
 
 
-### The Cry of the 30th Aethyr Which is Called TEX^[TEX = ♌♍A]
+### The Cry of the 30th Aethyr
+
+#### Which is Called TEX^[TEX = ♌♍A]
 
 I AM in a vast crystal cube in the form of the Great God Harpocrates. This cube is surrounded by a sphere.^[cf. AL, II, 7] About me are four archangels in black robes, their wings and armour lined out in white.
 
@@ -245,7 +249,9 @@ If I keep silence — Or if I speak each word is anguish without hope.
 
 And I heard the Aethyr cry aloud "Return! Return! Return! For the work is ended; and the Book is shut; and let the glory be to God the Blessed for ever in the Aeons, Amen." Thus far is the voice of TEX and no more.
 
-### The Cry of the 29th Aethyr, Which is Called RII^[RII = ♓♐♐ = קסס = 220. 220 is the number of verses of The Book of the Law: And this book brings about the disruption described in this Aethyr.]
+### The Cry of the 29th Aethyr
+
+#### Which is Called RII^[RII = ♓♐♐ = קסס = 220. 220 is the number of verses of The Book of the Law: And this book brings about the disruption described in this Aethyr.]
 
 The sky appears covered with stars of gold; the background is of green. But the impression is also of darkness.
 
@@ -335,7 +341,9 @@ The geomantic correspondences of the Enochian alphabet form a sublime commentary
 Note that the total angels of the aethyrs are 91, the numeration of Amen.
 
 
-### The Cry of the 28th Aethyr Which is Called BAG^[BAG = ♈♉♋ = ה + ו + ח = 19. הוח = Eve = to manifest, to shew forth.]
+### The Cry of the 28th Aethyr
+
+#### Which is Called BAG^[BAG = ♈♉♋ = ה + ו + ח = 19. הוח = Eve = to manifest, to shew forth.]
 
 There cometh an Angel into the stone with opalescent2^[Opal = rainbow = ♐] shining garments like a wheel^[XIX = The Wheel of the Sun, symbolic of universally radiating energy; and 19 is the glyph of the circle.] of fire on every side of him, and in his hand is a long flail of scarlet lightning^[19 = Angel L.T.D. Of ♐] ; his face is black^[19 = היד was black.] , and his eyes white without any pupil or iris^[References to Binah.]. The face is very terrible indeed to look upon. Now in front of him is a wheel^[See above, note 3.], with many spokes, and many tyres; it is like a fence^[ח = Fence.] in front of him.
 
@@ -345,7 +353,7 @@ And I answer him: Time^[ת Time = ♄ = Binah.] is not, save in the darkness of 
 
 And now the wheel breaks away, and I see him as he is. His garment is black beneath the opal veils, but it is lined with white, and he has the shining belly of a fish, and enormous wings of black and white feathers, and innumerable little legs and claws like a centipede, and a long tail like a scorpion. The breasts are human, but they are all scored with blood; and he cries: O thou who hast broken down the veil, knowest thou not that who cometh where I am must be scarred by many sorrows? ^[i.e. must attain to 8x = 3□]
 
-And I answer him: Sorrow13 is not, save in the darkness of the womb of Her by whom came evil.
+And I answer him: Sorrow is not, save in the darkness of the womb of Her by whom came evil.
 
 I pierce the Mystery of his breast , and therein is a jewel^[All are references to Binah.]. It is a sapphire as great as an ostrich egg, and thereon is graven this sigil:
 
@@ -404,7 +412,9 @@ And this darkness swallows everything up^[Typical gesture of Binah.], and the an
 Aumale, Algeria. November 23, 1909, between 8 and 9 p.m.
 
 
-### The Cry of the 27th Aethyr, Which is Called ZAA^[ZAA = ♌♉♉ = טוו = 21. A mystery of Atu XVIII, "The Moon". ♓ in which ♀ is exalted.]
+### The Cry of the 27th Aethyr
+
+#### Which is Called ZAA^[ZAA = ♌♉♉ = טוו = 21. A mystery of Atu XVIII, "The Moon". ♓ in which ♀ is exalted.]
 
 There is an angel with rainbow wings, and his dress is green^[Possibly the traditional green of the huntress.] with silver, a green veil over silver^[Colour of ☾.] armour. Flames of many-coloured fire dart from him in all directions. It is a woman of some thirty years old, and she has the moon for a crest, and the moon is blazoned on her heart, and her sandals are curved silver, like the moon.^[The green of Venus is perhaps the natural veil of Luna, her external show.]
 
@@ -460,7 +470,9 @@ There is no more to see.
 
 Sidi Aissa, Algeria. November 24, 1909, 8-9 p.m.
 
-### The Cry of the 26th Aethyr, Which is Called DES^[DES = {Spirit}♍♊ = זיד = 31 + 10 + 7 = 48 = בכוכ = Kokab, the sphere of ☿. This Aethyr describes the supersession of the Aeon of Jehovah and Jesus. The Stele of Revealing, which led to The Book of the Law, whose key number is 31. ד = D = {Spirit} = 31. I = י = ♍ = Nuit and the Point, Hadit. S = ז = ♊ = the twins, Ra-Hoor-Khuit and Hoor-Paar-Kraat combined in Heru-Ra-Ha, the Lord of the Aeon. Also ♍ & ♊ are the Houses of ☿, the Logos. Thus the name of the Aethyr actually means: The Sacred Secret Keyletter of The Book of the Law of Thelema, appearing through the Operation of Mercury as well as gibing a complete symbolical description of the Stele itself. The Arcanum is of Atu XX = ש = {Dee} = "The Last Judgment" or "The Angel". The old form of XX shows the Resurrection Formula of the Old Aeon: the new form shews the Stele of Revealing—718.]
+### The Cry of the 26th Aethyr
+
+#### Which is Called DES^[DES = {Spirit}♍♊ = זיד = 31 + 10 + 7 = 48 = בכוכ = Kokab, the sphere of ☿. This Aethyr describes the supersession of the Aeon of Jehovah and Jesus. The Stele of Revealing, which led to The Book of the Law, whose key number is 31. ד = D = {Spirit} = 31. I = י = ♍ = Nuit and the Point, Hadit. S = ז = ♊ = the twins, Ra-Hoor-Khuit and Hoor-Paar-Kraat combined in Heru-Ra-Ha, the Lord of the Aeon. Also ♍ & ♊ are the Houses of ☿, the Logos. Thus the name of the Aethyr actually means: The Sacred Secret Keyletter of The Book of the Law of Thelema, appearing through the Operation of Mercury as well as gibing a complete symbolical description of the Stele itself. The Arcanum is of Atu XX = ש = {Dee} = "The Last Judgment" or "The Angel". The old form of XX shows the Resurrection Formula of the Old Aeon: the new form shews the Stele of Revealing—718.]
 
 There is a very bright pentagram: and now the stone is gone, and the whole heaven is black, and the blackness is the blackness of a mighty angel.^[The Pentagram indicates that the subject of the Vision is to be the Destiny of Man. The blackness, which is bright, is Solar. The context shows that Binah is not here implied.] And though he is black (his face and his wings and his robe and his armour are all black), yet is he so bright that I cannot look upon him. And he cries: O ye spears and vials of poison and sharp swords and whirling thunderbolts that are about the corners of the earth^[All symbols of division and destruction, also extending only to the Blind Four Elements.], girded with wrath and justice, know ye that His name is Righteousness in Beauty^[Righteousness = Jupiter—Jehovah. Beauty = Osiris—Jesus. These are the qualities they claimed; Their failure is that they never even had the idea of the Supernals beyond the Abyss.]? Burnt out are your eyes, for that ye have seen me in my majesty. And broken are the drum-heads of your ears^[Hearing pertains to Spirit, as sight to fire. These gods have deprived man of his highest faculties.], because my name is as two mountains of fornication, the breasts of a strange woman^[See the 10th Key.]; and my Father is not in them.
 
@@ -502,7 +514,9 @@ The Desert, near Sidi Aissa.
 
 November 25, 1909. 1:10 - 2 p.m.
 
-### The Cry of the 25th Aethyr, Which is Called VTI^[VTI = ♑♌♐ = Caput Draconis, the head of the Lion-Serpent, the Beast 666. His father is ♑ Set or Pan; his mother, the woman clothed with the Sun as in Atu XIV. See 27th Aethyr. He is the burden of the Moon, sanctified by 418. Atu XI (a partial form) with Atu XX (XI + XX = XXXI) gives the Key of the New Aeon.]
+### The Cry of the 25th Aethyr
+
+#### Which is Called VTI^[VTI = ♑♌♐ = Caput Draconis, the head of the Lion-Serpent, the Beast 666. His father is ♑ Set or Pan; his mother, the woman clothed with the Sun as in Atu XIV. See 27th Aethyr. He is the burden of the Moon, sanctified by 418. Atu XI (a partial form) with Atu XX (XI + XX = XXXI) gives the Key of the New Aeon.]
 
 There is nothing in the stone but the pale gold of the Rosy Cross.
 
@@ -531,7 +545,9 @@ Ain el Hajel. November 25, 1909. 8:40-9:40 p.m.
 
 (There were two voices in all this Cry, one behind the other &mdash; or, one was the speech, and the other the meaning. And the voice that was the speech was simply a roaring, one tremendous noise, like a mixture of thunder and water-falls and wild beasts and bands and artillery. And yet it was articulate, though I cannot tell you what a single word was. But the meaning of the voice &mdash; the second voice &mdash; was quite silent, and put the ideas directly into the brain of the Seer, as if by touch. It is not certain whether the millstones and the sword-strokes that rained upon him were not these very sounds and ideas.)
 
-### The Cry of the 24th Aethyr, Which is Called NIA^[NIA = ♏♐♉ = 116. She is Atu XIV --- "The Woman clothed with the Sun", see 27th Aire, between ♏, Love as the instrument of change by Putrefaction, and ♉, the heavenly Isis. But cf. also AL III, v. 72 -- Coph Nia. This completes the Mystery of Atu XI by the Vision of 156, also in a partial form. The Beast and the Scarlet Woman at attributed to ♌ and Water ♏. They are the two-in-one Chief Officers, of the Temple of the New Aeon of Heru-Ra-Ha. (Note: The Eagle Kerub in the 23rd Aire is Aquarius ♒. Scorpio is the Woman-Serpent. This is important; for the old attribution is of the Eagle to ♏)]
+### The Cry of the 24th Aethyr 
+
+#### Which is Called NIA^[NIA = ♏♐♉ = 116. She is Atu XIV --- "The Woman clothed with the Sun", see 27th Aire, between ♏, Love as the instrument of change by Putrefaction, and ♉, the heavenly Isis. But cf. also AL III, v. 72 -- Coph Nia. This completes the Mystery of Atu XI by the Vision of 156, also in a partial form. The Beast and the Scarlet Woman at attributed to ♌ and Water ♏. They are the two-in-one Chief Officers, of the Temple of the New Aeon of Heru-Ra-Ha. (Note: The Eagle Kerub in the 23rd Aire is Aquarius ♒. Scorpio is the Woman-Serpent. This is important; for the old attribution is of the Eagle to ♏)]
 
 An angel comes forward into the stone like a warrior clad in chain-armour. Upon his head are plumes of gray^[The Ajna-Chakra --- Chokmah.], spread out like the fan of a peacock.^[Sacred to Juno.] About his feet a great army of scorpions and dogs, lions, elephants, and many other wild beasts. He stretches forth his arms to heaven and cries; In the crackling of the lightning, in the rolling of the thunder, in the clashing of the swords and the hurling of the arrows^[Arrows of ♐ the rainbow which follows this storm.]: be thy name exalted!
 
@@ -572,7 +588,9 @@ Now all is gone from the stone.
 
 Ain el Hajel. November 26, 1909. 2-3:25 p.m.
 
-### The Cry of the 23rd Aethyr, Which is Called TOR^[TOR = ♌♎♓.]
+### The Cry of the 23rd Aethyr
+
+#### Which is Called TOR^[TOR = ♌♎♓.]
 
 In the brightness of the stone are three lights, brighter than all, which revolve ceaselessly.^[The Three Gunas, Sattvas, Rajas, Tamas. This is an Introit to the Aethyr. As we proceed, we find more and more obstacles to entering.] And now there is a spider's web of silver^[More introit; veils to the true Vision.] covering the whole of the stone. Behind the spider's web is a star of twelve rays;^[Tamas, Kerub of Earth. He and the Eagle of Air make up the 4 Officers of the New Temple.] and behind that again, a black bull, furiously pawing up the ground. The flames from his mouth increase and whirl, and he cries: Behold the mystery of toil, O thou who art taken in the toils of mystery. ^[A warning to the Seer not to allow himself to ignore or despise the plain facts of life. Mysteries &mdash; nay, even The Mysteries themselves! are apt to seduce the Aspirant. He becomes exalt (as the cold rational French, observing these errors, call him) instead of exalted.] For I who trample the earth thereby make whirlpools in the air; be comforted, therefore, for though I be black, in the roof of my mouth is the sign of the Beetle.^[The tradition of the Bull Apis. The Beetle is the Midnight Sun, the hidden hope of Earth.] Bent are the backs of my brethren, yet shall they gore the lion with their horns. Have I not the wings of the eagle, and the face of the man?
 
@@ -600,7 +618,9 @@ Therefore do I cry aloud, and my scream is the treble as the bellowing of the bu
 
 Bou Sada. November 28, 1909. 9:30-10:15 A.M.
 
-### The Cry of the 22nd Aethyr, Which is Called LIN^[LIN = ♋♐♏ ןס ח is Chassan, ruler of Air; also, Strength. 118 = 2 x 59. 59 = Brethren (referred especially to Lilith and Samael). LIN declares therefore the Twins concealed in Heru-Ra-Ha. 118 is also "to change, pass, renew" and "to ferment"; indicating the Formula of Horus; His first Formula is that of BABALON, for He is as yet within Her womb. But see note on 10th Aire, regarding PARAOAN.]
+### The Cry of the 22nd Aethyr 
+
+#### Which is Called LIN^[LIN = ♋♐♏ ןס ח is Chassan, ruler of Air; also, Strength. 118 = 2 x 59. 59 = Brethren (referred especially to Lilith and Samael). LIN declares therefore the Twins concealed in Heru-Ra-Ha. 118 is also "to change, pass, renew" and "to ferment"; indicating the Formula of Horus; His first Formula is that of BABALON, for He is as yet within Her womb. But see note on 10th Aire, regarding PARAOAN.]
 
 There comes first into the stone the mysterious table of forty-nine squares.^[See *The Equinox*, I, VII, page 231. This table contains the names of the Angels of the Seven Planetary Spheres: Shabathiel, Tzedquiel, Madimiel, Shemashiel, Negahal, Kokabiel, and Levaniel. This seven-fold arrangement is of the Sigil of A∴ A∴ Babalon. See Book of Lies, Cap. 49. And she is the Mother of Heru-Ra-Ha.] It is surrounded by an innumerable company of angels; these angels are of all kinds, — some brilliant and flashing as gods, down to elemental creatures. The light comes and goes on the tablet; and now it is steady, and I perceive that each letter of the tablet is composed of forty-nine other letters, in a language which looks like that of Honorius; but when I would read, the letter that I look at becomes indistinct at once.
 
@@ -659,7 +679,9 @@ November 28, 1909. 4-6 p.m.
 
 (Note. — You do not come back in any way dazed; it is like going from one room into another. Regained normal consciousness completely and immediately.)
 
-### The Cry of the 21st Aethyr, Which is Called ASP^[ASP = ♉♍♌ = ויט = 25 = ד ו ה י = Jehevid, God of Geburah of Briah = א וי ח The Beast. The aire shows the supplanting of that by this. (A's MS. has "Mythus (?)" for "by this".) Taurus is Osiris. Virgo the Virgin (the lonely one). These are the Dying God symbols, which Leo — the Lion, Atu XI, The Beast — replaces.]
+### The Cry of the 21st Aethyr
+
+#### Which is Called ASP^[ASP = ♉♍♌ = ויט = 25 = ד ו ה י = Jehevid, God of Geburah of Briah = א וי ח The Beast. The aire shows the supplanting of that by this. (A's MS. has "Mythus (?)" for "by this".) Taurus is Osiris. Virgo the Virgin (the lonely one). These are the Dying God symbols, which Leo — the Lion, Atu XI, The Beast — replaces.]
 
 A mighty wind rolls through all the Aethyr; there is a sense of absolute emptiness; no colour, no form, no substance. Only now and then there seem as it were, the shadows of great angels, swept along. No sound; there is something very remorseless about the wind, passionless, that is very terrible. In a way, it is nerve-shaking. It seems as if something kept on trying to open behind the wind, and just as it is about to open, the effort is exhausted. The wind is not cold or hot; there is no sense of any kind connected with it. One does not even feel it, for one is standing in front of it.
 
@@ -719,7 +741,9 @@ The Desert, near Bou Sada.^[This night I took the shew-stone to my breast to sle
 
 November 29, 1909. 1:30 - 2:50 p.m.
 
-### The Cry of the 20th Aethyr, Which is Called KHR^[KHR = {Dee}{Air}♊ = שאו = 308. (N.B. by Temurah, R.H.K. = Ra-Hoor-Khuit). 308 = 28 x 11. 28 = ח כ = ♋♃ (Jupiter is exalted in Cancer) means Power. And 29 is the "mystic number" of Netzach, Victory, the Sephira that hangs from the Sphere of Jupiter, by the path of Jupiter, Atu X, the Wheel of Fortune. This Atu is the main subject of the vision in this Aethyr. In this Aethyr the Solar Body (Ruach --- the human consciousness) of the Seer was prepared for the Great Initiation which follows, as in the 27th Aire his Lunar Body (Nephesch --- automatic Consciousness) was purified.]
+### The Cry of the 20th Aethyr 
+
+#### Which is Called KHR^[KHR = {Dee}{Air}♊ = שאו = 308. (N.B. by Temurah, R.H.K. = Ra-Hoor-Khuit). 308 = 28 x 11. 28 = ח כ = ♋♃ (Jupiter is exalted in Cancer) means Power. And 29 is the "mystic number" of Netzach, Victory, the Sephira that hangs from the Sphere of Jupiter, by the path of Jupiter, Atu X, the Wheel of Fortune. This Atu is the main subject of the vision in this Aethyr. In this Aethyr the Solar Body (Ruach --- the human consciousness) of the Seer was prepared for the Great Initiation which follows, as in the 27th Aire his Lunar Body (Nephesch --- automatic Consciousness) was purified.]
 
 The dew that was upon the face of the stone is gone, and it is become like a pool of clear golden water. And now the light is come into the Rosy Cross. Yet all that I see is the night, with the stars therein, as they appear through a telescope.^[These preliminary visions are veils.] And there cometh a peacock^[The bird sacred to Juno, the feminine counterpart of Jupiter, whose Energy is about to appear.] into the stone, filling the whole Aire. It is like the vision called the Universal Peacock, or, rather, like a representation of that vision. And now there are countless clouds of white angels^[The Chasmalim, "The brilliant ones", are the Chior of Angels which pertain to Jupiter.] filling the Aire as the peacock dissolves.
 
@@ -771,7 +795,9 @@ It is all dark now. I am lying exhausted,^[The Seer had not previously experienc
 Bou-Sada.
 November 30, 1909. 9:15 - 10:50 a.m.
 
-### The Cry of the 19th Aethyr, Which is Called POP^[POP = ♌♎♌ = טלט. This Aire introduces the Hegemone, or leader of the Candidate through the Ceremony of Initiation. She is the Holy Guardian Angel, in the form of Isis-Urania, the Instructress. p is ☉ in his Northern declination, the form of Horus in his strength of Summer. He appears in his dual form, as it were the pillars between which the Hegemone, who bears a mitreheaded wand, symbolical of the Balances, is seated. (See the Neophyte Ceremony —Equinox, I, II, pp. 244-261.) She is the reconciler between all opposites. (See the Ceremony of the Equinox — given in Equ. I, VII, pp. 372-5). Her function is to equilibrate all symbols in the sphere of the Candidate; this is the one supremely important formula of Instruction. This Aethyr contains accordingly the knowledge (somewhat fragmentary at first sight) necessary to the Aspirant to the Grade of Magister Templi. 48 is ליח, a woman; also strength, an army. ח the Bearer of the Graal; and the seed of life; ל the Balances, i.e. She bears the Seed of Life in the Holy Cup ion balance. 48 is םה Ham; see the sudden Revelation at the end of the Vision.]
+### The Cry of the 19th Aethyr
+
+#### Which is Called POP^[POP = ♌♎♌ = טלט. This Aire introduces the Hegemone, or leader of the Candidate through the Ceremony of Initiation. She is the Holy Guardian Angel, in the form of Isis-Urania, the Instructress. p is ☉ in his Northern declination, the form of Horus in his strength of Summer. He appears in his dual form, as it were the pillars between which the Hegemone, who bears a mitreheaded wand, symbolical of the Balances, is seated. (See the Neophyte Ceremony —Equinox, I, II, pp. 244-261.) She is the reconciler between all opposites. (See the Ceremony of the Equinox — given in Equ. I, VII, pp. 372-5). Her function is to equilibrate all symbols in the sphere of the Candidate; this is the one supremely important formula of Instruction. This Aethyr contains accordingly the knowledge (somewhat fragmentary at first sight) necessary to the Aspirant to the Grade of Magister Templi. 48 is ליח, a woman; also strength, an army. ח the Bearer of the Graal; and the seed of life; ל the Balances, i.e. She bears the Seed of Life in the Holy Cup ion balance. 48 is םה Ham; see the sudden Revelation at the end of the Vision.]
 
 ![](img/Alphabet_of_Daggers.jpg)
 
@@ -829,7 +855,9 @@ I am back.
 Bou-Sada.
 November 30, 1909 10-11:45 p.m.
 
-### The Cry of the 18th Aethyr, Which is Called ZEN^[ZEN = ♌ ♍ ♏ = טינ = 69. 69 = ס ו ב א, a manger, stable, enclosure. This Aethyr describes the Place of the Preliminary Ceremony of the Initiation of the Master of the Temple. The Candidate is fortified for the Ordeal of Intimate Communion with his Holy Guardian Angel, who comes upon him unaware, and prepares him interiorly below any normal sphere of consciousness.]
+### The Cry of the 18th Aethyr
+
+#### Which is Called ZEN^[ZEN = ♌ ♍ ♏ = טינ = 69. 69 = ס ו ב א, a manger, stable, enclosure. This Aethyr describes the Place of the Preliminary Ceremony of the Initiation of the Master of the Temple. The Candidate is fortified for the Ordeal of Intimate Communion with his Holy Guardian Angel, who comes upon him unaware, and prepares him interiorly below any normal sphere of consciousness.]
 
 A Voice comes before any vision: Accursed are they who enter herein if they have nails, for they shall be pierced therewith; or if they have thorns, for they shall be crowned withal; or if they have whips, for with whips they shall be scourged: or if they bear wine, for their wine shall be turned to bitterness; or if they have a spear, for with a spear shall they be pierced unto the heart. And the nails are desires, of which there are three; the desire of light, the desire of life, the desire of love.^[The Exempt Adept must be freed from all attachment.]
 
@@ -878,7 +906,9 @@ All this while the Angel hath been pushing me backwards, and now he is turned in
 Bou-Sada.
 December 1, 1909. 2:30 - 4:10 p.m.
 
-### The Cry of the 17th Aethyr, Which is Called TAN^[TAN = ♌♉♏ = גונ = 59. This number is a prime, representing the Yoni demanding "justice". This Aethyr instructs the candidate in the formula of justice, of Equilibrium.]
+### The Cry of the 17th Aethyr
+
+#### Which is Called TAN^[TAN = ♌♉♏ = גונ = 59. This number is a prime, representing the Yoni demanding "justice". This Aethyr instructs the candidate in the formula of justice, of Equilibrium.]
 
 Into the stone there first cometh the head of a dragon, and then the Angel Madimi. ^[See Casaubon's edition of the Sixth book of Dr. Dee's "Conversations with some Spirits."] She is not the mere elemental that one would suppose from the account of Casaubon. I enquire why her form is different.
 
@@ -915,7 +945,9 @@ I am happily returned unto the earth.
 Bou-Sada.
 December 2, 1909. 12:15 - 2 a.m.
 
-### The Cry of the 16th Aethyr, Which is Called LEA^[LEA = ♎♍♉. The waning moon, the virgin, the bull; exactly as in the second sentence; חיו = 24.]
+### The Cry of the 16th Aethyr
+
+#### Which is Called LEA^[LEA = ♎♍♉. The waning moon, the virgin, the bull; exactly as in the second sentence; חיו = 24.]
 
 There are faint and flickering images in a misty landscape, all very transient. But the general impression is of moonrise at midnight, and a crowned virgin riding upon a bull.^[See previous note.]
 And they come up into the surface of the stone. And she is singing a chant of praise: Glory unto him that hath taken upon himself the image of toil. For by his labour is my labour accomplished.
@@ -967,7 +999,9 @@ And now there is nothing in the stone but the black cross of Themis,^[See the Ne
 Bou-Sada.
 December 2, 1909. 4:50 - 6:5 p.m.
 
-### The Cry of the 15th Aethyr, Which is Called OXO^[OXO = ♎{Spirit}♎. The Rose of Earth on the Place of Judgment; this is the scene of the Aire. לת ל = 460 = ה ו הי ל שדק "Holy unto the Lord", and refers to the consecration (after examination) of the Exempt Adept. It is his final preparation for undergoing in consciousness the full ceremony of passing to the grade of Magister Templi.]
+### The Cry of the 15th Aethyr
+
+#### Which is Called OXO^[OXO = ♎{Spirit}♎. The Rose of Earth on the Place of Judgment; this is the scene of the Aire. לת ל = 460 = ה ו הי ל שדק "Holy unto the Lord", and refers to the consecration (after examination) of the Exempt Adept. It is his final preparation for undergoing in consciousness the full ceremony of passing to the grade of Magister Templi.]
 
 There appears immediately in the Aethyr a tremendous column of scarlet fire, whirling forth, rebounding, crying aloud. And about it are four columns of green and blue and gold and silver, each inscribed with writings in the character of the dagger. And the column of fire is dancing among the pillars. Now it seems that the fire is but the skirt of the dancer, and the dancer is a mighty god. The vision is overpowering.
 
@@ -1032,7 +1066,9 @@ And now the five and the six are divorced,^[Because of saying ABRAHADABRA = 418,
 Bou-Sada.
 December 3, 1909. 9:15 to 11:10 a.m.
 
-### The Cry of the 14th Aethyr, Which is Called UTI1^[UTI = ♑☊♐ = עג ס = 133 = חלמהםי = The Salt Sea, i.e. Binah.]
+### The Cry of the 14th Aethyr
+
+#### Which is Called UTI^[UTI = ♑☊♐ = עג ס = 133 = חלמהםי = The Salt Sea, i.e. Binah.]
 
 There come into the stone a white goat, a green dragon, and a tawny bull.^[The bull was probably seen in mistake for a stag. Then U = ע = the goat. T = ☊ (Caput Dranconis) = the Dragon. I = ♐, the stag.] But they pass away immediately. There is a veil of such darkness before the Aethyr that it seems impossible to pierce it. But there is a voice saying: Behold, the Great One of the Night of Time^[This is Saturn. He is conceived as a dragon, Theli. He is referred to Binah.] stirreth, and with his tail he churneth up the slime, and of the foam thereof shall he make stars. And in the battle of the Python^[The Sphinx is one of the four elements referred to the path of Tau = Saturn. The Python is the great snake that surrounds and devours the Universe. This is his victory; glory is a function of the manifested existence of the Sphinx.] and the Sphinx shall the glory be to the Sphinx, but the victory to the Python.
 
@@ -1093,4 +1129,1384 @@ And I come back in the body, rushing like a flame in a great wind. And the shew-
 
 Bou-Saada.
 December 3, 1909 9:50-11:15 p.m.
+
+### The Cry of the 13th Aethyr 
+
+#### Which is Called ZIM^[ZIM = ♌♐♒. See, in the Aire, the solar symbolism of the opening, the transmutation of the middle, and the Saturnian ending.]
+
+Into the Stone there cometh an image of shining waters, glistening in the sun. Unfathomable is their beauty, for they are limpid, and the floor is of gold. Yet the sense thereof is of fruitlessness.
+
+And an Angel cometh forth, of pure pale gold, walking upon the water. Above his head is a rainbow, and the water foams beneath his feet. And he saith: Before his face am I come that hath the thirty-three thunders of increase in his hand. From the golden water shalt thou gather corn.^[This pure pale gold is the symbol of the dawning life, arisen after passing through the night of the 14th Aire.]
+
+All the Aire behind him is gold, but it opens as it were a veil. There are two terrible black giants, wrestling in mortal hatred. And there is a little bird upon a bush, and the bird flaps its wings. Thereat the strength of the giants snaps, and they fall in heaps to the earth, as though all their bones were suddenly broken.^[This is a parable of the illusion of matter, whose vast horror is destroyed by the moving of the wings of initiation.]
+
+And now waves of light roll through the Aethyr, as if they were playing. Therefore suddenly I am in a garden,^[Rather like the Alhambra.] upon a terrace of a great castle, that is upon a rocky mountain. In the garden are fountains and many flowers. There are girls also in the garden, tall, slim, delicate and pale. And now I see that the flowers are the girls, for they change from one to another; so varied, and lucent, and harmonious is all this garden, that it seems like a great opal.^[There is here a memory picture of the Alhambra; or something like it.]
+
+A voice comes: This water which thou seest is called the water of death.^[The Great Sea of Binah - darkness.] But NEMO hath filled therefrom our springs.
+
+And I said: Who is NEMO?
+
+And the voice answered: A dolphin's tooth, and a ram's horns, and the hand of a man that is hanged, and the phallus of a goat.^[נ = Nun, the fish (dolphin): E = ♈, the ram; M = Atu XII = the Hanged Man; O = ♑, the goat.] By this I understand that nun is explained by shin, and he' by resh, and mem by yod, and ayin by tau. ^[910 = תישר Beginning. These attributions explain the nature of NEMO, the Master of the Temple.] NEMO is therefore called 165 = 11 x 15; and is in himself 910 = 91 Amen x 10; and 13 x 70 = The One Eye, Achad Ayin.)
+
+And now there cometh an Angel into the garden, but he hath not any of the attributes of the former Angels, for he is like a young man, dressed in white linen robes.
+
+And he saith: No man hath beheld the face of my Father. Therefore he that hath beheld it is called NEMO. And know thou that every man that is called NEMO hath a garden that he tendeth.^[Every Magister Templi has a Work to do for the world. {WEH Note: This boy in a white robe who stands before the face of the Father is called Mettatron in traditional Qabalah. Qabalah also calls Binah "Gan Eden", or "the Garden of Eden" and Chokmah "Gan", or "the Garden".}] And every garden that is and flourisheth hath been prepared from the desert by NEMO, watered with the waters that were called death.
+
+And I say unto him: To what end is the garden prepared?
+
+And he saith: First for the beauty and delight thereof; and next because it is written, "And Tetragrammaton Elohim planted a garden eastward in Eden." And lastly, because though every flower bringeth forth a maiden, yet is there one flower that shall bring forth a man-child. And his name shall be called NEMO, when he beholdeth the face of my Father. And he that tendeth the garden seeketh not to single out the flower that shall be NEMO. He doeth naught but tend the garden.
+
+And I said: Pleasant indeed is the garden,^[All this is to instruct the Magister Templi in his duties.] and light is the toil of tending it, and great is the reward.
+
+And he said: Bethink thee that NEMO hath beheld the face of my Father. In Him is only Peace.
+
+And I said: Are all gardens like unto this garden?
+
+And he waved his hand, and in the Aire across the valley appeared an island of coral, rosy, with green palms and fruit-trees, in the midst of the bluest of the seas.^[The South Seas.]
+
+And he waved his hand again, and there appeared a valley shut in by mighty snow mountains, and in it were pleasant streams of water, rushing through, and broad rivers, and lakes covered with lilies.^[Kashmir.]
+
+And he waved his hand again, and there was a vision, as it were of an oasis in the desert.^[The Sahara.]
+
+And again he waved his hand, and there was a dim country with grey rocks, and heather, and gorse, and bracken.^[The Highlands of Scotland.]
+
+And he waved his hand yet again, and there was a park, and a small house therein, surrounded by yews.^[A certain secret house of the Great White Brotherhood. Yews, and certain other trees, as Persian Nuts, are used to indicate to passing initiates that they have there a resting place.] This time the house opens, and I see in it an old man, sitting by a table. He is blind. Yet he writeth in a great book, constantly. I see what he is writing: "The words of the Book are as the leaves of the flowers in the garden. Many indeed of these my songs shall go forth as maidens, but there is one among them, which one I know not, that shall be a man-child, whose name shall be NEMO, when he hath beheld the face of the Father, and become blind."
+
+(All this vision is most extraordinarily pleasant and peaceful, entirely without strength or ecstasy, or any positive quality, but equally free from the opposites of any of those qualities.) And the young man seems to read my thought, which is, that I should love to stay in this garden and do nothing for ever; for he sayeth to me: Come with me, and behold how NEMO tendeth his garden.^[Now follow further instructions to the Master of the Temple, how he is to do his work.]
+
+So we enter the earth, and there is a veiled figure, in absolute darkness. Yet it is perfectly possible to see in it, so that the minutest details do not escape us. And upon the root of one flower he pours acid so that that root writhes as if in torture. And another he cuts, and the shriek is like the shriek of a mandrake, torn up by the roots. And another he chars with fire, and yet another he anoints with oil.
+
+And I said: Heavy is the labour, but great indeed is the reward.
+
+And the young man answered me: He shall not see the reward, he tendeth the garden.^[Otherwise: "Art for art's sake".]
+
+And I said: What shall come unto him?
+
+And he said: This thou canst not know, nor is it revealed by the letters that are the totems of the stars, but only by the stars.
+
+And he says to me, quite disconnectedly: The man of earth is the adherent. The lover giveth his life unto the work among men. The hermit goeth solitary, and giveth only of his light unto men.^[See *AL* I, 40. These are the three true grades of the Great Order.]
+
+And I ask him: Why does he tell me that?
+
+And he says: I tell thee not. Thou tellest thyself, for thou hast pondered thereupon for many days, and hast not found light. And now that thou art called NEMO, the answer to every riddle that thou hast not found shall spring up in thy mind, unsought. Who can tell upon what day a flower shall bloom?^[This certainly happened.]
+
+And thou shalt give thy wisdom unto the world, and that shall be thy garden. And concerning time and death, thou hast naught to do with these things. For though a precious stone be hidden in the sand of the desert, it shall not heed for the wind of the desert, although it be but sand. For the worker of works hath worked thereupon; and because it is clear, it is invisible; and because it is hard, it moveth not.
+
+All these words are heard by everyone that is called NEMO. And with that doth he apply himself to understanding. And he must understand the virtue of the waters of death, and he must understand the virtue of the sun and the wind, and of the worm that turneth the earth, and the stars that roof in the garden. And he must understand the separate nature and property of every flower, or how shall he tend his garden?
+
+And I said to him: Concerning the Vision and the Voice, I would know if these things be of essence of the Aethyr, or of the essence of the seer.^[The seer enquires into the objectivity of the vision. These doubts arose in his mind because of the memory pictures in the earlier paragraphs.]
+
+And he answers: It is of the essence of him that is called NEMO, combined with essence of the Aethyr, for from the 1st Aethyr to the 15th Aethyr, there is no vision and no voice, save for him that is called NEMO. And he that seeketh the vision and the voice therein is led away by dog- faced demons that show no sign of truth, seducing from the Sacred Mysteries, unless his name be NEMO.
+
+And hadst thou not been fitted, thou too hadst been led away, for before the gate of the 15th Aethyr, is this written: He shall send them strong delusion, that they should believe a lie. And again it is written: The Lord hardened Pharaoh's heart. And again it is written that God tempteth man. But thou hadst the word and the sign, and thou hadst authority from thy superior,^[D.D.S.] and licence.^[Conferred December 1906 e.v.] And thou hast done well in that thou didst not dare, and in that thou dost dare. ^[O.M. refused for three years to take the grade of 8° = 3□ after it was offered him. He thought it almost presumptuous, taking it now.] For daring is not presumption.
+
+And he said moreover: Thou dost well to keep silence, for I perceive how many questions arise in thy mind; yet already thou knowest that the answering, as the asking, must be vain. For NEMO hath all in himself. He hath come where there is no light or knowledge, only when he needeth them no more.
+
+And then we bow silently, giving a certain sign, called the Sign of Isis Rejoicing.^[Giving suck to babe held in left arm.] And then he remaineth to ward the Aethyr, while I return unto the bank of sand that is the bed of the river near the desert.
+
+The River-bed near Bou-Sada.
+December 4, 1909. 2:10-3:45 p.m.
+
+
+### The Cry of the 12th Aethyr
+
+#### Which is Called LOE^[LOE = ♋♎♍. These are all aspects of Babalon.]
+
+There appear in the stone two pillars of flame, and in the midst is a chariot of white fire.
+
+This seems to be the chariot of the Seventh Key of Tarot. But it is drawn by four sphinxes, diverse, like the four sphinxes upon the door of the vault of the adepts, counterchanged in their component parts.
+
+The chariot itself is the lunar crescent, waning. The canopy is supported by eight pillars of amber. These pillars are upright, and yet the canopy which they support is the whole vault of the night.
+
+The charioteer is a man in golden armour, studded with sapphires, but over his shoulders is a white robe, and over that a red robe. Upon his golden helmet he beareth for his crest a crab. His hands are clasped upon a cup,^[The true Sangreal, of which the Christian legend is a perversion.] from which radiates a ruddy glow, constantly increasing, so that everything is blotted out by its glory, and the whole Aire is filled with it.
+
+And there is a marvelous perfume in the Aire, like unto the perfume of Ra Hoor Khuit, but sublimated, as if the quintessence of that perfume alone were burnt. For it hath the richness and voluptuousness and humanity of blood, and the strength and freshness of meal, and the sweetness of honey, and the purity of olive-oil, and the holiness of that oil which is made of myrrh, and cinnamon, and galangal.^[See AL III, 23 - 25. The recipe for the oil is given in the Sacred Magic of Abramelin the Mage.]
+
+The charioteer speaks in a low, solemn voice, awe-inspiring, like a large and very distant bell: Let him look upon the cup whose blood is mingled therein, for the wine of the cup is the blood of the saints. Glory unto the Scarlet Woman, Babalon the Mother of Abominations, that rideth upon the Beast,^[As in Atu XI.] for she hath spilt their blood in every corner of the earth and lo! she hath mingled it in the cup of her whoredom.
+
+With the breath of her kisses hath she fermented it, and it hath become the wine of the Sacrament, the wine of the Sabbath; and in the Holy Assembly hath she poured it out for her worshippers, and they had become drunken thereon, so that face to face they beheld my Father. Thus are they made worthy to become partakers of the Mystery of this holy vessel, for the blood is the life. So sitteth she from age to age, and the righteous are never weary of her kisses, and by her murders and fornications she seduceth the world. Therein is manifested the glory of my Father, who is truth.
+
+(This wine is such that its virtue radiateth through the cup, and I reel under the intoxication of it. And every thought is destroyed by it. It abideth alone, and its name is Compassion. I understand by "Compassion," the sacrament of suffering, partaken by the true worshippers of the Highest. And it is an ecstasy in which there is no trace of pain. Its passivity (=passion) is like the giving-up of the self to the beloved.)
+
+The voice continues: This is the Mystery of Babylon, the Mother of abominations, and this is the mystery of her adulteries, for she hath yielded up herself to everything that liveth, and hath become a partaker in its mystery. And because she hath made herself the servant of each, therefore is she become the mistress of all. Not as yet canst thou comprehend her glory.
+
+Beautiful art thou, O Babylon, and desirable, for thou hast given thyself to everything that liveth, and thy weakness hath subdued their strength.^[Cf. *Tao Teh King*. Also *The Book of Lies*, Cap. 4.] For in that union thou didst understand. Therefore art thou called Understanding, O Babylon, Lady of the Night!
+
+This is that which is written, "O my God, in one last rapture let me attain to the union with the many."^[See *Liber VII*, Cap. VII, v. 41] For she is Love, and her love is one, and she hath divided the one love into infinite loves, and each love is one, and equal to The One, and therefore is she passed "from the assembly and the law and the enlightenment unto the anarchy of solitude and darkness. For ever thus must she veil the brilliance of Her Self."^[See *Liber VII*, Cap. VII, vv 43 - 44.]
+
+O Babylon, Babylon, thou mighty Mother, that ridest upon the crown d beast, let me be drunken upon the wine of thy fornications; let thy kisses wanton me unto death, that even I, thy cup-bearer, may understand.
+
+Now, through the ruddy glow of the cup, I may perceive far above, and infinitely great, the vision of Babylon. And the Beast whereon she rideth is the Lord of the City of the Pyramids, that I beheld in the fourteenth Aethyr.
+
+Now that is gone in the glow of the cup, and the Angel saith: Not as yet mayest thou understand the mystery of the Beast, for it pertaineth not unto the mystery of this Aire, and few that are new-born unto Understanding are capable thereof.^[It is given in "The Urn". See also the Sixth Aire, wherein the seer, becoming a Magus, is himself identified with the Beast, 666.]
+
+The cup glows ever brighter and fierier. All my sense is unsteady, being smitten with ecstasy.
+
+And the Angel sayeth: Blessed are the saints, that their blood is mingled in the cup, and can never be separate any more. For Babylon the Beautiful, the Mother of abominations, hath sworn by her holy cteis, whereof every point is a pang, that she will not rest from her adulteries until the blood of everything that liveth is gathered therein, and the wine thereof laid up and matured and consecrated, and worthy to gladden the heart of my Father. For my Father is weary with the stress of eld, and cometh not to her bed. Yet shall this perfect wine be the quintessence, and the elixir, and by the draught thereof shall he renew his youth; and so shall it be eternally, as age by age the worlds do dissolve and change, and the universe unfoldeth itself as a Rose, and shutteth itself up as the Cross that is bent into the cube.
+
+And this is the comedy of Pan, that is played at night in the thick forest. And this is the mystery of Dionysus Zagreus, that is celebrated upon the holy mountain of Kithairon. And this is the secret of the brothers of the Rosy Cross; and this is the heart of the ritual that is accomplished in the Vault of the Adepts that is hidden in the Mountain of the Caverns, even the Holy Mountain Abiegnus.^[All these mysteries are taught in the O.T.O.]
+
+And this is the meaning of the Supper of the Passover, the spilling of the blood of the Lamb being a ritual of the Dark Brothers, for they have sealed up the Pylon with blood, lest the Angel of Death should enter therein. Thus do they shut themselves off from the company of the saints. Thus do they keep themselves from compassion and from understanding. Accurséd are they, for they shut up their blood in their heart.^[Here is the first account of the Black Brothers of the Left Hand Path. Each a Exempt Adept must choose between the Crossing of the Abyss to become a Master of the Temple, and the building of a false tower of egoism therein.]
+
+They keep themselves from the kisses of my Mother Babylon, and in their lonely fortresses they pray to the false moon. And they bind themselves together with an oath, and with a great curse. And of their malice they conspire together, and they have power, and mastery, and in their cauldrons do they brew the harsh wine of delusion, mingled with the poison of their selfishness.
+
+Thus they make war upon the Holy One, sending forth their delusion upon men, and upon everything that liveth. So that their false compassion is called compassion, and their false understanding is called understanding, for this is their most potent spell.
+
+Yet of their own poison do they perish, and in their lonely fortresses shall they be eaten up by Time that hath cheated them to serve him, and by the mighty devil Choronzon, their master, whose name is the Second Death,^[Note that the death or love of the saints is really increased life. The formula of 156 is constant copulation or Samadhi on everything.] for the blood that they have sprinkled on their Pylon, that is a bar against the Angel Death, is the key by which he entereth in.^[(I think the trouble with these people was, that they wanted to substitute the blood of someone else for their own blood, because they wanted to keep their personalities.)]
+
+The Angel sayeth: And this is the word of double power in the voice of the Master, wherein the Five interpenetrateth the Six.^[ABRAHADABRA.] This is its secret interpretation that may not be understood, save only of them that understand. And for this is the Key of the Pylon of Power, because there is no power that may endure, save only the power that descendeth in this my chariot from Babylon, the city of Fifty Gates, the Gate of the God On ןעלאבאב.^[Bab = gate. Al = God. On = ON. O = 70. N = 50. ON = 120. Note that Her Name does not appear properly spelt until the 10th Aire is done. The Seer had no idea how to spell the name till he was told by the Angel.] Moreover is On the Key of the Vault that is 120. So also do the Majesty and the Beauty derive from the Supernal Wisdom.
+
+But this is a mystery utterly beyond thine understanding. For Wisdom is the Man, and Understanding the Woman, and not until thou hast perfectly understood canst thou begin to be wise. But I reveal unto thee a mystery of the Aethyrs, that not only are they bound up with the Sephiroth, but also with the Paths. Now, the plane of the Aethyrs interpenetrateth and surroundeth the universe wherein the Sephiroth are established, and therefore is the order of the Aethyrs not the order of the Tree of Life. And only in a few places do they coincide. But the knowledge of the Aethyrs is deeper than the knowledge of the Sephiroth, for that in the Aethyrs is the knowledge of the Aeons, and of Θεληα. And to each shall it be given according to his capacity. (He has been saying certain secret things to the unconscious mind of the seer, of a personal nature.)
+
+Now a voice comes from without: And lo! I saw you to the end.
+
+And a great bell begins to toll. And there come six little children out of the floor of the chariot, and in their hands is a veil so fine and transparent that it is hardly visible. Yet, when they put it over the Cup, the Angel bowing his head reverently, the light of the Cup goes out entirely. And as the light of the Cup vanishes, it is like a swift sunset in the whole Aire, for it was from the light of that Cup alone that it was lighted.
+
+And now the light is all gone out of the stone, and I am very cold.
+
+Bou-Sada.
+December 4 - 5, 1909. 11:30 p.m. - 1:20 a.m.
+
+### The Cry of the 11th Aethyr 
+
+#### Which is Called IKH^[IKH = ♐{Dee}{Air} = סשא, the Supernal Triad, the Hexagon and Malkuth, the arrangement of the Tree of Life. Also 361 Adonai ha-Aretz. For it is the formulation of the Sephiroth which is a barrier of organic structure against the confusion of matter.]
+
+There appears in the stone immediately the Kamea^[Kamea &mdash; "magic square" containing the letters corresponding to the numbers (in this case from 1 to 81) - so arranged that each line, vertical or horizontal, shall add to the same total.] of the Moon. And it is rolled up; and behind it there appeareth a great Host of Angels. Their backs are turned towards me, but I can see how tremendous are their arms, which are swords and spears. They have wings upon their helmets and their heels: they are clad in complete armour, and the least of their swords is like the breaking forth of a tremendous storm of lightning. The least of their spears is like a great water-spout. On their shields are the eyes of Tetragrammaton, winged with flame, --- white, red, black, yellow and blue. On their flanks are vast squadrons of elephants, and behind them is their meteor-artillery. They that sit upon the elephants are armed with the thunderbolt of Zeus.
+
+Now in all that host there is no motion. Yet they are not resting upon their arms, but tense and vigilant. And between them and me is the God Shu, whom before I did not see, because his force filleth the whole Aethyr.^[Shu is in Jesod, as the supporter of the Tree of Life, and he is Zeus, the Lord of Air. But also Zeus is the orderer of all things.] And indeed he is not visible in his form. Nor does he come to the seer through any of the senses; he is understood, rather than expressed.
+
+I perceive that all this army is defended by fortresses, nine mighty towers^[Jesod = 9] of iron upon the frontier of the Aethyr. Each tower is filled with warriors in silver armour.^[Silver for the moon of Jesod.] It is impossible to describe the feeling of tension; they are like oarsmen waiting for the gun.
+
+I perceive that an Angel is standing on either side of me; nay, I am in the midst of a company of armed angels, and their captain is standing in front of me. He too is clad in silver armour; and about him, closely wrapped to his body, is a whirling wind,^[Jesod is Air.] so swift that any blow struck against him would be broken.
+
+And he speaketh unto me these words:
+
+Behold, a mighty guard against the terror of things, the fastness of the Most High, the legions of eternal vigilance; these are they that keep watch and ward day and night throughout the aeons. Set in them is all force of the Mighty One, yet there stirreth not one plume of the wings of their helmets.
+
+Behold, the foundation of the Holy City, the towers and the bastions thereof! Behold the armies of light that are set against the outermost Abyss, against the horror of emptiness, and the malice of Choronzon. Behold how worshipful is the wisdom of the Master, that he hath set his stability in the all-wandering Air and in the changeful Moon.^[Both {Air} and ☾ are in Jesod, Stability.] In the purple flashes of lightning hath He written the word Eternity, and in the wings of the swallow hath He appointed rest.
+
+By three and by three and by three hath He made firm the foundation against the earthquake that is three. For in the number nine is the changefulness of the numbers brought to naught. For with whatsoever number thou wilt cover it, it appeareth unchanged.^[e.g 9 x 7 = 63. 6 plus 3 = 9. 9 x 127 = 1143. 1 plus 1 plus 4 plus 3 = 9.]
+
+These things are spoken unto him that understandeth, that is a breastplate unto the elephants, or a corselet unto the angels, or a scale upon the towers of iron; yet is this mighty host set only for a defense, and whoso passeth beyond their lines hath no help in them.
+
+Yet must he that understandeth go forth unto the outermost Abyss, and there must he speak with him that is set above the four-fold terror, the Princes of Evil, even with Choronzon, the mighty devil that inhabiteth the outermost Abyss. And none may speak with him, or understand him, but the servants of Babylon, that understand, and they that are without understanding, his servants.
+
+Behold! it entereth not into the heart, nor into the mind of man to conceive this matter; for the sickness of the body is death, and the sickness of the heart is despair, and the sickness of the mind is madness. But in the outermost Abyss is sickness of the aspiration, and sickness of the will, and sickness of the essence of all, and there is neither word nor thought wherein the image of its image is reflected.
+
+And whoso passeth into the outermost Abyss, except he be of them that understand, holdeth out his hands, and boweth his neck, unto the chains of Choronzon. And as a devil he walketh about the earth, immortal, and be blasteth the flowers of the earth, and he corrupteth the fresh air, and he maketh poisonous the water; and the fire that is the friend of man, and the pledge of his aspiration, seeing that it mounteth ever upward as a pyramid, and seeing that man stole it in a hollow tube from Heaven, even that fire he turneth unto ruin, and madness, and fever, and destruction. And thou, that art an heap of dry dust in the city of the pyramids, must understand these things.
+
+And now a thing happens, which is unfortunately sheer nonsense; for the Aethyr that is the foundation of the universe was attacked by the Outermost Abyss, and the only way that I can express it is by saying that the universe was shaken. But the universe was not shaken. And that is the exact truth; so that the rational mind which is interpreting these spiritual things is offended; but, being trained to obey, it setteth down that which it doth not understand. For the rational mind indeed reasoneth, but never attaineth unto Understanding; but the Seer is of them that understand.
+
+And the Angel saith:
+
+Behold, He hath established His mercy and His might, and unto His might is added victory, and unto his Mercy is added splendour.^["For they cross with the currents reflected."] And all these things hath He ordered in beauty, and He hath set them firmly upon the Eternal Rock, and therefrom He hath suspended His kingdom as one pearl^[Malkuth.] that is set in a jewel of threescore pearls and twelve.^[The 72 pearls are the quinaries of the Zodiac. They appear in the XXIst Atu. See Liber CCXXXI (Equinox I, vii), v. 21.] And He hath garnished it with the Four Holy Living Creatures for Guardians, and He hath graven therein the seal of righteousness,^[Full title of Jesod is Tzedeq Jesod Olahm, "The Righteous is the Foundation of the World."] and He hath burnished it with the fire of His Angel, and the blush of His loveliness informeth it, and with delight and with wit hath He made it merry at the heart, and the core thereof is the Secret of His being, and therein is His name Generation. And this His stability had the number 80, for that the price thereof is War.^[I.S.V.D., Jesod = 80, the number of p, the letter of Mars.]
+
+Beware, therefore, O thou who art appointed to understand the secret of the Outermost Abyss, for in every Abyss thou must assume the mask and form of the Angel thereof. Hadst thou a name, thou wert irrevocably lost. Search, therefore, if there be yet one drop of blood that is not gathered into the cup of Babylon the Beautiful, for in that little pile of dust, if there could be one drop of blood, it should be utterly corrupt; it should breed scorpions and vipers, and the cat of slime.^[This is the danger which threatens all aspirants to the Grade of Magister Templi. Woe to those who accept it lightly, or without the fullest preparation. {WEH Note: a "cat of slime" is a slug or shell-less snail.}]
+
+> And I said unto the Angel:
+> 
+> Is there not one appointed as a warden?
+> 
+> And he said:
+> 
+> Eloi, Eloi, lama sabacthani.
+
+Such an ecstasy of anguish racks me that I cannot give it voice, yet I know it is but as the anguish of Gethsemane. And that is the last word of the Aethyr. The outposts are passed, and before the seer extends the outermost Abyss.
+
+I am returned.
+
+Bou-Sada.
+December 5, 1909. 10:10-11:35 p.m.
+
+
+### The Cry of the 10th Aethyr
+
+#### Which is Called ZAX
+
+
+##### In nomine BABALON Amen.
+
+##### Restriction unto Choronzon.^[Choronzon is described by Sir Edward Kelly as "that mighty devil", as the first and deadliest of all the powers of evil. Rightly so, for although he is not a person, he is the metaphysical contrary of the whole Process of Magick.]
+
+#### The Tenth Aethyr^[The three Governors of this Aethyr, Lexarp, Comanan, and Tabiton, are drawn from the "little Black Tablet" of Spirit, which united the four watchtowers of the elements. (See Equinox I, No. VII, Plate III; facing p. 234). The one extra letter, L, is the eighth of the reversed letters beneath the bars of the Calvary Crosses in the watch-towers to form trilateral names which designate malignant forces. These letters are thus impurities introduced into the perfection of the Elementary Schema. (That they should be attributed to the element of spirit, which harmonizes and sanctifies the four, is a sublime mystery. The arcanum is declared &mdash; as far as may be &mdash; in this book 418 itself). The other 7 letters form the name PARAOAN, which is the central governor of the 22nd Aire; but here is a correspondence with I, the center letter of LIN; this Aire discloses the glory of the Table 7 x 7, which is pure spirit, the rose which is the heart of Babalon.]
+
+#### is Called ZAX^[ZAX = ☊♉{Spirit}. Z is the Sun in His southern declination, i.e. at his weakest effect on an hemisphere. Follows the Bull, the type of the "Dying Gods", and the element of Earth. This letter X occurs only in this, the 15th and 30th Aires. In the 15th, water is the prima materia which is treated by being placed between the pillars of judgement. In the 30th, it represents the reduction to mere matter of the false structure of the Aeon of the false formula. Here X is the basis, without constructive possibilities, of the universe; thus the whole formula represents the weakening of the energy of the Sun, and the falling into incoherent elements of all that is organized.]
+
+This Aethyr being accursèd, and the seer forewarned, he taketh these precautions for the scribe.
+
+First let the scribe be seated in the centre of the circle in the desert sand, and let the circle be fortified by the Holy Names of God &mdash; Tetragrammaton and Shaddai El Chai and Ararita.
+
+And let the Demon be invoked within a triangle, wherein is inscribed the name of Choronzon, and about it let him write ANAPHAXETON --- ANAPHANETON -- PRIMEUMATON, and in the angles MI-CA-EL:^[For this arrangement see the Geotia of Lemegeton of Solomon the King.] and at each angle the Seer shall slay a pigeon,^[Concerning the bloody sacrifice, see *Book 4*, part 3, cap. 12. For the pigeons see the text.] and having done this, let him retire to a secret place, where is neither sight nor hearing, and sit within his black robe, secretly invoking the Aethyr.^[The greatest precautions were taken at the time, and have since been yet further fortified, to keep silence concerning the rite of evocation. The Major Adept is warned most seriously against attempting to emulate this operation, which is (in any case) improper for him to perform. To call forth Choronzon, unless one be wholly above the Abyss, is to ensure the most appalling and immediate catastrophe.] And let the Scribe perform the Banishing Rituals of the Pentagram and Hexagram,^[These are given in the *Equinox* Vol. I, No. 2.] and let him call upon the Holy Names of God, and say the Exorcism of Honorius,^[Given in the French translation by Eliphaz Levi: and in the English by Aleister Crowley in "The Winged Beetle." ("The Magician" is the title of that poem, see p. 228.)] and let him beseech protection and help of the Most High.
+
+And let him be furnished with the Magick Dagger,^[See Book 4, part 2, caps. 4 and 8.] and let him strike fearlessly at anything that may seek to break through the circle, were it the appearance of the Seer himself. And if the Demon pass out of the triangle, let him threaten him with the Dagger, and command him to return. And let him beware lest he himself lean beyond the circle. And since he reverenceth the Person of the Seer as his Teacher, let the Seer bind him with a great Oath to do this.
+
+Now, then, the Seer being entered within the triangle, let him take the Victims and cut their throats, pouring the blood within the Triangle, and being most heedful that not one drop fall without the Triangle; or else Choronzon should be able to manifest in the universe.
+
+And when the sand hath sucked up the blood of the victims, let him recite the Call of the Aethyr apart secretly as aforesaid. Then will the Vision be revealed, and the Voice heard.
+
+The Oath
+
+I, Omnia Vincam, a Probationer of A∴A∴, hereby solemnly promise upon my magical honour, and swear by Adonai the angel that guardeth me, that I will defend this magic circle of Art with thoughts and words and deeds. I promise to threaten with the Dagger and command back into the triangle the spirit incontinent, if he should strive to escape from it; and to strike with a Dagger at anything that may seek to enter this Circle, were it in appearance the body of the Seer himself. And I will be exceeding wary, armed against force and cunning; and I will preserve with my life the inviolability of this Circle, Amen.
+
+And I summon mine Holy Guardian Angel to witness this mine oath, the which if I break, may I perish, forsaken of Him. Amen and Amen.
+
+#### The Cry of the 10th Aethyr
+#### Which is Called ZAX
+
+There is no being in the outermost Abyss, but constant forms come forth from the nothingness of it.^[It is very difficult to give a good metaphysical interpretation of this statement. But to one who is given this perception, the words will appear to be the natural and inevitable expression of the facts.]
+
+Then the Devil of the Aethyr, that mighty devil Choronzon, crieth aloud, Zazaz,^[These words are from some vision of old time: by them Adam was said to have opened the gates of Hell. These are the traditional words which open the Abyss.] Zazas, Nasatanada Zasas.
+
+I am the Master of Form,^[This (and many following assertions) must not be taken as true. Choronzon is in no sense the master of anything. It is the personification of a moral idea in a much more far-fetched way than that in which we say "Venus is the Lady of Love". For one can imagine Venus as a living individual being, while Choronzon is essentially not any sort of person.] and from me all forms proceed.
+
+I am I. I have shut myself up from the spendthrifts, my gold is safe in my treasure-chamber, and I have made every living thing my concubine, and none shall touch them, save only I. And yet I am scorched, even while I shiver in the wind. He hateth me and tormenteth me. He would have stolen me from myself, but I shut myself up and mock at him, even while he plagueth me. From me come leprosy and pox and plague and cancer and cholera and the falling sickness. Ah! I will reach up to the knees of the Most High, and tear his phallus with my teeth, and I will bray his testicles in a mortar, and make poison thereof, to slay the sons of men.^[Various elements had been bound up into a "bundle" by the energy of the Call, and thus constituted a momentary unity capable of sensation and of expression. The obsessing idea of any such being, conscious that it is not a true organism, and threatened with immediate dissolution, which in its rudimentary psychology it is bound to dread, is of necessity, fear; and fear breeds pain, malice, and envy. Above all there is an insane hatred for the supposed creator because the supposed blessing of creation has been withheld from the "bundle".]
+
+(Here the Spirit stimulated the voice of Frater P., which also appeared to come from his station and not from the triangle.)
+
+I don't think I can get any more; I think that's all there is.
+
+(The Frater was seated in a secret place covered completely by a black robe,^[That of modesty, none less.] in the position called the "Thunderbolt". He did not move or speak during the ceremony.)
+
+Next the Scribe was hallucinated, believing that before him was a beautiful courtesan whom previously he had loved in Paris. Now, she wooed him with soft words and glances, but he knew these things for delusions of the devil, and he would not leave the circle.
+
+The demon then laughed wildly and loud.
+
+(Upon the Scribe threatening him, the Demon proceeded, after a short delay.)
+
+They have called me the God of laughter, and I laugh when I will slay. And they have thought that I could not smile, but I smile upon whom I would seduce. O inviolable one, that canst not not be tempted.^[Here the assumed character of this courtesan who was a marvelous mistress of irony as of fascination, intrudes upon that of the demon proper.] If thou canst command me by the power of the Most High, know that I did indeed tempt thee, and it repenteth me. I bow myself humbly before the great and terrible names whereby thou hast conjured and constrained me. But thy name is mercy, and I cry aloud for pardon. Let me come and put my head beneath thy feet, that I may serve thee. For if thou commandest me to obedience in the Holy names, I cannot swerve therefrom, for their first whispering is greater than the noise of all my temptests. Bid me therefore come unto thee upon my hands and knees that I may adore thee, and partake of thy forgiveness. Is not thy mercy infinite?
+
+(Here Choronzon attempts to seduce the Scribe by appealing to his pride.
+
+But the Scribe refused to be tempted, and commanded the demon to continue with the Aethyr.
+
+There was again a short delay.)
+
+Choronzon hath no form, because he is the maker of all form; and so rapidly he changeth from one to the other as he may best think fit to seduce those whom he hateth, the servants of the Most High.
+
+Thus taketh he the form of a beautiful woman, or of a wise and holy man, or of a serpent that writheth upon the earth ready to sting.^[He actually assumed these forms at the time.]
+
+And, because he is himself, therefore he is no self; the terror of darkness, and the blindness of night, and the deafness of the adder, and the tastelessness of stale and stagnant water, and the black fire of hatred, and the udders of the Cat of slime; not one thing, but many things. Yet, with all that, his torment is eternal. The sun burns him as he writhes naked upon the sands of hell, and the wind cuts him bitterly to the bone, a harsh dry wind, so that he is sore athirst. Give unto me, I pray thee, one drop of water from the pure springs of Paradise, that I may quench my thirst.
+
+(The Scribe refused.)
+
+Sprinkle water upon my head. I can hardly go on.
+
+(This last was spoken from the triangle in the natural voice of the Frater, which Choronzon again simulated. But he did not succeed in taking the Frater's form --- which was absurd!
+
+The Scribe resisted the appeal to his pity, and conjured the demon to proceed by the names of the Most High. Choronzon attempted also to seduce the faithfulness of the Scribe. A long colloquy ensued. The Scribe cursed him by the Holy Names of God, and the power of the Pentagram.)^[In this Aethyr are certain silences maintained.]
+
+I feed upon the names of the Most High. I churn them in my jaws, and I void them from my fundament. I fear not the power of the Pentagram, for I am the Master of the Triangle. My name is three hundred and thirty and three, and that is thrice one.^[ןוזנור וח = 333 = 3 x 111, and 111 = ף לא = א = 1. 333 also is α κ ρ α σ ι α, impotence, lack of control; and ακ ολασια, dispersion. The seer had no idea of these correspondences: nor had Dr. Dee and Sir Edward Kelly, from whom we have the name.]
+
+Be vigilant, therefore, for I warn thee that I am about to deceive thee. I shall say words that thou wilt take to be the cry of the Aethyr, and thou wilt write them down, thinking them to be great secrets of Magick power, and they will be only my jesting with thee.
+
+(Here the Scribe invoked the Angels, and the Holy Guardian Angel of the Frater P. . . . The demon replied:)
+
+I know the name of the Angel of thee and thy brother P. . . ., and all thy dealings with him are but a cloak for thy filthy sorceries.
+
+(Here the Scribe averred that he knew more than the demon, and so feared him not, and ordered the demon to proceed.)
+
+Thou canst tell me naught that I know not, for in me is all Knowledge: Knowledge is my name. Is not the head of the great Serpent arisen into Knowledge?^[Dath. The doctrine of the "Fall" and the "Stooping Dragon" must be studied carefully. Equinox Vol. I, Nos. 2 and 3, have much information, with diagrams, in the "Temple of Solomon the King". See also *Liber 777*. This question of the Abyss must be thoroughly understood. The entire system of initiation of the A∴A∴ depend on these theorems. (See "One Star in Sight").]
+
+(Here the Scribe again commanded Choronzon to continue with the call.)
+
+Know thou that there is no Cry in the tenth Aethyr like unto the other Cries, for Choronzon is Dispersion, and cannot fix his mind upon any one thing for any length of time. Thou canst master him in argument, O talkative one; thou wast commanded, wast thou not, to talk to Choronzon? He sought not to enter the circle, or to leave the triangle, yet thou didst prate of all these things.
+
+(Here the Scribe threatened the demon with anger and pain and hell. The demon replied:)
+
+Thinkest thou, O fool, that there is any anger and any pain that I am not, or any hell but this my spirit? Images, images, images, all without control, all without reason. The malice of Choronzon is not the malice of a being; it is the quality of malice, because he that boasteth himself "I am I", hath in truth no self, and these are they that are fallen under my power, the slaves of the Blind One that boasted himself to be the Enlightened One. For there is no centre, nay, nothing but Dispersion.
+
+Woe, woe, woe, threefold to him that is led away by talk, O talkative One.
+
+O thou that hast written two-and-thirty books of Wisdom, and art more stupid than an owl, by thine own talk is thy vigilance wearied, and by my talk art thou befooled and tricked, O thou that sayest that thou shalt endure. Knowest thou how nigh thou art to destruction? For thou that art the Scribe hast not the understanding^[Originally, for "understanding" was written "power". Choronzon was always using some word that did not represent his thought, because there is no proper link between his thought and speech. Note that he never seems able to distinguish between the Frater and the Scribe, and addresses first one, then the other, in the same sentence.] that alone availeth against Choronzon. And wert thou not protected by the Holy Names of God and the circle, I would rush upon thee and tear thee. For when I made myself like unto a beautiful woman, if thou hadst come to me, I would have rotted thy body with the pox, and thy liver with cancer, and I would have torn off thy testicles with my teeth. And if I had seduced thy pride, and thou hadst bidden me to come into the circle, I would have trampled thee under foot, and for a thousand years shouldst thou have been but one of the tape-worms that is in me. And if I had seduced thy pity, and thou hadst poured one drop of water without the circle, then would I have blasted thee with flame. But I was not able to prevail against thee.
+
+How beautiful are the shadows of the ripples of the sand!
+
+Would God that I were dead.
+
+For know that I am proud and revengeful and lascivious, and I prate even as thou. For even as I walked among the Sons of God, I heard it said that P. . . . could both will and know, and might learn at length to dare, but that to keep silence he should never learn. O thou that art so ready to speak, so slow to watch, thou art delivered over unto my power for this. And now one word was necessary unto me, and I could not speak it. I behold the beauty of the earth in her desolation, and greater far is mine, who sought to be my naked self. Knowest thou that in my soul is utmost fear? And such is my force and my cunning, that a hundred times have I been ready to leap, and for fear have missed. And a thousand times am I baulked by them of the City of the Pyramids, that set snares for my feet. More knowledge have I than the Most High, but my will is broken, and my fierceness is marred by fear, and I must speak, speak, speak, millions of mad voices in my brain.
+
+With a heart of furious fancies, Whereof I am Commander, With a burning spear And a horse of Air To the wilderness I wander.
+
+(The idea was to keep the Scribe busy writing, so as to spring upon him. For, while the Scribe talked, Choronzon had thrown sand into the circle, and filled it up. But Choronzon could not think fast and continuously, and so resorted to the device of quotation.
+
+The Scribe had written two or three words of "Tom o'Bedlam," when Choronzon sprang within the circle (that part of the circumference of which that was nearest to him he had been filling up with sand all this time), and leaped upon the Scribe, throwing him to the earth. The conflict took place within the circle. The Scribe called upon Tetragrammaton, and succeeded in compelling Choronzon to return into his triangle. By dint of anger and of threatening him with the Magick Staff did he accomplish this. He then repaired the circle. The discomfited demon now continued:)
+
+All is dispersion. These are the qualities of things.
+
+The tenth Aethyr is the world of adjectives, and there is no substance therein.
+
+(Now returneth the beautiful woman who had before tempted the Scribe. She prevailed not.)
+
+I am afraid of sunset, for Tum is more terrible than Ra, and Khephra the Beetle is greater than the Lion Mau.
+
+I am a-cold.
+
+(Here Choronzon wanted to leave the triangle to obtain wherewith to cover his nakedness. The Scribe refused the request, threatening the demon. After a while the latter continued:)
+
+I am commanded, why I know not, by him that speaketh. Were it thou, thou little fool, I would tear thee limb from limb. I would bite off thine ears and nose before I began with thee. I would take thy guts for fiddle- strings at the Black Sabbath.
+
+Thou didst make a great fight there in the circle; thou art a goodly warrior!
+
+(Then did the demon laugh loudly. The Scribe said: Thou canst not harm one hair of my head.)
+
+I will pull out every hair of thy head, every hair of thy body, every hair of thy soul, one by one. (Then said the Scribe: Thou hast no power.)
+
+Yea, verily I have power over thee, for thou hast taken the Oath, and art bound unto the White Brothers, and therefore have I the power to torture thee so long as thou shalt be.
+
+(Then said the Scribe unto him: Thou liest.)
+
+Ask of thy brother P. . . ., and he shall tell thee if I lie!
+
+(This the Scribe refused to do, saying that it was no concern of the demon's.)
+
+I have prevailed against the Kingdom of the Father, and befouled his beard; and I have prevailed against the Kingdom of the Son, and torn off his Phallus; but against the Kingdom of the Holy Ghost shall I strive and not prevail. The three slain doves are my threefold blasphemy against him; but their blood shall make fertile the sand,^[This actually happened. On returning to Bou-Sada on another journey this spot had begun to show signs of vegetation.] and I writhe in blackness and horror of hate, and prevail not.
+
+(Then the demon tried to make the Scribe laugh at Magick, and to think that it was all rubbish, that he might deny the names of God that he had invoked to protect him; which, if he had doubted but for an instant, he had leapt upon him, and gnawed through his spine at the neck.
+
+(Choronzon succeed not in his design.)
+
+In this Aethyr is neither beginning nor end, for it is all hotch- potch, because it is of the wicked on earth and the damned in hell. And so long as it be hotch-potch, it mattereth little what may be written by the sea-green incorruptible Scribe.
+
+The horror of it will be given in another place and time, and through another Seer, and that Seer shall be slain as a result of his revealing. But the present Seer, who is not P. . . ., seeth not the horror, because he is shut up, and hath no name.
+
+(Now was there some further parleying betwixt the demon and the Scribe, concerning the departure and the writing of the word, the Scribe not knowing if it were meet that the demon should depart.
+
+Then the Seer took the Holy Ring, and wrote the name BABALON, that is victory over Choronzon, and he was no more manifest.)
+
+(This cry was obtained on Dec. 6, 1909, between 2 and 4:15 p.m., in a lonely valley of fine sand, in the desert near Bou-Sada. The Aethyr was edited and revised on the following day.)
+
+After the conclusion of the Ceremony, a great fire was kindled to purify the place, and the Circle and Triangle were destroyed.
+
+##### NOTE BY SCRIBE
+
+Almost from the beginning of the ceremony was the Scribe overshadowed, and he spoke as it were in spite of himself, remembering afterwards scarcely a word of his speeches, some of which were long and seemingly eloquent.
+
+All the time he had a sense of being protected from Choronzon, and this sense of security prevented his knowing fear.
+
+Several times did the Scribe threaten to put a curse upon the demon; but ever, before he uttered the words of the curse, did the demon obey him. For himself, he knoweth not the words of the curse.
+
+Also is it meet to record in this place that the Scribe several times whistled in a Magical manner, which never before had he attempted, and the demon was apparently much discomforted thereat.
+
+Now knoweth the Scribe that he was wrong in holding much converse with the demon; for Choronzon, in the confusion and chaos of his thought, is much terrified by silence. And by silence can he be brought to obey.
+
+For cunningly doth he talk of many things, going from subject to subject, and thus he misleadeth the wary into argument with him. And though Choronzon be easily beaten in argument, yet, by disturbing the attention of him who would command him, doth he gain the victory.
+
+For Choronzon feareth of all things concentration and silence: he therefore who would command him should will in silence: thus is he brought to obey.
+
+This the Scribe knoweth; for that since the obtaining of the Accursed Tenth Aethyr, he hath held converse with Choronzon. And unexpectedly did he obtain the information he sought after having long refused to answer the demon's speeches.
+
+Choronzon is dispersion; and such is his fear of concentration that he will obey rather than be subjected to it, or even behold it in another.
+
+The account of the further dealings of Choronzon with the Scribe will be found in the Record of Omnia Vincam.
+
+### The Cry of the 9th Aethyr
+
+#### Which is Called ZIP^[ZIP = ♌♐♌ = טסט = 78, the influence from the Most High. It is the Virgin Artemis in the midst of the House of the Sun, in his Northern and Southern declinations both. For her girdle is the Girdle of the World. She is the Woman clothed with the Sun in Atu XIV.]
+(The terrible Curse that is the Call of the Thirty Aethyrs sounds like a song of ecstasy and triumph; every phrase in it has a secret meaning of blessing.)
+
+The Shew-stone is of soft lucent white, on which the Rose-Cross shows a brilliant yet colourless well of light.
+
+And now the veil of the stone is rent with as clap of thunder, and I am walking upon a razor-edge of light suspended over the Abyss, and before me and above me are ranged the terrible armies of the Most High, like unto those in the 11th Aethyr, but there is one that cometh forth to meet me upon the ridge, holding out his arms to me and saying:
+
+(v. I.) Who is this that cometh forth from the Abyss from the place of rent garments, the habitation of him that is only a name? Who is this that walketh upon a ray of the bright, evening star?
+
+Refrain. Glory unto him that is concealed, and glory unto her that beareth the cup, and glory unto the one that is the child and the father of their love. Glory unto the star, and glory unto the snake, and glory unto the swordsman of the sun. And worship and blessing throughout the Aeon unto the name of the Beast, four-square, mystic, wonderful!
+
+(v. II.) Who is this that travelleth between the hosts, that is poised upon the edge of the Aethyr by the wings of Maut? Who is this that seeketh the House of the Virgin? Refrain
+
+(v. III.) This is he that hath given up his name. This is he whose blood hath been gathered into the cup of BABALON.^[BABALON = 156 = 12 x 13, which is the formula of the four watchtowers of the universe. These watchtowers are composed of truncated pyramids, each one concealing a sphinx. They contain the symbols of the energies of the four elements. We may thus say that as each watchtower contains 12 x 13 pyramids, Babalon is indicated as Shakti. For the elements are the manifested powers of the All-Father. Again we may consider the watchtowers as the "City of the Pyramids" though in a sense less exalted than that usually implied in these visions.] This is he that sitteth, a little pile of dry dust, in the city of the Pyramids. Refrain
+
+(v. IV.) Until the light of the Father of all kindle that death.
+
+Until the breath touch that dry dust. Until the Ibis be revealed unto the Crab, and the sixfold Star become the radiant Triangle.^[Cf. 15th Aire. Note this triangle for 2. It seems very important to note that d(1 + 2) = 3, and so on.] Refrain
+
+(v. V.) Blessed is not I, not thou, not he, Blessed without name or number who hath taken the azure of night, and crystallized it into a pure sapphire-stone, who hath taken the gold of the sun, and beaten it into an infinite ring, and hath set the sapphire therein, and put it upon his finger. Refrain
+
+(v. VI.) Open wide your gates, O City of God, for I bring No-one with me. Sink your swords and your spears in salutation, for the Mother and the Babe are my companions. Let the banquet be prepared in the palace of the King's daughter. Let the lights be kindled; Are not we the children of the light? Refrain
+
+(v. VII.) For this is the key-stone of the palace of the King's daughter. This is the Stone of the Philosophers. This is the Stone that is hidden in the walls of the ramparts. Peace, Peace, Peace unto Him that is throned therein! Refrain
+
+Now then we are passed within the lines of the army, and we are come unto a palace of which every stone is a separate jewel, and is set with millions of moons.
+
+And this palace is nothing but the body of a woman, proud and delicate, and beyond imagination fair. She is like a child of twelve years old. She has very deep eye-lids, and long lashes. Her eyes are closed, or nearly closed. It is impossible to say anything about her. She is naked; her whole body is covered with fine gold hairs, that are the electric flames that are the spears of mighty and terrible Angels who breast-plates are the scales of her skin. And the hair of her head, that flows down to her feet, is the very light of God himself. Of all the glories beheld by the seer in the Aethyrs, there is not one which is worthy to be compared with her littlest finger-nail. For although he may not partake of the Aethyr, without the ceremonial preparations, even the beholding of this Aethyr from afar is like the partaking of all the former Aethyrs.
+
+The Seer is lost in wonder, which is peace.
+
+And the ring of the horizon above her is a company of glorious Archangels with joined hands, that stand and sing: This is the daughter of BABALON the Beautiful, that she hath borne unto the Father of All. And unto all hath she borne her.
+
+This is the Daughter of the King. This is the Virgin of Eternity. This is she that the Holy One hath wrested from the Giant Time, and the prize of them that have overcome Space. This is she that is set upon the Throne of Understanding. Holy, Holy, Holy is her name, not to be spoken among men. For Kor they have called her, and Malkuth, and Betulah, and Persephone.
+
+And the poets have feigned songs about her, and the prophets have spoken vain things, and the young men have dreamed vain dreams; but this is she, that immaculate, the name of whose name may not be spoken. Thought cannot pierce the glory that defendeth her, for thought is smitten dead before her presence. Memory is blank, and in the most ancient books of Magick are neither words to conjure her, nor adorations to praise her. Will bends like a reed in the temptests that sweep the borders of her kingdom, and imagination cannot figure so much as one petal of the lilies whereon she standeth in the lake of crystal, in the sea of glass.
+
+This is she that hath bedecked her hair with seven stars, the seven breaths of God that move and thrill its excellence. And she hath tired her hair with seven combs, whereupon are written the seven secret names of God that are not known even of the Angels, or of the Archangels, or of the Leader of the armies of the Lord.
+
+Holy, Holy, Holy art thou, and blessed be Thy name for ever, unto whom the Aeons are but the pulsings of thy blood.
+
+I am blind and deaf. My sight and hearing are exhausted.
+
+I know only by the sense of touch. And there is a trembling from within me.
+
+Images keep arising like clouds, or veils, exquisite Chinese ivories, and porcelains, and many other things of great and delicate beauty; for such things are informed by Her spirit, for they are cast off from her into the world of the Qliphoth, or shells of the dead, that is earth. For every world is the shell or excrement of the world above it.
+
+I cannot bear the Vision.
+
+A voice comes, I know not whence: Blessed art thou, who hast seen, and yet hast not believed. For therefore is it given unto thee to taste, and smell, and feel, and hear, and know by the inner sense, and by the inmost sense, so that sevenfold is thy rapture.
+
+(My brain is so exhausted that fatigue-images appear, by pure physical reflex action; they are not astral things at all.
+
+And now I have conquered the fatigue by will. And by placing the shew- stone upon my forehead, it sends cool electric thrills through my brain, so as to refresh it, and make it capable of more rapture.
+
+And now again I behold Her.)
+
+And the Angel cometh forth, and behind him whirls a black swastika, made of fine filaments of light that has been "interfered" with, and he taketh me aside into a little chamber in one of the nine towers. This chamber is furnished with maps of many mystical cities. There is a table, and a strange lamp, that gives light by jetting four columns of vortex rings of luminous smoke.^[This sort of chamber is to be found in many of the Secret Houses of the Brotherhood. Here are arranged the destinies of this Planet.] And he points to the map of the Aethyrs, that are arranged as a flaming Sword, so that the thirty Aethyrs go into the ten Sephiroth.^[This map may not be given to uninitiates.] And the first nine are infinitely holy. And he says, It is written in The Book of the Law, "If thou drink, drink by the eight and ninety rules of art:" And this shall signify unto thee that thou must undergo great discipline; else the Vision were lost or perverted. For these mysteries pertain not unto thy grade. Therefore must thou invoke the Highest before thou unveil the shrines thereof.
+
+And this shall be thy rule: A thousand and one times shalt thou affirm the unity,^[The chapter is this: *Qol: Hua Allahu achad; Allahu assamad; lam yalid wa lam yulad; wa lam yakin lahu kufwan achad.* Between each recitation, the Seer halted and bowed. This practice was performed during the day's march, the 1001 recitals being divived into 13 sections (a further affirmation of the unity, for 13 = AChD = 1) with short rests.] and bow thyself a thousand and one times. And thou shalt recite thrice the call of the Aethyr. And all day and all night, awake or asleep, shall thy heart be turned as a lotus-flower unto the light. And thy body shall be the temple of the Rosy Cross. Thus shall thy mind be open unto the higher; and then shalt thou be able to conquer the exhaustion, and it may be find the words &mdash; for who shall look upon His face and live?
+
+Yea, thou tremblest, but from within; because of the holy spirit that is descended into thy heart, and shaketh thee as an aspen in the wind.
+
+They also tremble that are without, and they are shaken from without by the earthquakes of his judgement. They have set their affections upon the earth, and they have stamped with their feet upon the earth, and cried: It moveth not.
+
+Therefore hath earth opened with strong motion, like the sea, and swallowed them. Yea, she hath opened her womb to them that lusted after her, and she hath closed herself upon them. There lie they in torment, until by her quaking the earth is shattered like brittle glass, and dissolved like salt in the waters of his mercy, so that they are cast upon the air to be blown about therein, like seeds that shall take root in the earth; yet turn they their affections upward to the sun.
+
+But thou, be thou eager and vigilant, performing punctually the rule. Is it not written, "Change not so much as the style of a letter"?
+
+Depart therefore, for the Vision of the Voice of the ninth Aethyr that is called ZIP is passed.
+
+Then I threw back myself into my body by my will
+
+Bou-Sada.
+December 7th, 1909. 9:30-11:10 p.m.
+
+
+### The Cry of the 8th Aethyr
+
+#### Which is Called ZID^[ZID = ♌♒These symbols refer to the attainment of the Knowledge and Conversation of the Holy Guardian Angel.]
+
+There appears in the stone a tiny spark of light. It grows a little, and seems almost to go out, and grows again, and it is blown about the Aethyr, and by the wind that blows it is it fanned, and now it gathers strength, and darts like a snake or a sword, and now it steadies itself, and is like a Pyramid of light that filleth the whole Aethyr.
+
+And in the Pyramid is one like unto an Angel, yet at the same time he is the Pyramid, and he hath no form because he is of the substance of light, and he taketh not form upon him, for though by him is form visible, he maketh it visible only to destroy it.
+
+And he saith: The light is come to the darkness, and the darkness is made light. Then is light married with light, and the child of their love is that other darkness, wherein they abide that have lost name and form. Therefore did I kindle him that had not understanding, and in The Book of the Law did I write the secrets of truth that are like unto a star and a snake and a sword.^[סאויא then did "kindle" in order to bring us to the N.O.X. of Pan.]
+
+And unto him that understandeth at last do I deliver the secrets of truth in such wise that the least of the little children of the light may run to the knees of the mother and be brought to understand.
+
+And thus shall he do who will attain unto the mystery of the knowledge and conversation of his Holy Guardian Angel:
+
+First, let him prepare a chamber, of which the walls and the roof shall be white, and the floor shall be covered with a carpet of black squares and white, and the border thereof shall be blue and gold.
+
+And if it be in a town, the room shall have no window, and if it be in the country, then it is better if the window be in the roof. Or, if it be possible, let this invocation be performed in a temple prepared for the ritual of passing through the Tuat.
+
+From the roof he shall hang a lamp, wherein is a red glass, to burn olive oil. And this lamp shall he cleanse and make ready after the prayer of sunset, and beneath the lamp shall be an altar, foursquare, & the height shall be thrice half of the breadth or double the breadth.
+
+And upon the altar shall be a censor, hemispherical, supported upon three legs, of silver, and within it an hemisphere of copper, and upon the top a grating of gilded silver, and thereupon shall he burn incense made of four parts of olibanum and two parts of stacte, and one part of lignum aloes, or of cedar, or of sandal. And this is enough.
+
+And he shall also keep ready in a flask of crystal within the altar, holy anointing oil made of myrrh and cinnamon and galangal.
+
+And even if he be of higher rank than a Probationer, he shall yet wear the robe of the Probationer, for the star of flame showeth forth Ra Hoor Khuit openly upon the breast, and secretly the blue triangle that descendeth is Nuit, and the red triangle that ascendeth is Hadit. And I am the golden Tau in the midst of their marriage. Also, if he choose, he may instead wear a close-fitting robe of shot silk, purple and green, and upon it a cloak without sleeves, of bright blue, covered with golden sequins, and scarlet within.
+
+And he shall make himself a wand of almond wood or of hazel cut by his own hands at dawn at the Equinox, or at the Solstice, or on the day of Corpus Christi, or on one of the feast-days that are appointed in The Book of the Law.
+
+And he shall engrave with his own hand upon the plate of gold the Holy Sevenfold Table, or the Holy Twelvefold Table, or some particular device. And it shall be foursquare within a circle, and the circle shall be winged, and he shall attach it about his forehead by a ribbon of blue silk.
+
+Moreover, he shall wear a fillet of laurel or rose or ivy or rue, and every day, after the prayer of sunrise, he shall burn it in the fire of the censor.
+
+Now he shall pray thrice daily, about sunset, and at midnight, and at sunrise. And if he be able, he shall pray also four times between sunrise and sunset.
+
+The prayer shall last for the space of an hour, at the least, and he shall seek ever to extend it, and to inflame himself in praying. Thus shall he invoke his Holy Guardian Angel for eleven weeks, and in any case he shall pray seven times daily during the last week of the eleven weeks.
+
+And during all this time he shall have composed an invocation suitable, with such wisdom and understanding as may be given him from the Crown, and this shall he write in letters of gold upon the top of the altar.
+
+For the top of the altar shall be of white wood, well polished, and in the centre thereof he shall have placed a triangle of oak-wood, painted with scarlet, and upon this triangle the three legs of the censor shall stand.
+
+Moreover, he shall copy his invocation upon a sheet of pure white vellum, with Indian ink, and he shall illuminate it according to his fancy and imagination, that shall be informed by beauty.
+
+And on the first day of the twelfth week he shall enter the chamber at sunrise, and he shall make his prayer, having first burnt the conjuration that he had made upon the vellum in the fire of the lamp.
+
+Then, at his prayer, shall the chamber be filled with light insufferable for splendour, and a perfume intolerable for sweetness. And his Holy Guardian Angel shall appear unto him, yea, his Holy Guardian Angel shall appear unto him, so that he shall be wrapt away into the Mystery of Holiness.
+
+All that day shall he remain in the enjoyment of the knowledge and conversation of the Holy Guardian Angel.
+
+And for three days after he shall remain from sunrise unto sunset in the temple, and he shall obey the counsel that his Angel shall have given unto him, and he shall suffer those things that are appointed.
+
+And for ten days thereafter shall he withdraw himself as shall have been taught unto him from the fullness of that communion, for he must harmonize the world that is within with the world that is without.
+
+And at the end of the ninety-one days he shall return into the world, and there shall he perform that work to which the Angel shall have appointed him.
+
+And more than this it is not necessary to say,^[There is therefore no commentary to this passage.]
+for his Angel shall have entreated him kindly, and showed him in what manner he may be most perfectly involved. And unto him that hath this Master there is nothing else that he needeth, so long as he continue in the knowledge and conversation of the Angel, so that he shall come at last into the City of the Pyramids.
+
+Lo! two and twenty are the paths of the Tree, but one is the Serpent of Wisdom; ten are the ineffable emanations, but one is the Flaming Sword.
+
+Behold! There is an end to life and death, an end to the thrusting forth and the withdrawing of the breath. Yea, the House of the Father is a mighty tomb, and in it he hath buried everything whereof ye know.
+
+All this while there hath been no vision, but only a voice, very slow and clear and deliberate. But now the vision returns, and the voice says: Thou shalt be called Danae, that art stunned and slain beneath the weight of the glory of the vision that as yet thou seest not. For thou shalt suffer many things, until thou art mightier than all the Kings of the earth, and all the Angels of the Heavens, and all the gods that are beyond the Heavens. Then shalt thou meet me in equal conflict, and thou shalt see me as I am. And I will overcome thee and slay thee with the red rain of my lightnings.
+
+I am lying underneath this pyramid of light. It seems as if I had the whole weight of it upon me, crushing me with bliss. And yet I know that I am like the prophet that said: I shall see Him, but not nigh.
+
+And the Angel sayeth: So shall it be until they that wake are asleep, and she that sleepeth be arisen from her sleep.^[This prophecy is still (An. XXI, ☉ in ♌) obscure.] For thou art transparent unto the vision and the voice. And therefore in thee they manifest not. But they shall be manifest unto them unto whom thou dost deliver them, according unto to the word which I spake unto thee in the Victorious City.^[i.e. in *The Book of the Law*.]
+
+For I am not only appointed to guard thee, but we are of the blood royal, the guardians of the Treasure-house of Wisdom. Therefore am I called the Minister of Ra Hoor Khuit:^[Note that the Holy Guardian Angel of the Seer claims to be Aiwass, the author of The Book of the Law.] and yet he is but the Viceroy of the unknown King. For my name is called Aiwass, that is eight and seventy.^[This conceals a mystery. I have been fooled myself with my AIVAS סאויא = 78. n or 8 plus 70 = ח and ע. ח = 418, the formula of the New Aeon; and ע or ♑ is Set or Hadit, the Eye: and He is that Hadit who is manifested as 418.] And I am the influence of the Concealed One, and the wheel that hath eight and seventy parts, yet in all is equivalent to the Gate that is the name of my Lord when it is spelt fully. And that Gate is the Path that joineth the Wisdom with the Understanding.^[i.e. In Daleth.]
+
+Thus hast thou erred indeed, perceiving me in the path that leadeth from the Crown unto the Beauty.^[i.e. In Gimel.] For that path bridgeth the abyss, and I am of the supernals. Nor I, nor Thou, nor He can bridge the abyss. It is the Priestess of the Silver Star, and the Oracles of the gods, and the Lord of the Hosts of the Mighty.^[The paths Gimel, Zayin and H bridge the Abyss. Nothing is said of the path Vau, which also does this. The omission is probably inadvertent.] For they are the servants of Babalon, and of the Beast, and of those others of whom it is not yet spoken. And, being servants, they have no name, but we are of the blood royal, and serve not, and therefore are we less than they.
+
+Yet, as a man may be both a mighty warrior and a just judge, so may we also perform this service if we have aspired and attained thereto. And yet, with all that, they remain themselves, who have eaten of the pomegranate in Hell.^[See a later note. So the Master Therion is of the root Aleister Crowley, instead of being a Magus de novo.] But thou, that art new-born to understanding, this mystery is too great for thee; and of the further mystery I will not speak one word.
+
+Yet for this cause am I come unto thee as the Angel of the Aethyr, striking with my hammer upon thy bell, so that thou mightest understand the mysteries of the Aethyr, and of the vision and the voice thereof.
+
+For behold! he that understandeth seeth not and heareth not in truth, because of his understanding that letteth him.^[All interpretation is, in essence, false, as transplanting one thing from one plane to another.] But this shall be unto thee for a sign, that I will surely come unto thee unawares and appear unto thee. And it is no odds, (i.e., that at this hour I appear not as I am), for so terrible is the glory of the vision, and so wonderful is the splendour of the voice, that when thou seest it and hearest it in truth, for many hours shalt thou be bereft of sense. And thou shalt lie between heaven and earth in a void place, entranced, and the end thereof shall be silence, even as it was, not once nor twice, when I have met with thee, as it were, upon the road to Damascus.^[It is not fitting to comment on the fulfillment of this prophecy.]
+
+And thou shalt not seek to better this my instruction; but thou shalt interpret it, and make it easy,^[This is being done through the established ways of the Great White Brotherhood.] for them that seek understanding. And thou shalt give all that thou hast unto them that have need unto this end.^[This has always been done.]
+
+And because I am with thee, and in thee, and of thee, thou shalt lack nothing. But who lack me, lack all. And I swear unto thee by Him that sitteth upon the Holy Throne, and liveth and reigneth for ever and ever, that I will be faithful unto this my promise, as thou art faithful unto this thine obligation.
+
+Now another voice sounds in the Aethyr, saying: And there was darkness over all the earth unto the ninth hour.
+
+And with that the Angel is withdrawn, and the pyramid of light seems very far off.
+
+And now I am fallen unto the earth, exceeding weary. Yet my skin trembles with the impact of the light, and all my body shakes. And there is a peace deeper than sleep upon my mind. It is the body and the mind that are weary, and I would that they were dead, save that I must bend them to my work.
+
+And now I am in the tent, under the stars.
+
+The Desert between Bou-Sada and Biskra.
+December 8, 1909. 7:10-9:10 p.m.
+
+### The Cry of the 7th Aethyr
+
+#### Which is Called DEO^[DEO = ♍♎. These symbols pertain to Babalon.]
+
+The stone is divided, the left half dark, the right half light, and at the bottom thereof is a certain blackness, of three divergent columns. And it seems as if the black and white halves are the halves of a door, and in the door is a little key-hole, in the shape of the Astrological symbol of Venus. And from the key-hole issue flames, blue and green and violet, but without any touch of yellow or red in them. It seems as if there were a wind beyond the door, that is blowing the flame out.
+
+And a voice comes: "Who is he that hath the key to the gate of the evening star?"
+
+And now an Angel cometh and seeketh to open the door by trying many keys. And they are none of any avail. And the same voice saith: "The five and the six are balanced in the word Abrahadabra, and therein is the mystery disclosed. But the key unto this gate is the balance of the seven and the four; and of this thou hast not even the first letter. Now there is a word of four letters that containeth in itself all the mystery of the Tetragrammaton,^[TARO: it conceals all the mysteries of Tetragrammaton through the cards which declare him.] and there is a word of seven letters which it concealeth,^[This may be Babalon, for Malkuth concealeth Binah. Also 156 = 2 x 78.] and that again concealeth the holy word that is the key of the abyss.^[This word is N.O.X. = , Babalon conceals this word because She is the Lady of the City of the Pyramids beneath the Night of Pan. These words are probably BABALON, ChAOS, TARO.] And this thou shalt find, revolving it in thy mind.
+
+Hide therefore thine eyes. And I will set my key in the lock, and open it. Yet still let thine eyes be hidden, for thou canst not bear the glory that is within.
+
+So, therefore, I covered mine eyes with my hands. Yet through my hands could I perceive a little of those bowers of azure flame.
+
+And a voice said: It is kindled into fire that was the blue breast of ocean; because this is the bar of heaven, and the feet of the Most High are set thereon.
+
+Now I behold more fully: Each tongue of flame, each leaf of flame, each flower of flame, is one of the great love-stories of the world, with all its retinue of mise-en-sc ne. And now there is a most marvelous rose formed from the flame, and a perpetual rain of lilies and passion-flowers and violets. And there is gathered out of it all, yet identical with it, the form of a woman like the woman in the Apocalypse, but her beauty and her radiance are such that one cannot look thereon, save with sidelong glances. I enter immediately into trance. It seems that it is she of whom it is written, "The fool hath said in his heart 'there is no God.'" But the words are not Ain Elohim, but La (=nay!) and Elohim contracted from 86 to 14, because La is 31, which x 14 is 434, Daleth, Lamed, Tau. This fool is the fool of the Path of Aleph, and sayeth, which is Chokmah, in his heart, which is Tiphereth, that she existeth, in order first that the Wisdom may be joined with the Understanding; and he affirmeth her in Tiphereth that she may be fertile.
+
+It is impossible to describe how this vision changeth from glory unto glory, for at each glance the vision is changed. And this is because she transmitteth the Word to the Understanding, and therefore hath she many forms, and each goddess of love is but a letter of the alphabet of love.
+
+Now, there is a mystery in the word Logos, that containeth the three letters whose analogy hath been shown in the lower heavens, Samech, and Lamed, and Gimel, that are 93, which is thrice 31, and in them are set the two eyes of Horus.^[i.e. the two letters O.O = ♑, the Eye.] Ayin means an eye. For, if it were not so, the arrow could not pierce the rainbow, and there could be no poise in the balance, and the Great Book should never be unsealed. But this is she that poureth the Water of Life upon her head, whence it floweth to fructify the earth.^[Refers to ATU XVII, "The Star", which shows this figure.] But now the whole Aethyr is the most brilliant peacock blue. It is the Universal Peacock that I behold.
+
+And there is a voice: Is not this bird the bird of Juno, that is an hundred, and thirty, and six?^[ענוי = 136.] And therefore is she the mate of Jupiter.^[The fourth of the mystic numbers of Jupiter is 136.]
+
+And now the peacock's head is again changed into a woman's head sparkling and coruscating with its own light of gems.
+
+But I look upwards, seeing that she is called the footstool of the Holy One, even as Binah is called His throne. And the whole Aethyr is full of the most wonderful bands of light, --- a thousand different curves and whorls, even as it was before, when I spake mysteries of the Holy Qabalah, and so could not describe it.
+
+Oh, I see vast plains beneath her feet, enormous deserts studded with great rocks; and I see little lonely souls, running helplessly about, minute black creatures like men.^[Again the Black Brothers.] And they keep up a very curious howling, that I can compare to nothing that I have ever heard; yet it is strangely human.
+
+And the voice says: These are they that grasped love and clung thereto, praying ever at the knees of the great goddess. These are they that have shut themselves up in fortresses of Love.
+
+Each plume of the peacock is full of eyes, that are at the same time 4 x 7. And for this is the number 28 reflected down into Netzach; and that 28 is Kaph Cheth (Kach), power. For she is Sakti, the eternal energy of the Concealed One. And it is her eternal energy that hath made this eternal change. And this explaineth the call of the Aethyrs, the curse that was pronounced in the beginning being but the creation of Sakti. And this mystery is reflected in the legend of the Creation, where Adam represents the Concealed One, for Adam is Temurah of MAD, the Enochian word for God, and Eve, whom he created for love, is tempted by the snake, Nechesh, who is Messiah her child. And the snake is the magical power, which hath destroyed the primordial equilibrium.
+
+And the garden is the supernal Eden, where is Ayin, 70, the Eye of the Concealed One, and the creative Lingam; and Daleth, love; and Nun the serpent.^[Eden = ןדע = 124.] And therefore this constitution was implicitly in the nature of Eden (cf. Liber L., I., 29, 30), so that the call of the Aethyrs could not have been any other call than that which it is.
+
+But they that are without understanding have interpreted all this askew, because of the Mystery of the Abyss, for there is no Path from Binah unto Chesed; and therefore the course of the Flaming Sword was no more a current, but a spark. And when the Stooping Dragon raised his head unto Dath in the course of that spark, there was, as it were, an explosion, and his head was blasted. And the ashes thereof were dispersed throughout the whole of the 10th Aethyr. And for this, all knowledge is piecemeal, and it is of no value unless it be co-ordinated by Understanding.
+
+And now the form of the Aethyr is the form of a mighty Eagle of ruddy brass. And the plumes are set alight, and are whirled round and round until the whole heaven is blackness with these flying sparks therein.
+
+Now it is all branching streams of golden fire tipped with scarlet at the edges.^[These visions seem defects of concentration; or rather, necessary rest for the over-strained seer.]
+
+And now She cometh forth again, riding upon a dolphin. Now again I see those wandering souls, that have sought restricted love, and have not understood that "the word of sin is restriction."
+
+It is very curious; they seem to be looking for one another or for something, all the time, constantly hurrying about. But they knock up against one another and yet will not see one another, or cannot see one another, because they are so shut up in their cloaks.
+
+And a voice sounds: It is most terrible for the one that hath shut himself up and made himself fast against the universe. For they that sit encamped upon the sea in the city of the Pyramids are indeed shut up. But they have given their blood, even to the last drop, to fill the cup of BABALON.
+
+These that thou seest are indeed the Black Brothers, for it is written: "He shall laugh at their calamity and mock them when their fear cometh." And therefore hath he exalted them unto the plane of love.
+
+And yet again it is written: He desireth not the death of a sinner, but rather that he should turn from his wickedness. Now, if one of these were to cast off his cloak he should behold the brilliance of the lady of the Aethyr; but they will not.
+
+And yet again there is another cause wherefore He hath permitted them to enter thus far within the frontiers of Eden, so that His thought should never swerve from compassion. But do thou behold the brilliance of Love, that casteth forth seven stars upon thine head from her right hand, and crowneth thee with a crown of seven roses. Behold! She is seated upon the throne of turquoise and lapis lazuli, and she is like a flawless emerald, and upon the pillars that support the canopy of her throne are sculptured the Ram, and the Sparrow, and the Cat, and a strange fish.^[All sacred to Her, in virtue of certain of Her qualities.] Behold! How she shineth! Behold! How her glances have kindled all these fires that have blown about the heavens! Yet remember that in every one there goeth forth for a witness the justice of the Most High. Is not Libra the House of Venus? And there goeth forth a sickle that shall reap every flower. Is not Saturn exalted in Libra? Daleth, Lamed, Tau.^[Daleth, ד, is spelt תלד.]
+
+And therefore was he a fool who uttered her name in his heart, for the root of evil is the root of breath, and the speech in the silence was a lie.
+
+Thus is it seen from below by them that understand not. But from above he rejoiceth, for the joy of dissolution is ten thousand, and the pang of birth but a little.^[See AL I, 30.]
+
+And now thou shalt go forth from the Aethyr, for the voice of the Aethyr is hidden and concealed from thee because thou hadst not the key of the door thereof, and thine eyes were not able to bear the splendour of the vision. But thou shalt meditate upon the mysteries thereof, and upon the lady of the Aethyr; and it may be by the wisdom of the Most High that the true voice of the Aethyr, that is continual song, may be heard of thee.
+
+Return therefore instantly unto the earth, and sleep not for a while; but withdraw thyself from this matter. And it shall be enough.
+
+Thus then was I obedient unto the voice, and returned into my body.
+
+W'ain-T-Aissha, Algeria.
+December 9, 1909. 8:10-10 p.m.
+
+### The Cry of the 6th Aethyr
+
+#### Which is Called MAZ^[MAZ =♒♉♌ = 105 = to change. Also 105 = d1-14.]
+
+There cometh into the stone the great Angel whose name is Av,^[See Dr. John Dee and Sir Edward Kelly.] and in him there are symbols which strive for mastery, &mdash; Sulphur and the Pentagram, and they are harmonized by the Swastika.^[{Sulphur} is the active Fiery Nature, and the the Microcosm of the Elements. But Atu IV, The Emperor, refers to ה = 5, and he forms {Sulphur}, the sign for Sulphur, by the position of his arms and legs. Then harmonizes these, being the fiery thunderbolt, the electric whirling; and also the balance of the elements (its 4 arms) in a Microcosm.] These symbols are found both in the name of Av^[A = א the Swastika; V = ו = Atu V, the Pentagram; E = ♈ and Atu IV, {Sulphur}.] and in the name of the Aethyr. Thus he is neither Horus nor Osiris. He is called the radiance of Thoth; and this Aethyr is very hard to understand, for the images form and dissolve more rapidly than lightning. These images are the illusions made by the Ape of Thoth. And this I understand, that I am not worthy to receive the mysteries of this Aethyr. And all this which I have seen (being all the thoughts that I have ever thought) is, as it were, a guardian of the Aethyr.^[♒ = the Man, the Pentagram; A, the Swastika; ♌ the House of {Sulphur}.]
+
+I seem quite helpless. I am trying all sorts of magical methods of piercing the veil: and the more I strive, the farther away I seem to get from success. But a voice comes now: Must not understanding lie open unto wisdom as the pyramids lie open to the stars?
+
+Accordingly, I wait in a certain magical posture which it is not fitting to disclose, and above me appears the starry heaven^[Masloth = the sphere of Chokmah = ☿. ו and ה lead from Chesed and Tiphareth to Chokmah.] of night, and one star greater than all the other stars. It is a star of eight rays. I recognize it as the star in the seventeenth key of the Tarot, as the Star of Mercury. And the light of it cometh from the path of Aleph. And the letter Cheth is also involved in the interpretation of this star, and the paths of he' and vau are the separations which this Star unites.^[Atu XVII has the letter ה in the new Thelemic attribution. The Star is ☿ (Chokmah), for He is the light of Binah, the naked woman of the Atu. (Her arms make the Swastika; it is the sign of the Mourning of Isis. Aleph is the Path through which the light of Kether comes to Chokmah. Cheth is said in the Zohar to interpret H; and Cheth is the Path which conveys the Cup of Binah to the Inferiors. ☿ Unites H and Vau, for they are {Sulphur} and {Salt} (V = the Kerub of {Spirit}).] And in the heart of the star is an exceeding splendour, --- a god standing upon the moon, brilliant beyond imagining.^[Tahuti is sometimes so shewn.] It is like unto the vision of the Universal Mercury. But this is the Fixed Mercury, and he' and vau are the perfected sulphur and salt. But now I come into the centre of the maze, and whirling dust of stars and great forgotten gods. It is the whirling Svastika which throws off all these things, for the Svastika is in aleph by the shape and number,^[The has 17 squares. 17 = IAO, the Triune Kether.] and in beth by the position of the arms of the Magician,^[In Atu I.] and in gimel^[3. For ג is ☾, Isis.] because of the sign of the Mourning of Isis, and thus is the Crown defended by these three thunderbolts. Is not thrice seventeen fifty-one, that is, failure and pain?
+
+Now I am shut out again by this black Svastika with a corona of fire about it.
+
+And a voice cries: Cursed be he that shall uncover the nakedness of the Most High, for he is drunken upon the wine that is the blood of the adepts. And BABALON hath lulled him to sleep upon her breast, and she hath fled away, and left him naked, and she hath called her children together, saying: Come up with me, and let us make a mock of the nakedness of the Most High.
+
+And the first of the adepts covered His shame with a cloth, walking backwards; and was white. And the second of the adepts covered His shame with a cloth, walking sideways and was yellow. And the third of the adepts made a mock of His nakedness, walking forwards; and was black. And these are three great schools of the Magi, who are also the three Magi that journeyed unto Bethlehem; and because thou hast not wisdom, thou shalt not know which school prevaileth, or if the three schools be not one.^[4. This doctrine of the Three Schools is of extreme interest. Roughly, it may be said that the White is the Pure Mystic, whose attitude to God is one of reverence. The Yellow School conceals the Mysteries indeed, but examines them as it goes. The Black School is that of pure Skepticism.] For the Black Brothers lift not up their heads thus far into the Holy Chokmah, for they were all drowned in the great flood, which is Binah, before the true vine could be planted upon the holy hill of Zion.
+
+Now again I stand in the centre, and all things whirl by with incessant fury. And the thought of the god entereth my mind, and I cry aloud: Behold, the volatile is become fixed; and in the heart of eternal motion is eternal rest. So is the Peace beneath the sea that rageth with her storms; so is the changeful moon, the dead planet that revolveth no more. So the far-seeing, the far-darting hawk is poised passionless in the blue; so also the ibis that is long of limb meditateth solitary in the sign of Sulphur. Behold, I stand ever before the Eternal One in the sign of the Enterer.^[Of Horus; or, of Projection of Energy.] And by virtue of my speech is he wrapped about in silence, and he is wrapped in mystery by me, who am the Unveiler of the Mysteries. And although I be truth, yet do they call me rightly the God of Lies, for speech is two-fold, and truth is one.^[See *Liber Magi*.] Yet I stand at the centre of the spider's web, whereof the golden filaments reach to infinity.^[i.e. He is also Solar. For the identification of Sol with Mercury (in some aspects) see "The Paris Working."]
+
+But thou that art with me in the spirit-vision art not with me by right of Attainment, and thou canst not stay in this place to behold how I run and return, and who are the flies that are caught in my web. For I am the inmost guardian that is immediately before the shrine.
+
+None shall pass by me except he slay me,^[The crucifixion of a toad in AN XII.] and this is his curse, that, having slain me, he must take my office and become the maker of Illusions, the great deceiver, the setter of snares;^[See *Liber Magi*.] he who baffleth even them that have understanding. For I stand on every path, and turn them aside from the truth by my words, and by my magick arts.
+
+And this is the horror ^[See "The King of the Wood", a story by Aleister Crowley of a Priest of Nemi.] that was shown by the lake that was nigh unto the City of the Seven Hills, ^[The Lake of Nemi. See J. G. Frazer, *The Golden Bough*.] and this is the Mystery of the great prophets that have come unto mankind. Moses, and Buddha, and Lao Tan, and Krishna, and Jesus,^[This name is cunningly slipped in by the Art of the God, for "Jesus" is but the figure-head used by the priests for their "Great Sorcery".] and Osiris, and Mohammed; for all these attained unto the grade of Magus, and therefore were they bound with the curse of Thoth. But, being guardians of the truth, they have taught nothing but falsehood, except unto such as understood; for the truth may not pass the Gate of the Abyss.^[See again Liber Magi for this disheartening doctrine.]
+
+But the reflection of the truth hath been shown in the lower Sephiroth. And its balance is in Beauty, and therefore have they who sought only beauty come nearest to the truth. For the beauty receiveth directly three rays from the supernals, and the others no more than one.^[See the Tree of Life.] So, therefore, they that have sought after majesty and power and victory and learning and happiness and gold, have been discomfited. And these sayings are the lights of wisdom that thou mayst know thy Master, for he is a Magus. And because thou didst eat of the Pomegranate in hell, for half the year art thou concealed, and half the year revealed.^[It has been curiously true, that the Seer since this time has usually been concealed in A Great Magical Retirement for about half of every year. This doctrine of the eating of the pomegranate refers to the fact that he refused to adopt one of the routine methods of success in Magick. He, being the Beast, 666, felt that he must keep his hold on Tiphereth by maintaining the Formula of the Rosy Cross.]
+
+Now I perceive the Temple that is the heart of this Aethyr;^[This is like the Temple of Vesta at Rome in some way.] it is an Urn suspended in the air, without support, above the centre of a well. And the well hath eight pillars, and a canopy above it, and without there is a circle of marble paving-stones, and without them a great outer circle of pillars. And beyond there is the forest of the stars. But the Urn is the wonderful thing in all this; it is made of fixed Mercury; and within it are the ashes of the Book Tarot,^[This perhaps is also the karma of the new Magus. Somewhere it says that a white ash is prepared from the dust of NEMO by Hermes, the Invisible. For Urn see Azbogah ☿ = דכ = a pot, 24. But it may be 86 = ס ו כ q.v.] which hath been utterly consumed.^[The Master of the Temple who is chosen to proceed to the Grade of Magus has his little Pyramid of Dust consumed to ashes, and these are preserved in this Urn.]
+
+And this is that mystery which is spoken of in the Acts of the Apostles; that Jupiter and Mercury (Kether and Chokmah) visited (that is, inspired), Ephesus, the City of Diana,^[Vesta = ♍.] Binah &mdash; was not Diana a black stone? &mdash; and they burnt their books of magick.
+
+Now it seems that the centre of infinite space is that Urn, and Hadit is the fire that hath burnt up the book Tarot. For in the book Tarot was preserved all of the wisdom (for the Tarot was called the Book of Thoth), of the Aeon that is passed. And in the Book of Enoch was first given the wisdom of the New Aeon. And it was hidden for three hundred years, because it was wrested untimely from the Tree of Life by the hand of a desperate magician.^[Sir Edward Kelly. The reference is to the famous passage which Dee maintained to be given by demons. It taught that there was no sin, etc.] For it was the Master ^[Martin Luther.] of that Magician who overthrew the power of the Christian church; but the pupil rebelled against the master, for he foresaw that the New (i.e., the Protestant) would be worse than the Old. But he understood not the purpose of his Master, and that was, to prepare the way for the overthrowing of the Aeon.^[Martin Luther's magical act of cohabitation with a nun was the key to this doctrine.]
+
+There is a writing upon the Urn of which I can but read the (two) words: Stabat Crux juxta Lucem. Stabat Lux juxta Crucem.
+
+And there is writing in Greek above that. The word "nox" written in Greek, and a circle with a cross in the centre of it, a St. Andrew's cross.^[= ΝΟ = N.O.X.]
+
+Then above that is a sigil(?), hidden by a hand.^[All this required a Magus to see properly.]
+
+And a voice proceedeth from the Urn: From the ashes of the Tarot who shall make the phoenix-wand? Not even he who by his understanding hath made the lotus-wand to grow in the Great Sea. Get thee back, for thou art not an Atheist, and though thou have violated thy mother, thou hast not slain thy father.^[This again means that the Magus 9° = 2□ must burn up all his karma.] Get thee back from the Urn; thy ashes are not hidden here.^[This fact is now maintained openly. As to Atheists see *Liber LXV*, V. 34 - 40. Also 5th Aire; the Magister Templi is already being subtly prepared to attain to be a Magus.]
+
+Then again arose the God Thoth, in the sign of the Enterer, and he drove the seer from before his face. And he fell through the starry night unto the little village in the desert.
+
+Benishrur, Algeria.
+December 10, 1909. 7:40-9:40 p.m.
+
+### The Cry of the 5th Aethyr
+
+#### Which is Called LIT^[LIT = ♋♐☊. Luna is the mother of the Beginning: Caput Draconis, the Angel of the Aethyr: ♐ is the arrow of the main vision.]
+
+There is a shining pylon, above which is set the sigil of the eye, within the shining triangle. Light streams through the pylon from before the face of Isis-Hathor, for she weareth the lunar crown of cows' horns, with the disk in the centre; at her breast she beareth the child Horus.^[Compare certain mysteries in *Liber AL* with the above.]
+
+And there is a voice: thou knowest not how the Seven was united with the Four; much less then canst thou understand the marriage of the Eight and the Three. Yet there is a word wherein these are made one,^[BAPHOMET, in which three vowels are equilibrated with five consonants. He is also BABALON after a certain mystery, and Zeus Arrhenoteleus. Hence the allusion at the end of this sentence.] and therein is contained the Mystery that thou seekest, concerning the rending asunder of the veil of my Mother.
+
+Now there is an avenue of pylons (not one alone), steep after steep, carved from the solid rock of the mountain; and that rock is a substance harder than diamond, and brighter than light, and heavier than lead. In each pylon is seated a god. There seems an endless series of these pylons. And all the gods of all the nations of the earth are shown, for there are many avenues, all leading to the top of the mountain.
+
+Now I come to the top of the mountain, and the last pylon opens into a circular hall, with other pylons leading out of it, each of which is the last pylon of a great avenue; there seem to be nine such pylons. And in the centre is a shrine, a circular table, supported by marble figures of men and women, alternate white and black; they face inwards, and their buttocks are almost worn away by the kisses of those who have come to worship that supreme God, who is the single end of all these diverse religions. But the shrine itself is higher than a man may reach.
+
+But the Angel that was with me lifted me, and I saw that the edge of the altar, as I must call it, was surrounded by holy men. Each has in his right hand a weapon --- one a sword, one a spear, one a thunderbolt, and so on, but each with his left hand gives the sign of silence. I wish to see what is within their ring. One of them bends forward so that I may whisper the pass-word. The Angel prompts me to whisper: "There is no god." So they let me pass, and though there was indeed nothing visible therein, yet there was a very strange atmosphere, which I could not understand.
+
+Suspended in the air there is a silver star, and on the forehead of each of the guardians there is a silver star.^[The Star of the A∴ A∴.] It is a pentagram, &mdash; because, says the Angel, three and five are eight; three and eight are eleven. (There is another numerical reason that I cannot hear.)
+
+And as I entered their ring, they bade me stand in their circle, and a weapon was given unto me. And the pass-word that I had given seems to have been whispered round from one to the other, for each one nods gravely as if in solemn acquiescence, until the last one whispers the same words in my ears. But they have a different sense. I had taken them to be a denial of the existence of God, but the man who says them to me evidently means nothing of the sort: What he does mean I cannot tell at all. He slightly emphasized the word "there".^[Possibly the meaning is: In the Shrine seek not for God. For He is everywhere. But in such a place as this all possible meanings are equally true.]
+
+And now all is suddenly blotted out,^[This reception among the atheists is a necessary prelude to the vision of the Aethyr itself.] and instead appears the Angel of the Aethyr. He is all in black, burnished black scales, just edged with gold. He has vast wings, with terrible claws on the ends, and he has a fierce face, like a dragon's, and dreadful eyes that pierce one through an through.
+
+And he says: O thou that art so dull of understanding, when wilt thou begin to annihilate thyself in the mysteries of the Aethyrs? For all that thou thinkest is but thy thought; and as there is no god in the ultimate shrine, so there is no I in thine own Cosmos.
+
+They that have said this are of them that understood. And all men have misinterpreted it, even as thou didst misinterpret it. He says some more: I cannot catch it properly, but it seems to be to the effect that the true God is equally in all the shrines, and the true I in all the parts of the body and the soul. He speaks with such a terrible roaring that it is impossible to hear the words; one catches a a phrase here and there, or a glimpse of the idea. With every word he belches forth smoke, so that the whole Aethyr becomes full of it.
+
+And now I hear the Angel: Every particle of matter that forms the smoke of my breath is a religion that hath flourished among the inhabitants of the worlds. Thus are they all whirled forth in my breath.
+
+Now he is giving a demonstration of this Operation. And he says: Know thou that all the religions of all the worlds end herein, but they are only the smoke of my breath, and I am only the head of the Great Dragon that eateth up the Universe; without whom the Fifth Aethyr would be perfect, even as the first. Yet unless he pass by me, can no man come unto the perfections.
+
+And the rule is ended that hath bound thee, and this shall be thy rule: that thou shalt purify thyself, and anoint thyself with perfume; and thou shalt be in the sunlight, the day being free from clouds. And thou shalt make the Call of the Aethyr in silence.
+
+Now, then, behold how the head of the dragon is but the tail of the Aethyr! Many are they that have fought their way from mansion to mansion of the Everlasting House, and beholding me at last have returned, declaring, "Fearful is the aspect of the Mighty and Terrible One." Happy are they that have known me for whom I am. And glory unto him that hath made a gallery of my throat for his arrow of truth, and the moon for his purity. ^[☾, ♐ and ☊ (Caput Draconis, in the name of the Aethyr.)]
+
+The moon waneth. The moon waneth. The moon waneth. For in that arrow is the Light of Truth that overmastereth the light of the sun, whereby she shines. The arrow is fledged with the plumes^[Lamed = Justice.] of Maat, that are the plumes of Amoun, and the shaft is the phallus of Amoun, the Concealed One. And the barb^[Aleph = the Pentagram.] thereof is the star that thou sawest in the place where was No God.
+
+And of them that guarded the star, there was not found one worthy to wield the Arrow. And of them that worshipped there was not found one worthy to behold the Arrow. Yet the star that thou sawest was but the barb of the Arrow, and thou hadst not the wit to grasp the shaft, or the purity to divine the plumes. Now therefore is he blessed that is born under the sign of the Arrow,^[Query: refers to Sir Edward Kelly, the true Adeptus Major, who founded this whole work of the Watchtowers and the Aethyrs.] and blessed is he that hath the sigil of the head of the crowned lion and the body of the Snake and the Arrow therewith.^[This seems to refer partly to the Seer himself, but partly to Cagliostro, who was one of the incarnations of him who is now the Seer.]
+
+Yet do thou distinguish between the upward and the downward Arrows, for the upward arrow is straitened in its flight, and it is shot by a firm hand, for Jesod is Jod Tetragrammaton,^[See the *Zohar*. Yesod is the Phallus of the Most High.] and Jod is a hand, but the downward arrow is shot by the topmost point of the Jod; and that Jod is the Hermit,^[Yod = ♍.] and it is the minute point that is not extended, that is nigh unto the heart of Hadit.^[See *AL* II, 6 etc. the whole passage is a mystery of the path of ♐.]
+
+And now it is commanded thee that thou withdraw thyself from the Vision, and on the morrow, at the appointed hour, shall it be given thee further, as thou goest upon thy way, meditating this mystery. And thou shalt summon the Scribe, and that which shall be written, shall be written.
+
+Therefore I withdraw myself, as I am commanded.
+
+The Desert Between Benshrur and Tolga.
+December 12, 1909, 7 - 8:12 p.m.
+
+Now then art thou approached unto an august Arcanum; verily thou art come unto the ancient Marvel, the winged light, the Fountains of Fire, the Mystery of the Wedge. But it is not I that can reveal it, for I have never been permitted to behold it, who am but the watcher upon the threshold of the Aethyr.^[He is spoken of in the earlier part as if he were himself the Angel of the Aethyr; this is the error of the Seer.] My message is spoken, and my mission is accomplished. And I withdraw myself, covering my face with my wings, before the presence of the Angel of the Aethyr.
+
+So the Angel departed with bowed head, folding his wings across.
+
+And there is a little child in a mist of blue light; he hath golden hair, a mass of curls, and deep blue eyes. Yea, he is all golden, with a living, vivid gold. And in each hand he hath a snake; in the right hand a red, in the left a blue. And he hath red sandals, but no other garment.^[i.e. He is a God.]
+
+And he sayeth: is not life a long initiation unto sorrow? And is not Isis the Lady of Sorrow? And she is my mother. Nature is her name, and she hath a twin sister Nephthys, whose name is Perfection. And Isis must be known of all, but of how few is Nephthys known! Because she is dark, therefore is she feared.
+
+But thou who hast adored her without fear, who hast made thy life an initiation into her Mystery, thou that hast neither mother nor father, nor sister nor brother, nor wife nor child, who hast made thyself lonely as the hermit crab that is in the waters of the Great Sea, behold! when the sistrons are shaken, and the trumpets blare forth the glory of Isis, at the end thereof there is silence, and thou shalt commune with Nephthys.
+
+And having known these, there are the wings of Maut the Vulture.^[The Mother Goddess behind even such lofty ideas as Isis and Nephthys.] Thou mayest draw to an head the bow of thy magical will; thou mayest loose the shaft and pierce her to the heart. I am Eros.^[This is then the Child of Atu VI, pertaining to ♊. ♊ is opposite to ♐ in the Zodiac; their symbols are therefore complementary.] Take then the bow and the quiver from my shoulders and slay me; for unless thou slay me, thou shalt not unveil the Mystery of the Aethyr.
+
+Therefore I did as he commanded; in the quiver were two arrows, one white, one black. I cannot force myself to fit an arrow to the bow.
+
+And there came a voice: It must needs be.
+
+And I said: No man can do this thing.
+
+And the voice answered, as it were an echo: *Nemo hoc facere potest.*
+
+Then came understanding to me, and I took forth the Arrows. The white arrow had no barb, but the black arrow was barbed like a forest of fish- hooks; it was bound round with brass, and it had been dipped in deadly poison. Then I fitted the white arrow to the string, and I shot it against the heart of Eros, and though I shot with all my force, it fell harmlessly from his side. But at that moment the black arrow was thrust through mine own heart. I am filled with fearful agony.
+
+And the child smiles, and says: Although thy shaft hath pierced me not, although the envenomed barb hath struck thee through, yet I am slain, and thou livest and triumphest, for I am thou and thou art I.
+
+With that he disappears, and the Aethyr splits with a roar as of ten thousand thunders. And behold, The Arrow! The plumes of Maat are its crown, set about the disk. It is the Ateph crown of Thoth, and there is the shaft of burning light, and beneath there is a silver wedge.
+
+I shudder and tremble at the vision, for all about it are whorls and torrents of tempestuous fire. The stars of heaven are caught in the ashes of the flame. And they are all dark. That which was a blazing sun is like a speck of ash. And in the midst the Arrow burns!
+
+I see that the crown of the Arrow is the Father of all Light, and the shaft of the Arrow is the Father of all Life, and the barb of the Arrow is the Father of all Love. For that silver wedge is like a lotus flower, and the Eye within the Ateph Crown crieth: I watch. And the Shaft crieth: I work. And the Barb crieth: I wait. And the Voice of the Aethyr echoeth: It beams. It burns. It blooms. ^[These are the words of a certain grade of A∴ A∴]
+
+And now there cometh a strange thought; this Arrow is the source of all motion; it is infinite motion, yet it moveth not, so that there is no motion. And therefore there is no matter. This Arrow is the glance of the Eye of Shiva. But because it moveth not, the universe is not destroyed. The universe is put forth and swallowed up in the quivering of the plumes of Maat, that are the plumes of the Arrow; but those plumes quiver not.^[Cf. 11th Aire.]
+
+And a voice comes: That which is above is not like that which is below.
+
+And another voice answers it: That which is below is not like that which is above.
+
+And a third voice answers these two: What is above and what is below? For there is the division that divideth not, and the multiplication that multiplieth not. And the One is the many.^[An essential mystery of Thelema. Let it be studied well!] Behold, this Mystery is beyond understanding, for the winged globe is the crown, and the shaft is the wisdom, and the barb is the understanding. And the Arrow is one, and thou art lost in the Mystery, who art but as a babe that is carried in the womb of its mother, that art not yet ready for the light.
+
+And the vision overcometh me. My sense is stunned; my sight is blasted; my hearing is dulled.
+
+And a voice cometh: Thou didst seek the remedy of sorrow; therefore all sorrow is thy portion. This is that which is written: "God hath laid upon him the iniquity of us all." For as thy blood is mingled in the cup of BABALON, so is thine heart the universal heart. Yet is it bound about with the Green Serpent, the Serpent of Delight.^[Cf. *Liber LXV*.]
+
+It is shown me that this heart is the heart that rejoiceth, and the serpent is the serpent of Death^[Cf. *Liber LXV*.] for herein all the symbols are interchangeable, for each one containeth in itself^[This is the most important of all the doctrines that concern the Supernals, for the student of the Mysteries. It explains the necessity of his arming himself with a new kind of logic.] its own opposite. And this is the great Mystery of the Supernals that are beyond the Abyss. For below the Abyss, contradiction is division; but above the Abyss, contradiction is Unity. And there could be nothing true except by virtue of the contradiction that is contained in itself.
+
+Thou canst not believe how marvelous is this vision of the Arrow. And it could never be shut out, except the Lords of Vision troubled the waters of the pool, the mind of the Seer. But they send forth a wind that is a cloud of Angels, and they beat the water with their feet, and little waves splash up--- they are memories. For the seer hath no head; it is expanded into the universe, a vast and silent sea, crowned with the stars of night.^[His Kether is dissolved in Ain Soph.]
+
+Yet in the very midst thereof is the arrow.^[The arrow persists for it is the direction of Energy, the Will that createth all Becoming.] Little images of things that were, are the foam upon the waves. And there is a contest between the Vision and the memories. I prayed unto the Lords of Vision, saying: O my Lords, take not away this wonder from my sight.
+
+And they said: It must needs be. Rejoice therefore if thou hast been permitted to behold, even for a moment, this Arrow, the austere, the august. But the vision is accomplished, and we have sent forth a great wind against thee. For thou canst not penetrate by force, who hast refused it; nor by authority, for thou hast trampled it under foot. Thou art bereft of all but understanding, O thou that art no more than a little pile of dust!
+
+And the images rise up against me and constrain me, so that the Aethyr is shut against me. Only the things of the mind and of the body are open unto me. The shew-stone is dull, for that which I see therein is but a memory.
+
+Tolga, Algeria
+December 13, 1909. 8:15-10:10 p.m.
+
+### The Cry of the 4th Aethyr
+
+#### Which is Called PAZ^[PAZ = ♌♉☊. This ♉ = 7 = Atu V, The Hierophant. He is Microprosopus, the Demiurge, appearing in the House of the Sun. Cf. the 9th Aire, where His Bride is similarly placed.]
+
+The Stone is translucent and luminous, and no images enter therein.
+
+A voice says: Behold the brilliance of the Lord, whose feet are set upon him that pardoneth transgression. Behold the six-fold Star that flameth in the Vault, the seal of the marriage of the great White King and his black slave.^[This is common Alchemical symbolism; it occurs also in Tibetan mythology. The meaning is always the same; that here stated.]
+
+So I looked into the Stone, and beheld the six-fold Star: the whole Aethyr is as tawny clouds, like the flame of a furnace. And there is a mighty host of Angels, blue and golden, that throng it, and they cry: Holy, Holy, Holy art thou, that art not shaken in the earthquakes, and in the thunders! The end of things is come upon us; the day of be-with-us is at hand! For he hath created the universe, and overthrown it, that he might take his pleasure thereupon.
+
+And now, in the midst of the Aethyr, I beheld that god.
+
+He hath a thousand arms, and in each hand is a weapon of terrible strength. His face is more terrible than the storm, and from his eyes flash lightnings of intolerable brilliance. From his mouth run seas of blood. Upon his head is a crown of every deadly thing. Upon his forehead is the upright tau, and on either side of it are the signs of blasphemy. And about him clingeth a young girl, like unto the king's daughter that appeareth in the ninth Aethyr. But she is become rosy by reason of his force, and her purity hath tinged his black with blue.
+
+They are clasped in a furious embrace, so that she is torn asunder by the terror of the god; yet so tightly clingeth she about him, that he is strangled. She hath forced back his head, and his throat is livid with the pressure of her fingers. Their joint cry is an intolerable anguish, yet it is the cry of their rapture, so that every pain, and every curse, and every bereavement, and every death of everything in the whole universe, is but one little gust of wind in that tempest-scream of ecstasy.^[This all refers to "Love under will," the Law by which the universe proceeds.]
+
+The voice thereof is not articulate. It is in vain to seek comparison. It is absolutely continuous, without breaks or beats. If there seem to be vibration therein, it is because of the imperfection of the ears of the seer.
+
+And there cometh an interior voice, which sayeth to the seer that he hath trained his eyes well and can see much; and he hath trained his ears a little, and can hear a little; but his other senses hath he trained scarcely at all, and therefore the Aethyrs are almost silent to him on those planes. By the senses are meant the spiritual correlations of the senses, not the physical senses. But this matters little, because the Seer, so far as he is a seer, is the expression of the spirit of humanity.^[He is 666, the Angel of Tiphereth, the Middle Kingdom of the Sephiroth, Mankind.] What is true of him is true of humanity, so that even if he had been able to receive the full Aethyrs, he could not have communicated them.
+
+And an Angel speaks: Behold, this vision is utterly beyond thine understanding. Yet shalt thou endeavour to unite thyself with the dreadful marriage-bed.
+
+So I am torn asunder, nerve from nerve and vein from vein, and more intimately --- cell from cell, molecule from molecule, and atom from atom, and at the same time all crushed together. Write down that the tearing asunder is a crushing together.^[Again the logic of the Supernals.] All the double phenomena are only two ways of looking at a single phenomenon; and the single phenomenon is Peace. There is no sense in my words or in my thoughts. "Faces half- formed arose." This is the meaning of that passage; they are attempts to interpret Chaos, but Chaos is Peace. Cosmos is the War of the Rose and the Cross.^[It is "Love under will", which unites them.] That was "a half-formed face" that I said then. All images are useless.
+
+Blackness, blackness intolerable, before the beginning of the light. This is the first verse of Genesis. Holy art thou, Chaos, Chaos, Eternity, all contradictions in terms!
+
+Oh, blue! blue! blue! whose reflection in the Abyss is called the Great One of the Night of Time; between ye vibrateth the Lord of the Forces of Matter.
+
+O Nox, Nox qui celas infamiam infandi nefandi, Deo solo sit laus qui dedit signum non scribendum. Laus virgini cuius stuprum tradit salutem.
+
+O Night, that givest suck from thy paps to sorcery, and theft, and rape, and gluttony, and murder, and tyranny, and to the nameless Horror, cover us, cover us, cover us from the Rod of Destiny; for Cosmos must come, and the balance be set up where there was no need of balance, because there was no injustice, but only truth. But when the balances are equal, scale matched with scale, then will Chaos^[Chaos is the Great Father, in one particular aspect.] return.
+
+Yea, as in a looking-glass, so in thy mind, that is backed with the false metal of lying, is every symbol read averse. Lo! everything wherein thou hast trusted must confound thee, and that thou didst flee from was thy saviour. So therefore didst thou shriek in the Black Sabbath when thou didst kiss the hairy buttocks of the goat, when the gnarled god tore thee asunder, when the icy cataract of death swept thee away. ^[See *Liber CCCLXX* and elsewhere.]
+
+Shriek, therefore, shriek aloud; mingle the roar of the gored lion and the moan of the torn bull, and the cry of the man that is torn by the claws of the Eagle, and the scream of the Eagle that is strangled by the hands of the Man. Mingle all these in the death-shriek of the Sphinx, for the blind man hath profaned her mystery. Who is this, Oedipus, Tiresias, Erinyes? Who is this, that is blind and a seer, a fool above wisdom? Whom do the hounds of heaven follow, and the crocodiles of hell await?^[Refers to Atu 0.] Aleph, vau, yod, ayin, resh, tau, is his name.^[This path joins the Sephiroth 1, 2, 4, 6, 8, o 9, and 10. It adds to 687 = 3 x 229. 229 is \א a possible spelling of Aiwass (in Hebrew) o in full. |ו o /י o ע / o ר\ o |ת o]
+
+Beneath his feet is the kingdom, and upon his head the crown. He is spirit and matter; he is peace and power; in him is Chaos and Night and Pan, and upon BABALON his concubine, that hath made him drunk upon the blood of the saints that she hath gathered in her golden cup, hath he begotten the virgin that now he doth deflower. And this is that which is written: Malkuth shall be uplifted and set upon the throne of Binah.^[This mystery of the Daughter awakening the eld of the all-Father and thus perpetuating Tetragrammaton is of great importance.] And this is the stone of the philosophers that is set as a seal upon the tomb of Tetragrammaton, and the elixir of life that is distilled from the blood of the saints, and the red powder that is the grinding-up of the bones of Choronzon.
+
+Terrible and wonderful is the Mystery thereof, O thou Titan that hast climbed into the bed of Juno! Surely thou art bound unto, and broken upon, the wheel;^[Refers to Ixion, who embraced Juno in the form of a cloud.] yet hast thou uncovered the nakedness of the Holy One, and the Queen of Heaven is in travail of child, and his name shall be called Vir, and Vis, and Virus, and Virtus, and Viridis, in one name that is all these, and above all these.^[Vi, Veri, Universum Vivus Vici, the motto of the Seer as Magister Templi.]
+
+Desolate, desolate is the Aethyr, for thou must return unto the habitations of the Owl and the Bat, unto the Scorpions of the sand, and the blanched eyeless beetles that have neither wing nor horn. Return, blot out the vision, wipe from thy mind the memory thereof; stifle the fire with green wood; consume the Sacrament; cover the Altar; veil the Shrine; shut up the Temple and spread booths in the market place; until the appointed time come when the Holly One shall declare unto thee the Mystery of the Third Aethyr.
+
+Yet be thou wake and ware, for the great Angel Hua is about thee, and overshadoweth thee, and at any moment he may come upon thee unawares. The voice of PAZ is ended.
+
+Biskra, Algeria.
+December 16, 1909. 9 - 10:30 a.m.
+
+### The Cry of the 3rd Aethyr
+
+#### Which is Called ZON^[The last three Aethyrs are so tremendously sublime that comment is only too likely to mar the effect upon the reader. They must be read as masterpieces of Art, and their full magical import apprehended as such. This remark, indeed applies to the whole series, though not so formidably. The proper way is first to study the book in detail, so as to assimilate perfectly its intellectual content, and then to read it (so to say) ceremonially.]^[ZON = ♌♎♏ The Sun, the Balance, and the Snake. See text of Aire.]
+
+There is an angry light in the stone; now it is become clear.
+
+In the centre is that minute point of light which is the true Sun, and in the circumference is the Emerald Snake. And joining them are the rays which are the plumes of Maat, and because the distance is infinite, therefore are they parallel from the circumference, although they diverge from the centre.
+
+In all this is no voice and no motion.
+
+And yet it seems that the great Snake feedeth upon the plumes of Truth as upon itself, so that it contracteth.^[Cf. the doctrine of the Snake Ananta.] But ever so little as it contracteth, without it gloweth the golden rim, which is that minute point in the centre.
+
+And all this is the sigil of the Aethyr, gold and azure and green. Yet also these are the Severities.
+
+It is only in the first three Aethyrs that we find the pure essence, for all the other Aethyrs are but as Malkuth to complete these three triads, as hath before been said. And this being the second reflection, therefore is it the palace of two hundred and eighty judgments.^[The letters of Judgment, those that have a final form, מ כ נ פ צ, all add to 280.]
+
+For all these paths ^[ר, ל and נ (☉, ♎ and ♏), the Sun, the Balance or plumes of Maat, and the Snake. Added they make 280.] are in the course of the Flaming Sword from the side of Severity. And the other two paths are Zayin, which is a sword; and Shin, which is a tooth. These are then the five severities which are 280.
+
+All this is communicated to the Seer interiorly.
+
+"And the eye of His benignancy is closed. Let it not be opened upon the Aethyr, lest the severities be mitigated, and the house fall."^[Note this. If the Seer had seen this vision truly, he should have become a Magus right then. The vision following was really a Guard to the Aethyr.] Shall not the house fall, and the Dragon sink? Verily all things have been swallowed up in destruction; and Chaos hath opened his jaws and crushed the Universe as a Bacchanal crusheth a grape between her teeth. Shall not destruction swallow up destruction, and annihilation confound annihilation? Twenty and two are the mansions^[Beth, an house.] of the House of my Father, but there cometh an ox^[The letter Aleph.] that shall set his forehead against the House, and it shall fall. For all these things are the toys of the Magician ^[The path of ☿, Beth, which joins and separates Kether and Binah.] and the Maker of Illusions, that barreth the Understanding from the Crown.
+
+O thou that hast beheld the City of the Pyramids, how shouldst thou behold the House of the Juggler?^[Atu I.] For he is wisdom, and by wisdom hath he made the Worlds, and from that wisdom issue judgements 70 by 4, that are the 4 eyes of the double-headed one; that are the 4 devils, Satan, Lucifer, Leviathan, Belial, that are the great princes of the evil of the world.^[See the *Book of the Sacred Magic of Abramelin the Mage*.]
+
+And Satan is worshipped by men under the name of Jesus; and Lucifer is worshipped by men under the name of Brahma; and Leviathan is worshipped by men under the name of Allah; and Belial is worshipped by men under the name of Buddha.
+
+(This is the meaning of the passage in Liber Legis, Chap. III.)^[666's later annotation to this: "My own silly note."]
+
+Moreover, there is Mary, a blasphemy against BABALON, for she hath shut herself up;^[She seeks to resist Change, which is Life, she refuses the Formula, "love under will." Yet ΜΑΡΙ Ε (Greek) = 156.] and therefore is she the Queen of all those wicked devils that walk upon the earth, those that thou sawest even as little black specks that stained the Heaven of Urania. And all these are the excrement of Choronzon.
+
+And for this is BABALON under the power of the Magician, that she hath submitted herself unto the work; and she guardeth the Abyss.^[She is Binah, ruled by the path of Beth.] And in her is a perfect purity of that which is above; yet she is sent as the Redeemer to them that are below. For there is no other way into the Supernal Mystery but through her, and the Beast on which she rideth; and the Magician is set beyond her to deceive the brothers of blackness, lest they should make unto themselves a crown;^[Meaning, to construct a true Tree, of which Dath should be the summit. This is in fact the great error of the rationalists - both in science, like Bchner, and in religion, like Buddha. Knowledge is not, and cannot be, the crown of Consciousness, if only because the Logic beyond the Abyss convicts it of essential self contradiction. Dath, as seen by the Magister Templi, is so far from being the opposite of Ignorance that it is actually a demonstration that the Intellect is incapable of Truth.] for if there were two crowns, then should Ygdrasil, that ancient tree, be cast out into the Abyss, uprooted and cast down into the Outermost Abyss, and the Arcanum which is in the Adytum should be profaned; and the Ark should be touched, and the Lodge spied upon by them that are not masters, and the bread of the Sacrament should be the dung of Choronzon; and the wine of the Sacrament should be the water of Choronzon; and the incense should be dispersion; and the fire upon the Altar should be hate. But lift up thyself; stand, play the man, for behold! there shall be revealed unto thee the Great Terror, the thing of awe that hath no name.
+
+And this is the mystery that I declare unto thee: that from the Crown itself spring the three great delusions; Aleph is madness, and Beth is falsehood, and Gimel is glamour.^[Aleph is incapacity to apprehend --- the absence of any steady truth. (א = {Air}, the volatile). Beth is the assertion of false relations, even in the illusion of the dyad. (ב = ☿) And Gimel is the clouding of aspiration by the marsh miasma of desire (ג = ☾). Such are the evil and averse counterparts of the three highest faculties of the Soul: Aleph, the inspiration of the soul in ecstasy; Beth, the virtue of Truthfulness without care of other issues; and Gimel, the direct link of the human with the divine Consciousness.] And these three be greater than all, for they are beyond the words that I speak unto thee; how much more therefore are they beyond the words that thou transmittest unto men.
+
+Behold! the Veil of the Aethyr sundereth, and is torn, like a sail by the breath of the tempest, and thou shalt see him as from afar off. This is that which is written, "Confound her understanding with darkness," for thou canst not speak this thing.^[The Seer was being warned all the time that he was seeing only a Guard.]
+
+It is the figure of the Magus of the Taro;^[Atu I. This is Mayan, the Great Magician, he who has created the Dyad (ב = 2) and thus made possible the conception of Opposition, and hence of "Evil". He is to be distinguished from Chokma, the creative Mercury who transmits the Essence of Kether as a Logos, that Kether may become intelligible to Himself through Binah. This lower Mercury asserts the Dyad as Reality, and denies alike Kether and the Ain. Hence its issue is in Materialism.] and in his right arm the torch of the flames blazing upwards; in his left the cup of poison, a cataract into Hell. And upon his head the evil talisman, blasphemy and blasphemy and blasphemy, in the form of a circle. That is the greatest blasphemy of all.^[i.e., that the circle should be profaned. The evil circle is of three concentric rings. The circle demands the square (or Cross) to fulfill it.] On his feet hath he the scythes and swords and sickles; daggers; knives; every sharp thing,^[Curiously, for his retirement in New Hampshire (An XII) the Seer bought an axe, knife, and a saw for his magical weapons. He had completely forgotten this passage. P.S. (☉ in ♌, ☾ in ♋) (An XII) I have just realized (after some days woodcarving) that the use of a knife is to fashion shapeless things into Beauty. This is then the task of a Magus which, in my then Grade, I could not see. Now, O Lord, let me behold the true Vision of the Magus as he is.] &mdash; a millionfold, and all in one. And before him is the Table that is a Table of wickedness, and 42-fold Table. This Table is connected with the 42 Assessors of the Dead, for they are the Accursers, whom the soul must baffle; and with the 42-fold name of God, for this is the Mystery of Iniquity, that there was ever a beginning at all.^[42 = 2 x 21. 21 = היהא, God-name of Kether; thus 42 asserts the Dyad as against the Monad, and denies Love. 42 = א מ א, the Mother unfertilized, the Virgin-on-principle -- the feminine equivalent of the Black Brothers.] And this Magus casteth forth, by the might of his four weapons, veil after veil; a thousand shining colours, ripping and tearing the Aethyr, so that it is like jagged saws, or like broken teeth in the face of a young girl, or like disruption, or madness. There is a horrible grinding sound, maddening. This is the mill in which the Universal Substance, which is ether, was ground down into matter.
+
+The Seer prayeth that a cloud may come between him and the sun, so that he may shut out the terror of the vision. And he is afire; he is terribly athirst; and no help can come to him, for the shew-stone blazeth ever with the fury and the torment and the blackness, and the stench of human flesh. The bowels of little children are torn out and thrust into his mouth, and a poison is dropped into his eyes. And Lilith,^[תיליל = 480 = ת י ע = Malkuth, of the 42-fold name in Yetzirah. Also 480 =ת ו ע ד, Dath, in the Plural. Lilith is etymologically "The Woman of Night"; but is diversely described by different authorities. To one she is, "from the head to the navel, a woman --- from the navel to the feet of her, a man". To another, "lovely shape that concealeth a black monkey, even as a figure that draweth with her hands small images of men down into hell" (Liber Ararita II, 10). She is also the "first wife of Adam" i.e. the succubus who visits in their sleep those boys and men who have not previously purified themselves by Right Coitus. The whole world of demons was in fact created (according to Rabbinical tradition) by the nocturnal pollutions of Adam. This is a true parable. For every sexual act produces its natural effect on all planes. All forms of spiritual experience may be obtained in this manner, according to the Magical Knowledge and Skill of the Operator. And there is always a Child begotten on some plane or other, as the conditions of the experiment decide. (Note. --- A.C. added the following here in his copy of Eqx. I, No. 5. "Doris Gomez who came just before Jeanne Foster. It's a perfect description of her normal nature. Add Laura Brown for the sake of completeness. What about Alostrael?")] a black monkey crawling with filth, running with open sores, an eye torn out, eaten of worms, her teeth rotten, her nose eaten away, her mouth a putrid mass of green slime, her dugs dropping and cancerous, clings to him, kisses him.
+
+(Kill me! kill me!)^[The Seer was physically overwhelmed by the horror of this experience. It may seem surprising that such phenomena should occur above the Abyss. But this Lilith is a positive form created by the Magus; whereas, Choronzon is the breaking-up of all coherence. Here also is a mystery of mysteries. Lilith is truly Babalon, as imagined by this energy of Mayan.]
+
+There is a mocking voice: Thou art become immortal. Thou wouldst look upon the face of the Magician and thou hast not beheld him because of his Magick veils.
+
+(Don't torture me!)
+
+Thus are all they fallen into the power of Lilith, who have dared to look upon his face.
+
+The shew-stone is all black and corrupt. O filth! filth! filth!
+
+And this is her great blasphemy: that she hath taken the name of the First Aethyr,^[LIL.] and bound it on her brow, and added thereunto the shameless yod and the tau for the sign of the Cross.
+
+She it is that squatteth upon the Crucifix, for the nastiness of her pleasure. So that they that worship Christ suck up her filth upon their tongues, and therefore their breaths stink.^[For the Christian, obsessed by Mayan, sees Love in this obscene form. It is all a matter of the point-of-view.]
+
+I was saved from that Horror by a black shining Triangle, with apex upwards, ^[This is the Sigil of Binah in one of Her forms. It instantly destroys the illusion of Lilith, who now appears in her true shape as an avatar; a corporeal imagine of BABALON, recalling the maiden of the 9th Aethyr. (Note. &mdash; in A.C.'s Eqx. here to the para. beginning "I have seen some picture" he notes in the margin "Hilarion, Jeanne Robert Foster". &mdash; To the para. beginning "then the disk of the sun", he notes "Alice Ethel Coomaraswamy. She has Libra rising and Sol in Scorpio and she is mad about green." &mdash; To the para. beginning "There is another girl", he notes "Helen Westley? - or Myriam Deroxe.")] that came upon the face of the sun.
+
+And now the shew-stone is all clear and beautiful again.
+
+The pure pale gold of a fair maiden's hair, and the green of her girdle, and the deep soft blue of her eyes.
+
+Note. &mdash; In this the gold is Kether, the blue is Chokmah, the green is Binah.
+
+Thus she appeareth in the Aethyr, adorned with flowers and gems. It seems that she hath incarnated herself upon earth, and that she will appear manifest in a certain office in the Temple.
+
+I have seen some picture like her face; I cannot think what picture. It is a piquant face, with smiling eyes and lips; the ears are small and pink, the complexion is fair, but not transparent; not as fair as one would expect from the hair and eyes. It is rather an impudent face, rather small, very pretty; the nose very slightly less than straight, well- proportioned, rather large nostrils. Full of vitality, the whole thing. Now very tall, rather slim and graceful; a good dancer.
+
+There is another girl behind her, with sparkling eyes, mischievous, a smile showing beautiful white teeth; an ideal Spanish girl, but fair. Very vivacious. Only her head is visible, and now it is veiled by a black sun, casting forth dull rays of black and gold.
+
+Then the disk of the sun is a pair of balances, held steady; and twined about the central pole of the balance is the little green poisonous snake, with a long forked tongue rapidly darting.^[It would be improper in this place to comment upon these prophecies. The student may seek enlightenment in "The Urn".]
+
+And the Angel that hath spoken with me before, saith to me: The eye of His benignancy is opened; therefore veileth he thine eyes from the vision. Manfully hast thou endured; yet, hast thou been man, thou hadst not endured; and hadst thou been wholly that which thou art, thou shouldst have been caught up in the full vision that is unspeakable for Horror. And thou shouldst have beheld the face of the Magician that thou hast not been able to behold, - of him from whom issue forth the severities that are upon Malkuth, and his name is Misericordia Dei.
+
+And because he is the dyad, thou mayest yet understand in two ways. Of first way, the Mercy of God is that Mercy which Jehovah showed to the Amalekites;^[An XII. Now I understand. It's the fashioning I missed. All my life I have been cutting to destroy. Now I'll cut to create.] and the second way is utterly beyond thine understanding, for it is the upright, and thou knowest nothing but the averse, - until Wisdom shall inform thine Understanding, and upon the base of the Ultimate triangle arise the smooth point.^[All this passage is typical of the supernal Logic.]
+
+Veil therefore thine eyes, for that thou canst not master the Aethyr, unless thy Mystery match Its Mystery. Seal up thy mouth also, for thou canst not master the voice of the Aethyr, save only by Silence.
+
+And thou shalt give the sign of the Mother, for BABALON is thy fortress against the iniquity of the Abyss, for the iniquity of that which bindeth her unto the Crown,^[The path of Beth.] and barreth her from the Crown; for not until thou art made one with CHAOS^[The mystery of CHAOS is beyond the comprehension of any but Masters of the Temple. One can only hint that this is at once the Formula of the Feminine Trinity and of the All-Father.] canst thou begin that last, that most terrible projection, the three-fold Regimen which alone constitutes the Great Work.
+
+For Choronzon is as it were the shell or excrement of these three paths, and therefore is his head raised unto Dath, and therefore have the Black Brotherhood declared him to be the child of Wisdom and Understanding, who is but the bastard of the Svastika. And this is that which is written in the Holy Qabalah, concerning the Whirlpool and Leviathan, and the Great Stone.^[The student is advised to study these matters in the original documents.]
+
+Thus long have I talked with thee in bidding thee depart, that the memory of the Aethyr might be dulled; for hadst thou come back suddenly into thy mortal frame, thou hadst fallen into madness or death. For the vision is not such that any may endure it.
+
+But now thy sense is dull, and the shew-stone but a stone. Therefore awake, and give secretly and apart the sign of the Mother, and call four times upon the name of CHAOS,^[סועכ = 156.] that is the four-fold word that is equal to her seven-fold word. And then shalt thou purify thyself, and return into the World.
+
+So I did that which was commanded me, and returned.
+
+Biskra.
+December 17, 1909. 9:30 - 11:30 a.m.
+
+### The Cry of the 2nd Aethyr
+
+#### Which is Called ARN^[ARN = ♉♓♏. See the allusions to Bull, Fish and Serpent in the first paragraph. But וקנ = 156 = BABALON, also here mentioned; and the whole Aethyr is devoted to HER.]
+
+In the first place, there is again the woman riding on the bull, which is the reflection of BABALON, that rideth on The Beast. And also there is an Assyrian legend of a woman with a fish, and also there is a legend of Eve and the Serpent, for Cain was the the child of Eve and the Serpent, and not of Eve and Adam; and therefore when he had slain his brother, who was the first murderer, having sacrificed living things to his demon, had Cain the mark upon his brow, which is the mark of the Beast spoken of in the Apocalypse, and is the sign of initiation.^[This is the "Third Eye", the "Eye of Shiva", the Pineal Gland, supposed by some anatomists to be a rudimentary eye.]
+
+The shedding of blood is necessary, for God did not hear the children of Eve until blood was shed. ^[The "Bloody Sacrifice" is commonly regarded as "Black Magic". But this depends upon the Formula used by the Magician. All taking of life could be reprehensible even though necessary were it not for the Formula of Evolution. One should assume into one's own Being, ceremonially, the whole Karma of the creature slain; thus building it up into a higher organic structure, and thus helping it to fulfill its True Will of Aspiration to a higher Form of Life. This is, of course, a gross and material method of working, but it is the only method available in such cases. The animal is in any case doomed to death, and the most fortunate, the most directly profitable to it, is this immediate translation of its Prana (in an actual ceremony) or the basis of its Prana (in simple consumption at the table) into a living organism of superior type. It is important not to allow this Prana to escape.] And that is external religion; but Cain spake not with God, nor had the mark of initiation upon his brow, so that he was shunned by all men, until he had shed blood. And this blood was the blood of his brother. This is a mystery of the sixth key of the Taro, which ought not to be called The Lovers, but The Brothers.^[There is another, even more important, attribution of this card. The Bowman is the father (י of הוהי) and the Man, the Son (ו). The Women are Isis and Nephthys (ה and ה final); and the whole symbolizes a Formula of the Highest Magick, too obscure and too elaborate to treat in this elementary document.]
+
+In the middle of the card stands Cain; in his right hand is the Hammer of Thor with which he hath slain his brother, and it is all wet with his blood. And his left hand he holdeth open as a sign of innocence. And on his right hand is his mother Eve, around whom the serpent is entwined with his hood spread behind her head; and on his left hand is a figure somewhat like the Hindoo Kali, but much more seductive. Yet I know it to be Lilith. And above him is the Great Sigil of the Arrow, downward, but it is struck through the heart of the child. This Child is also Abel.^[This child is really Seth, Set, Sol, Hadit. Abel's blood was the seed of this Seth. Remember that Abel = Baal] And the meaning of this part of the card is obscure, but that is the correct drawing of the Taro card; and that is the correct magical fable from which the Hebrew scribes, who were not complete Initiates, stole their legend of the Fall and the subsequent events. They joined different fables together to try and make a connected story, and they sophisticated them to suit their social and political conditions.
+
+All this while no image hath come unto the Stone, and no voice hath been heard.
+
+I cannot get any idea of the source of what I have been saying. All I can say is, that there is a sort of dew, like mist, upon the Stone, and yet it has become hot to the touch.^["Miracles" of this order constantly occur in the course of operations of Magick. They are by-products.] All I get is that the Apocalypse was the recension of a dozen or so totally disconnected allegories, that were pieced together, and ruthlessly planed down to make them into a connected account; and that recension was re-written and edited in the interests of Christianity, because people were complaining that Christianity could show no true spiritual knowledge, or any food for the best minds: nothing but miracles, which only deceived the most ignorant, and Theology, which only suited pedants.
+
+So a man got hold of this recension, and turned it Christian, and imitated the style of John.^[There is no question in my mind that this explanation is correct from the viewpoint of profane scholarship. "Angels" who offer absurd theories about material affairs are false elementals who amuse themselves at the expense of the naïveté of the would-be Magician.] And this explains why the end of the world does not happen every few years, as advertised.^[In any case forecasts of the future cannot be made from Qabalistic data, which have nothing to do with terrestrial measures of time; e.g. to say that King Brahmadatta reigned 120,000 years in Benares, only means that he reigned in a manner congruous with the ideas symbolized by 120 and, on a very grand scale, as indicated by the multiplication by 1000.]
+
+There is nothing whatever in the Stone but a White Rose. And a voice comes: there shall be no more red roses, for she hath crushed all the blood of all things into her cup.
+
+It seemed at one time as if the rose was in the breast of a beautiful woman, high-bosomed, tall, stately, yet who danced like a snake. But there was no subsistence in this vision. ^[The allusion may be to one of those who occupied for a time the post of "Scarlet Woman". See *Book 4*, part 4, for a list of these women. (Note. - A.C. pencilled in the margin of his Eqx. here "Myriam Deroxe?" Opposite the next paragraph re. the white Rose he annotated "Leila Waddell?"]
+
+And now I see the white Rose, as if it were in the beak of a swan, in the picture by Michael Angelo in Venice. And that legend too is the legend of BABALON.
+
+But all this is before the veil of the Aethyr. Now will I go and make certain preparations,^[In fact, the Seer was the prey of an intolerable uneasiness akin to fear. He was intuitively aware of the terrific nature of the Aethyr, and felt oppressed by the responsibility of seeing and hearing accurately in a manner of such dread importance. He felt even before penetrating the Aire, that he was already near the limit of his powers.] and I will return and repeat the call of the Aethyr yet again.
+
+Biskra.
+December 18, 1909. 9:20 - 10:5 a.m.
+
+It is not a question of being unable to get into the Aethyr, and trying to struggle through; but one is not anywhere near it.^[It was not that the Call of the Aethyr had been ill performed, or that its virtue and efficacy were impaired. It was that the Seer being attached to his human instrument, that instrument automatically strove with all its might to escape the impact of so tremendous and so dire an energy which would infallibly be transmitted (to a certain small extent) through the Seer to it. In the same way, in a much lesser manner, there is a limit to the degree of pain a man can inflict on himself, as experiments with the Boulometer (the instrument invented by the Seer to measure this virtue) have shewn. (Note - it was a self-adjustable thumb screw. - Note by Yorke)]
+
+A voice comes: When thy dust shall strew the earth whereon She walketh, then mayest thou bear the impress of Her foot. And thou thinkest to behold Her face!
+
+The Stone is become of the most brilliant whiteness, and yet, in that whiteness, all the other colours are implicit.^[This means more than the obvious. "The colours of the spectrum compose pure White Light." The Seer could see these colours directly, at the same time as the White. Another case of hyperabyssic logic.] The colour of anything is but its dullness, its obstructiveness. So is it with these visions. All that they are is falsity. Every idea merely marks where the mind of the Seer was too stupid to receive the light, and therefore reflected it. Therefore, as the pure light is colourless, so is the pure soul black.^[This doctrine is most profound and important. It throws light upon the mystery of evil, and upon the nature of Maya in general.]
+
+And this is the Mystery of the incest of CHAOS with his daughter.^[Chaos is here the Yod of Tetragrammaton, his daughter the final H. This passage is to be studied closely in connection with the previous passages and notes with regard to the formula of הוהי;indeed one should preform samyama upon this whole matter.]
+
+There is nothing whatever visible.
+
+But I asked of the Angel that is at my side if the ceremony hath been duly performed. And he says: Yes, the Aethyr is present. It is thou that canst not perceive it, even as I cannot perceive it, because it is so entirely beyond thy conception that there is nothing in thy mind on to which it can cast a symbol, even as the emptiness of space is not heated by the fire of the sun. And so pure is the light that it preventeth the formation of images, and therefore have men called it darkness. For with any lesser light, the mind responds, and makes for itself divers palaces.^[Note well this thesis. Anything which is not Pure Nothing is ipso facto unbalanced, and therefore imperfect — indeed illusory.] It is that which is written: "In my Father's house there are many mansions"; and if the house be destroyed, how much more the mansions that are therein! For this is the victory of BABALON over the Magician that ensorcelled^[The path of Beth. Contrast this way of illusion forcibly with the obsession of Microprosopus by Dath. (There are also the difficulties of the Son with the glamour of the path of Gimel and of the Father with the path of Aleph. See 3rd Aire concerning the Three Ways of Delusion that guard the Crown.)] her. For as the Mother she is 3 by 52, and as the harlot she is 6 by 26; but she is also 12 by 13, and that is the pure unity.^[52 = אמיא, the fertile mother = 3 = Binah. 26 = הוהי; also דבכ = Kabad, the husband of the impure Lilith, and 1 plus 6 plus 9 plus 10, the Sephiroth of the Middle Pillar, the Phallus. 6 = 1 plus 2 plus 3, the Mystic number of Binah; also ☉ who shines on all alike: אבג to collect, בד a bear (Venus in Furs), and אה a window, the illicit way of ingress into a house. 12 = ואה the title of Kether, the Unity; 13 = דחא = Unity.] Moreover she is 4 by 39, that is, victory over the power of the 4, and in 2 by 78 hath she destroyed the great Sorcerer.^[39 = דחאהוהי "Tetragrammaton is One", although He is composed of 4 letters, hence the triumph over the power of 4, limitation. But this explanation is not as clear, satisfactory and convincing with that singular feeling of ecstatic illumination which one rightly demands of the Qabalistic demonstration. There should be some further gematria of 39 not yet discovered. 2 is Beth, Atu I, Mayan the Great Sorcerer. 78 = Mezla (אלזמ) the Influence from Kether, and the number of the Tarot Cards. I.e., she destroys him by his own energies. {WEH Note: In traditional Qabalah Mezla is not the Influence from Kether, but the omnipresence of Limitless Light of Ain.}] Thus is she the synthesis of 1 and 2 and 3 and 4, which being added are 10, therefore could she set her daughter upon her own throne, and defile her own bed with her virginity.^[Because she includes her daughter (10) in her own formula, she can use the daughter for Her own purposes.]
+
+And I ask the Angel if there is any way by which I can make myself worthy to behold the Mysteries of this Aethyr.
+
+And he saith: It is not in my knowledge. Yet do thou make once more in silence the Call of the Aethyr, and wait patiently upon the favour of the Angel, for He is a mighty Angel, and never yet have I heard the whisper of his wing.
+
+This is the translation of the Call of the Aethyr.^[This reversal of the evident exoteric meaning of the Call is stupendous. This book, 418, is full of similar interpretations "by the rule of contraries". But this rule must be applied with skill and discretion, if error is to be avoided. It is a lamentable fact that a worthy Zelator of A∴ A∴, one Frater Achad, having been taught (patiently enough) by the Seer to use this formula, was lured by his vanity to suppose that he had discovered it himself, and proceeded to apply it indiscriminately. He tried to stand the Serpent of Wisdom on its head, and argued that as he was a 1○ = 10□ of the Order, he must equally be a 10○ = 1□. As The Book of Lies says, "I wrenched DOG backwards to find God; now God barks!" He would have been better advised to reverse his adored ONE and taken a dose of ENO! (ENO, an English purgative. T.)]
+
+O ye heavens which dwell in the first Aire, and are mighty in the parts of the earth, and execute therein the judgment of the highest, to you it is said: Behold the face of your God, the beginning of comfort, whose eyes are the brightness of the heavens which provided you for the government of the earth, and her unspeakable variety, furnishing you with a power of understanding, that ye might dispose all things according to the foresight of Him that sitteth on the Holy Throne, and rose up in the beginning, saying, The earth, let her be governed by her parts (this is the prostitution of BABALON to Pan), and let there be division in her (the formation of the Many from the One), that her glory may be always ecstasy and the irritation of orgasm. Her course let it round with the heavens (that is, let her way be always harmonious with heaven), and as an handmaid let her serve them (that is, the Virgin of Eternity climbing into the bed of CHAOS). One season let it confound another (that is, let there be unwearying variety of predicates),^[The infinity of Nuit.] and let there be no creature upon or within her the same (that is, let there be an unwearying variety of subjects).^[The infinity of Hadit.] All her members let them differ in their qualities, and let there be no one creature^[i.e. an "Event, the fundamental unit of Manifested Existence.] equal with another (for if there were any duplication or omission, there would be no perfection in the whole). The reasonable creatures of the earth and men, let them vex and weed out one another (this is, the destruction of reason by internecine conflicts in the course of redemption). And their dwelling places, let them forget their names. (This is, the arising of Nemo.) The work of man and his pomp, let them be defaced. (That is, in the Great Work man must lose his personality.) His building, let it be a cave for the Beast of the Field. ("His building" means the Vault of the Adepts, and the "Cave" is the Cave of the Mountain of Abiegnus, and the "Beast" is he upon whom BABALON rideth, and the "Field" is the supernal Eden.) Confound her understanding with darkness. (This sentence is explained by what has been said concerning Binah.) For why, it rejoiceth me concerning the Virgin and the Man.^[In Kelly's original: "It repenteth Me that I have made Man." Kelly was in constant trouble with his education as an orthodox Christian; also Dee forced him to reject the True Messengers, whose discourse implied antinomian Pantheism.] Kelly did not understand this Call at all, and he would not believe this sentence was written so, for it seemed to contradict the rest of the Call, so he altered it. One while let her be known and another while a stranger, (that is, the Mystery of the Holy One being at the same time identical with everything and apart from it), because she is the bed of an harlot, and the dwelling of him that is fallen. (That is that Mystery which was revealed in the last Aethyr; the universe being, as it were, a garden wherein the Holy Ones may take their pleasure.) O ye heavens, arise; the lower heavens beneath you, let them serve you. (This is a command for the whole of things to join in universal rapture.) Govern those that govern; cast down such as fall; bring forth those that increase; and destroy the rotten. (This means that everything shall take its own pleasure in its own way.)^[One general application of the Law of Thelema. It is a stupid error to try to make a silk purse out of a sow's ear; it hurts both parties to the transaction. The basic blunder is to set up an arbitrary ideal standard of "what ought to be". The "evil beginnings" on all planes have a proper and a useful function. A strong healthy man cannot be made by putting him in irons and protecting him artificially from all the "dangers of life."] No place let it remain in one number. ("No place" is the infinite Ain . . . "Let remain in one number"; that is, let it be concentrated in Kether.) Add and diminish until the stars be numbered. (It is a mystery of the Logos being formulated by the Qabalah, because the stars, are all letters of the Holy Alphabet, as it was said in a former Aethyr.) Arise! Move! and Appear! before the covenant of his mouth which he hath shewn unto us in his Justice. ("The Covenant" is the letter Aleph; "His mouth", pe'; "His Justice", lamed; and these add up again to Aleph, so that it is in the letter Aleph, which is zero, thus symbolizing the circles of the Aethyrs, that he calleth them forth. But men thought that Aleph was the initial ARR, cursing, when it was really the initial of AChD, unity, and AHBH, love. So that it was the most horrible and wicked blasphemy of the blackest of all the black brothers to begin Barashith with a beth, with the letter of the Magician. Yet, by this simple device, hath he created the whole illusion of sorrow.)^[The passage is criticism of an obscure doctrine of the Qabalah. There is however a real mystery behind the rhetoric. {WEH Note: The doctrine in Qabalah is that the Aleph remained in the mouth of the Creator, and Beth was the first letter to manifest. This comes partly from Aleph being the first letter and partly from Aleph being unpronounceable without another letter. Aleph is a pure aspirant. Beth in Hebrew signifies "in" as in "in the beginning". What does all This bear on Crowley's use of "Hadit" from the Stele, in place of the more common "BaHadit", Egyptian for entrance into the Winged Disk of the Sun?}]
+
+Open the mysteries of your creation, and make us partakers of the undefiled knowledge. (The word here is "IADNAMAD" is not the ordinary word for knowledge. It is a word of eight letters, which is the secret name of God, summarized in the letter cheth; for which see the Aethyr which correspondeth to that letter, the twelfth Aethyr.)^[All these passages in brackets are the *currente lingua* explanations of the Seer (to himself) as each new phrase of the text was delivered by the Angel. To understand how startling it all was to him, one must remember that he had been using this Call, in its own obvious sense, for many weeks, and always with the utmost force and solemnity. His only warning had been the intuitive feeling that the Call was really a rejoicing at the opening of the 9th Aire. And he had thought this merely subjective, due to the relief of having passed through the Abyss.]
+
+
+Now from time to time I have looked into the Stone, but never is there any image therein, or any hint thereof; but now there are three arrows, arranged thus:
+
+![](img/Arrows.jpg)
+
+[Figure here: Three arrows intersecting in the common centers of the three shafts. Two are diagonal, forming an "X" with points to top and fledging to bottom. The third is vertical, bisecting the "X" with point below and fledging to the top.]
+
+This is the letter Aleph in the Alphabet of Arrows.
+
+(I want to say that while I was doing the translation of the Call of the Aethyrs, the soles of my feet were burning, as if I were on red hot steel.)^[This was certainly due to no ordinary cause. The Seer was lying on the roof of the Hotel Royal at Biskra in the shade of the minaret. It was a cool bright morning.]
+
+And now the fire was spread all over me, and parches me, and tortures me. And my sweat is bitter like poison. And all my blood is acrid in my veins, like gleet. I seem to be all festering, rotting; and the worms eating me while I am yet alive.
+
+A voice, neither in myself nor out of myself, is saying: Remember Prometheus; remember Ixion.^[Prometheus stole the fire of Jupiter. Ixion attempted the virtue of Juno. The Seer, in trying to penetrate this most holy Aire, was similarly presumptuous.]
+
+I am tearing^[He was using the Sign of the Rending of the Veil, (See Liber O, Eqx. I, No. 2) against the obscurity of the Aire.] at nothing. I will not heed. For even this dust^[i.e. the Magister Templi. See 6th Aethyr et al. supra. Only a Magus can truly pierce the veil of BABALON. It is written (of Isis), "No man (i.e., Nemo, the Magister Templi) hath lifted my veil." But to lift it and look upon HER is one thing; to possess HER another!] must be consumed with fire.
+
+And now, although there is no image, at last there is a sense of obstacle, as if one were at length drawing near to the frontier of the Aethyr.
+
+But I am dying.
+
+I can neither strive nor wait. There is agony in my ears, and in my throat, and mine eyes have been so long blind that I cannot remember that there ever was such a thing as sight.^[The physical exhaustion of the Seer was complete. He realized that further effort was impossible; and — more also! — that had he suddenly succeeded, while in this state, the fury of the impact of the Energy of the Aire would have been instantly destructive of his physical form.]
+
+And it cometh to me that I should go away, and await the coming of the veil of the Aethyr; not here. I think I will go to the Hot Springs.^[Hammam Salahin: Sulphurous waters, admirably apt to the idea of BABALON, whom the Seer intuitively understood to be the Soul of this Second Aire.]
+
+So I put away the Stone upon my breast.
+
+Biskra
+10:15-11:52 a.m.
+
+Flashes of lightning are playing in the Stone, at the top; and at the bottom of the Stone there is a black pyramid,^[Black for Binah. The pyramid for the phallus, for she is also androgyne. Or, as an unit of Her City, beneath the Night of Pan. See 14th Aire.] and at the top thereof is a vesica piscis. The vesica piscis^[The most perfect and mysterious of the symbols of the Feminine Principle. Its mathematical correspondences are of the greatest importance. See The Canon and several other treatises on Qabalistic Geometry.] is of colourless brilliance.
+
+The two curves of Pisces are thus:
+
+![](img/Pisces.jpg)
+
+[Figure here: The Pisces sign without the cross-line. In Essence ") (", but larger with thick curves.]
+
+They are the same curves as the curves of vesica piscis, but turned round].^[This is the last desperate attempt of the Rauch of the Seer to escape the Terror of the Presence of Babalon.]
+
+And a voice comes: How can that which is buried in the pyramids^[i.e. the Magister Templi.] behold that which descendeth unto its apex?^[This apparently simple phrase conceals an allusion of the most sublime and terrific import. See AL I, 14, 16, 19. Also The Book of Lies, caps. 4 and 15. Mohammed said, "Cursed be he that maketh himself Earth, and Woman Heaven!" For he understood this Formula as of enormous Magical Power and wished to keep it from the profane, who might abuse it, or injure themselves by ignorant of imprudent application.]
+
+Again it comes to me, without voice: Therefore is motherhood the symbol of the Masters. For first they must give up their virginity to be destroyed, and the seed must lie hidden in them until the nine moons wax and wane, and they must surround it with the Universal Fluid. And they must feed it with the blood for fire. Then is the child a living thing. And afterwards is much suffering and much joy, and after that are they torn asunder, and this is all their thank, that they give it to suck.^[See *The Book of Lies*, Cap. 3.]
+
+All this while the vision in the Shew-Stone stays as it was, save that the lightning grows more vehement and clear; and behind the vesica piscis is a black cross^[This seems to refer to Thmaist, whose Aeon will succeed that of Horus. She is Atu VIII referring to Libra, the House of Venus. In her also, then, is BABALON the Ageless Virgin-Harlot, our Mother as our Concubine.] extending to the top and to the edges of the Stone. And now blackness spreads, and swallows up the images.
+
+Now there is naught but a vast black triangle having the apex downwards,^[Cf. 3rd Aire, the vision of Lilith. This triangle seems to symbolize Limitation or Restriction; or so the sequel implies.] and in the centre of the black triangle is the face of Typhon, the Lord of the Tempest, and he crieth aloud: Despair! Despair! For thou mayest deceive the Virgin, and thou mayest cajole the Mother; but what wilt thou say unto the ancient Whore that is throned in Eternity? For if she will not, there is neither force nor cunning, nor any wit, that may prevail upon her.
+
+Thou canst not woo her with love,^[The path of ד, Daleth. BABALON is thus shewn as more than merely Binah.] for she is love. And she hath all, and hath no need of thee.
+
+And thou canst not woo her with gold,^[Tiphareth is below Her.] for all the Kings and captains of the earth, and all the gods of heaven, have showered their gold upon her. Thus hath she all, and hath no need of thee.
+
+And thou canst not woo her with knowledge, for knowledge is the thing that she hath spurned.^[Dath, the outcast into the Abyss, beneath Her.] She hath it all, and hath no need of thee.
+
+And thou canst not woo her with wit,^[Chokmah, the Highest Wisdom.] for her Lord is Wit.
+
+She hath it all, and hath no need of thee. Despair! Despair!
+
+Nor canst thou cling to her knees and ask for pity; nor canst thou cling to her heart and ask for love; nor canst thou put thine arms about her neck, and ask for understanding; for thou had all these,^[As shewn in the previous note, the Magister Templi, though he can lift Her Veil and behold Her with understanding, is unable to meet Her as an equal and possess Her.] and they avail thee not. Despair! Despair!
+
+Then I took the Flaming Sword,^[This has its hilt in Kether, and its point in Malkuth. the Seer uses the entire Hierarchy of Existence against the destroyer of Osiris.] and I let it loose against Typhon, so that his head was cloven asunder, and the black triangle dissolved in lightnings.^[His energy is transmuted into the primeval Manifestation of the Divine Will.]
+
+But as he parted his voice broke out again: Nor canst thou win her with the Sword, for her eyes are fixed upon the eyes of Him in whose hand is the hilt of the Sword. ^[i.e. She is wholly set upon Kether. Only when Her Lover is wholly in His loftiest Selfhood can He possess Her.] Despair! Despair!
+
+And the echo of that cry was his word, which is identical, although it be diverse: Nor canst thou win her by the Serpent,^[The Serpent of Wisdom, the 22 Paths which join the 10 Sephiroth. It is thus the complement of the Flaming Sword. The legend of Heva and Nachash is drawn from the mystical Doctrine here in question. This Serpent is the totality of Magical Manifestation, the Beauty of the 22 Palaces (Atu) of Wisdom. She is at once the Mother and the Sister of Her adulterous Lord, Mayan, the Logos who created the universe of illusion.] for it was the Serpent that seduced her first. Despair! Despair!
+
+(Yet he cried thus as he fled:)
+
+I am Leviathan, the great Lost Serpent of the Sea. I writhe eternally in torment, and I lash the ocean with my tail into a whirlpool of foam that is venomous and bitter, and I have no purpose. I go no whither. I can neither live nor die. I can but rave and rave in my death agony. I am the Crocodile^[Generally speaking, the monsters which inhabit water symbolize evil — in all senses, from the grossest to the most exalted. They represent the falling into Passivity; whereras the Activity of Energy is the Idea of Joy.] that eateth up the children of men. And through the malice of BABALON I hunger, hunger, hunger.
+
+All this while the Stone is more inert than ever yet; a thousand times more lifeless than when it is not invoked. Now, when it kindles, it only kindles into its physical beauty. And now upon the face of it is a great black Rose, each of whose petals, though it be featureless, is yet a devil-face. And all the stalks are the black snakes of hell. It is alive, this Rose; a single thought informs it. It comes to clutch, to murder. Yet, because a single thought alone informs it, I have hope therein.
+
+I think the Rose has a hundred and fifty-six petals, and though it be black, it has the luminous blush.^[This Black Rose is then the veil of BABALON Herself. It is the repulsiveness which is one half of Fascination.]
+
+There it is, in the midst of the Stone, and I cannot see anyone who wears it.
+
+Aha! Aha! Aha! Shut out the sight!^[Thus suddenly - BABALON - breaks through to her lover.]
+
+Holy, Holy, Holy art thou!
+
+Light, Life and Love are like three glow-worms at thy feet: the whole universe of stars, the dewdrops on the grass whereon thou walkest!
+
+I am quite blind.^[This is meant in its normal physical sense. The Seer supposed at the time that he had actually lost his sight.]
+
+Thou art Nuit! Strain, strain, strain my whole soul!^[Against the appalling conviction that he had been stricken blind for his presumption in daring to aspire to BABALON in so intimate a sense he gathered himself together in a furious assault upon Her.]
+
+> A ka dua
+> 
+> Tuf ur biu
+> 
+> Bi a'a chefu
+> 
+> Dudu ner af an nuteru.^[From the Stele of Revealing.]
+> 
+> Falutli! Falutli!^[The outburst of the orgasm (see Note 3, page 38). It continued unabated throughout the whole of the vision. The Seer was all this time seated in the water of the hot spring, struggling with all the pressure on his body, and roaring aloud in the intensity of his agony or ecstasy. This helped him to endure physically the continuous spasm of Joy.]
+
+I cling unto the burning Aethyr like Lucifer that fell through the Abyss, and by the fury of his flight kindled the air.
+
+And I am Belial, for having seen the Rose upon thy breast, I have denied God.
+
+And I am Satan! I am Satan! I am cast out upon a burning crag! And the sea boils about the desolation thereof. And already the vultures gather, and feast upon my flesh.
+
+Yea! Before thee all the most holy is profane, O thou desolator of shrines! O thou falsifier of the oracles of truth! Ever as I went, hath it been thus. The truth of the profane was the falsehood of the Neophyte, and the truth of the Neophyte was the falsehood of the Zelator! Again and again the the fortress must be battered down! pylon must be over thrown! Again and again must the gods be desecrated!
+
+And now I lie supine before thee, in terror and abasement. O Purity! O Truth! What shall I say? My tongue cleaveth to my jaws, O thou Medusa that hast turned me to stone! Yet is that stone the stone of the philosophers. Yet is that tongue Hadit.
+
+> Aha! Aha!^[AHA = אהא = 7. It is therefore a God-name of Venus. Interpreted by Yetziratic attribution, it is "The Crossing of our Lady (ה = the Supernal Mother) in the air (א)." It is also the Pentagram between two Swastikas. The symbolism of this word, simple as it is, is far too extensive to discuss adequately in a note. It must be studied intimately and at length by the Postulant]
+
+Yea! Let me take the form of Hadit^[Hadit is a mathematical expression rather than a God. By his form is meant the Winged Globe, which is used in the Stele of Revealing to represent Him.] before thee, and sing:
+
+> A ka dua
+> 
+> Tuf ur biu
+> 
+> Bi a'a chefu
+> 
+> Dudu ner af an nuteru.
+
+Nuit! Nuit! Nuit! How art thou manifested in this place! This is a Mystery ineffable. And it is mine, and I can never reveal it either to God or to man. It is for thee and me !
+
+Aha! Aha!
+
+> A ka dua
+> 
+> Tuf ur biu
+> 
+> Bi a'a chefu
+> 
+> Dudu ner af an nuteru.
+
+. . . My spirit is no more; my soul is no more. My life leaps out into annihilation!
+
+> A ka dua
+> 
+> Tuf ur biu
+> 
+> Bi a'a chefu
+> 
+> Dudu ner af an nuteru.
+
+It is the cry of my body! Save me! I have come too close. I have come too close to that which may not be endured. It must awake, the body; it must assert itself.
+
+It must shut out the Aethyr, or else it is dead.
+
+Every pulse aches, and beats furiously. Every nerve stings like a serpent. And my skin is icy cold.^[This was in a pool almost inconveniently hot to the normal sense.]
+
+Neither God nor man can penetrate the Mystery of the Aethyr.
+
+(Here the Seer mutters unintelligibly.)
+
+And even that which understandeth cannot hear its voice. For to the profane the voice of the Neophyte is called silence, and to the Neophyte the voice of the Zelator is called silence. And so ever is it.
+
+Sight is fire, and is the first angle of the Tablet;^[Meaning, the four watchtowers of the universe (Eqx. I, VII). For the attributions of the Senses to the Elements see 777. The growing intelligibility of the words indicates the exhaustion of the rapture of the Seer. The gradual withdrawal of the immanence of BABALON.] spirit is hearing, and is the centre thereof; thou, therefore, who art all spirit and fire, and hast no duller elements in thy star; thou art come to sight at the end of thy will. And if thou wilt hear the voice of the Aethyr,^[Hitherto, the intellectual content of the Aethyr has been marked by the Moral (or rather Spiritual) Ravishment of the Seer by BABALON.] do thou invoke it in the night, having no other light but the light of the half moon. Then mayest thou hear the voice, though it may be that thou understandeth it not. Yet shall it be a potent spell, whereby thou mayest lay bare the womb of thy understanding to the violence of CHAOS.
+
+Now, therefore, for the last time, let the veil of the Aethyr be torn.
+
+Aha! Aha! Aha! Aha! Aha! Aha! Aha!
+
+> A ka dua
+> 
+> Tuf ur biu
+> 
+> Bi a'a chefu
+> 
+> Dudu ner af an nuteru.^[At this point the Seer sank back exhausted. The Scribe, fearing that he might be drowned, assisted him to come out of the Pool.]
+. . . . . . . . . . . . .
+
+This Aethyr must be left unfinished then until the half moon.
+
+Hammam Salahin.
+December 18, 1909 3:10 - 4:25 p.m.
+
+---
+
+**An olvah nu arenu olvah. Diraeseu adika va paretanu poliax poliax in vah rah ahum subre fifal. Lerthexanax. Mama ra-la hum fifala maha.**^[This began instantly on the resumption of the Vision. We must assume that the Angel of the Aire, or one of His ministers, undertook the task of preparing the Seer for the "voice of the Aethyr" in this manner. — It is the language of the Sappho-Calypso angel, commonly called Bathyllic. Its translation is: "Now it glides in to the heaven-home, glides. Seducingly the mentula of the begotten one of the Holy Head (or Skull) takes hold of the soft tissues, subtly plying its shuttle. Light follows the explosion. The soft tissues, cleaving to the shuttle, pump out every drop of water from the well."]
+
+All this is the melody of a flute, very faint and clear. And there is sort of a sub-tinkle of a bell.
+
+And there is a string instrument, somewhat like a zither. And there is a human voice.
+
+And the voice comes: this is the Song of the Sphinx, which she singeth ever in the ears of men.
+
+And it is the song of the syrens. And whoever heareth it is lost.^[The Magical Fascination of the whole Aethyr is something quite apart from, and beyond, almost anything else in the experience of the seer. The effort upon him, 31 Equinoxes later, of writing these notes, is quite extraordinary. The memory of it diminishes the value of the rest of his life, with few excepted incidents, almost to nothing.]
+
+##### I.
+> 
+> Mu pa telai,
+> 
+> Tu wa melai
+> 
+> A, a, a
+> 
+> Tu fu tulu!
+> 
+> Tu fu Tulu
+> 
+> Pa, Sa, Ga.
+> 
+> 
+> II.
+> 
+> Qwi Mu telai
+> 
+> Ya Pa melai;
+> 
+> u, u, u.
+> 
+> 'Se gu melai;
+> 
+> Pe fu telai,
+> 
+> Fu tu lu.
+ 
+##### III.
+> 
+> O chi balae
+> 
+> Wa pa malae: —
+> 
+> Ut! Ut! Ut!
+> 
+> Ge; fu latrai,
+> 
+> Le fu malai
+> 
+> Kut! — Hut! — Nut.
+
+##### IV.
+> 
+> Al OAI
+> 
+> Rel moai
+> 
+> Ti — Ti — Ti!
+> 
+> Wa la pelai
+> 
+> Tu fu latai
+> 
+> Wi, Ni, Bi.
+
+ 
+
+##### Translation of Song:
+
+##### I.
+> 
+> Silence! the moon ceaseth (her motion),
+> That also was sweet
+> In the air, in the air, in the air!
+> Who Will shall attain!
+> Who Will shall attain
+> By the Moon, and by Myself, and by the Angel of the Lord!
+> 
+##### II.
+> 
+> Now Silence ceaseth
+> And the moon waxeth sweet;
+> (It is the hour of) Initiation, Initiation, Initiation.
+> The kiss of Isis is honeyed;
+> My own Will is ended,
+> For Will hath attained.
+> 
+##### III.
+> 
+> Behold the lion-child swimmeth (in the heaven)
+> And the moon reeleth: —
+> (It is) Thou! (It is) Thou! (It is) Thou!
+> Triumph; the Will stealeth away (like a thief),
+> The Strong Will that staggered
+> Before Ra Hoor Khuit! — Hadit! — Nuit!
+> 
+##### IV.
+> 
+> To the God OAI ^[The reversal of the formula of IAO (see Book 4, part 3) implies roughly, the general Mystical, as opposed to the general Magical, Process.]
+> Be praise
+> In the end and the beginning!
+> And may none fall
+> Who Will attain
+> The Sword, the Balances, the Crown!
+
+And that which thou hearest is but the dropping of the dews from my limbs, for I dance in the night, naked upon the grass, in shadowy places, by running streams.
+
+Many are they who have loved the nymphs of the woods, and of the wells, and of the fountains, and of the hills. And of these some were nympholept. For it was not a nymph, but I myself that walked upon the earth taking my pleasure. So also there were many images of Pan, and men adored them, and as a beautiful god he made their olives bear double and their vines increase; but some were slain by the god, for it was I that had woven the garlands about him.^[From this it would appear that BABALON (who is speaking through one of Her ministers) is the Feminine (or Androgyne) equivalent and not merely complement — of Pan. This is shewn in many of Her images.]
+
+Now cometh a song.
+
+So sweet is this song that no one could resist it. For in it is all the passionate ache for the moonlight, and the great hunger of the sea, and the terror of desolate places, — all things that lure men to the unattainable.
+
+> Omari tessala marax,
+> 
+> tessala dodi phornepax.
+> 
+> amri radara poliax
+> 
+> armana piliu.
+> 
+> amri radara piliu son';
+> 
+> mari narya barbiton
+> 
+> madara anaphax sarpedon
+> 
+> andala hriliu.
+> 
+##### Translation:
+
+> I am the harlot that shaketh Death.
+> 
+> This shaking giveth the Peace of Satiate Lust.
+> 
+> Immortality jetteth from my skull,
+> 
+> And music from my vulva.
+> 
+> Immortality jetteth from my vulva also,
+> 
+> For my Whoredom is a sweet scent like a seven-stringed instrument,
+> 
+> Played unto God the Invisible, the all-ruler,
+> 
+> That goeth along giving the shrill scream of orgasm.
+
+Every man that hath seen me forgetteth me never, and I appear oftentimes in the coals of the fire, and upon the smooth white skin of woman, and in the constancy of the waterfall, and in the emptiness of deserts and marshes, and upon great cliffs that look seaward; and in many strange places, where men seek me not. And many thousand times he beholdeth me not. And at last I smite myself into him as a vision smiteth into a stone, and whom I call must follow.
+
+Now I perceive myself standing in a Druid circle, in an immense open plain.
+
+A whole series of beautiful visions of deserts and sunsets and islands in the sea, green beyond imagination . . . . But there is no subsistence in them.^[These visions are semi-distractions, due to the Seer's human weakness, which could not endure the rapture of the Voice. "Wisdom says: be strong! Then canst thou bear more joy." AL, II, 70. During the great revelation of the Cairo Working, the Seer had been similarly ravished, and fainted under the excess of Enthusiasm.]
+
+A voice goes on: this is the holiness of fruitless love and aimless toil. For in doing the thing for the things's sake is concentration, and this is the holiest of them that suit not the means to the end. For therein is faith and sympathy and a knowledge of the true Magick.^[*AL* I, 44. "For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect." This doctrine is fundamental to all working soever. Its neglect vitiates (by a paradox curious enough) all fruitfulness in any operation. One may indeed distinguish work worthy of being performed from menial toil (such as that of statesmen, financiers, and sewer rats) by this criterion. (Faith, spelt empirically φαιθ — a practice not to be commended or even defended — it being of the nature of paranomasia — is equivalent to רשכ — lawful.)]
+
+Oh my beloved, that fliest in the air like a dove, beware of the falcon! oh my beloved, that springest upon the earth like a gazelle, beware of the lion!
+
+There are hundreds of visions, trampling over one another. In each one the Angel of the Aethyr is mysteriously hidden.
+
+Now I will describe the Angel of the Aethyr until the voice begins again.
+
+He is like one's idea of Sappho and Calypso, and all seductive and deadly things;^[BABALON, "in whom all power is given," is the Teh, Sakhi, ה. She is seductive and deadly, being the Disturber of the Total Equilibrium of the Absolute Zero, which considered as a positive Idea, is Existence in perfect Peace, an immutable Essence. But He cannot truly exist without Her; and through Her therefore comes Change, which is Love and Death.] heavy eye-lids, long lashes, a face like ivory, wonderful barbaric jewellery, intensely red lips, a very small mouth, tiny ears, a Grecian face. Over the shoulders is a black robe with a green collar; the robe is spangled with golden stars; the tunic is a pure soft blue.
+
+Now the whole Aethyr is swallowed up in a forest of unquenchable fire, and fearlessly through it all a show-white eagle flies. And the eagle cries: the house also of death.^[See the 11th Call, which invokes A of C, the Princess of the Lotus of the Floods. (The reading is a variant of that given in the official A∴ A∴ ritual.) The Eagle is snow-white for Her purity; and He is the White Eagle of the Alchemists.] Come away! The volume of the book is open, the Angel waiteth without, for the summer is at hand. Come away! For the Aeon is measured, and thy spans allotted. Come away! For the mighty sounds have entered into every angle.^[See the Keys or Calls, especially the 5th and 6th, where the angels (of the watchtowers) are specifically mentioned.] And they have awakened the Angels of the Aethyrs that slept these three hundred years.^[That is, since the working of Sir Edward Kelly and Dr. John Dee.]
+
+For in the Holy letter Shin, that is the Resurrection in the Book of Thoth, that is the Holy Spirit in the Trinity, that is three hundred in the tale of the years,^[Shin=300. Also Shin is Atu XX - the Last Judgment (or Resurrection, as implied in the usual form of the Atu). Shin is Spirit in the regular attribution (the triple tongue of Fire; see the Acts of the Apostles). 300=Ruach Elohim (Resh, Vau, Cheth and Aleph, Lamed, Heh, Yod, Mem), the spirit of the gods.] hath the tomb been opened, so that this great wisdom might be revealed.
+
+Come away! For the Second Triad is completed, and there remaineth only the Lord of the Aeon, the Avenger, the Child both Crowned and Conquering, the Lord of the Sword and the Sun, the Babe in the Lotus, pure from his birth, the Child of suffering, the Father of justice, unto whom be the glory throughout all the Aeon!^[The Seer had absolutely forgotten this prophecy, and was amazed at the final identification of the child in LIL with Hoor.]
+
+Come away! For that which was to be accomplished is accomplished, seeing that thou hadst faith unto the end of all.
+
+In the letter N the Voice of the Aethyr is ended.^[This implies that the Voice of the Aethyr ends never! For N is the vibration which continues through the nostrils. See Magick in Theory and Practice, pp. 45-47, on the word AUMGN; whereby the Seer rebuked and perfected the AUM of the Rishis. N Equals Nun, the letter of sexual immortality, the formula of perfection through putrefaction.]
+
+Biskra, Algeria.
+December 20, 1909. 8:35 - 9:15 p.m.
+
+### The Cry of the 1st Aethyr
+
+#### Which is Called LIL^[LIL = ♋♒♋ = 76 = ןו יבח = Secret, a refuge; חח ינ rest, peace; and דבע, a Servant (in the noble sense). In Hebrew LIL would be 70, the eye of Horus, ע. But see a previous note on the twelvefold table, 15th Aethyr, where these letters rule the Universe. (scil. that of the present Aeon.)]
+
+First, let praise and worship and honour and glory and great thank be given unto the Holy One, who hath permitted us to come thus far, who hath revealed unto us the ineffable mysteries, that they might be disclosed before men. And we humbly beseech His infinite goodness that he will be pleased to manifest unto us even the Mystery of the First Aethyr.
+
+(Here followeth the Call of the Aethyr.)^[The Seer was only too well aware that, considering the dire straits to which he was put to obtain the Second Aire, he was surely incapable of penetrating the First. In fact, only a full Magus could pierce the Second properly, and for the First, none but an Ipsissimus would be competent. This apprehension was in fact justified. Only now and then was he able to live at the level of LIL; much of the Vision and the Voice here printed is but a pale reflection in Rauch (and even that at the cost of infinite effort) of the Word of the Angel of the Aethyr. These "Ersatz-words" are indicated in the present edition by square brackets.]
+
+The veil of the Aethyr is like the veil of night, dark azure, full of countless stars. And because the veil is infinite, at first one seeth not the winged globe of the sun that burneth in the centre thereof. Profound peace filleth me, — beyond ecstasy, beyond thought, beyond being itself, IAIDA. (This word means "I am", but in a sense entirely beyond being.)
+
+(Note. — In Hebrew letters it adds to 26. In Hebrew letters the name of the Aethyr is 70, ayin; but by turning the Yetziratic attributions of the letters into Hebrew, it gives 66,^[i.e. by taking L as Luna. In the note in the title, we have taken it as ♋, experience having shewn that this mode is more accurate. L is ☾ in her decrease, and ♋ her house. But the Enochian alphabet is referred to the Zodiac and the Elements; only indirectly to the planets; and it is imprudent to make any exception.] is the sum of the numbers from 0 to 11.)
+
+Yes; there is peace. There is no tendency of any sort, much less any observation or feeling or impression. There is only a faint consciousness, like the scent of jasmine.
+
+The body of the Seer is rested in a waking sleep that is deeper than sleep, and his mind is still; he seems like a well in the desert, shaded by windless palms.
+
+And it is night; and because the night is the whole night of space, and not the partial night of earth, there is no thought of dawn. For the light of the Sun maketh illusion, blinding man's eyes to the glory of the stars. And unless he be in the shadow of the earth, he cannot see the stars. So, also, unless he be hidden from the light of life, he cannot behold Nuit. Here, then, do I abide in unalterable midnight, utterly at peace.
+
+I have forgotten where I am, and who I am. I am hanging in nothing.
+
+Now the veil opens of itself. (To Scribe. Come nearer; I don't want to have to speak so loudly.)
+
+It is a little child covered with lilies and roses. He is supported by countless myriads of Archangels. The Archangels are all the same colourless brilliance, and every one of them is blind. Below the Archangels again are many, many other legions, and so on far below, so far that the eye cannot pierce. And on his forehead, and on his heart, and in his hand, is the secret sigil of the Beast.^[Sun and moon conjoined] And of all this the glory is so great that all the spiritual senses fail, and their reflections in the body fail.
+
+It is very strange. In my heart is rapture, holy and ineffable, absolutely beyond emotion; beyond even that bliss called Ananda, infinitely calm and pure. Yet at the gates of mine eyes stand tears, like warriors upon the watch, that lean on their spears, listening.^[There are long intervals between many of these paragraphs, the Seer having been lost to Being. The reader will note that "The Great and Terrible Angel" has not been mentioned, but comes in suddenly. This was because the Seer's speech was inaudible, or never occurred. This angel was the "Higher Genius" of the Seer.]
+
+The great and terrible Angel keeps on looking at me, as if to bar me from the vision. There is another forcing my head down in sleep.
+
+(It's very difficult to talk at all, because an impression takes such an immense time to travel from the will to the muscles. Naturally, I've no idea of time.)
+
+I have gone up again to the child, led by two Angels, abasing my head.
+
+This child seems to be the child that one attempted to describe in "The Garden of Janus".^[See the Winged Beetle and Eqx. I, No. 2, where this poem is given at length.]
+
+Every volition is inhibited. I have tried to say a lot, but it has always got lost on the way.
+
+Holy art thou, O more beautiful than all the stars of the Night!
+
+There has never been such peace, such silence. But these are positive things. Singing praises of things eternal amid the flames of first glory, and every note of every song is a fresh flower in the garland of peace.
+
+This child danceth not, but it is because he is the soul of the two dances, — the right hand and the left hand, and in him they are one dance, the dance without motion.
+
+There is dew on all the fire. Every drop is the quintessence of the ecstasy of stars.
+
+Yet a third time am I led to him, prostrating myself seven times at every step. There is a perfume in the air, reflected down even to the body of the seer. That perfume thrills his body with an ecstasy that is like love, like sleep.
+
+And this is the song:
+
+I am the child of all who am the father of all, for from me come forth all things, that I might be. I am the fountain in the snows, and I am the eternal sea. I am the lover, and I am the beloved, and I am the first- fruits of their love. I am the first faint shuddering of the Light, and I am the loom wherein night weaveth her impenetrable veil.
+
+I am the captain of the hosts of eternity; of the swordsmen and the spearmen and the bowmen and the charioteers. I have led the armies of the east against the armies of the west, and the armies of the west against the armies of the east. For I am Peace.
+
+My groves of olive were planted by an harlot, and my horses were bred by a thief. I have trained my vines upon the spears of the Most High, and with my laughter have I slain a thousand men.
+
+With the wine in my cup have I mixed the lightnings, and I have carved my bread with a sharp sword.
+
+With my folly have I undone the wisdom of the Magus, even as with my judgments I have overwhelmed the universe. I have eaten the pomegranate in the House of Wrath, and I have crushed out the blood of my mother between mill-stones to make bread.
+
+There is nothing that I have not trampled beneath my feet. There is nothing that I have not set a garland on my brow. I have wound all things about my waist as a girdle. I have hidden all things in the cave of my heart. I have slain all things because I am Innocence. I have lain with all things because I am Untouched Virginity. I have given birth to all things because I am Death.
+
+Stainless are my lips, for they are redder than the purple of the vine, and of the blood wherewith I am intoxicated. Stainless is my forehead, for it is whiter than the wind and the dew that cooleth it.
+
+I am light, and I am night, and I am that which is beyond them.
+
+I am speech, and I am silence, and I am that which is beyond them.
+
+I am life, and I am death, and I am that which is beyond them.
+
+I am war, and I am peace, and I am that which is beyond them.
+
+I am weakness, and I am strength, and I am that which is beyond them.
+
+Yet by none of these can man reach up to me. Yet by each of them must man reach up to me.
+
+Thou shalt laugh at the folly of the fool. Thou shalt learn the wisdom of the Wise. And thou shalt be initiate in holy things. And thou shalt be learned in the things of love. And thou shalt be mighty in the things of war. And thou shalt be adept in things occult. And thou shalt interpret the oracles. And thou shalt drive all these before thee in thy car, and though by none of these canst thou reach up to me, yet by each of these must thou attain to me. And thou must have the strength of the lion, and the secrecy of the hermit. And thou must turn the wheel of life. And thou must hold the balances of Truth. Thou must pass through the great Waters, a Redeemer. Thou must have the tail of the scorpion, and the poisoned arrows of the Archer, and the dreadful horns of the Goat. And so shalt thou break down the fortress that guardeth the Palace of the King my son. And thou must work by the light of the Star and of the Moon and of the Sun, and by the dreadful light of judgment that is the birth of the Holy Spirit within thee. When these shall have destroyed the universe, then mayest thou enter the palace of the Queen my daughter.^[This passage is quite spurious, a vague and false reflection of the true voice, which was a lyrical sequence of the Atus of Thoth {WEH Note: In this Word lurks a Pun that is Key to all the Work.}]
+
+Blessed, blessed, blessed; yea, blessed; thrice and four times blessed is he that hath attained to look upon thy face. For I will hurl thee forth from my presence as a whirling thunderbolt to guard the ways, and whom thou smitest shall be smitten indeed. And whom thou lovest shall be loved indeed. And whether by smiting or by love thou workest, each one shall see my face, a glimmer through a thousand veils. And they shall rise up from love's sleep or death's, and gird themselves with a girdle of snake-skin for wisdom, and they shall wear the white tunic of purity, and the apron of flaming orange for will, and over their shoulders shall they cast the panther's skin of courage. And they shall wear the nemyss of secrecy and the ateph crown of truth. And on their feet shall they put sandals made of the skin of breasts, that they may trample upon all they were, yet also that its toughness shall support them, and protect their feet, as they pass upon the mystical way that lieth through the pylons. And upon their breasts shall be the Rose and Cross of light and life, and in their hands the hermit's staff and lamp. Thus shall they set out upon the never-ending journey, each step of which is an unutterable reward.^[This passage is not wholly wrong; it is the poor expression, which is to be deplored.]
+
+Holy, Holy, Holy, Holy; yea, thrice and four times holy art thou, because thou hast attained to look upon my face; not by my favour only, not by thy magick only, may this be won. Yet it is written: "Unto the persevering mortal the blessed Immortals are swift."
+
+Mighty, mighty, mighty, mighty; yea, thrice and four times mighty art thou. He that riseth up against thee shall be thrown down, though thou raise not so much as thy little finger against him. And he that speaketh evil against thee shall be put to shame, though thy lips utter not the littlest syllable against him. And he that thinketh evil concerning thee shall be confounded in his thought, although in thy mind arise not the least thought of him.^[This prophecy has proved true in many cases, often in the most strange and unexpected ways.]
+
+And they shall be brought unto subjection unto thee, and serve thee, though thou willest it not. And it shall be unto them a grace and a sacrament, and ye shall all sit down together at the supernal banquet, and ye shall feast upon the honey of the gods, and be drunk upon the dew of immortality — FOR I AM HORUS, THE CROWNED AND CONQUERING CHILD, WHOM THOU KNEWEST NOT!
+
+Pass thou on, therefore, O thou Prophet of the Gods, unto the Cubical Altar of the Universe; there shalt thou receive every tribe and kingdom and nation into the mighty Order that reacheth from the frontier fortresses that guard the Uttermost Abyss unto My Throne.
+
+This is the formula of the Aeon, and with that the voice of LIL, that is the Lamp of the Invisible Light, is ended. Amen.
+
+Biskra, Algeria.
+December 19, 1909. 1:30 - 3:30 p.m.
 
