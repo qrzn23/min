@@ -82,9 +82,9 @@ O ye Heavens arise! The lower heavens beneath you, let them serve you! Govern th
 
 ### A BRIEF SYNOPSIS 
 
-### OF THE CONTENTS OF THE CALLS OF THE THIRTY AIRES OR AETHYRS
+#### OF THE CONTENTS OF THE CALLS OF THE THIRTY AIRES OR AETHYRS
 
-Aethyr
+##### Aethyr
 
 30. "Exordium of the Equinox of the Gods."
 
