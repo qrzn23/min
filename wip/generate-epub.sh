@@ -7,7 +7,7 @@ set -e
 CONTENT_FILE="${1:-content.md}"
 OUTPUT_FILE="${2:-output.epub}"
 METADATA_FILE="${3:-metadata.yaml}"
-COVER_IMAGE="${4:-cover.png}"
+COVER_IMAGE="${4:-cover.jpg}"
 RESOURCE_PATH="img:."
 
 # Function to check if a file exists

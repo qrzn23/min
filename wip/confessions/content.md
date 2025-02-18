@@ -1231,12 +1231,8 @@ I had been to St. Petersburg to learn Russian for the Diplomatic Service in the 
 
 Aleister Crowley, by the way! I have not yet explained how I came to have changed my name. For many years I had loathed being called Alick, partly because of the unpleasant sound and sight of the word, partly because it was the name by which my mother called me. Edward did not seem to suit me and the diminutives Ted or Ned were even less appropriate. Alexander was too long and Sandy suggested tow hair and freckles. I had read in some book or other that the most favourable name for becoming famous was one consisting of a dactyl followed by a spondee, as at the end of a hexameter: like “Jeremy Taylor”. Aleister Crowley fulfilled these conditions and Aleister is the Gaelic form of Alexander. To adopt it would satisfy my romantic ideals. The atrocious spelling A-L-E-I-S-T-E-R was suggested as the correct form by Cousin Gregor, who ought to have known better. In any case, A-L-A-I-S-D-A-I-R makes a very bad dactyl. For these reasons I saddled myself with my present nom-de-guerre — I can't say that I feel sure that I facilitated the process of becoming famous. I should doubtless have done so, whatever name I had chosen.
 
-[« back to toc]
+### Chapter 17.
 
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 17.
 I began my last year at Cambridge with my moral decks cleared for action. I didn't know where I was going, but I was on the way. I was thus quite ready for the perception of the First Noble Truth, but also for an entirely new current to influence my life. Towards the end of the October term I met a man named Herbert Charles Jerome Pollitt. He was an M.A., ten years older than myself, and had merely come up to Cambridge to dance for the F.D.C. (Footlights Dramatic Club). I saw him only once or twice that term, but corresponded with him from abroad during the Christmas vacation. The result was the establishment of the first intimate friendship of my life.
 
 Pollitt was rather plain than otherwise. His face was made tragic by the terrible hunger of the eyes and the bitter sadness of the mouth. He possessed one physical beauty — his hair. This was very plentiful and he wore it rather long. It was what is called a shock. But its colour was pale gold, like spring sunshine, and its texture of the finest gossamer. The relation between us was that ideal intimacy which the Greeks considered the greatest glory of manhood and the most precious prize of life. It says much for the moral state of England that such ideas are connected in the minds of practically every one with physical passion.
@@ -1257,11 +1253,11 @@ I well know how strangely perverse this criticism must sound, but I feel its tru
 
 In his time at Cambridge Pollitt had been very prominent as a female impersonator and dancer. He called himself Diane de Rougy — aprés Liane de Pougy. The grossness of people who do not understand art naturally misinterpreted this aesthetic gesture and connected it with a tendency to androgynity. I never saw the slightest symptoms of anything of the kind in him; though the subject sometimes came under discussion. But at that time it was considered criminal to admire Lady Windermere's Fan. I have always take the attitude of Bishop Blougram and pay no attention to
 
-the infamy scrawled abroad
-About me on the church wall opposite.
+> the infamy scrawled abroad
+> 
+> About me on the church wall opposite.
 
 I have made a point of understanding the psychology of the subject: Nihil humani a me alienum puto.
-
 But the conscience of the world is so guilty that it always assumes that people who investigate heresies must be heretics; just as if a doctor who studies leprosy must be a leper. Indeed, it is only recently that science has been allowed to study anything without reproach. Matter being evil, the less that we know about it the better — such was the Christian philosophy in the ages which it darkened. Morris Travers told me that his father, an eminent physician, had been ostracized, and had lost much of his practice, for joining the Anthropological society. Later still, Havelock Ellis and Edward Carpenter have been treated with the foulest injustice by ignorant and prejudiced people. My mother always believed that Great Eastern, the first steamship of any size to speak of, met with repeated disasters because God was jealous, as He had been of the tower of Babel. In 1917 my cousin, Lawrence Bishop, told me that he thought that “the Lord prepared a great iceberg” for the Titanic in annoyance at the claim of the shipbuilders that she was unsinkable. William Whiteley had several fires, which my mother took as the repartee of the Almighty to the merchant's assumption of the title “Universal Provider”, which could be properly attributed only to God.
 
 It is the modern fashion to try to dismiss these barbarous absurdities as excrescences on Christianity, but they are of the essence of the religion. The whole theory of the atonement implies that man can set up his own will in opposition to God's, and thereby excites Him to anger which can only be pacified by the sacrifice of His son. It is, after all, quite as reasonable to think of God as being irritated by a shipbuilding programme as by idolatry. The tendency has, in fact, been to forget about the atonement altogether and to represent Jesus as a “Master” whose teachings are humanitarian and enlightened. Yet the only evidence of what he actually said is that of the gospels and these not only insist upon the incredible and immoral sides of Christianity, but contain actual Logia which exhibit Jesus in the character of a superstitious fanatic who taught the doctrine of eternal punishment and many others unacceptable to modern enlightenment. General Booth and Billy Sunday preach perfectly scriptural abominations. Again, much of the teaching of Jesus which is not savage superstition is diametrically opposed to the ideas of those modern moralists who reject his supernaturalism and salvationalism. The injunction “Take no thought for the morrow” is incompatible with “Preparedness”, insurance and any other practice involving foresight. The command to break off all family and social relationships is similarly unethical. The truth, of course, is that these instructions were given to a select body of men, not to the world at large. Renunciation of the world is the first step toward spiritual illumination, and in the East, from the beginning of recorded time to the present day, the yogi, the fakir, the bhikkhu and the monk take this course, expecting that the piety of their neighbours will supply them with a means of livelihood.
@@ -1296,12 +1292,8 @@ I told him frankly and firmly that I had given my life to religion and that he d
 
 It has been my lifelong regret, for a nobler and purer comradeship never existed on this earth, and his influence might have done much to temper my subsequent trials. Nevertheless, the fragrance of that friendship still lingers in the sanctuary of my soul. That eucharist of the spirit reminds me constantly that the one ingredient necessary to my aesthetic development was supplied by the gods at the one period in my life when it could profitably be introduced into my equipment.
 
-[« back to toc]
+### Chapter 18.
 
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 18.
 During the May term of 1898 I met another man who, in his own way, was interested in many of the same things as I was myself. His name was Gerald Festus Kelly. He is described in the telephone book as an artist; and the statement might have passed unchallenged indefinitely had not the Royal Academy recently elected him as an associate. He is hardly to be blamed for this disgrace. He struggled manfully. Even at the last moment, when he felt the thunderclouds about to break over his head, he made a last desperate coup to persuade the world that he was an artist by marrying a model. But the device deceived nobody. The evidence of his pictures was too glaring. The effort, moreover, completely exhausted his power of resistance; and he received the blow with Christian resignation. It saddens me more hat I can say to think of that young life which opened with such brilliant promise, gradually sinking into the slough of respectability. Of course it is not as if he had been able to paint; but to me the calamity is almost as distressing as if that possibility had ever existed. For he completely hypnotized me into thinking that he had something in him. I took his determination to become an artist as evidence of some trace of capacity and I still hope that his years of unremitting devotion to a hopeless ambition will earn him the right to reincarnate with some sort of soul.
 
 We met in a somewhat romantic way. My Aceldama had just been issued and was being sold privately in the university at half-a-crown. (There were only eighty-eight copies, with ten on large paper and two on vellum.) One of the mottoes in Aceldama is a quotation from Swinburne's “The leper”. I had not acknowledged the authorship of Aceldama; it was by A Gentleman of the University of Cambridge“ in imitation of one of Shelley's earlier books.
@@ -1314,7 +1306,7 @@ We did a few climbs together that Easter and made a sort of provisional agreemen
 
 One incident of that expedition is well worth mentioning. A survey was being made with instruments which lacked various essential parts, and on Eckenstein pointing out the uselessness of making observations of this kind, the reply was, “Yes, I know, but it's good enough for the Royal Geographical Society.” Anything of this sort roused Eckenstein to a pitch of indescribably violent rage. I could not have had a better teacher in matters of conscience. He taught me thoroughness and accuracy in every department of the game.
 
-It illustrate one point. I had considered myself a very good glissader, and as compared with the other people whom I met on the mountain side, even such experts as Norman Collie, I had little to learn. But Eckenstein showed me that I was not even a beginner. He made me start down assorted slopes from all sorts of positions, and to pick myself up into any other desired position; to stop, to increase my pace or to jump, at the word of command. Why “starting from all sorts of positions”? The idea was that one might conceivably fall on to a snow slope or have to jump to it from a great height, and it was therefore necessary to know how to deal with such situations.[1]
+It illustrate one point. I had considered myself a very good glissader, and as compared with the other people whom I met on the mountain side, even such experts as Norman Collie, I had little to learn. But Eckenstein showed me that I was not even a beginner. He made me start down assorted slopes from all sorts of positions, and to pick myself up into any other desired position; to stop, to increase my pace or to jump, at the word of command. Why “starting from all sorts of positions”? The idea was that one might conceivably fall on to a snow slope or have to jump to it from a great height, and it was therefore necessary to know how to deal with such situations.^[See The Diary of a Drug Fiend, pp. 159-60.]
 
 The combination was ideal. Eckenstein had all the civilized qualities and I all the savage ones. He was a finished athlete; his right arm, in particular, was so strong that he had only to get a couple of fingers on to a sloping ledge of an overhanging rock above his head and he could draw himself slowly up by that alone until his right shoulder was well above those fingers. There is a climb on the east face of the Y- shaped bolder (so called because of a forked crack on the west face) near Wastdale Head Hotel which he was the only man to do, though many quite first-rate climbers tried it. Great as his strength was, he considered it as nothing, quoting a Bavarian schoolmaster of his acquaintance, who could tear a silver florin in half with his fingers.
 
@@ -1366,7 +1358,7 @@ In the course of writing this story down, the impression of personal reminiscenc
 
 I have never been baffled by any such inexplicable incident as the abandonment of the room, though I have sometimes failed to find the expected girl.
 
-Talking the whole matter over with my guide, philosopher and friend, Frater O.P.V.,[2] he finds the whole story extraordinarily gripping. He finds the situation nodal for the spirit of romance. An extraordinary number of vital threads or “nerves” of romance.
+Talking the whole matter over with my guide, philosopher and friend, Frater O.P.V.,^[ED Note: Brother Omnia Pro Veritate or Norman Mudd. Eleven years later, in 1934, after having been rejected by Crowley, he commited suicide. See Chapter 96. See also The Great Beast by John Symonds.] he finds the whole story extraordinarily gripping. He finds the situation nodal for the spirit of romance. An extraordinary number of vital threads or “nerves” of romance.
 
 He attaches great significance to the failure of Eckenstein to keep the appointment. It seems to him as if the whole business were a sort of magical ordeal, that Eckenstein should have been awake to the miraculous character of the adventure and kept his appointment though hell itself yawned between him and the house. The main test is his realization that the incident is high Magick, that if he fail to grasp its importance, to understand that unless he return that night the way will shut fro ever. He suggests that by failing to appreciate the opportunity at its full value he had somehow missed the supreme chance of his life, as if the “wrong house” were the gateway to another world, an inn, so to speak, on the outskirts of the City of God. In recent years I have been constantly alert and on the look-out for something of the kind. Whenever my plans are disarranged by a number of apparently trivial and accidental circumstances, I look eagerly for the possibility that the situation to which they lead may prove the opening scene in some gigantic drama. Numerous episodes in these memoirs illustrate this thesis. One might even say that the whole book is a demonstration of how the accumulation and consequence of large numbers of apparently disconnected facts have culminated in bringing “the time and the place, and the loved one all together”.
 
@@ -1386,12 +1378,15 @@ Eckenstein was a great connoisseur of puzzles. It is extremely useful, by the wa
 
 Eckenstein was a recognized authority on what is known as Kirkwood's schoolgirl problem, but we used to work all sorts of things, from problems connected with Mersenne's numbers and Fermat's binary theorem to thepurely frivolous attempt to represent any given number by the use of the number four, four times — neither more nor less, relating them by any of the accepted symbols of mathematical operations. Thus:
 
-18 = 4 (4.4) + .4
-38 = 14 + . 4/4 + 4
-106 = |4 + 4.4/4
-128 = 44÷ 4 - √4
+> 18 = 4 (4.4) + .4
+> 
+> 38 = 14 + . 4/4 + 4
+> 
+> 106 = |4 + 4.4/4
+> 
+> 128 = 44÷ 4 - √4
 
-his has been done up to about 170, with the exception of the number 113, and thence to 300 or thereabouts with only a few gaps. I solved 113 with the assistance of Frater Ψ (Frater Psi)[3] and the sue of a subfactorial, fur Eckenstein would not admit the use of this symbol as fair.
+his has been done up to about 170, with the exception of the number 113, and thence to 300 or thereabouts with only a few gaps. I solved 113 with the assistance of Frater Ψ (Frater Psi)^[ED Note: Gerald Rae Fraser.] and the sue of a subfactorial, fur Eckenstein would not admit the use of this symbol as fair.
 
 He was also interested in puzzles involving material apparatus, one of which seems worth mention. He was in Mysore and a travelling conjurer sold him a whole bundle of more or less ingenious tricks. One of these consisted simply of two pieces of wood; one a board with a hole in it, the other shaped somewhat like a dumb-bell, the ends being much too big to go through the hole. Eckenstein said that he was almost ready to swear that he saw the man take them up separately and rapidly put them together, in which condition he had them and was never able to take them apart. He explored the surface minutely for signs of complexity of structure but without success. I never saw the toy, he having sent it to Mr. W. W. Rouse Ball, a great authority on such matters, but also baffled in this case.
 
@@ -1405,22 +1400,8 @@ I suppose that every form of navigation possesses its peculiar dangers. I rememb
 
 They boarded the barge without difficulty, but to get her going was another matter. The fellow-countrymen of Cook, drake and Nelson were not behindhand with wise advice couched in language of frankness and fancy. They learned that the way to make a barge go was to walk up and down the broad flat gunwale with a pole. She was certainly very hard to start; but it got easier as she gathered way. They entered into the spirit of the sport and began to run up and down with their poles, exciting each other to emulation with cheerful laughter. Pride filled their souls as they observed that their rapid mastery of the awkward craft was appreciated on shore, as the lusty cheering testified. It encouraged them to mightier efforts and before long they must have been making well over two miles an hour. Then Eckenstein's quick ear asked him whether the shouting on shore was so wholly the expression of unstinted admiration as he had supposed. He paid greater attention and thought he detected yells of coarse ridicule mingled with violent objurgation. He thought he heard a word at the conclusion of a string of extremely emphatic epithets which might easily have been mistaken for “Fool!” At this point Legros stopped poling, said shortly and unmistakably “Hell!” and pointed to the wharf, which, as previously stated, stood in need of some trifling repairs. It was now not more than fifty yards away and seemed to them to be charging them with the determination of an angry elephant. They realized the danger and shouted for advice. The answer was, in essence, “Dive!” It was, of course, hopeless to attempt to check or even to deflect the Betsy Anne. They dived, and a moment later heard the rending crash of the collision, and were nearly brained by baulks of falling timber. “Well,” said Eckenstein, a they drove home to change their muddy garments, “We've done a good morning's work, anyhow. That wharf is no longer in need of trifling repairs.” Both it and the Betsy Anne kept the neighbourhood in matchwood for the next two years. Oh! for a modern Cowper to immortalize the maritime John Gilpin!
 
-Footnotes:
+### Chapter 19.
 
-[1] See The Diary of a Drug Fiend, pp. 159-60.
-
-Editor's notes:
-
-[2] [ED Note:] Brother Omnia Pro Veritate or Norman Mudd. Eleven years later, in 1934, after having been rejected by Crowley, he commited suicide. See Chapter 96. See also The Great Beast by John Symonds.
-
-[3] [ED Note:] Gerald Rae Fraser.
-
-[« back to toc]
-
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 19.
 We had one or two other people with us, in particular a man named Paley Gardner, who had been with Eckenstein at Wastdale at Ester. He was a man of giant strength, but could not be taught to climb the simplest rocks. He always tried to pull the mountain down to him instead of pulling himself up to it! He was one of the best fellows that ever walked and had led an extraordinary life of which he was too silent and too shy to speak. But he loosened up to some extent in camp; and two of his adventures are so remarkable that I feel they ought to be rescued from oblivion.
 
 He was a rich man, but on once occasion found himself stranded in Sydney and too lazy to wire for money. At this juncture he met a man who offered to take him trading in the islands. They got a schooner, a crew and some stores; set off; sold their stuff; and started home. Then small pox broke out on board and every man died by Paley, who sailed the schooner, singlehanded, seven days back to Sydney.
@@ -1459,7 +1440,7 @@ I felt that my career was already marked out for me. Sir Richard Burton was my h
 
 On the other hand, it is impossible to make positive progress by means of institutions which lead to one becoming a lord chancellor, an archbishop, an admiral, or some other flower of futility. I had got from Cambridge what I wanted: the intellectual and moral freedom, the spirit of initiative and self-reliance; but perhaps, above all, the indefinable tone of the university. The difference between Cambridge and Oxford is that the former makes you the equal of anybody alive; the latter leaves you in the invidious position of being his superior.
 
-NOTE ON THE DIFFERENCES BETWEEN OXFORD AND CAMBRIDGE
+#### Note on the Differences between Oxford and Cambridge
 
 One of the most significant points in English character is thrown into relief by the contemplation of Oxford and Cambridge. I should be very puzzled to have to say that that point is, but the data are unmistakable. The superficial likeness between the universities is very clear, yet their fundamental spiritual difference can only be described as “a great gulf fixed”. Contrast this with America, where even long experience does not enable one to distinguish at a glance between men from the four principal universities, or even to detect, in most cases, the influence of any university training soever, as we understand the idea. But to mistake an Oxford for a Cambridge man is impossible and the converse exceedingly rare.
 
@@ -1479,27 +1460,27 @@ One very instructive incident concerns that brilliant Shakespeare scholar and le
 
 Wilkinson shrugged his shoulders, came over to us and entered his name at John's. Now comes an infamy almost incredible. The dean pursued his revenge. He wrote a long, bitter, violent letter to Wilkinson's tutor, giving an account of the affair at Oxford, and urging — in such language that it was more like a command than a threat — that Wilkinson be forthwith kicked out of Cambridge. The tutor sent for the offender and the following dialogue ensued:
 
-“I believe you know Mr. So-and-So, Mr. Wilkinson.”
-
-“I have that honour, sir.”
-
-“Dean of Blank, Oxford, I understand.”
-
-“That is so, sir.”
-
-“I have a letter from him, which I propose to read to you.”
-
-“Thank you, sir.”
+> “I believe you know Mr. So-and-So, Mr. Wilkinson.”
+> 
+> “I have that honour, sir.”
+> 
+> “Dean of Blank, Oxford, I understand.”
+> 
+> “That is so, sir.”
+> 
+> “I have a letter from him, which I propose to read to you.”
+> 
+> “Thank you, sir.”
 
 The tutor read through the letter, made no comment, asked no questions. He tore it slowly in pieces and threw them into the fire.
 
-“May I hope that you will be with us at breakfast tomorrow?”
-
-“Thank you, sir.”
-
-“Good morning, Mr. Wilkinson.”
-
-“Good morning, sir.”
+> “May I hope that you will be with us at breakfast tomorrow?”
+> 
+> “Thank you, sir.”
+> 
+> “Good morning, Mr. Wilkinson.”
+> 
+> “Good morning, sir.”
 
 I confess that it seems to me that the method of Oxford in such matters errs in two different directions. On the one hand, the undergraduate is treated as an irresponsible infant, to be dragooned into decency; and on the other, punished with a sternness which postulates that he is as accountable for his actions as a fully adult man, with comprehensive knowledge of the ways of the world. The result is to hinder his development, by withholding experience from him, and at the same time to punish his inexperience by making a mere mistake ruinous. The system tends to atrophy his ethical development by insisting on a narrow and inelastic code, while encouraging moral cowardice and unfitting him to face the facts which so presumptuously force themselves into notice as soon as the college conventions are done with.
 
@@ -1517,17 +1498,13 @@ The fight went of for twenty minutes or so and ended queerly enough. The mob thi
 
 I was half-past twelve before I got home. I took a tub and found I was black and blue. Of course my breach of the rule about midnight was duly reported. I was halled and explained why I had been late. The proctor whom we had conveyed to Christ's had not taken our names and I have no reason to think that he knew me. But my tutor asked no questions. He took my story for true; in fact, he treated me simply as another gentleman. That could not have happened at Oxford.
 
-[« back to toc]
+### Chapter 20.
 
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 20.
 Nothing gives such a mean idea of the intelligence of mankind than that it should ever have accepted for a moment the imbecile illusion of “free will”; for there can be very few men indeed, in any generation, who have at any time in their lives sufficient apparent liberty of action to induce them to dally with it. Of these few, I was one. When I left Cambridge, I had acquired no particular ties. I was already the Spirit of Solitude in in embryo. Practically, too, my father having been the younger son of a younger son, I had not even a territorial bond. On the other hand, I had a large fortune entirely at my own disposal; there was no external constraint upon me to do one thing rather than another. And yet, of course, my career was absolutely determined. The events of my life up to that point, it they had been intelligently interpreted, would have afforded ample indications of the future. I was white-hot on three points; climbing, poetry and Magick.
 
 On my return from Switzerland in 1898, I had nowhere in particular to go. There was no reason why I should settle down in any special place. I simply took a room in the Cecil, at that remote period a first-class hostelry, and busied myself with writing on the one hand and following up the magical clues on the other. Jephthah, and most of the other poems which appear in that volume, were written about this period. It is a kind of backwater in my life. I seem to have been marking time. For this reason, no doubt, I was the more ready to be swept away by the first definite current. It was not long before it caught me.
 
-I had a number of conversations with Julian Baker, who kept his promise to introduce me to “a man who was a much greater Magician than he was himself”. This was a Welshman, named George Cecil Jones. He possessed a fiery but unstable temper, was the son of a suicide, and bore a striking resemblance to many conventional representations of Jesus Christ. His spirit was both ardent and subtle. He was very widely read in Magick; and, being by profession an analytical chemist, was able to investigate the subject in a scientific spirit. As soon as I found that he really understood the matter I went down to Basingstoke, where he lived, and more or less sat in his pocket. It was not long before I found out exactly where my destiny lay. The majority of old magical rituals are either purposely unintelligible or actually puerile nonsense[1]. Those which are straightforward and workable are, as a rule, better adapted to the ambitions of love-sick agricultural labourers than those of educated people with a serious purpose. But there is one startling exception to this rule. It is The Book of the Sacred Magick of Abra-Melin the Mage.
+I had a number of conversations with Julian Baker, who kept his promise to introduce me to “a man who was a much greater Magician than he was himself”. This was a Welshman, named George Cecil Jones. He possessed a fiery but unstable temper, was the son of a suicide, and bore a striking resemblance to many conventional representations of Jesus Christ. His spirit was both ardent and subtle. He was very widely read in Magick; and, being by profession an analytical chemist, was able to investigate the subject in a scientific spirit. As soon as I found that he really understood the matter I went down to Basingstoke, where he lived, and more or less sat in his pocket. It was not long before I found out exactly where my destiny lay. The majority of old magical rituals are either purposely unintelligible or actually puerile nonsense.^[Some are doubtless survivals of various forms of nature religion;but the majority are adaptations of Catholic or Jewish traditions to the ambitions, cupidities, envies, jealousies and animal instincts of the most ignorant and primitive type of peasant.] Those which are straightforward and workable are, as a rule, better adapted to the ambitions of love-sick agricultural labourers than those of educated people with a serious purpose. But there is one startling exception to this rule. It is The Book of the Sacred Magick of Abra-Melin the Mage.
 
 This book is written in an exalted style. It is perfectly coherent; it does not demand fantastic minutiae of ritual or even the calculations customary. There is nothing to insult the intelligence. On the contrary, the operation proposed is of sublime simplicity. The method is in entire accordance with this. There are, it is true, certain prescriptions to be observed, but these really amount to little more than injunctions to observe decency in the performance of so august an operation. One must have a house where proper precautions against disturbance can be taken; this being arranged, there is really nothing to do but to aspire with increasing fervour and concentration, for six months, towards the obtaining of the Knowledge and Conversation of the Holy Guardian Angel. Once He has appeared, it is then necessary, first, to call forth the Four Great Princes of the Evil of the World; next, their eight sub-princes; and, lastly, the three hundred and sixteen servitors of these. A number of talismans, previously prepared, are thus charged with the power of these spirits. By applying the proper talismans, you can get practically anything you want.
 
@@ -1557,7 +1534,7 @@ Some time in the 'seventies or 'eighties, a cipher manuscript was found on a boo
 
 Dr. Woodman had died and Mathers forced Dr. Westcott to retire from active leadership of the Order. Mathers, however, was not trusted. He, therefore, announced to the most advanced adepts that he had himself made the Magical Link with the Secret Chiefs; and, at an interview with three of them in the Bois de Boulogne, had been confirmed in the supreme and sole authority as the Visible Head of the Order. The adepts entrusted with this information were required to sign a pledge of personal obedience to Mathers as a condition of advancement in the Order. Nevertheless, dissatisfaction continued. The advancement did not arrive. They suspected that Mathers had no more knowledge to give; and he retorted that, however that might be, he wasn't going to waste it on such hopeless duffers. Both positions have much to recommend them to discriminating sympathy.
 
-These petty squabbles apart, a big thing had happened. Mathers had discovered the manuscript of Abra-Melin in the library of the Arsenal in Paris and begun to translate it[2].[3] He found himself harassed and opposed on all sides. In those days there was practically no public way of getting about Paris at all. Mathers lived at Auteuil, a long way from the Arsenal, and met with so many bicycle accidents that he was driven to go on foot. (There is always occult opposition to the publication of important documents. It took me over three years to get my The Goetia through the press, and over two years in the case of 777. This is one of the facts whose cumulative effect makes it impossible to doubt the existence of spiritual forces.) Other misfortunes of every kind overwhelmed Mathers. He was an expert Magician and had become accustomed to use the Greater Key of Solomon with excellent effect. He did not realize that Abra-Melin was an altogether bigger proposition. It was like a man, accustomed to handle gunpowder, suddenly supplied with dynamite without being aware of the difference. He worried through and got Abra-Melin published; but he perished in the process. He became the prey of the malignant forces of the book, lost his integrity and was cast out of the Order of which he had been the visible head.
+These petty squabbles apart, a big thing had happened. Mathers had discovered the manuscript of Abra-Melin in the library of the Arsenal in Paris and begun to translate it.^[This debacle had not yet taken place at the time of my first initiation, November 18th, 1898.] ^[WEH Note: At least that's what Mathers said. According to G.Sholem in his “Kabbalah”, English and Hebrew versions have been found in British collections known to have been consulted by Mathers. It is conjectured that Mathers faked the translation of the Old French version from the library of the Arsenal to obtain translator's remuneration from the eventual publisher. Mathers did the same thing with the “Greater Key of Solomon” and an excerpt from the “Lesser Key of Solomon,” called “The Goetia” and subsequently published by Crowley. Mathers plagiarized the whole of his famous introduction to “The Kabbalah Unveiled” from Christian D. Ginsburg's essay “The Kabbalah; Its Doctrines, Development and Literature”. These practices appear to be endemic to the time.] He found himself harassed and opposed on all sides. In those days there was practically no public way of getting about Paris at all. Mathers lived at Auteuil, a long way from the Arsenal, and met with so many bicycle accidents that he was driven to go on foot. (There is always occult opposition to the publication of important documents. It took me over three years to get my The Goetia through the press, and over two years in the case of 777. This is one of the facts whose cumulative effect makes it impossible to doubt the existence of spiritual forces.) Other misfortunes of every kind overwhelmed Mathers. He was an expert Magician and had become accustomed to use the Greater Key of Solomon with excellent effect. He did not realize that Abra-Melin was an altogether bigger proposition. It was like a man, accustomed to handle gunpowder, suddenly supplied with dynamite without being aware of the difference. He worried through and got Abra-Melin published; but he perished in the process. He became the prey of the malignant forces of the book, lost his integrity and was cast out of the Order of which he had been the visible head.
 
 I took the Order with absolute seriousness. I was not even put off by the fact of its ceremonies taking place at Mark Mason's Hall. I remember asking Baker whether people often died during the ceremony. I had no idea that it was a flat formality and that the members were for the most part muddled middle-class mediocrities. I saw myself entering the Hidden Church of the Holy Grail. This state of my soul served me well. My initiation was in fact a sacrament.
 
@@ -1577,29 +1554,13 @@ In the spring of 1899, at some ceremony or other, I was aware of the presence of
 
 After the ceremony we went into the outer room to unrobe. I was secretly anxious to be introduced to this formidable Chief. To my amazement he came straight to me, looked into my eyes, and said in penetrating and, as it seemed, almost menacing tones: “Little Brother, you have been meddling with the Goetia!” (Goetia means “howling”; but it is the technical word employed to cover all the operations of that Magick which deals with gross, malignant or unenlightened forces.) I told him, rather timidly, that I had not been doing anything of the sort. “In that case,” he returned, “the Goetia has been meddling with you.” The conversation went no further. I returned home in a somewhat chastened spirit; and, having found out where Iehi Aour lived, I determined to call on him the following day.
 
-I should have explained that, on deciding to join the Order, I had taken a flat at 67 and 69 Chancery Lane[4]. I had already determined to perform the Operation of Abra-Melin, but Jones had advised me to go through my initiation first. However, I began to busy myself with the preparations. Abra-Melin warns us that our families will object strenuously to our undertaking the Operation. I resolved, therefore, to cut myself off absolutely from mine. So, as I had to live in London, I took the flat under the name of Count Vladimir Svareff. As Jones remarked later, a wiser man would have called himself Smith. But I was still obsessed with romanticism, while my summer in St. Petersburg had made me in love with Russia. There was another motive behind this — a legitimate one. I wanted to increase my knowledge of mankind. I knew how people treated a young man from Cambridge. I had thoroughly appreciated the servility of tradesmen, though I was too generous and too ignorant to realize the extent of their dishonesty and rapacity. Now I wanted to see how people would behave to a Russian nobleman. I must say here that I have repeatedly used this method of disguise — it has been amazingly useful in multiplying my points of view about humanity. Even the most broad-minded people are necessarily narrow in this one respect. They may know how all sorts of people treat them, but they cannot know, except at second hand, how those same people treat others.
+I should have explained that, on deciding to join the Order, I had taken a flat at 67 and 69 Chancery Lane.^[My innocence after three years at Cambridge may be gauged by my conduct in the matter of choosing a residence. I understood it as a fixed principle of prudence, “When in a difficulty consult your lawyer.” Knowing nothing, whatever about renting apartments, I was in a difficulty. I therefore consulted my lawyer and too the first place he suggested. He, of course, never gave a thought to my convenience or the appropriateness of the district. He saw and took the chance of obliging a business acquaintance.] I had already determined to perform the Operation of Abra-Melin, but Jones had advised me to go through my initiation first. However, I began to busy myself with the preparations. Abra-Melin warns us that our families will object strenuously to our undertaking the Operation. I resolved, therefore, to cut myself off absolutely from mine. So, as I had to live in London, I took the flat under the name of Count Vladimir Svareff. As Jones remarked later, a wiser man would have called himself Smith. But I was still obsessed with romanticism, while my summer in St. Petersburg had made me in love with Russia. There was another motive behind this — a legitimate one. I wanted to increase my knowledge of mankind. I knew how people treated a young man from Cambridge. I had thoroughly appreciated the servility of tradesmen, though I was too generous and too ignorant to realize the extent of their dishonesty and rapacity. Now I wanted to see how people would behave to a Russian nobleman. I must say here that I have repeatedly used this method of disguise — it has been amazingly useful in multiplying my points of view about humanity. Even the most broad-minded people are necessarily narrow in this one respect. They may know how all sorts of people treat them, but they cannot know, except at second hand, how those same people treat others.
 
-To return to Allan Bennett. I found him staying with V. H. Frater Aequo Animo[5] in a tiny tenement in Southwark or Lambeth — I forget which. It was a mean, grim horror. AE. A., whose name was Charles Rosher, was a widely travelled Jack-of-all-trades. He had invented a patent water-closet and been court painter to the Sultan of Morocco. He wrote some of the worst poetry I have ever read. He was a jolly-all-round sportsman with an excellent heart and the cheery courage which comes from knocking about the world, and being knocked about by it. If his talents had been less varied, he might have made a success of almost anything.
+To return to Allan Bennett. I found him staying with V. H. Frater Aequo Animo^[I ultimately conjectured: Equi Animo: “with the soul of a horse”.] in a tiny tenement in Southwark or Lambeth — I forget which. It was a mean, grim horror. AE. A., whose name was Charles Rosher, was a widely travelled Jack-of-all-trades. He had invented a patent water-closet and been court painter to the Sultan of Morocco. He wrote some of the worst poetry I have ever read. He was a jolly-all-round sportsman with an excellent heart and the cheery courage which comes from knocking about the world, and being knocked about by it. If his talents had been less varied, he might have made a success of almost anything.
 
-Footnotes:
+### Chapter 21.
 
-[1] Some are doubtless survivals of various forms of nature religion;but the majority are adaptations of Catholic or Jewish traditions to the ambitions, cupidities, envies, jealousies and animal instincts of the most ignorant and primitive type of peasant.
-
-[2] This debacle had not yet taken place at the time of my first initiation, November 18th, 1898.
-
-[3] WEH Note: At least that's what Mathers said. According to G.Sholem in his “Kabbalah”, English and Hebrew versions have been found in British collections known to have been consulted by Mathers. It is conjectured that Mathers faked the translation of the Old French version from the library of the Arsenal to obtain translator's remuneration from the eventual publisher. Mathers did the same thing with the “Greater Key of Solomon” and an excerpt from the “Lesser Key of Solomon,” called “The Goetia” and subsequently published by Crowley. Mathers plagiarized the whole of his famous introduction to “The Kabbalah Unveiled” from Christian D. Ginsburg's essay “The Kabbalah; Its Doctrines, Development and Literature”. These practices appear to be endemic to the time.
-
-[4] My innocence after three years at Cambridge may be gauged by my conduct in the matter of choosing a residence. I understood it as a fixed principle of prudence, “When in a difficulty consult your lawyer.” Knowing nothing, whatever about renting apartments, I was in a difficulty. I therefore consulted my lawyer and too the first place he suggested. He, of course, never gave a thought to my convenience or the appropriateness of the district. He saw and took the chance of obliging a business acquaintance.
-
-[5] I ultimately conjectured: Equi Animo: “with the soul of a horse”.
-
-[« back to toc]
-
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 21.
-Allan Bennett was four years older than myself. His father, an engineer, had died when he was a boy; his mother had brought him up as a strict Catholic. He suffered acutely from spasmodic asthma. His cycle of life was to take opium for about a month, when the effect wore off, so that he had to inject morphine. After a month of this he had to switch to cocaine, which he took till he began to “see things” and was then reduced to chloroform. I have seen him in bed for a week, only recovering consciousness sufficiently to reach for the bottle and sponge. Asthma being a sthenic disease, he was then too weak to have it any more, so he would gradually convalesce until, after a few weeks of freedom, the spasms would begin once more and he would be forced to renew the cycle of drugs[1].
+Allan Bennett was four years older than myself. His father, an engineer, had died when he was a boy; his mother had brought him up as a strict Catholic. He suffered acutely from spasmodic asthma. His cycle of life was to take opium for about a month, when the effect wore off, so that he had to inject morphine. After a month of this he had to switch to cocaine, which he took till he began to “see things” and was then reduced to chloroform. I have seen him in bed for a week, only recovering consciousness sufficiently to reach for the bottle and sponge. Asthma being a sthenic disease, he was then too weak to have it any more, so he would gradually convalesce until, after a few weeks of freedom, the spasms would begin once more and he would be forced to renew the cycle of drugs.^[WEH Note: The modern reader should not be too much disturbed by this catalogue of patently illegal drugs. They were all legal until well into the 20th century. This approach to asthma was still followed in the last quarter of the 20th century, with various dangerous medications prescribed in rotation by physicians for the patient to the point of sequential toxic reaction. Crowley himself became afflicted with the disorder, almost “the Magician's disease” for its frequency among those who follow this interest. Crowley's doctor prescribed heroin at a time in the 'teens when it was thought to be non-addictive! Crowley experienced the terrors of withdrawal, recounted in his “Liber XCIII”, and ultimately died of respiratory infection in 1947, fifty years after the events described here.]
 
 No doubt, this constant suffering affected his attitude to life. He revolted against being an animal; he regarded the pleasures of living (and above all, those of physical love) as diabolical illusions devised by the enemy of mankind in order to trick souls into accepting the curse of existence. I cannot forbear quoting one most remarkable incident. When he was about sixteen, the conversation in the laboratory where he was working turned upon childbirth. What he heard disgusted him. He became furiously angry and said that children were brought to earth by angels. The other students laughed at him and tried in vain to convince him. He maintained their theory to be a bestial blasphemy. The next day one of the boys turned up with an illustrated manual of obstetrics. He could no longer doubt the facts. But his reaction was this: “Did the Omnipotent God whom he had been taught to worship devise so revolting and degrading a method of perpetuating the species? Then this God must be a devil, delighting in loathsomeness.” To him the existence of God was disproved from that moment.
 
@@ -1611,7 +1572,7 @@ Allan Bennett was tall, but his sickness had already produced a stoop. His head,
 
 Despite his ill-health, he was a tremendous worker. His knowledge of science, especially electricity, was vast, accurate and profound. In addition, he had studied the Hindu and Buddhist scriptures, not only as a scholar, but with the insight that comes from inborn sympathetic understanding.
 
-I did not fully realize the colossal stature of that sacred spirit; but I was instantly aware that this man could teach me more in a month than anyone else in five years. He was living in great discomfort and penury. I offered him the hospitality of my flat. I have always felt that since the occult sciences nourish so many charlatans, it should be one's prime point of honour not to make money in any way connected with them[2]. The amateur status above all! Hospitality is, however, always allowable. But I was careful never to go beyond the strict letter of the word.
+I did not fully realize the colossal stature of that sacred spirit; but I was instantly aware that this man could teach me more in a month than anyone else in five years. He was living in great discomfort and penury. I offered him the hospitality of my flat. I have always felt that since the occult sciences nourish so many charlatans, it should be one's prime point of honour not to make money in any way connected with them.^[WEH Note: Notwithstanding this and a more extreme diatribe against “Black Magic” in his “Magick in Theory and Practice”, Crowley did accept remuneration for doing Astrological charts at a later period than this writing. In other instances he did dedicate his income from mystical and magical writings to the support of his O.T.O. and not his personal needs.] The amateur status above all! Hospitality is, however, always allowable. But I was careful never to go beyond the strict letter of the word.
 
 Iehi Aour came to stay with me and under his tuition I made rapid progress. He showed me where to get knowledge, how to criticize it and how to apply it. We also worked together at ceremonial Magick; evoking spirits, consecrating talismans, and so on.
 
@@ -1621,30 +1582,14 @@ I am constrained to a seeming digression. Many authors insist on the importance 
 
 So much for Buer. As for the lady, she came to see me some time later and I saw that I was myself acting selfishly in setting my spiritual welfare above her happiness. She had made a generous gesture; I could do no less. She agreed not to stand in the way of my performing the Operation of Abra-Melin, but begged me to give her a living memory of our love. I agreed and the sequel will be told in its place.
 
-During this time, magical phenomena were of constant occurrence. I had two temples in my flat; one white, the walls being lined with six huge mirrors, each six feet by eight; the other black[3], a mere cupboard, in which stood an altar supported by the figure of a Negro standing on his hands. The presiding genius of this place was a human skeleton, which I fed from time to time with blood, small birds and the like. The idea was to give it life, but I never got further than causing the bones to become covered with a viscous slime[4]. In The Equinox, vol. I, no. 1 is a story, “At the Fork of the Roads”, which is in every detail a true account of one episode of this period. Will Bute is W. B, Yeats[5], Hypatia Gay is Althoea Gyles, the publisher is Leonard Smithers.
+During this time, magical phenomena were of constant occurrence. I had two temples in my flat; one white, the walls being lined with six huge mirrors, each six feet by eight; the other black,^[Iehi Aour never had anything to do with this; and I but little: the object of establishing it was probably to satisfy my instinct about equilibrium.] a mere cupboard, in which stood an altar supported by the figure of a Negro standing on his hands. The presiding genius of this place was a human skeleton, which I fed from time to time with blood, small birds and the like. The idea was to give it life, but I never got further than causing the bones to become covered with a viscous slime.^[WEH Note: In an action Crowley brought for libel in 1934, he testified under oath on the particulars of this set of temples; see “The Magical Link”, Sept./Oct. 1988, a members' publication of O.T.O., for an excerpt of the trial transcript. On the point of feeding skeletons, mine likes beer. Crowley had an aversion to beer and probably never tried it. I just pour a little on a fossil dinosaur bone at her feet now and then, and she firms up nicely. They also like jewelry.] In The Equinox, vol. I, no. 1 is a story, “At the Fork of the Roads”, which is in every detail a true account of one episode of this period. Will Bute is W. B, Yeats,^[The identification is conjectural, depending solely on the admissions of Miss Gyles.] Hypatia Gay is Althoea Gyles, the publisher is Leonard Smithers.
 
 The demons connected with Abra-Melin do not wait to be evoked; they come unsought. One night Jones and I went out to dinner. I noticed on leaving the white temple that the latch of its Yale lock had not caught. Accordingly, I pulled the door to and tested it. As we went out, we noticed semi-solid shadows on the stairs; the whole atmosphere was vibrating with the forces which we had been using. (We were trying to condense them into sensible images.) When we came back, nothing had been disturbed in the flat; but the temple door was wide open, the furniture disarranged and some of the symbols flung about in the room. We restored order and then observed that semi-materialized beings were marching around the main room in almost unending procession.
 
 When I finally left the flat for Scotland, it was found that the mirrors were too big to take out except by way of the black temple. This had, or course, been completely dismantled before the workmen arrived. But the atmosphere remained and two of them were put out of action for several hours. It was almost a weekly experience, by the way, to hear of casual callers fainting or being seized with dizziness, cramp or apoplexy on the stair case. It was a long time before those rooms were re-let. People felt instinctively the presence of something uncanny. Similarly, later on, when I gave up my rooms in Victoria Street, a pushing charlatan thought to better himself by taking them. With this object he went to see them. A few seconds later he was leaping headlong down the five flights of stairs, screaming in terror. He had just sufficient genuine sensitiveness to feel the forces, without possessing the knowledge, courage and will required to turn them to account, or even to endure their impact.
 
-Footnotes:
+### Chapter 22.
 
-[1] WEH Note: The modern reader should not be too much disturbed by this catalogue of patently illegal drugs. They were all legal until well into the 20th century. This approach to asthma was still followed in the last quarter of the 20th century, with various dangerous medications prescribed in rotation by physicians for the patient to the point of sequential toxic reaction. Crowley himself became afflicted with the disorder, almost “the Magician's disease” for its frequency among those who follow this interest. Crowley's doctor prescribed heroin at a time in the 'teens when it was thought to be non-addictive! Crowley experienced the terrors of withdrawal, recounted in his “Liber XCIII”, and ultimately died of respiratory infection in 1947, fifty years after the events described here.
-
-[2] WEH Note: Notwithstanding this and a more extreme diatribe against “Black Magic” in his “Magick in Theory and Practice”, Crowley did accept remuneration for doing Astrological charts at a later period than this writing. In other instances he did dedicate his income from mystical and magical writings to the support of his O.T.O. and not his personal needs.
-
-[3] Iehi Aour never had anything to do with this; and I but little: the object of establishing it was probably to satisfy my instinct about equilibrium.
-
-[4] WEH Note: In an action Crowley brought for libel in 1934, he testified under oath on the particulars of this set of temples; see “The Magical Link”, Sept./Oct. 1988, a members' publication of O.T.O., for an excerpt of the trial transcript. On the point of feeding skeletons, mine likes beer. Crowley had an aversion to beer and probably never tried it. I just pour a little on a fossil dinosaur bone at her feet now and then, and she firms up nicely. They also like jewelry.
-
-[5] The identification is conjectural, depending solely on the admissions of Miss Gyles.
-
-[« back to toc]
-
-unicursal hexagram
-
-Towards the Golden Dawn
-Chapter 22.
 Apart from my daily work, my chief preoccupation was to prepare for the Operation of the Sacred Magick.
 
 The first essential is a house in a more or less secluded situation. There should be a door opening to the north from the room of which you make your oratory. Outside this door, you construct a terrace covered with fine river sand. This ends in a “lodge” where the spirits may congregate. It would appear the simplest thing in the world for a man with forty thousand pounds, who is ready to spend every penny of it on the achievement of his purpose, to find a suitable house in a very few weeks. But a magical house is as hard to find as a magical book to publish. I scoured the country in vain. Not till the end of August 1899 did I find an estate which suited me. This was the manor of Boleskine and Abertarff, on the south-east side of Loch Ness, half way between Inverfarigaig and Foyers. By paying twice as much as it was worth, I got it, gave up my flat and settled down at once to get everything in order for the great Operation, which one is told to begin at Easter.
@@ -1675,40 +1620,73 @@ The harmless necessary cat sheds those epithets in the Highlands. The most domes
 
 Much to my disgust, commercialism thrust its ugly head into my neighbourhood. The British Aluminium Company proposed to exploit the water power of the valley above Foyers. The Falls of Foyers are one of the few natural glories of the British Isles; why not use them to turn an honest penny?
 
-I sate upon the mossy promontory
-Where the cascade cleft not his mother rock,
-But swept in whirlwind lightning foam and glory,
-Vast circling with unwearying luminous shock
-To lure and lock
-Marvellous eddies in its wild caress;
-And there the solemn echoes caught the stress,
-The strain of that impassive tide,
-Shook it and flung it high and wide,
-Till all the air took fire from that melodious roar;
-All the mute mountains heard,
-Bowed, laughed aloud, concurred,
-And passed the word along, the signal of wide war.
-All earth took up the sound,
-And, being in one tune securely bound,
-Even a star became the soul of silence most profound.
-
-Thus there, the centre of that death that darkened,
-I sat and listened, if God's voice should break
-And pierce the hallow of my ear that hearkened,
-Lest God should speak and find me not awake —
-For his own sake.
-No voice, no song might pierce or penetrate
-That enviable universal state.
-The sun and moon beheld, stood still.
-Only the spirit's axis, will,
-Considered its own soul an sought a deadlier deep,
-And in its monotone mood
-Of supreme solitude
-Was neither glad nor sad because it did not sleep;
-
-But with calm eyes abode
-Patient, its leisure the galactic load,
-Abode alone, nor even rejoiced to know that it was God.
+> I sate upon the mossy promontory
+> 
+> Where the cascade cleft not his mother rock,
+> 
+> But swept in whirlwind lightning foam and glory,
+> 
+> Vast circling with unwearying luminous shock
+> 
+> To lure and lock
+> 
+> Marvellous eddies in its wild caress;
+> 
+> And there the solemn echoes caught the stress,
+> 
+> The strain of that impassive tide,
+> 
+> Shook it and flung it high and wide,
+> 
+> Till all the air took fire from that melodious roar;
+> 
+> All the mute mountains heard,
+> 
+> Bowed, laughed aloud, concurred,
+> 
+> And passed the word along, the signal of wide war.
+> 
+> All earth took up the sound,
+> 
+> And, being in one tune securely bound,
+> 
+> Even a star became the soul of silence most profound.
+> 
+> 
+> 
+> Thus there, the centre of that death that darkened,
+> 
+> I sat and listened, if God's voice should break
+> 
+> And pierce the hallow of my ear that hearkened,
+> 
+> Lest God should speak and find me not awake —
+> 
+> For his own sake.
+> 
+> No voice, no song might pierce or penetrate
+> 
+> That enviable universal state.
+> 
+> The sun and moon beheld, stood still.
+> 
+> Only the spirit's axis, will,
+> 
+> Considered its own soul an sought a deadlier deep,
+> 
+> And in its monotone mood
+> 
+> Of supreme solitude
+> 
+> Was neither glad nor sad because it did not sleep;
+> 
+> 
+> 
+> But with calm eyes abode
+> 
+> Patient, its leisure the galactic load,
+> 
+> Abode alone, nor even rejoiced to know that it was God.
 
 Moneys-grubbing does its best to blaspheme and destroy nature. It is useless to oppose the baseness of humanity; if one touches pitch one runs the risk of being defiled. I am perfectly content to know that the vileness of civilization is rapidly destroying itself; that it stinks in my nostrils tells me that ti is rotting and my consolation is in the words of Lord Dunsany. In the meantime, the water was to be wasted in producing wealth — the most dangerous of narcotic drugs. It creates a morbid craving — which it never satisfies after the first flush of intoxication.
 
@@ -1736,75 +1714,80 @@ In The Temple of the Holy Ghost, however, the reader may trace the progress of m
 
 I quote:
 
-The Oath of the Beginning.
-I, Perdurabo, Frater Ordinis Roase Rubeae et Aureae Crucis, a Lord of the Paths in the Portal of the Vault of the Adepts, a 5○ = 6□¸ of the Order of the Golden Dawn; and an humble servant of the Christ of God; do this day spiritually bind myself anew:
-
-By the Sword of Vengeance:
-By the Powers of the elements:
-By the Cross of Suffering:
-
-That I will devote myself to the Great Work: the obtaining of Communion with my own Higher and Divine Genius (called the Guardian Angel) by means of the prescribed course; and that I will use my Power so obtained unto the Redemption of the Universe.
-So help me the Lord of the Universe and mine own Higher Soul!
-
-This idea is further expanded in the obligation which I took in respect of the Operation. The influence of my initiation into the Second Order is manifest. While I remained in the Outer Order, I had not definitely realized the fact that I was bound up with the welfare of humanity and could only satisfy my aspiration by becoming a perfect instrument for the regeneration of the world. I quote once more:
-
-The obligation of the Operation.
-
-I, Perdurabo, in the Presence of the Lord of the Universe, and of all Powers Divine and Angelic, do spiritually bind myself, even as I am no physically bound unto the Cross of Suffering. (1) To unite my consciousness with the divine, as I may be permitted and aided by the gods Who live for ever, The Aeons of Infinite years; that, being lost in the Limitless Light, it may find Itself: to the Regeneration of the Race, either of man or as the Will of God shall be. And I submit myself utterly to the Will Divine.
-
-(2) To follow out with courage, modesty, loving-kindness and perseverance the course prescribed by Abra-Melin the Mage; as far as in me lies, unto the attainment of this end.
-
-(3) To despise utterly the things and the opinions of this world lest they hinder me in doing this.
-
-(4) To use my powers only to the Spiritual well-being of all with whom I may be brought in contact.
-
-(5) To give no place to Evil: and to make eternal war against the Forces of Evil: until even they be redeemed unto the Light.
-
-(6) To harmonize my own spirit so that Equilibrium may lead me to the East; and that my Human consciousness shall allow no usurpation of its rule by the Automatic.
-
-(7) To conquer the temptations.
-
-(8) To banish the illusions.
-
-(9) To put my whole trust in the Only and Omnipotent Lord God: as it is written, “Blessed are they that put their trust in Him.”
-
-(10) To uplift the Cross of Sacrifice and Suffering; and to cause my Light so to shine before men that they may glorify my Father which is in Heaven.
-
-Furthermore, I most solemnly promise and swear: to acquire this Holy Science in the manner prescribed in the Book of Abra-Melin, without omitting the least imaginable thing of its contents; not to gloss or comment in any way on that which may be or may not be, not to use this Sacred Science to offend the Great God, not to work ill unto my neighbour: to communicate it to no living person, unless by long practice and conversation I shall know him thoroughly, well examining whether such an one really intendeth to work for the Good or for the Evil. I will punctually observe, in granting it, the same fashion which was used by Abra-Melin to Abraham. Otherwise, let him who receiveth it draw no fruit therefrom. I will keep myself as from a Scorpion from selling this Science. Let this Science remain in me and in my generation as long as it shall please the Most High.
-
-As all these points I generally and severally swear to observe under the awful penalty of the displeasure of God, and of Him to whose Knowledge and Conversation I do most ardently aspire.
-
-So help me the Lord of the Universe, and my own Higher Soul[1]!
-
-During this period I continued the practice of visions of and voyages upon divers spiritual planes. It seems worth while to record a few of these. They afford a clear indication of my progress at this time.
-
-In bed, I invoked the Fire angels and spirits on the tablet, with names, etc., and the 6th Key. I then (as Harpocrates) entered my crystal. An angel, meeting me, told me, among other things, that they (of the tablets) were at war with the angels of the 30 Aethyrs, to prevent the squaring of the circle. I went with him unto the abodes of fire, but must have fallen asleep, or nearly so. Anyhow, I regained consciousness in a very singular state, half consciousness being there, and half here. I recovered and banished the Spirits, but was burning all over, and tossed restlessly about — very sleepy, but consumed of Fire! Only repeated careful assumption of Harpocrates' god-form enabled me to regain my normal state. I had a long dream of a woman eloping, whom I helped, and after, of a man stealing my Rose Cross jewel from a dressing-table in an hotel. I caught him and found him a man weak beyond the natural (I could bend or flatten him at will)[2], and then the dream seemed to lose coherence … I carried him about and found a hairbrush to beat him, etc. etc. Query: Was I totally obsessed?
-
-Invoking the angels of Earth, I obtained wonderful effect. The angel, my guide, treated me with great contempt and was very rude and truthful. He showed me divers things. In the centre of the earth is formulated the Rose and Cross. Now the Rose is the Absolute Self-Sacrifice, the merging of all in the 0 (Negative), the Universal Principle of generation through change (not merely the feminine), and the Universal light “Khabs”. The Cross is the Extension or Pekht principle. Now I should have learned more; but my attention wandered. This closes the four elemental visions: prosecuted, alas! with what weakness, fatuity and folly!
-
-I … in the afternoon shut myself up and went on a journey …
-
-I went with a very personal guide[3]: and beheld (after some lesser things) our Master as he sat by the Well with the Woman of Samaria. Now the five husbands were five great religions which had defiled the purity of the Virgin of the World: and “he whom thou now hast” was materialism (or modern thought).
-
-Other scenes also I saw in His Life: and behold I also was crucified! Now did I go backwards ion time even unto Berashith, the Beginning, and was permitted to see marvellous things.
-
-First the Abyss of the Water: on which I, even I, brooded amid other dusky flames as Shin upon Maim, held by my Genius. And I beheld the victory of Ra upon Apophis and the First of the Golden Dawns! Yea: and monsters, faces half-formed, arose: but they subsisted not.
-
-And the firmament was.
-
-Again the Chaos and the Death!
-
-Then Ath Hashamain ve ath h-aretz[4]. There is a whirling, intertwining infinitude of nebulae, many concentric systems, each system non-concentric to any other, yet all concentric to the whole. As I went backwards in time they grew faster and faster, and less and less material. (P.S. — this is a scientific hypothesis, directly contrary to that of Anna Kingsford.) And at last are whirling wheels of light; yet through them waved a thrill of an intenser invisible light in a direction perpendicular to the tangents. I asked to go yet farther back; and behold! I am floating on my back — cast down: in a wind of Light flashing down upon me from the immeasurable Above. (This Light is of a bluish silver tinge.) And I saw hat Face, lost above me in the height inscrutable; a face of absolute beauty. And I saw as it were a Lamb slain in the Glamour of Those Eyes. Thus was I made pure; for there, what impurity could live? I was told that not many had been so far back: none farther: those who could go farther would not, since that would have reabsorbed them into the Beginning, and that must not be to him who hath sworn to uplift the Standard of Sacrifice and Sorrow, which is strength. (I forgot the Angels in the Planetary Whirl. The regarded me with curiosity: and were totally unable to comprehend my explanation that I was a Man, returning in time to behold the Beginning of Things.)
-
-So I returned; having difficulty to find the earth. But I called on S.R.M.D. and V.N.R., who were glad to see me; and returned into the body: to waste the night in gibing at a foolish medico.
+> The Oath of the Beginning.
+> I, Perdurabo, Frater Ordinis Roase Rubeae et Aureae Crucis, a Lord of the Paths in the Portal of the Vault of the Adepts, a 5○ = 6□¸ of the Order of the Golden Dawn; and an humble servant of the Christ of God; do this day spiritually bind myself anew:
+> 
+> > By the Sword of Vengeance:
+> > 
+> > By the Powers of the elements:
+> > 
+> > By the Cross of Suffering:
+> 
+> 
+> That I will devote myself to the Great Work: the obtaining of Communion with my own Higher and Divine Genius (called the Guardian Angel) by means of the prescribed course; and that I will use my Power so obtained unto the Redemption of the Universe.
+> So help me the Lord of the Universe and mine own Higher Soul!
+> 
+> This idea is further expanded in the obligation which I took in respect of the Operation. The influence of my initiation into the Second Order is manifest. While I remained in the Outer Order, I had not definitely realized the fact that I was bound up with the welfare of humanity and could only satisfy my aspiration by becoming a perfect instrument for the regeneration of the world. I quote once more:
+> 
+> The obligation of the Operation.
+> 
+> I, Perdurabo, in the Presence of the Lord of the Universe, and of all Powers Divine and Angelic, do spiritually bind myself, even as I am no physically bound unto the Cross of Suffering.
+> 
+> (1) To unite my consciousness with the divine, as I may be permitted and aided by the gods Who live for ever, The Aeons of Infinite years; that, being lost in the Limitless Light, it may find Itself: to the Regeneration of the Race, either of man or as the Will of God shall be. And I submit myself utterly to the Will Divine.
+> 
+> (2) To follow out with courage, modesty, loving-kindness and perseverance the course prescribed by Abra-Melin the Mage; as far as in me lies, unto the attainment of this end.
+> 
+> (3) To despise utterly the things and the opinions of this world lest they hinder me in doing this.
+> 
+> (4) To use my powers only to the Spiritual well-being of all with whom I may be brought in contact.
+> 
+> (5) To give no place to Evil: and to make eternal war against the Forces of Evil: until even they be redeemed unto the Light.
+> 
+> (6) To harmonize my own spirit so that Equilibrium may lead me to the East; and that my Human consciousness shall allow no usurpation of its rule by the Automatic.
+> 
+> (7) To conquer the temptations.
+> 
+> (8) To banish the illusions.
+> 
+> (9) To put my whole trust in the Only and Omnipotent Lord God: as it is written, “Blessed are they that put their trust in Him.”
+> 
+> (10) To uplift the Cross of Sacrifice and Suffering; and to cause my Light so to shine before men that they may glorify my Father which is in Heaven.
+> 
+> Furthermore, I most solemnly promise and swear: to acquire this Holy Science in the manner prescribed in the Book of Abra-Melin, without omitting the least imaginable thing of its contents; not to gloss or comment in any way on that which may be or may not be, not to use this Sacred Science to offend the Great God, not to work ill unto my neighbour: to communicate it to no living person, unless by long practice and conversation I shall know him thoroughly, well examining whether such an one really intendeth to work for the Good or for the Evil. I will punctually observe, in granting it, the same fashion which was used by Abra-Melin to Abraham. Otherwise, let him who receiveth it draw no fruit therefrom. I will keep myself as from a Scorpion from selling this Science. Let this Science remain in me and in my generation as long as it shall please the Most High.
+> 
+> As all these points I generally and severally swear to observe under the awful penalty of the displeasure of God, and of Him to whose Knowledge and Conversation I do most ardently aspire.
+> 
+> So help me the Lord of the Universe, and my own Higher Soul!^[Some of the above phrases are prescribed by Abra-Melin itself; others are adapted from my 5○ = 6□ documents.]
+>
+> During this period I continued the practice of visions of and voyages upon divers spiritual planes. It seems worth while to record a few of these. They afford a clear indication of my progress at this time.
+> 
+> In bed, I invoked the Fire angels and spirits on the tablet, with names, etc., and the 6th Key. I then (as Harpocrates) entered my crystal. An angel, meeting me, told me, among other things, that they (of the tablets) were at war with the angels of the 30 Aethyrs, to prevent the squaring of the circle. I went with him unto the abodes of fire, but must have fallen asleep, or nearly so. Anyhow, I regained consciousness in a very singular state, half consciousness being there, and half here. I recovered and banished the Spirits, but was burning all over, and tossed restlessly about — very sleepy, but consumed of Fire! Only repeated careful assumption of Harpocrates' god-form enabled me to regain my normal state. I had a long dream of a woman eloping, whom I helped, and after, of a man stealing my Rose Cross jewel from a dressing-table in an hotel. I caught him and found him a man weak beyond the natural (I could bend or flatten him at will),^[This incident was once quoted by one of my critics as illustrative of the absurdity of Magick — as if Magick were responsible for the irrationality of dreams!] and then the dream seemed to lose coherence … I carried him about and found a hairbrush to beat him, etc. etc. Query: Was I totally obsessed?
+> 
+> Invoking the angels of Earth, I obtained wonderful effect. The angel, my guide, treated me with great contempt and was very rude and truthful. He showed me divers things. In the centre of the earth is formulated the Rose and Cross. Now the Rose is the Absolute Self-Sacrifice, the merging of all in the 0 (Negative), the Universal Principle of generation through change (not merely the feminine), and the Universal light “Khabs”. The Cross is the Extension or Pekht principle. Now I should have learned more; but my attention wandered. This closes the four elemental visions: prosecuted, alas! with what weakness, fatuity and folly!
+> 
+> I … in the afternoon shut myself up and went on a journey …
+> 
+> I went with a very personal guide:^[This horrible phrase was not my own: I must not be judged by it.] and beheld (after some lesser things) our Master as he sat by the Well with the Woman of Samaria. Now the five husbands were five great religions which had defiled the purity of the Virgin of the World: and “he whom thou now hast” was materialism (or modern thought).
+> 
+> Other scenes also I saw in His Life: and behold I also was crucified! Now did I go backwards ion time even unto Berashith, the Beginning, and was permitted to see marvellous things.
+> 
+> First the Abyss of the Water: on which I, even I, brooded amid other dusky flames as Shin upon Maim, held by my Genius. And I beheld the victory of Ra upon Apophis and the First of the Golden Dawns! Yea: and monsters, faces half-formed, arose: but they subsisted not.
+> 
+> And the firmament was.
+> 
+> Again the Chaos and the Death!
+> 
+> Then Ath Hashamain ve ath h-aretz.^[WEH Note: This portion is a development of the Hebrew text of the first verse of Genesis.] There is a whirling, intertwining infinitude of nebulae, many concentric systems, each system non-concentric to any other, yet all concentric to the whole. As I went backwards in time they grew faster and faster, and less and less material. (P.S. — this is a scientific hypothesis, directly contrary to that of Anna Kingsford.) And at last are whirling wheels of light; yet through them waved a thrill of an intenser invisible light in a direction perpendicular to the tangents. I asked to go yet farther back; and behold! I am floating on my back — cast down: in a wind of Light flashing down upon me from the immeasurable Above. (This Light is of a bluish silver tinge.) And I saw hat Face, lost above me in the height inscrutable; a face of absolute beauty. And I saw as it were a Lamb slain in the Glamour of Those Eyes. Thus was I made pure; for there, what impurity could live? I was told that not many had been so far back: none farther: those who could go farther would not, since that would have reabsorbed them into the Beginning, and that must not be to him who hath sworn to uplift the Standard of Sacrifice and Sorrow, which is strength. (I forgot the Angels in the Planetary Whirl. The regarded me with curiosity: and were totally unable to comprehend my explanation that I was a Man, returning in time to behold the Beginning of Things.)
+> 
+> So I returned; having difficulty to find the earth. But I called on S.R.M.D. and V.N.R., who were glad to see me; and returned into the body: to waste the night in gibing at a foolish medico.
 
 My actions continually testify that I naturally possessed what is after all the most essential asset for a Magician, in singular perfection. It came natural to me to despise and reject utterly, without a second's hesitation or regret, anything soever that stood in the way of my purpose. Equally, I could hold that purpose itself as nothing in comparison with the greater purpose of the Order to which I was pledged.
 
 Early in 1900 I applied to the Second Order in London for the documents to which my initiation in Paris entitled me. They were refused in terms which made it clear that the London body was in open revolt against the Chief, though afraid to declare its intentions. I went to London and discussed the matter with Jones, Baker and Mrs. Emery. Jones saw clearly enough that if Mathers were not the head of the Order and the trusted representative of the Secret Chiefs, there was no Order at all. Baker's position was that Mathers was behaving badly; he was sick of the whole business. Mrs. Emery, the nominal representative of the Chief, was trying to find a diplomatic solution. Her attitude was most serious and earnest and she was greatly distressed by her dilemma. She had thought it best to resign quietly, but received a reply of the most staggering character. The letter is dated February 16th, 1900, and I quote the last two paragraphs in full.
 
-Now, with regard to the Second Order, it would be with the very greatest regret both from my personal regard for you, as well as from the Occult standpoint, that I should receive your Resignation as my Representative in the Second Order in London; but I cannot let you form a combination to make a schism therein with the idea of working secretly or avowedly under Sapere Aude under the mistaken impression that he received an Epitome of the School of the Second Order work from G. H. Soror, Sapiens Dominabitur Astros. For this forces me to tell you plainly (and, understand me well, I can prove to the hilt every word which I here say and more, and were I confronted with S. A., I should say the same) though for the sake of the Order, and for the circumstance that it would mean so deadly a blow to S. A.'s reputation, I entreat you to keep this secret from the “Order,” for the present, at least, though you are at perfect liberty to show him this if you think fit, after mature consideration.
-
-He has NEVER been at any time either in personal or written communication with the Secret Chiefs of the order, he having either himself forged or procured to be forged the professed correspondence between him and them, and my tongue having been tied all these years by a Previous Oath of Secrecy to him, demanded by him, from me, before showing me what he had either done or caused to be done or both. You must comprehend from what little I say here the extreme gravity of such a matter, and again I ask you, both for his sake, and that of the Order, not to force me to go further into the subject.
+> Now, with regard to the Second Order, it would be with the very greatest regret both from my personal regard for you, as well as from the Occult standpoint, that I should receive your Resignation as my Representative in the Second Order in London; but I cannot let you form a combination to make a schism therein with the idea of working secretly or avowedly under Sapere Aude under the mistaken impression that he received an Epitome of the School of the Second Order work from G. H. Soror, Sapiens Dominabitur Astros. For this forces me to tell you plainly (and, understand me well, I can prove to the hilt every word which I here say and more, and were I confronted with S. A., I should say the same) though for the sake of the Order, and for the circumstance that it would mean so deadly a blow to S. A.'s reputation, I entreat you to keep this secret from the “Order,” for the present, at least, though you are at perfect liberty to show him this if you think fit, after mature consideration.
+> 
+> He has NEVER been at any time either in personal or written communication with the Secret Chiefs of the order, he having either himself forged or procured to be forged the professed correspondence between him and them, and my tongue having been tied all these years by a Previous Oath of Secrecy to him, demanded by him, from me, before showing me what he had either done or caused to be done or both. You must comprehend from what little I say here the extreme gravity of such a matter, and again I ask you, both for his sake, and that of the Order, not to force me to go further into the subject.
 
 This letter struck at the very heart of the moral basis of her conduct. It put her in the position of having initiated people, for years, on false pretences. She could not drop out and say no more about it. The matter had to be thrashed out.
 
@@ -1814,30 +1797,30 @@ Anyhow, as far as I was concerned, Mathers was my only link with the Secret Chie
 
 The result of this offer was recorded as follows:
 
-D.D.C.F. accepts my services, therefore do I rejoice that my sacrifice is accepted. Therefore do I again postpone the Operation of Abra-Melin the Mage, having by God's Grace formulated even in this a new link with the Higher and gained a new weapon against the Great Princes of the Evil of the World. Amen.
+> D.D.C.F. accepts my services, therefore do I rejoice that my sacrifice is accepted. Therefore do I again postpone the Operation of Abra-Melin the Mage, having by God's Grace formulated even in this a new link with the Higher and gained a new weapon against the Great Princes of the Evil of the World. Amen.
 
 I went to Paris, discussed the situation with Mathers and formulated the following proposal for dealing with the refractory “temple”.
 
-I. The Second Order to be summoned at various times during two or three days. They to find, on being admitted one by one, a masked man in authority and a scribe. These questions, etc. pass, after pledge of secrecy concerning interview.
+> I. The Second Order to be summoned at various times during two or three days. They to find, on being admitted one by one, a masked man in authority and a scribe. These questions, etc. pass, after pledge of secrecy concerning interview.
+> 
+> A. Are you convinced of the truth of the doctrines and knowledge received in the grade of 5○ = 6□? Yes or No?
+> If yes (1) Then their origin can spring from a pure source only?
+> If no (2) I degrade you to be a Lord of the Paths in the Portal in the Vault of the Adepts.
+> B. If he reply “yes”, the masked man continues: Are you satisfied with the logic of this statement? Do you solemnly promise to cease these unseemly disputes as to the headship of this Order! I for my part can assure you from my own knowledge that D.D.C.F. is really a 7○ = 4□.
+> If yes (3) Then you will sing this paper; it contains a solemn reaffirmation of your obligation as a 5○ = 6□ slightly expanded, and a pledge to support heartily the new regulations.
+> If no (4) I expel you from this Order.
+> 
+> II. The practice of masks is to be introduced. Each member will know only the member who introduced him. Severe tests of the candidate's moral excellence, courage, earnestness, humility, refusal to do wrong, to be inserted in the Portal or 5○ = 6□ ritual.
+> 
+> III. Outer Order to be summoned. Similar regulations to be announced to them. New pledges required that they will not communicate the identity of anybody they happen to have known to any new member.
+> 
+> IV. Vault to be reconsecrated.
+> 
+> This was accepted, and I crossed to London to carry it out. I find an entry in my little book of Magical Rituals which reveals my state of mind.
 
-A. Are you convinced of the truth of the doctrines and knowledge received in the grade of 5○ = 6□? Yes or No?
-If yes (1) Then their origin can spring from a pure source only?
-If no (2) I degrade you to be a Lord of the Paths in the Portal in the Vault of the Adepts.
-B. If he reply “yes”, the masked man continues: Are you satisfied with the logic of this statement? Do you solemnly promise to cease these unseemly disputes as to the headship of this Order! I for my part can assure you from my own knowledge that D.D.C.F. is really a 7○ = 4□.
-If yes (3) Then you will sing this paper; it contains a solemn reaffirmation of your obligation as a 5○ = 6□ slightly expanded, and a pledge to support heartily the new regulations.
-If no (4) I expel you from this Order.
-
-II. The practice of masks is to be introduced. Each member will know only the member who introduced him. Severe tests of the candidate's moral excellence, courage, earnestness, humility, refusal to do wrong, to be inserted in the Portal or 5○ = 6□ ritual.
-
-III. Outer Order to be summoned. Similar regulations to be announced to them. New pledges required that they will not communicate the identity of anybody they happen to have known to any new member.
-
-IV. Vault to be reconsecrated.
-
-This was accepted, and I crossed to London to carry it out. I find an entry in my little book of Magical Rituals which reveals my state of mind.
-
-April 12th, 1900.
-I, Perdurabo, as the Temporary Envoy Plenipotentiary of Deo Duce Comite Ferro & thus the Third from the Secret Chiefs of the Order of the Rose of Ruby and the Cross of Gold, do deliberately invoke all laws, all powers Divine, demanding that I, even I, be chosen to do such a work as he has done, at all costs to myself. And I record this holy aspiration in the presence of the Divine Light, that it may stand as my witness.
-In Saecula Saeculorum. Amen!
+> > April 12th, 1900.
+> > I, Perdurabo, as the Temporary Envoy Plenipotentiary of Deo Duce Comite Ferro & thus the Third from the Secret Chiefs of the Order of the Rose of Ruby and the Cross of Gold, do deliberately invoke all laws, all powers Divine, demanding that I, even I, be chosen to do such a work as he has done, at all costs to myself. And I record this holy aspiration in the presence of the Divine Light, that it may stand as my witness.
+> > In Saecula Saeculorum. Amen!
 
 A further complication had suddenly arisen. In Mathers' fatal letter to Mrs. Emery, he wrote that Sapiens Dominabitur Astris was not dead after all; but in Paris, working with him at that very moment. But when I arrived in Paris, Mathers had been rudely undeceived. The woman who claimed to be Sapiens had bolted, with such property of his as she could lay hands on. That such a man could have been so imposed upon seems incredible. But he told me that she certainly possessed knowledge which only Sapiens had, and also that she had told him every detail of a very private conversation which he had once had with Mme. Blavatsky at Denmark Hill. In the upshot, she proved to be one Mmme. Horos. In the following year she was sentenced to seven years' penal servitude for outrages on young girls. She had in some way used the rituals of the Order which she had stolen from Mathers to entice them to their doom.
 
@@ -1849,26 +1832,11 @@ They went on squabbling amongst themselves for a few months and then had the sen
 
 Summer was now at hand and the wanderlust reasserted itself in me. There was no point in my going back to Boleskine till the following Easter. As it happened, Mathers — to whom I returned to report progress — had two guests, members of the Order. They had just comeback from Mexico. The fancy took me to go there. I wanted in particular to climb the great volcanoes. So, late in June 1900, I sailed for New York.
 
-Footnotes:
+# PART TWO
+#### THE MYSTICAL ADVENTURE
 
-[1] Some of the above phrases are prescribed by Abra-Melin itself; others are adapted from my 5○ = 6□ documents.
+### Chapter 23.
 
-[2] This incident was once quoted by one of my critics as illustrative of the absurdity of Magick — as if Magick were responsible for the irrationality of dreams!
-
-[3] This horrible phrase was not my own: I must not be judged by it.
-
-[4] WEH Note: This portion is a development of the Hebrew text of the first verse of Genesis.
-
-[« back to toc]
-
-unicursal hexagram
-
-PART TWO
-THE MYSTICAL ADVENTURE
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 23.
 I think it was on the sixth of July that I reached New York. In those days one was not bored by people who had never seen a real skyline boasting of the outrage since perpetrated by the insects. A mountain skyline is nearly always noble and beautiful, being the result of natural forces acting uniformly and in conformity with law. Thus, though it is not designed, it is the embodiment of the principles which are inherent in design. New York, on the other hand, has been thrown up by a series of disconnected accidents.
 
 The vanity of the natives led them therefore to concentrate their enthusiasm on a rejected statue of commerce intended for the Suez Canal. This they had purchased at secondhand and grandiloquently labelled “Liberty enlightening the World”. They had been prophetic enough to put it on an island with its back to the mainland.
@@ -1921,17 +1889,14 @@ One can always tell a Mexican by his peculiar habit of blowing through his cigar
 
 It is said, I know not how truly, that a Mexican town, in a corner near the Rio Grande, was, in the course of the revolution and counter- revolution of the contending vultures in 1917, cut off for a time from all communication with the rest of the country. Presumably everyone buried whatever cash he happened to have. At least it vanished rapidly and strangely. The city gasped. What the devil was to be done? Being folk of sense, they soon collected their wits and said: “All right. It's no good crying for the moon. We've got to go on exchanging wealth. We'll simply barter on credit and strike a weekly balance.
 
-“If anyone fancies he's got a soft thing —
-If we haven't got pesos we've plenty of string.”
+> “If anyone fancies he's got a soft thing —
+> 
+> If we haven't got pesos we've plenty of string.”
 
 The result was surprising. Business went on pretty well as in the past, with this remarkable difference: the motive for cheating and hording and gambling was gone. One could, of course, amass a fortune on the balance sheet of the town council; but it would be hard to cash in. So nobody troubled to outwit his neighbour or plot his ruin. They contented themselves with aiming at comfort and ease. Old enemies became fast friends; the usurers turned their hands to productive purposes; the loafers and spongers and gamblers realized that they must work or starve. The whole town prospered; poverty disappeared; financial anxiety ceased to exist; the moral tone of the community became almost angelic. Everyone had plenty to do, plenty to eat, plenty of leisure and plenty of pleasure. Everyone was happy. Of course it was too good to last. Communications were restored and a month later society had relapsed into a dog-fight for dollars.
 
-[« back to toc]
+### Chapter 24.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 24.
 Lying sick in the Hotel Iturbide, I was attended by an American doctor named Parsons, which whom I stuck up a warm friendship. He was certainly a “live wire”. The faculty had just devised as new source of income by inventing appendicitis. Parsons heard of this and wired to the States for a partner who could perform the operation. He then proceeded to advise immediate operation every time one of his many wealthy patients had a stomach-ache. At a thousand Mexican dollars a time, it did not take many months to pile up a fortune.
 
 The English colony in Mexico City was disliked and despised. The consul was habitually constipated and the vice-consul habitually drunk. It is a curious fact that all over the world these qualities never vary. A wide field is open the philosophical speculation.
@@ -1960,17 +1925,13 @@ All this time I had not forgotten my project of climbing the mountains of Mexico
 
 I do not know why I made no attempts on the peaks. Perhaps it was from an obscure feeling of comradeship. I preferred to wait till Eckenstein joined me, which he was to do towards the end of the year.
 
-[« back to toc]
+### Chapter 25.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 25.
 Meanwhile my magical condition was making me curiously uncomfortable. I was succeeding beyond all my expectations. In the dry pure air of Mexico, with its spiritual energy unexhausted and uncontaminated as it is in cities, it was astonishingly easy to produce satisfactory results. But my very success somehow disheartened me. I was getting what I thought I wanted and the attainment itself taught me that I wanted something entirely different. What that might be it did not say. My distress became acute; and, as I had done at the beginning, I sent out an urgent call for help from the Masters. It must have been heard at once, for little over a fortnight later I got a long letter from Fra. V.N. Though I had not written to him, he gave me the very word that I needed. It restore my courage and my confidence. I continued my work with deeper and truer understanding. I began to perceive the real implications of what I was doing. In particular, I gained an entirely new grip of the Cabbala.
 
 One of my results demands detailed record, because it proved later to be one of the foundations of the Great Work of my life. The word Abracadabra is familiar to everyone. Why should it possess such a reputation? Eliphas Lévi’s explanations left me cold. I began to suspect that it must be a corruption of some true “word of power”. I investigated it by means of the Cabbala. I restored its true spelling. Analysis showed it to be indeed the essential formula of the Great Work. It showed who to unite the Macrocosm with the Microcosm. I, therefore, adopted this word and its numerical value, 418, as the quintessentialized expression of the proper way to conduct all major Magical Operations.
 
-This discovery was only one of many. Before Allan Bennett left for Ceylon, he gave me most of his magical notebooks. One of these contained the beginnings of a Cabbalistic dictionary in which various sacred words were entered, not alphabetically, but according to their numerical value. I must explain that the fundamental idea of the Cabbala is that the universe may be regarded as an elaboration of the numbers from 0 to 10, arranged in a certain geometrical design and connected by twenty-two “paths”.[1] The problem is to acquire perfect comprehension of the essential nature of these numbers. Every phenomenon, every idea, may be referred to one or more numbers. Each is thus, so to say, a particular modification of the pure idea. Sacred words which add up to any number should be eloquent commentaries on one of its aspects. Thus the number 13 proves to be, as it were, an essay on the number 1. The words “unity” and “love”[2] both add up to 13. These ideas are therefore qualities of 1. Now, 26 combines the idea of duality, which is the condition of manifestation or consciousness, with this 13; and we find, accordingly, that 26 is the value of the name Jehovah. From this we see Him as the Demiourgos, the manifestation in form of the primordial One.
+This discovery was only one of many. Before Allan Bennett left for Ceylon, he gave me most of his magical notebooks. One of these contained the beginnings of a Cabbalistic dictionary in which various sacred words were entered, not alphabetically, but according to their numerical value. I must explain that the fundamental idea of the Cabbala is that the universe may be regarded as an elaboration of the numbers from 0 to 10, arranged in a certain geometrical design and connected by twenty-two “paths”.^[WEH Note: This refers to the “Tree of Life”, a method of literary criticism which has generalized itself to become a map of human consciousness. It is not and never has been “the fundamental idea of the Cabbalah,” but it is one of the most useful conceptions to emerge from that very diverse mystical complex.] The problem is to acquire perfect comprehension of the essential nature of these numbers. Every phenomenon, every idea, may be referred to one or more numbers. Each is thus, so to say, a particular modification of the pure idea. Sacred words which add up to any number should be eloquent commentaries on one of its aspects. Thus the number 13 proves to be, as it were, an essay on the number 1. The words “unity” and “love”^[WEH Note: In the Hebrew language.] both add up to 13. These ideas are therefore qualities of 1. Now, 26 combines the idea of duality, which is the condition of manifestation or consciousness, with this 13; and we find, accordingly, that 26 is the value of the name Jehovah. From this we see Him as the Demiourgos, the manifestation in form of the primordial One.
 
 For many years I worked on these lines continually, adding to Allan's nucleus, and ultimately making a systematic compilation. The resulting book was published in The Equinox, vol. I., no. VIII. It is the only dictionary of the Cabbala in existence that can claim any degree of completeness. Since its publication, of course, new knowledge has come to light and I hope to issue a revised edition in course of time. As it stands, however, it is the essential book of reference for the student. It can never be complete; for one thing, every student must create his own Cabbala. My conception, for instance, of the number 6 will not be identical to yours. The difference between you and me is, in fact, just this; you are capable of perceiving one set of aspects of absolute reality, I another. The higher our attainment, the more closely will our points of view coalesce, just as a great English and a great French historian will have more ideas in common about Napoleon Bonaparte than a Devonshire and a ProvinAal peasant. But there will always be more in any being than any man can know.
 
@@ -1980,7 +1941,7 @@ I agreed at once to his proposals and he taught me the principles of concentrati
 
 There were also practices in which I had to imagine certain sounds, scents, tastes and tactile sensations. Having covered this ground-work to his satisfaction, he allowed me to begin to visualize human figures. He told me that the human figure acts differently from any other object. “No one has ever managed to keep absolutely still.” There is also a definite test of success in this practice. The image should resolve itself into two; a smaller and a larger superimposed. It is said that by this means one can investigate the character of the person of whom one is thinking. The image assumes a symbolic form, significant of its owner's moral and intellectual qualities.
 
-I practised these things with great assiduity; in fact, Eckenstein put the brake on. One must not overstrain the mind. Under his careful tuition, I obtained great success. There is no doubt that these months of steady scientific work, unspoiled by my romantic fancies, laid the basis of a sound magical and mystic technique. Eckenstein evidently understood what I was later to learn from The Book of the Law: “For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect.”[3]
+I practised these things with great assiduity; in fact, Eckenstein put the brake on. One must not overstrain the mind. Under his careful tuition, I obtained great success. There is no doubt that these months of steady scientific work, unspoiled by my romantic fancies, laid the basis of a sound magical and mystic technique. Eckenstein evidently understood what I was later to learn from The Book of the Law: “For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect.”^[WEH Note: AL I,44]
 
 During this time we were busy with expeditions. Eckenstein had already been to the Himalayas (in 1892); he wanted to complete my education by experience of mountains higher than the Alps, and travel in rough country among primitive people. We began by establishing a camp on Iztaccihuatl, at about fourteen thousand feet. We remained there for a matter of three weeks and climbed this, the most beautiful mountain in Mexico, from every possible side. In doing so, we incidentally broke several world's records.
 
@@ -2004,7 +1965,7 @@ I think this incident rather important. In reading Mr. Lytton Strachey's Eminent
 
 It is hard to say why Queen Victoria should have seemed the symbol of this extraordinary state of suspended animation. Yet there was something in her physical appearance and her moral character which pointed to her as the perfect image of this inhibiting idea. The new generation, seeing their predecessors in perspective, perceive the individual qualities of each. There is nothing to tell them that in those days each one of us seethed with impotent rage at our doom. We were all damned with faint praise. Sir Richard Burton was toned down into a famous traveller and translator; Gordon sentimentalized into a warrior saint; Hardy was accepted as the Homer of Wessex; Meredith patted on the back as the modern Ovid. It was impossible to dynamite the morass of mediocrity. Progress was impossible. The most revolutionary proposals, the most blasphemous theories, lost their sting. A sovereign of suit, a parliament of putty, an aristocracy of alabaster, an intelligentsia of india-rubber, a proletariat of pulp; it was impossible to shape such material. The strongest impression was blunted by the inertia of the viscous glue which resisted nothing, but resumed its formlessness as soon as the immediate impulse of the impact was spent.
 
-England had become a hausfrau's idea of heaven, and the empire an eternal Earl's Court exhibition. This was the real reason why people who loved England, like Tom Broadbent in John Bull's Other Island, used to indulge in spasms of glee whenever we happened to have a corporal's file ambushed by some horde of savages.[4]
+England had become a hausfrau's idea of heaven, and the empire an eternal Earl's Court exhibition. This was the real reason why people who loved England, like Tom Broadbent in John Bull's Other Island, used to indulge in spasms of glee whenever we happened to have a corporal's file ambushed by some horde of savages.^[P.S. — And in 1929 I find myself rather regretting those “spacious days”!]
 
 Our next expedition was to the Colima District. The mountain is here divided into two very distinct sections; one is snow-clad, the other one of the most frequently active volcanoes in the world. Going over the shoulder of the Nevado, we emerged from a forest to get our first view of the Volcan, some twelve miles away. As we watched, an eruption occurred. The wind was blowing towards us and the next thing we knew was that falling ashes were burning little holes in our clothes. We began to suspect that the ascent might be troublesome. We settled the Nevado straight off. The climbing is of little interest and no difficulty. Then we camped on a spur for a week, and took turns, day and night, to watch the behaviour of the volcano. The inspection was disappointing; we could not discover any periodicity in the explosions; we could simply take our chance. We started accordingly; but, finding our feet beginning to burn through our boots, decided to retire gracefully.
 
@@ -2030,22 +1991,8 @@ The journey from Vera Cruz back to the city is to my mind the finest in the worl
 
 We had intended to finish our programme by climbing Citlatepetl; but there were difficulties about mules and none about the mountain. We were too bored to trouble to climb it. Somehow or other, the current of our enthusiasm had become exhausted. We had achieved all our real objects and the next thing was to get ready for the Himalayas. Eckenstein returned to England and on the twentieth of April I started for San Francisco, westward bound. My objective was a curious one. Since leaving England, I had thought over the question of the authority of Mathers with ever increasing discomfort. He had outraged every principle of probity and probability; but he was justified, provided that his primary postulate held good. I could think of only one way of putting him to the test. It concerned an episode at which Allan Bennett was present. Allan, and he alone, could confirm the account which Mathers had given me. If he did so, Mathers was vindicated; if not, it was fatal to his claims. It seems absurd to travel eight thousand miles to ask one question — a childish question into the bargain! — but that was what I did. The sequel will be told in the proper place.
 
-Footnotes:
+### Chapter 26.
 
-[1] WEH Note: This refers to the “Tree of Life”, a method of literary criticism which has generalized itself to become a map of human consciousness. It is not and never has been “the fundamental idea of the Cabbalah,” but it is one of the most useful conceptions to emerge from that very diverse mystical complex.
-
-[2] WEH Note: In the Hebrew language.
-
-[3] WEH Note: AL I,44
-
-[4] P.S. — And in 1929 I find myself rather regretting those “spacious days”!
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 26.
 I broke the journey at El Paso. Coming straight from the quiet civilization of Mexico it was a terrible shock to find myself in touch with the coarse and brutal barbarism of Texas. There are many unpleasant sides of life which cannot be avoided without shirking reality altogether; but in the United States they were naked and horrible. The lust of money raged stark without the softening influences of courtesy. Drunkenness was stripped of good fellowship; the sisterhood of sin presented no deceptive attractions. The most idealistic innocent could not have been under a moment's illusion — they were stalled like cattle in rows of wooden shanties; and they carried on their business with fierce commercial candour. All those little grace of life which make bought kisses tolerable to those sensitive people who are willing to be fooled, were absent.
 
 I strolled across to Juarez to kiss my girl goodbye. O Mexico, my heart still throbs and burns whenever memory brings you to my mind! For many other countries I have more admiration and respect, but none of them rivals your fascination. Your climate, your customs, your people, your strange landscapes of dreamlike enchantment rekindle my boyhood.
@@ -2058,11 +2005,15 @@ It was a glorified El Paso, a madhouse of frenzied money-making and frenzied ple
 
 California got on my nerves. Life in all its forms grew rank and gross, without a touch of subtlety. I embodied this feeling in a sonnet:
 
-      gross and great
-Her varied fruits and flowers alike create
-Glories most unimaginable . . .
-yet this is sore,
-A stain; not one of these is delicate.
+> gross and great
+> 
+> Her varied fruits and flowers alike create
+> 
+> Glories most unimaginable . . .
+> 
+> yet this is sore,
+> 
+> A stain; not one of these is delicate.
 
 For some time, I had been contemplating a lyric poem in which everything in the world should be celebrated in detail. It was a crazy notion — one of those fantastic follies which is impossible in nature — a species of literary “squaring the circle”. I doubt whether it was a genuine impulse. Its motive was the vanity and vulgarity of attempting something big. It was the American passion for tall buildings and record processions in another form. It was the probably my reaction to the spiritual atmosphere of California. In any case, the worst happened. I began it! The best plan will be to describe what happened and get it over.
 
@@ -2100,7 +2051,7 @@ Anyhow, I decided to spend a month on Waikiki Beach. I had a vague idea of getti
 
 I went on with my magical and other work; in particular, I invented a practice which has proved very useful. Its object is to prevent mosquitoes from biting one. The method is: to love them. One reminds oneself that the mosquito has as much right to his dinner as a man has. It is difficult to get the exact shade of feeling and more so to feel it. One begins by lying defenceless against the enemy and sternly repressing the impulse to wave, to slap and to scratch. After a little perseverance, one finds that the bites no longer become inflamed; and this preliminary success is soon followed by complete protection. The will not bite one at all.
 
-But my horizon gradually filled with romantic love and other occupations faded little by little. The woman was herself worthless from the points of view of the poet. Only very exceptional characters are capable of producing the positive effect; but it is just such women as Alice who inspire masterpieces, for they do not interfere with one's work. Passionately as I was in love, and crazily as I was behaving in consequence, I was still able to make daily notes of the progress of the affair with the detached cynicism of a third party. I took her with me to Japan[1], but there was not enough in her character to count “the world well lost for love”. Exactly fifty days after I had met her she beat it back to her “provider”; and I understood immediately why my subconsciousness had insisted on my scribbling the details of our liaison in my diary.
+But my horizon gradually filled with romantic love and other occupations faded little by little. The woman was herself worthless from the points of view of the poet. Only very exceptional characters are capable of producing the positive effect; but it is just such women as Alice who inspire masterpieces, for they do not interfere with one's work. Passionately as I was in love, and crazily as I was behaving in consequence, I was still able to make daily notes of the progress of the affair with the detached cynicism of a third party. I took her with me to Japan,^[On the America Manu. There were many ladies on board: the wife of a railway magnate, the consul's daughter, ad so on. In reality, they were all whores destined for various brothels in Japan or Shanghai, where American ladies fetch absurd prices.] but there was not enough in her character to count “the world well lost for love”. Exactly fifty days after I had met her she beat it back to her “provider”; and I understood immediately why my subconsciousness had insisted on my scribbling the details of our liaison in my diary.
 
 The departure of Alice inspired me to write the story of our love in a sonnet sequence. Each day was to immortalize its events in poetry. This again was one of my characteristically crude ideas, yet the result was surprisingly good — much better, perhaps, than I ever thought, or think now. No less a critic than Marcel Schwob called it “a little masterpiece”. And many other people of taste and judgment have professed themselves in love with it. Possibly the simplicity of its realism, its sincere and shame-free expression of every facet of my mind, constitute real merit. It is certainly true that most people find much of my work hard to read. The intensity of my passion, the profundity of my introspection, and my addiction to obscure allusions, demand the reader serious study, that he may grasp my meaning; and subsequent re-reading after my thought has been assimilated; until, no intellectual obstacle interrupting, he may be carried away by the current of my music and swept but it into the ocean of ecstasy which I myself reached when I wrote the poem. I am aware that few modern readers are capable of settling down deliberately to decipher me. And those who are may for that very reason be incapable of the orgiastic frenzy. Scholarship and passion rarely go together. But my muse is the daughter of Hermes and the mistress of Dionysus.
 
@@ -2110,8 +2061,9 @@ My most interesting impression was Kamakura. The Daibutsu, colossal amid his gar
 
 Already there had arisen in me the aspiration to attain to states whose very possibility I did not suspect; already I was aware, in the abyss of my heart, secret and silent, that I was Alastor, the wanderer in the wilderness, the Spirit of Solitude. For Kamakura, calmly certain of its soul-searching accents, called to me to abide in the security of its shadow, there to toil even as the Buddha had done, that I might come to the perfect Illumination, and thereby being made free from all the fetters of falsehood, being to mankind the Word of Wisdom and magic that hath might to enlighten their eyes, to heal their hearts, and to bring them to a stage of spiritual evolution such that their poets could not longer lament, as I:
 
-Nothing is stranger to men
-Than silence, and wisdom, and kindness.
+> Nothing is stranger to men
+> 
+> Than silence, and wisdom, and kindness.
 
 I inquired as to the possibility of settling down on one of the neighbouring monasteries; but somehow my instinct opposed my intention. The Inmost knew that my destiny lay elsewhere. The Lords of Initiation cared nothing for my poetic fancies and my romantic ideals. They had ordained that I should pass through every kind of hardship at the hands of nature, suffer all sorrow and shame that life can inflict. Their messenger must be tested by every ordeal — not by those that he himself might choose. The boy who, asked to discuss some point of doctrine in the Epistles, replied, “Far be it from me to presume to parley with St. Paul: let me rather give a list of the kings of Israel and Judah!” (the only thing he knew), probably became a Cabinet minister; but similar adroitness does not avail the aspirant to adeptship. The Masters test every link in turn, infallibly and inexorably; it is up to you to temper your steel to stand the strain; for one flaw means failure and you have to forge it all afresh in the fires of fate, retrieve in a new incarnation the lost opportunity of the old.
 
@@ -2139,22 +2091,12 @@ On the boat from Yokohama to Shanghai were two American spinsters of the faded v
 
 Thomas Hardy was a tall, dignified, venerable figure, with a patriarchal beard and manner equally courteous and authoritative. I had not known he was a clergyman — as his costume assured me. After a little conversation, I began to surmise dimly that there was something wrong, and might have said something tactless if he had not volunteered an account of his literary career and been quite unaware of the existence of the Mayor of Casterbridge. He was the “great” Thomas Hardy, the only and original bird, the chaplain to the forces at Hong Kong and author of How to be happy though married. I don't know how I kept my face straight.
 
-As a matter of fact, he was perfectly human and even contributed a quite valuable item of information as to the psychology of publishers. He had aproached one of these ineffable imbeciles[2] with his book and been told that while the text was all that could be desired, it was quite impossible to publish a book with that title. The reverend gentleman had the good sense to reply,
+As a matter of fact, he was perfectly human and even contributed a quite valuable item of information as to the psychology of publishers. He had aproached one of these ineffable imbeciles^[“Present Company Always Excepted”. (WE ARE NOT SO SURE).] with his book and been told that while the text was all that could be desired, it was quite impossible to publish a book with that title. The reverend gentleman had the good sense to reply,
 
 “You blasted jackass — God damn your soul to Hell! (or words to that effect). Do anything you like with the book, but leave the title alone!” He cowed them and they complied, with the result that the book sold by hundreds of thousands.
 
-Footnotes:
+### Chapter 27.
 
-[1] On the America Manu. There were many ladies on board: the wife of a railway magnate, the consul's daughter, ad so on. In reality, they were all whores destined for various brothels in Japan or Shanghai, where American ladies fetch absurd prices.
-
-[2] “Present Company Always Excepted”. (WE ARE NOT SO SURE).
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 27.
 I sailed for Ceylon, chiefly because I had said I would go, certainly not in the hope of assistance from Allan. Perhaps because I had found my feet, he was, as will appear, allowed to guide them, in what seemed at first sight a new Path. I had got to learn that all roads lead to Rome. It is proper, more, it is prudent, more yet, it is educative, for the aspirant to pursue all possible Ways to Wisdom. Thus he broadens the base of his Pyramid, thus he diminishes the probability of missing the method which happens to suit him best, thus he insures against the obsession that the goat-track of his own success in the One Highway for all men, and thus he discounts the disappointment of discovering that he is not the Utter, the Unique, when it becomes plain that Magick, mysticism, and the mathematics are triplets, and that the Himalayan Brotherhood is to be found in Brixton.
 
 I say little of Singapore; I say enough when I say that its curries, with their vast partitioned platter of curious condiments to lackey them, speak for themselves. They sting like serpents, stimulate like strychnine; they are subtle and sensual like Chinese courtesans, sublime and sacred, inscrutably inspiring and unintelligibly illumination, like Cambodian carvings.
@@ -2191,13 +2133,13 @@ The official record is subjoined.
 
 D.D.C.F., Mathers, had told me a certain incident which had taken place between himself and Bennett as follows:
 
-He and I.A. had disagreed upon an obscure point in theology, thereby formulating the accursed Dyad, thereby enabling the Abra-Melin demons to assume material form: one in his own shape, another in that of I.A. Now, the demon that looked like I.A. had a revolver, and threatened to shoot him (D.D.C.F.), while the demon that resembled himself was equally anxious to shoot I.A. Fortunately, before the demons could fire, V.N.R. (Mrs. Mathers) came into the room, thus formulating the symbol of the Blessed Trinity.
-
-Frater I.A.'s account was less of a strain upon P.'s faculties of belief. They had had, he said, an argument about the God Shiva, the Destroyer, whom I.A. worshipped because, if one repeated his name often enough, Shiva would one day open his eye and destroy the universe, and whom D.D.C.F. feared and hated because He would one day open His eye and destroy D.D.C.F. I.A. closed the argument by assuming the position Padmasana and repeating the Mantra: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.” D.D.C.F., angrier than ever, sought the sideboard, but soon returned, only to find Frater I.A. still muttering: “Shiva, Shiva, Shiva, Shiva, Shiva.” “Will you stop blaspheming?” cried D.D.C.F.; but the holy man only said: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.” “If you don't stop I will shoot you!” said D.D.C.F., drawing a revolver from his pocket and leveling it at I.A.'s head; but I.A., being concentrated, took no notice and continued to mutter: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.”
-
-Whether overawed by the majesty of the saint or interrupted by the entry of a third person, I.A. no longer remembered, but D.D.C.F. never pulled the trigger.
-
-Mathers thus disposed of, to business!
+> He and I.A. had disagreed upon an obscure point in theology, thereby formulating the accursed Dyad, thereby enabling the Abra-Melin demons to assume material form: one in his own shape, another in that of I.A. Now, the demon that looked like I.A. had a revolver, and threatened to shoot him (D.D.C.F.), while the demon that resembled himself was equally anxious to shoot I.A. Fortunately, before the demons could fire, V.N.R. (Mrs. Mathers) came into the room, thus formulating the symbol of the Blessed Trinity.
+> 
+> Frater I.A.'s account was less of a strain upon P.'s faculties of belief. They had had, he said, an argument about the God Shiva, the Destroyer, whom I.A. worshipped because, if one repeated his name often enough, Shiva would one day open his eye and destroy the universe, and whom D.D.C.F. feared and hated because He would one day open His eye and destroy D.D.C.F. I.A. closed the argument by assuming the position Padmasana and repeating the Mantra: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.” D.D.C.F., angrier than ever, sought the sideboard, but soon returned, only to find Frater I.A. still muttering: “Shiva, Shiva, Shiva, Shiva, Shiva.” “Will you stop blaspheming?” cried D.D.C.F.; but the holy man only said: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.” “If you don't stop I will shoot you!” said D.D.C.F., drawing a revolver from his pocket and leveling it at I.A.'s head; but I.A., being concentrated, took no notice and continued to mutter: “Shiva, Shiva, Shiva, Shiva, Shiva, Shiva.”
+> 
+> Whether overawed by the majesty of the saint or interrupted by the entry of a third person, I.A. no longer remembered, but D.D.C.F. never pulled the trigger.
+> 
+> Mathers thus disposed of, to business!
 
 What of the Great Work? Did it become absurd with Mathers? No more than Everest ceases to attract when the Alpine Club caps incompetence with manslaughter!
 
@@ -2209,12 +2151,8 @@ He expressed the elements of Yoga. I said, “Your health will improve in a clim
 
 An appeal couched in such chastely correct yet politely passionate phraseology could not fail to bury its barb in the bull's eye. Allan “prayed permission to quit the presence” of the pious Prananda, whose arrogance and meanness be equated with his scholarship and sanctity. We sampled Kandy — which has delights (permit the pun for the advertisement!) unsuspected by “Mary Elizabeth”. We took a furnished bungalow called “Marlobrough” (God knows why!) on the hills, by a stream, with waterfall complete, overlooking the lake, the temple and an amateur attempt at an hotel. We hired a hopeless headman, who sub-hired sleepy and sinister servants and dismissed all these damnable details from our minds, devoting ourselves with diabolical determination and saintly simplicity to the search for a spiritual solution to the material muddle. Our sojourn, short as it was by worldly reckoning, proved to be pregnant with events of internal import. The tyrant time took his first wound in Kandy.
 
-[« back to toc]
+### Chapter 28.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 28.
 Allan's adventures in Ceylon had been varied. His first idea had been to take the Yellow Robe; that is, to become a member of the Buddhist Sangha. These men are not priests or monks, as we understand the words; it is hard for European minds to understand the conditions of their life. They have renounced the world and live as mendicants; but it may be stated roughly that the rules of their Order, which are very complex and often seem irrational or frivolous, are all devised in the interest of a single idea. Each rule meets some probably contingency. But in every case the object is to enable the bhikkhu to carry out his programme of spiritual development. There are no superstitious terrors, no propitiatory practices; the while object is to enable a man to free himself from the fetters of desire which hamper his actions, and (incidentally) produce the phantasms which we call phenomena. In Buddhism, the universe is conceived as an illusion, created by ignorant cravings. It is, in fact, a dream as defined by Freud's hypothesis.
 
 Allan was already at heart a Buddhist. The more he studied the Tripitika, “the three baskets of the law” — waste paper baskets I used to call them — the more he was attracted, but he was fearfully disappointed by the degeneracy of the Singalese bhikkhus. With rate exceptions, they were ignorant, idle, immoral and dishonest. At Anuradhapura, the sacred ruined city, there conduct is so openly scandalous as to have given rise to a proverb: “A bhikkhu is made, not born — except at Anuradhapura.” Allan had been offered the post of treasurer to a famous monastery outside Colombo, for the avowed reason that they could not trust any one of themselves. Considering that a bhikkhu is not allowed to touch money at all, this was rather the limit.
@@ -2251,21 +2189,21 @@ One may remark at this point that such precaution seems absurd; but until one be
 
 Pratyahara is introspection. One obtains the power of analysing an apparently simple thought or impression into its elements. One can, for example, teach oneself to feel separately the numberless impressions connected with the act of crooking one's fingers. This is a revelation in itself; so simple a muscular movement is found to contain an epic of deliciously exciting ingredients. The idea is, of course, not to enjoy such pleasures, subtle and exquisite as they are; but by analysing thoughts and impressions to detect their prodromal symptoms and nip them in the bud. Also, to understand and estimate them by detailed examination. One important result of this is to appreciate the unimportance and equivalence of all thoughts, very much as modern chemistry has put and end to the medieval nonsense about the sacredness of some compounds and the wickedness of others. Another is to give one a clear and comprehensive view of the elements of the universe as a whole.
 
-Dharana, concentration, is now easier to practise. One has learnt what interruptions to expect and how to prevent them. We, therefore, make a definite attack on the multiplicity of thoughts by fixing the mind on one. In my Book Four, Part I, I have copied from my diary at this period an attempt at classification of invading ideas. I am very proud of this apparently simple observation and it will aid the reader to understand my work in Kandy if I insert it.
+Dharana, concentration, is now easier to practise. One has learnt what interruptions to expect and how to prevent them. We, therefore, make a definite attack on the multiplicity of thoughts by fixing the mind on one. In my *Book Four*, Part I, I have copied from my diary at this period an attempt at classification of invading ideas. I am very proud of this apparently simple observation and it will aid the reader to understand my work in Kandy if I insert it.
 
-Breaks are classed as follows:
+*Breaks* are classed as follows:
 
-Firstly, physical sensations. These should have been overcome by Asana.
+*Firstly*, physical sensations. These should have been overcome by Asana.
 
-Secondly, breaks that seem to be dictated by events immediately preceding the meditation. Their activity becomes tremendous. Only by this practice does one understand how much is really observed by the senses without the mind becoming conscious of it.
+*Secondly*, breaks that seem to be dictated by events immediately preceding the meditation. Their activity becomes tremendous. Only by this practice does one understand how much is really observed by the senses without the mind becoming conscious of it.
 
-Thirdly, there is a class of breaks partaking of the nature of reverie or “daydreams”. These are very insidious — one may go on for a long time without realizing that one has wandered at all.
+*Thirdly*, there is a class of breaks partaking of the nature of reverie or “daydreams”. These are very insidious — one may go on for a long time without realizing that one has wandered at all.
 
-Fourthly, we get a very high class of break, which is as sort of aberration of the control itself. You think, “How well I am doing it!” or perhaps that it would be rather a good idea if your were on a desert island, or if your were in a sound-proof house, or if your were sitting by a waterfall. But these are only trifling variations from the vigilance itself.
+*Fourthly*, we get a very high class of break, which is as sort of aberration of the control itself. You think, “How well I am doing it!” or perhaps that it would be rather a good idea if your were on a desert island, or if your were in a sound-proof house, or if your were sitting by a waterfall. But these are only trifling variations from the vigilance itself.
 
-A fifth class of breaks seems to have no discoverable source in the mind. Such may even take the form of actual hallucination, usually auditory. Of course, such hallucinations are infrequent and are recognized for what they are; otherwise the student had better see his doctor. The usual kind consists of odd sentences or fragments of sentences, which are heard quite distinctly in a recognizable human voice, not the student's own voice or that of any one he knows. A similar phenomenon is observed by wireless operators, who call such messages “atmospherics”.
+A *fifth class of breaks* seems to have no discoverable source in the mind. Such may even take the form of actual hallucination, usually auditory. Of course, such hallucinations are infrequent and are recognized for what they are; otherwise the student had better see his doctor. The usual kind consists of odd sentences or fragments of sentences, which are heard quite distinctly in a recognizable human voice, not the student's own voice or that of any one he knows. A similar phenomenon is observed by wireless operators, who call such messages “atmospherics”.
 
-There is a further kind of break, which is the desired result itself. It must be dealt with later in detail.
+There is *a further kind of break, which is the desired result itself.* It must be dealt with later in detail.
 
 Dhyana is the name of the first trance. By trance I mean a state of consciousness definitely distinct from the normal. Its characteristic is that whereas in normal consciousness two things are always present — the percipient and the perceived — in Dhyana these two have become one. At first this union usually takes place with explosive violence. There are many other characteristics; in particular, time and space are abolished. This, however, occurs with almost equal completeness in certain states of normal abstract thought.
 
@@ -2273,15 +2211,11 @@ The attainment of this trance is likely to upset the whole moral balance of the 
 
 Samadhi, “Union with the Lord”, is the general term for the final trance, or rather, series of trances. It differs from Dhyana in this way: Dhyana is partial, Samadhi is universal. In the first Samadhi, the universe is perceived as a unity. In the second that unity is annihilated. There are, however, may other Samadhis, and in any case the quality of the trance will depend upon the extent of the universe which enters into it. One must really be a profound philosopher with a definite intellectual conception of the universe as an organic whole, based on the co-ordination of immense knowledge, before one can expect really satisfactory results. The Samadhi of an ignorant and shallow thinker who has failed to co-ordinate his conceptions of the cosmos will not be worth very much.
 
-[« back to toc]
+### Chapter 29.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 29.
 The general idea of Eastern religions is that any manifestation of being is necessarily imperfect, since it is not the sum of all truth. (For, if it were, it would not be distinguishable from any other manifestation). Hence, its nature is evil and its effect on the mind to create sorrow. Their idea is to destroy all thought as being false and painful. Their idea is liberation from the illusion of existence. The effect of Samadhi is firstly to produce the bliss which comes from the relief from pain. Later, this bliss disappears and one attains perfect indifference.
 
-But we need not go so far into their philosophy or accept it. Thanks partly to William James' Varieties of Religious Experience, I got the idea of employing the methods of Yoga to produce genius at will. James points out that various religious teachers attained their power to influence mankind in what is essentially the same way; that is, by getting into Samadhi. The trance gives supreme spiritual energy and absolute self-confidence; it removes the normal inhibitions to action. I propose then that any man should use this power to develop his faculties and inspire his ambitions by directing the effects of the trance into the channel of his career. This idea at once connects mysticism with Magick; for one of the principal operations of Magick is to invoke the god appropriate to the thing you want, identify yourself with Him and flood your work with His immaculate impulse. This is, in fact, to make Samadhi with that God. The two processes are essentially identical; the apparent difference arises merely from the distinction between the European and Asiatic conceptions of the cosmos. Most European religion, including orthodox Judaism, is anthropomorphic, an expansion of the moral ideas connected with the members of a family. Asiatic religions[1], even when superficially theistic, always imply an impersonal universe. One idealized human forces; the other, the forces of nature.
+But we need not go so far into their philosophy or accept it. Thanks partly to William James' Varieties of Religious Experience, I got the idea of employing the methods of Yoga to produce genius at will. James points out that various religious teachers attained their power to influence mankind in what is essentially the same way; that is, by getting into Samadhi. The trance gives supreme spiritual energy and absolute self-confidence; it removes the normal inhibitions to action. I propose then that any man should use this power to develop his faculties and inspire his ambitions by directing the effects of the trance into the channel of his career. This idea at once connects mysticism with Magick; for one of the principal operations of Magick is to invoke the god appropriate to the thing you want, identify yourself with Him and flood your work with His immaculate impulse. This is, in fact, to make Samadhi with that God. The two processes are essentially identical; the apparent difference arises merely from the distinction between the European and Asiatic conceptions of the cosmos. Most European religion, including orthodox Judaism, is anthropomorphic, an expansion of the moral ideas connected with the members of a family. Asiatic religions,^[Including the oldest Greek religion in its best aspects.] even when superficially theistic, always imply an impersonal universe. One idealized human forces; the other, the forces of nature.
 
 The diary describing my practices had been printed in The Equinox, vol. I, no. IV. It is very fortunate that it should have been kept in such detail, for it is a matter for surprise that such progress should have been made in so short a time. But I started with several great advantages: youth, indomitable determination to devote every energy to the work, a technical training under Eckenstein, and the constant presence of one to whom I could immediately submit any issue that might arise.
 
@@ -2317,13 +2251,13 @@ Another experience was this: I found myself at one and thee same moment consciou
 
 I continually increased the number of hours which I devoted to my work. On October 2nd, to my amazement, I was successful in reaching the state of Dhyana. The experience was repeated on the following day. I quote the record verbatim:
 
-After some eight hours' discipline by Pranayama arose “the Golden Dawn”.
-
-While meditating, suddenly I became conscious of a shoreless space of darkness and a glow of crimson athwart it. Deepening and brightening, scarred by dull bars of slate-blue cloud, arose the Dawn of Dawns. In splendour not of earth and its mean sun, blood-red, rayless, adamant, it rose, it rose! Carried out of myself, I asked not “Who is the witness?” absorbed utterly in contemplation of so stupendous and so marvellous a fact. For there was no doubt, no change, no wavering; infinitely more real than aught physical is the Golden Dawn of this Eternal Sun! But ere the Orb of Glory rose clear of its banks of blackness — alas my soul! — that Light Ineffable was withdrawn beneath the falling veil of darkness, and in purples and greys glorious beyond imaging, sad beyond conceiving, faded the superb Herald of the Day. But mine eyes have seen it! And this, then, is Dhyana! Whit it, yet all but unremarked, came a melody as of the sweet-souled Vina.
+> After some eight hours' discipline by Pranayama arose “the Golden Dawn”.
+> 
+> While meditating, suddenly I became conscious of a shoreless space of darkness and a glow of crimson athwart it. Deepening and brightening, scarred by dull bars of slate-blue cloud, arose the Dawn of Dawns. In splendour not of earth and its mean sun, blood-red, rayless, adamant, it rose, it rose! Carried out of myself, I asked not “Who is the witness?” absorbed utterly in contemplation of so stupendous and so marvellous a fact. For there was no doubt, no change, no wavering; infinitely more real than aught physical is the Golden Dawn of this Eternal Sun! But ere the Orb of Glory rose clear of its banks of blackness — alas my soul! — that Light Ineffable was withdrawn beneath the falling veil of darkness, and in purples and greys glorious beyond imaging, sad beyond conceiving, faded the superb Herald of the Day. But mine eyes have seen it! And this, then, is Dhyana! Whit it, yet all but unremarked, came a melody as of the sweet-souled Vina.
 
 Next day:
 
-Again, by the grace Ineffable of Bhavani to the meanest of Her devotees, arose the Splendour of the Inner Sun. As bidden by my guru, I saluted the Dawn with Pranava. This, as I foresaw, retained the Dhyanic consciousness. The Disk grew golden; rose clear of all its clouds, flinging great fleecy cumuli of rose and gold, fiery with light, into the aethyr of space. Hollow it seemed and rayless as the Sun in Sagittarius, yet incomparably brighter: but rising clear of cloud, it began to revolve, to coruscate, to throw off streamers of jetted fire! (This from a hill-top I held, dark as of a dying world. Covered with black decayed wet peaty wood, a few pines stood stricken, unutterably alone.) (Note. This is a mere thought form induced by misunderstanding the instruction of Mâitrânanda Swami as to observing the phenomenon.) But behind the glory of its coruscations seemed to shape an idea, less solid than a shadow! an Idea of some Human seeming Form! Now grew doubt and thought in P's miserable mind; and the one Wave grew many waves and all was lost! Alas! Alas! for P! And Glory Eternal unto Her, She the twin-Brested that hath encroached even upon the other half of the Destroyer! “OM Namo Bhâvaniya OM.”
+> Again, by the grace Ineffable of Bhavani to the meanest of Her devotees, arose the Splendour of the Inner Sun. As bidden by my guru, I saluted the Dawn with Pranava. This, as I foresaw, retained the Dhyanic consciousness. The Disk grew golden; rose clear of all its clouds, flinging great fleecy cumuli of rose and gold, fiery with light, into the aethyr of space. Hollow it seemed and rayless as the Sun in Sagittarius, yet incomparably brighter: but rising clear of cloud, it began to revolve, to coruscate, to throw off streamers of jetted fire! (This from a hill-top I held, dark as of a dying world. Covered with black decayed wet peaty wood, a few pines stood stricken, unutterably alone.) (Note. This is a mere thought form induced by misunderstanding the instruction of Mâitrânanda Swami as to observing the phenomenon.) But behind the glory of its coruscations seemed to shape an idea, less solid than a shadow! an Idea of some Human seeming Form! Now grew doubt and thought in P's miserable mind; and the one Wave grew many waves and all was lost! Alas! Alas! for P! And Glory Eternal unto Her, She the twin-Brested that hath encroached even upon the other half of the Destroyer! “OM Namo Bhâvaniya OM.”
 
 The result of this attainment was what I should least have expected. I was not encouraged to proceed; it seemed as if I had used up the accumulated energy of years. I found it impossible to force myself to continue. It was nearly two years before I resumed any regular practice.
 
@@ -2347,16 +2281,8 @@ But the matter does not end there. Official science, which can always be relied 
 
 Zodacare, eca, od zodameranu! Odo kikalé Qaa! Zodoreje, lape Zodiredo Noco Mada, Hoathahe IAIDA!
 
-Footnotes:
+### Chapter 30.
 
-[1] Including the oldest Greek religion in its best aspects.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 30.
 We came into contact, on one occasion, with the relations between the people and the government. The British official in Ceylon is a very different person from his Indian colleague. He is not “heaven-born” in the same consecrated and ineluctable way. He has failed to convince himself of his superiority to mere created beings; so his airs of authority do not become him. He feels himself a bit of an upstart. Ceylon is full of half-casts, Dutch, English and Portuguese, and the white man feels himself somehow compromised by their presence. They remind him of his poor relations and make him feel as the inhabitants of Dayton, Tennessee, and some others do in a monkey-house. A similar situation exists in the southern states of America, where the pure whites are outnumbered by the negroes, and where a large population of mixed blood provides the logical link. In south Africa, again, we find the same situation; and the practical result is that the white man, feeling his footing insecure, dares not tolerate the native as he can in India, where the relations between the population and the conquering invader are understood by both parties. The Singalese government is inclined to be snappish.
 
 One evening Allan and I were meditating, as usual. The servants were absent for some reason; some marauder took the opportunity to break in and steal my cash box. I am ashamed to say that I was stupid enough to report the incident to the police. A day or two later an alleged inspector appeared, made various inquiries and went off. He took with him my pocket compass, under the impression that it was my watch! This time, of course, we could identify the thief, who had been playing this game all over the island. He was caught and put in the dock; but escaped conviction on some technicality. But I remember the incident acutely on account of the conversation I had with the magistrate, who explained that the man might be flogged for this offence. He spoke of the punishment with a shudder — it was terrible to witness; but his tones displayed intense sadistic pleasure at the idea. It was my first glimpse of the bestial instincts of the average respectable and cultured Englishman. I had not really believed what I had read in Krafft-Ebing about perverse pleasures of this sort; I could not understand cruelty.
@@ -2405,12 +2331,8 @@ One of the great sights of south India is the great temple of the Shivalingam. I
 
 The Hindu is of course a slave to his superstitions about sin even more than most nominal Christians, for the simple reason that he is absolutely serious about the welfare of his soul. I remember coming across a tribe which did not use tobacco. I offered them some and they refused. I supposed it was forbidden by their religion, but they told me no. It was, however, not commanded by their religion; they could therefore see no object in doing it. The Hindu attitude towards sin, absurd as it is, compares favourably with ours; because, though afraid of it, they have not reached our own state of panic which makes us the prey of the most fantastic superstitions and perversions of truth. I have found it practically impossible to convince middle-class Anlgo-Saxons of facts which anyone would think were bound to be known. They take refuge in angry denial. It seems to them that if they once admit the most elementary and obvious propositions, they are bound to fall headlong into a bottomless pit of bestiality. Where, in fact, they always are.
 
-[« back to toc]
+### Chapter 31.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 31.
 In course of time I arrived at Madras, which is sleepy, sticky and provincial. On one of my steamship journeys I had met a delightful man named harry Lambe, who had invited me to come and stay with him in Calcutta. It fitted in ideally and I booked my passage by the steamer Dupleix. It would have been more natural to go by train; but part of my plan in wandering about the world was to put myself in unpleasant situations on purpose, provided that they were new. This small French boat offered an adventure.
 
 A storm was raging; the Dupleix was some days late, and when she arrived, it was too rough for her to come into the harbour. I had to row out to her in an open boat. I had dismissed my servant and was the only passenger from shore. I note the fact as showing that I had in a sense broken with the past; the point will appear in a few paragraphs.
@@ -2461,12 +2383,8 @@ I remember visiting a forest officer up country in Ceylon. We dined with him on 
 
 In order to cross the Arakans to Akyab, we obtained various credentials from the authorities, especially a letter to the forest commissioner of the district that he might provide us with elephants. We engaged a servant, a man from Madras, whose name was Peter. The first question one asks of a servant in India is: his religion? Peter amused us by replying that he was “a free man, a Roman Catholic”. Outside subscribers to missionary societies, everyone is aware what is implied by the term “native Christians”. Anyone who is such an absolute scoundrel as to exceed the very wide latitude of his environment, who makes himself intolerable to his family, friends and neighbours, cuts the painter and “finds Jesus”. Conversion is a certificate of incorrigible rascality. We should not have taken a Christian if we could have found anyone else who spoke English and Hindustani. The inconceivable pettiness of the thefts of Peter was to me a revelation of the possibilities of human degradation. It was combined with such cowardice of conscience that one could understand easily why the “native Christian” invariably calls on his deathbed for the minister of his original religion.
 
-[« back to toc]
+### Chapter 32.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 32.
 On the twenty-fifth of January we left Rangoon for Prome. Arrived at Prome, we immediately went on board the steam ferry Amherst. It is a five hours' journey to Thayetmyo, where we arrived in the heat of the day, after a very pleasant journey, thanks partly to the beauty of the scenery, but perhaps more to the geniality of the captain. We got three bullock carts for our transport and started the next morning, stopping at Natha for lunch after a pleasant journey of ten miles. After lunch we went off to Kyoukghyi.
 
 The next day we resumed our journey; I walked most of the way and shot some partridges and pigeons for lunch, which we took at Leh-Joung; this is bungalow, but a not a village. We went on in the afternoon to Yegyanzin, fortune to meet Garr, where we had the good the forest commissioner of theUnfortunately he was unable district, and his assistant Hopwood. to give to have no difficulty in getting me any elephants, as they were all in use; but told me I ought coolies and probably ponies if I required them. We forces and had quite a nice dinner combined together. One does not realize until one meets them in how nice Englishmen really are out-of-the-way places. Sometimes not even then.
@@ -2481,22 +2399,37 @@ The next day I was naturally feeling very tired; but in the afternoon I summoned
 
 The headman now returned and told us that he could not give us coolies to cross the Arakan Hills, nobody had ever been there, and it was very dangerous, and everyone who went there died, and all that sort of thing. But he could give us men to go about twenty miles, and no doubt we should be able to get more coolies there. I thought there was more than a little doubt; and, taking one thing with another, decided it would be best to give up the idea and go instead back to the Irrawaddy down the Mindon Chong; we consequently hired a boat of the dug-out type, about thirty-five feet long and just broad enough for two men to pass; over the middle of the boat was the usual awning. The next morning we started down the stream, always through the most delightful country and among charming people. All the villages in this part of the country are strongly fortified with palisades of sharpened bamboos. The voyage down the river was exceedingly pleasant and the shooting delightful. One could sit on the stern of the boat and pot away all day at everything, from snipe to heron. Our Burmese boys and the kites had great rivalry in retrieving the game. The kites seemed to know that they would not be shot at. I had another slight attack of fever in the afternoon, but nothing to speak of. We tied up at Sakade for the night. There was no dak bungalow near and one does not sleep in a Burmese village unless necessity compels. And yet
 
-By palm and pagoda enchaunted o'ershadowed, I lie in the light
-Of stars that are bright beyond suns that all poets have vaunted
-In the deep-breathing amorous bosom of forests of Amazon might,
-By palm and pagoda enchaunted.
-
-By spells that are murmured, and rays of my soul strongly flung,
-never daunted;
-By gesture and tracery traced with a wand dappled white,
-I summon the spirits of earth from the gloom they for ages have
-haunted.
-
-O woman of deep red skin! Carved hair like the teak! O delight
-Of my soul in the hollows of earth — how my spirit hath taunted . . .
-Away! I am here, I am laid to the breast of the earth in the dusk
-of the night,
-By palm and pagoda enchaunted.
+> By palm and pagoda enchaunted o'ershadowed, I lie in the light
+> 
+> Of stars that are bright beyond suns that all poets have vaunted
+> 
+> In the deep-breathing amorous bosom of forests of Amazon might,
+> 
+> By palm and pagoda enchaunted.
+> 
+> 
+> 
+> By spells that are murmured, and rays of my soul strongly flung,
+> 
+> never daunted;
+> 
+> By gesture and tracery traced with a wand dappled white,
+> 
+> I summon the spirits of earth from the gloom they for ages have
+> 
+> haunted.
+> 
+> 
+> 
+> O woman of deep red skin! Carved hair like the teak! O delight
+> 
+> Of my soul in the hollows of earth — how my spirit hath taunted . . .
+> 
+> Away! I am here, I am laid to the breast of the earth in the dusk
+> 
+> of the night,
+> 
+> By palm and pagoda enchaunted.
 
 This poem was inspired by an actual experience. The effects of my continued bouts of fever had been to make me spiritually sensitive. The jungle spoke to me of the world which lies behind material manifestation. I perceived directly that every phenomenon, from the ripple of the river to the fragrance of the flowers, is the language by which the subtle souls of nature speak to our senses. That night we were tied up under a teak tree, and as I lay awake with my eyes fixed ecstatically on its grace and vigour, I found myself in the embraces of the Nat or elemental spirit of the tree. It was a woman vigorous and intense, of passion and purity so marvellous that she abides with me after these many years as few indeed of her human colleagues. I passed a sleepless night in a continuous sublimity of love.
 
@@ -2520,19 +2453,15 @@ They managed to give me some sort of a shakedown, and I slept very pleasantly at
 
 He was Allan's chief dayaka; and very kindly and wisely did he provide for him. I walked back with Allan to the temple and commenced discussion all sorts of things, but continuous conversation was quite impossible, for people of all sorts trooped in incessantly to pay their respects to the European bhikkhu. They prostrated themselves at his feet and clung to them with reverence and affection. They brought him all sorts of presents. He was more like Pasha Bailey Ben than any other character in history.
 
-They brought him onions strung on ropes,
-And cold boiled beef, and telescopes,
+> They brought him onions strung on ropes,
+> 
+> And cold boiled beef, and telescopes,
 
-at any rate gifts equally varied and not much more useful. The doctor looked in in the afternoon and took me back with him to dinner. Allan was inclined to suffer with his old asthma, as it is the Buddhist custom (non sine causa) to go out of doors at six every morning, and it is very cold till some time after dawn. I wish sanctity was not so incompatible with sanity and sanitation!
-
+at any rate gifts equally varied and not much more useful. The doctor looked in in the afternoon and took me back with him to dinner. Allan was inclined to suffer with his old asthma, as it is the Buddhist custom (*non sine causa*) to go out of doors at six every morning, and it is very cold till some time after dawn. I wish sanctity was not so incompatible with sanity and sanitation!
 The next day after breakfast Allan cam to the doctor's house to avoid worshippers, but a few of them found him out after all and produced buttered eggs, newspapers, marmalade, brazil nuts, bicarbonate of potash and works on Buddhism from their ample robes. We were able, however, to talk of Buddhism and our plans for extending it to Europe, most of the day. The next four days were occupied in the same way.
 
-[« back to toc]
+### Chapter 33.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 33.
 While at Akyab I wrote Ahab, which, with a few other poems, was published as a companion to Jezbel. I had also, at odd times, continued Orpheus and The Argonauts. The latter play is really five separate plays of the Greek pattern. The effect of my journey is very manifest. I had entirely neglected the obvious astronomical symbolism of the Golden Fleece, and had introduced a number of Hindu ideas, both about Magick and about philosophy. To illustrate the voyage, I included lyrics descriptive of actual observations of Vera Cruz, Waikiki Beach, Hong Kong and other places which had excited me.
 
 The best thing in Book III of Orpheus, which occupied this period, is, perhaps, the invocation to Hecate, which I recited at Akyab with full magical intention. The goddess appeared in the form of Bhavani. The fact made more concrete my perception of the essential identity of all religions. Sinai and Olympus, Mount Kailasha and Mount Meru differed from each other as do the Dent Blanche, Mote Silvio and the Steinbockhorn. It is the same mountain seen from different sides and named by different people. It encouraged me to continue my studies in the Cabbala, which claims to reduce all possible ideas to combinations of comparatively few originals, the ten numbers, in fact; these ten numbers themselves being of course interrelated.
@@ -2569,59 +2498,54 @@ During the whole time, I had been studying the original scriptures of Hinduism a
 
 It was dramatically fit that I should have devoted these two days to this essay; for on the second I received a wire from Eckenstein. I had a day to spare before proceeding to Rawalpindi, which I spent at Oakley shooting magar. Here is the story:
 
-Maiden, the proprietor of the hotel, came with me and provided a most admirable tiffin. I lent him my Mauser and relied myself upon the `577. After getting permission from the engineer in charge of the canal works, we put off in a small boat and rowed up the stream. Very soon we saw a fine big crocodile on the banks; but as they are very suspicious beasts an slide into the water at anyone's approach, we determined to try a long shot. I crawled into the bow of the boat, and while the natives held the boat steady, loosed off at about a hundred and thirty yards. The shot was either a very good one or a very lucky one, for the magar was certainly mortally wounded by it. We rowed rapidly up to the beast to find him lashing about in a couple of feet of water and bleeding profusely. I had almost certainly shot him through the heart. Unfortunately, this is of very little use with these reptiles. We got up as close as the natives could be persuaded to go. There certainly was some risk if we had gone quite close in, but we ought to have ventured near enough to drive a boat-hook into the mud between him and the deep water. But they could not be persuaded to do this and there was no time for argument. Maiden sat up in the middle of the boat and fired about fifteen Mauser cartridges into the struggling crocodile, which I think was a proceeding of doubtful utility. He persuaded me, however, to fire a couple more cartridges myself, which I did, right down the beast's throat. The second shot, however, very nearly led to a catastrophe, as the boat was not at all steady and the recoil of the heavy express sent me an awful cropper backwards on to the gunwale of the boat. Luckily no harm came of it. I was now more anxious than ever to get hold of the beast or to pin him with the boathook, thought his struggles were gradually ceasing, but nothing we could do was any good; little by little he slid off the shallow into the deep water and sank. After hunting about for twenty minutes we gave the affair up as a bad job.
-
-Rowing slowly up the stream, we soon caught sight of another fine beast, though not quite so big as the one we lost. I took, however, an extraordinarily careful shot at it and had the good luck to smash its spine. Everyone thought I had missed, but I swore that was impossible. Certainly the beast did not move as we rowed towards it. I sent the natives on to the bank, and after an infinite display of funk they ventured to catch hold of its tail; of course it had been shot stone dead. We got the body on board and rowed back to tiffin.
+> Maiden, the proprietor of the hotel, came with me and provided a most admirable tiffin. I lent him my Mauser and relied myself upon the `577. After getting permission from the engineer in charge of the canal works, we put off in a small boat and rowed up the stream. Very soon we saw a fine big crocodile on the banks; but as they are very suspicious beasts an slide into the water at anyone's approach, we determined to try a long shot. I crawled into the bow of the boat, and while the natives held the boat steady, loosed off at about a hundred and thirty yards. The shot was either a very good one or a very lucky one, for the magar was certainly mortally wounded by it. We rowed rapidly up to the beast to find him lashing about in a couple of feet of water and bleeding profusely. I had almost certainly shot him through the heart. Unfortunately, this is of very little use with these reptiles. We got up as close as the natives could be persuaded to go. There certainly was some risk if we had gone quite close in, but we ought to have ventured near enough to drive a boat-hook into the mud between him and the deep water. But they could not be persuaded to do this and there was no time for argument. Maiden sat up in the middle of the boat and fired about fifteen Mauser cartridges into the struggling crocodile, which I think was a proceeding of doubtful utility. He persuaded me, however, to fire a couple more cartridges myself, which I did, right down the beast's throat. The second shot, however, very nearly led to a catastrophe, as the boat was not at all steady and the recoil of the heavy express sent me an awful cropper backwards on to the gunwale of the boat. Luckily no harm came of it. I was now more anxious than ever to get hold of the beast or to pin him with the boathook, thought his struggles were gradually ceasing, but nothing we could do was any good; little by little he slid off the shallow into the deep water and sank. After hunting about for twenty minutes we gave the affair up as a bad job.
+> 
+> Rowing slowly up the stream, we soon caught sight of another fine beast, though not quite so big as the one we lost. I took, however, an extraordinarily careful shot at it and had the good luck to smash its spine. Everyone thought I had missed, but I swore that was impossible. Certainly the beast did not move as we rowed towards it. I sent the natives on to the bank, and after an infinite display of funk they ventured to catch hold of its tail; of course it had been shot stone dead. We got the body on board and rowed back to tiffin.
 
 On Sunday, March 23rd, I took the mail for Pindi. As luck would have it, the car reserved for the expedition was on the train. So I jumped in and was introduced to my four new comrades.
 
 The Chogo Ri expedition had begun.
 
-[« back to toc]
+### Chapter 34.
 
-unicursal hexagram
+*Agreement between Oscar Eckenstein and Aleister Crowley*
 
-The Mystical Adventure
-Chapter 34.
-Agreement between Oscar Eckenstein and Aleister Crowley
-
-1. By O.E.'s letter of Sept. 20th and cable of Oct. 3rd he agrees to A.C.'s proposal by cable and letter of August 23rd that they should together climb a mountain higher than any previously ascended by man: both agree to use their utmost endeavours in every respect to achieve this result.
-
-(On August 23rd A.C. placed five hundred pounds at the disposal of O.E.; on Oct. 10th he added another five hundred pounds in case of emergency, for this purpose. O.E. is empowered to employ part of this latter sum, or all if absolutely necessary, to arrange by insurance for Dr. Karl Blodig to join us. It is, however, understood that Dr. Blodig's status as an amateur shall be rigidly respected.)
-
-2. This agreement only to be cancelled by death, serious illness or vital affairs of one of the parties.
-
-3. O.E. agrees to take all responsibility of preparing the expedition in England, to have authority to accept a third or fourth member of the party, should such a one be willing to pay his full share of the expenses, and he shall be responsible for the safe arrival of the party and baggage in place and date provided by him.
-
-4. On accomplishment of (3) “the leader” will then assume entire control of, and responsibility for, the expedition, until the return of the party to civilization. “The leader” shall be either O.E. or A.C., as they may subsequently agree, and no other person.
-
-“The leader” must give his orders in writing if requested. (N.B. This should always be done if separation of the party is involved.) “The leader” shall have the right to consult any member of the party, who must consider his difficulty with judicial care, and return a serious answer, in writing if requested. Should any dispute arise, a council may be called to sit under parliamentary usage, “the leader” to be chairman, unless his own conduct be in question. In the latter case, a chairman to be selected. A majority vote to decide. “The leader” to have a casting vote in case of equality. “The leader's” orders shall be otherwise without appeal, and shall be obeyed cheerfully and to the best of ability: except that no member of the party is to be obliged anywhere to risk his life, how own judgment to be the arbiter as to whether such and such an order involves danger, whether from men, starvation, animals or other causes.
-
-5. All members of the party pledge themselves to have nothing whatever to do with women in any way that is possibly avoidable: not to interfere in any way whatever with native prejudices and beliefs.
-
-This clause shall take effect from the accomplishment of (3).
-
-6. Any dispute arising under this agreement shall be subjected to arbitration in the usual way and shall not be subject to appeal at law or otherwise.
-
-7. Should a third, fourth or fifth man join the party, he shall sign this agreement before he is definitely accepted.
-
-Witness our hands.
-
-At Kandy, Oct. 12th, 1901.
+> 1. By O.E.'s letter of Sept. 20th and cable of Oct. 3rd he agrees to A.C.'s proposal by cable and letter of August 23rd that they should together climb a mountain higher than any previously ascended by man: both agree to use their utmost endeavours in every respect to achieve this result.
+> (On August 23rd A.C. placed five hundred pounds at the disposal of O.E.; on Oct. 10th he added another five hundred pounds in case of emergency, for this purpose. O.E. is empowered to employ part of this latter sum, or all if absolutely necessary, to arrange by insurance for Dr. Karl Blodig to join us. It is, however, understood that Dr. Blodig's status as an amateur shall be rigidly respected.)
+> 
+> 2. This agreement only to be cancelled by death, serious illness or vital affairs of one of the parties.
+> 
+> 3. O.E. agrees to take all responsibility of preparing the expedition in England, to have authority to accept a third or fourth member of the party, should such a one be willing to pay his full share of the expenses, and he shall be responsible for the safe arrival of the party and baggage in place and date provided by him.
+> 
+> 4. On accomplishment of (3) “the leader” will then assume entire control of, and responsibility for, the expedition, until the return of the party to civilization. “The leader” shall be either O.E. or A.C., as they may subsequently agree, and no other person.
+> 
+> > “The leader” must give his orders in writing if requested. (N.B. This should always be done if separation of the party is involved.) “The leader” shall have the right to consult any member of the party, who must consider his difficulty with judicial care, and return a serious answer, in writing if requested. Should any dispute arise, a council may be called to sit under parliamentary usage, “the leader” to be chairman, unless his own conduct be in question. In the latter case, a chairman to be selected. A majority vote to decide. “The leader” to have a casting vote in case of equality. “The leader's” orders shall be otherwise without appeal, and shall be obeyed cheerfully and to the best of ability: except that no member of the party is to be obliged anywhere to risk his life, how own judgment to be the arbiter as to whether such and such an order involves danger, whether from men, starvation, animals or other causes.
+> 
+> 5. All members of the party pledge themselves to have nothing whatever to do with women in any way that is possibly avoidable: not to interfere in any way whatever with native prejudices and beliefs.
+> 
+> This clause shall take effect from the accomplishment of (3).
+> 
+> 6. Any dispute arising under this agreement shall be subjected to arbitration in the usual way and shall not be subject to appeal at law or otherwise.
+> 
+> 7. Should a third, fourth or fifth man join the party, he shall sign this agreement before he is definitely accepted.
+> 
+> Witness our hands.
+> 
+> At Kandy, Oct. 12th, 1901.
 
 The expedition was composed of six members. Thanks to the Alpine Club, there was no Englishman of mountaineering ability and experience available. We had, however, a Trinity man named Knowles, aged twenty-two, which is far too young for work of this kind, which requires endurance. He knew practically nothing of mountains, but he had common sense enough to do what Eckenstein told him; and as it was, he proved invaluable in Srinagar and even on the actual journey. He was a source rather of strength than of weakness. Then there was an Austrian judge named Pfannl, reputed the best rock climber in Austria, and his regular climbing companion Wessely. They had no experience beyond the Alps and proved utterly unable to make allowances for the difference of scale. Pfannl was also obsessed with the idea of getting into athletic condition and had begun to train directly he stepped on the boat at Trieste. Foreseeing trouble, I kept part of my diary in a magical cipher. I find an entry dated March 31st, 1902:
 
-This is called the Misadventure of Pfannl.
+> This is called the Misadventure of Pfannl.
+> 
+> Mountain Sigma. On the Finsteraarhorn after traversing Schreckhorn directly from R.R. journey, Pfannl had to be carried down from the Concordia but. Again, on the Géant, he collapsed from food, etc. The whole moral of this is: “If Pfannl collapses, it will be complete. He is sure to overtrain.”
 
-Mountain Sigma. On the Finsteraarhorn after traversing Schreckhorn directly from R.R. journey, Pfannl had to be carried down from the Concordia but. Again, on the Géant, he collapsed from food, etc. The whole moral of this is: “If Pfannl collapses, it will be complete. He is sure to overtrain.”
-
-The Austrians were totally unable to understand the workings of the native mind, as appeared very soon. It was a great mistake to bring them. The sixth member of the party was a Swiss ex-Army doctor named Guillarmod, who looked and behaved like Tartarin de Tarascon. He knew as little of mountains as he did of medicine, and proved a great source of weakness, though his delightful geniality helped both the psychology of the party and our relations with the natives. He was our comic relief and did much to make things more tolerable for all of us. For all that, I think we should have done better to take none of the foreigners.[1] Our numbers made us unwieldy; and the question of international jealousy contributed indirectly to our failure, as will be explained later.
+The Austrians were totally unable to understand the workings of the native mind, as appeared very soon. It was a great mistake to bring them. The sixth member of the party was a Swiss ex-Army doctor named Guillarmod, who looked and behaved like Tartarin de Tarascon. He knew as little of mountains as he did of medicine, and proved a great source of weakness, though his delightful geniality helped both the psychology of the party and our relations with the natives. He was our comic relief and did much to make things more tolerable for all of us. For all that, I think we should have done better to take none of the foreigners.^[This was done in stark violation of clause 3. Knowles and I paid the whole expenses of these undesirable aliens.] Our numbers made us unwieldy; and the question of international jealousy contributed indirectly to our failure, as will be explained later.
 
 We left Pindi for Tret on the twenty-ninth of March. We had had to repack our baggage, which weighted over three tons, for convenience of transport by ekkas. These are contraptions which suggest a hansom cab with the back knocked out and the driver on the floor, as it might have been conceived by the man who invented the coracle. Even one European finds it impossible to get a comfortable seat or stretch his legs, and a second constitutes outrageous overcrowding. A party of eight to ten natives, on the other hand, finds itself at ease.
 
 Our adventures began with startling suddenness. I woke up in the dak bungalow at Tret the next morning to find a dignified young gentleman sitting at my bedside. I wondered if I had been ill without knowing it, for his face expressed the sympathetic concern of Luke Fildes' “doctor”. Not at all; he was a police inspector who had arrived by tonga, a two-horse rattletrap which is used by people in what passes for a hurry in these parts of the world. All he knew was that we mustn't start — “his not to reason why”. I said he had better talk to the leader of the expedition, Mr. Eckenstein. He assumed an awed expression, as if I had said something not quite nice. Knowles and I, who were sharing the same room, proceeded to dress with elegant leisure and bore our bewilderment to Eckenstein.
 
-At this point a telegram arrived, from which we inferred that the Indian Empire was somewhat imperilled by our conduct. At ten o'clock there arrived no less a person than the deputy commissioner of Rawalpindi; one of those strong silent men, with whom Mr. Henry Seton Merriman has made us familiar. He summoned me to his august presence. I (obviously) referred him once more to Eckenstein, but he jibbed — his orders were that the rest of us could do as we liked; but Eckenstein would not be allowed to enter Kashmir. We asked why. At this time The Book of the Law not having yet been given to mankind, he was unable to reply, “Enough of Because! Be he damned for a dog!”;[2] but we understood him as uttering “words to that effect” in his strong silent way. We finally induced him to face Eckenstein; who, with his usual aplomb, put the poor man into a dilemma at once. He wanted to know whether he was or was not arrested. “Heaven forbid,” said the D.C., “that any such idea should enter my pure mind.” “All right then,” said Eckenstein; “I shall go on.” Oh no — the orders were strict. After interminable passages of verbal fencing, it was agreed that I should assume command of the expedition and carry on, while Eckenstein returned to Pindi with the deputy commissioner and took up the matter with the superior authority.
+At this point a telegram arrived, from which we inferred that the Indian Empire was somewhat imperilled by our conduct. At ten o'clock there arrived no less a person than the deputy commissioner of Rawalpindi; one of those strong silent men, with whom Mr. Henry Seton Merriman has made us familiar. He summoned me to his august presence. I (obviously) referred him once more to Eckenstein, but he jibbed — his orders were that the rest of us could do as we liked; but Eckenstein would not be allowed to enter Kashmir. We asked why. At this time The Book of the Law not having yet been given to mankind, he was unable to reply, “Enough of Because! Be he damned for a dog!”;^[WEH Note: AL II, 33.] but we understood him as uttering “words to that effect” in his strong silent way. We finally induced him to face Eckenstein; who, with his usual aplomb, put the poor man into a dilemma at once. He wanted to know whether he was or was not arrested. “Heaven forbid,” said the D.C., “that any such idea should enter my pure mind.” “All right then,” said Eckenstein; “I shall go on.” Oh no — the orders were strict. After interminable passages of verbal fencing, it was agreed that I should assume command of the expedition and carry on, while Eckenstein returned to Pindi with the deputy commissioner and took up the matter with the superior authority.
 
 To sum this episode, Eckenstein chased the culprits all around north India and finally cornered George Nathaniel Curzon at the psychological moment when our pathetic cables to Lord George Hamilton at India Office had brought the power of Blighty to bear on the naughty nabobs. The “superior person” saved his face by authorizing Eckenstein to rejoin the party on guarantees for his good conduct subscribed by Knowles and myself!
 
@@ -2643,11 +2567,11 @@ I remember in my journey across China refusing to buy a few eggs when we were ac
 
 We cannot even plead that we have lacked a prophet. The genius of Rudyard Kipling, however aesthetically abominable, has divined the secrets of destiny with cloudless clarity. His stories and his sermons are equally informed by the brainless yet unanswerable argument based on intuitive cognition of the critical facts. India can be governed, as history proves, by any alien autocracy with sufficient moral courage to dismiss Hindu subtlety as barbaric and go its own way regardless of reason. But India has always conquered its invaders by initiating them. No sooner does the sahib suspect that he is not Almighty God than the attributes of Jehovah cease to arm him with unreasonable omnipotence. Our rule in India has perished because we have allowed ourselves to consider the question of divine right. The proverb says that the gods themselves cannot contend with stupidity, and the stupidity of the sahib in the days of Nicholson reduced India to impotence. But we allowed the intellectual Bangali to invade England and caress our housemaids in the precincts of Earl's Court exhibition. He returned to Calcutta, an outcast indeed from his own social system, but yet a conqueror of English fashions and femininity. We admitted his claim to compete with us, and our prestige perished exactly as did that of the Church when Luther asserted the right of private judgment.
 
-I am not responsible[3] for the fact that the universe is constructed in defiance of the principles of reason. I see perfectly that the crude conceptions of European culture are intellectually contemptible; but if we are to enter into relations of any kind with the East, we must either behave like little children in the presence of age and wisdom, or we must be brutal bosses. The soldiers who slew Archimedes had only one alternative — to sit at his feet and learn geometry, and thank him when he rapped them over the knuckles. We must therefore choose between shutting up fourteen thousand sipahis in a compound an blowing them to pieces with grapeshot in cold blood, like Havelock, and sprawling to kiss their slippers like European students of Yoga. Our attempt to compromise between incompatible civilizations can only end in our confessing the impotence of our own.
+I am not responsible^[P.S. — Well, I am not so sure.] for the fact that the universe is constructed in defiance of the principles of reason. I see perfectly that the crude conceptions of European culture are intellectually contemptible; but if we are to enter into relations of any kind with the East, we must either behave like little children in the presence of age and wisdom, or we must be brutal bosses. The soldiers who slew Archimedes had only one alternative — to sit at his feet and learn geometry, and thank him when he rapped them over the knuckles. We must therefore choose between shutting up fourteen thousand sipahis in a compound an blowing them to pieces with grapeshot in cold blood, like Havelock, and sprawling to kiss their slippers like European students of Yoga. Our attempt to compromise between incompatible civilizations can only end in our confessing the impotence of our own.
 
 We see, even in England itself, how the abdication of Norman arrogance has let to the abrogation of all standards of superiority, so that the man who wishes to govern England today is obliged to conform with the dishonest devices and servile stratagems of democracy. Government demands virtue; in its etymological sense of manliness. In modern England, courage, truthfulness and determination are at a discount. A leader can only lead by drugging the populace. When Beaconsfield (wasn't it?) said, “We must educate our masters,” he formulated the creed of Communism; for it is impossible to educate the people. I myself, despite my public school and university, despite a life devoted to continual travel and study of social, political, economic and historical facts, am only too well aware of my abject incompetence to provide a remedy for the least of the diseases which have come to actual issue. I only know that one must abdicate one's intelligence and submit to rule-of-thumb government. The best master is a go-as-you-please generous gentleman who settles everything by rude common sense. Our modern pretence at scientific government, based on theories and statistics, possesses all the irremediable inadequacies of purblind pedantry. My wanderings have shown me that individual happiness and prosperity flourished most freely in Mexico under the autocracy of Diaz, Russia under that of the tsar, India and Egypt under that of England, and China when the son of Heaven exercised supreme and unquestioned sway.
 
-The last quarter of a century has swamped all these. The world is seething with the dissatisfaction that springs from insecurity. Men can adapt themselves to pretty well any conditions, but when they do not know from one day to another whether some fundamental principle may not be abolished in the interests of progress, they no longer know where they are. They tend to adopt the principles of the man who flits from one place to another, grabbing portable property and dodging creditors and policemen. Civilization has become a hysterical scramble for momentary material advantage. Thrift is senseless when one is threatened with a levy on capital. Investment is insane when gilt-edged securities may lose two thirds of their value for no assignable reason. Suppose two brothers inherited ten thousand pounds apiece in 1900: one keeps his gold in a bag and spends four hundred pounds a year; the other buys Consols and lives on a little over two hundred pounds of the income without touching his capital. Today[4] the spendthrift would be worth more than his prudent brother. Marriage is a detestable institution, but the facilities for divorce (introduced ostensibly in the interests of the woman) have cut away the economic ground from under her feet.
+The last quarter of a century has swamped all these. The world is seething with the dissatisfaction that springs from insecurity. Men can adapt themselves to pretty well any conditions, but when they do not know from one day to another whether some fundamental principle may not be abolished in the interests of progress, they no longer know where they are. They tend to adopt the principles of the man who flits from one place to another, grabbing portable property and dodging creditors and policemen. Civilization has become a hysterical scramble for momentary material advantage. Thrift is senseless when one is threatened with a levy on capital. Investment is insane when gilt-edged securities may lose two thirds of their value for no assignable reason. Suppose two brothers inherited ten thousand pounds apiece in 1900: one keeps his gold in a bag and spends four hundred pounds a year; the other buys Consols and lives on a little over two hundred pounds of the income without touching his capital. Today^[Condensed from an article written in 1917 in New York. Luckily my own paper refused to publish it!] the spendthrift would be worth more than his prudent brother. Marriage is a detestable institution, but the facilities for divorce (introduced ostensibly in the interests of the woman) have cut away the economic ground from under her feet.
 
 I have little use for Rudyard Kipling, especially in his latter days of senile schoolboyishness, aggravated by his addiction to the hydroxide of the second of the paraffin radicles. But his general attitude about India obtains my adhesion. We conquered the peninsula by sheer moral superiority. Our unity, our self-respect, our courage, honesty and sense of justice awakened the wonder, commanded the admiration and enforced the obedience of those who either lacked those qualities altogether, possessed some of them and felt the lack of the others, or had, actually or traditionally, sufficient of them to make them the criteria of right and ability to govern. As elsewhere observed, our modern acquiescence in the rationally irrefutable argument that the colour of a man's skin does not prevent him from being competent in any given respect, has knocked the foundations from underneath the structure of our authority.
 
@@ -2669,25 +2593,11 @@ The flowers and trees in Kashmir are very varied. Their rich splendour is superb
 
 There is plenty of shooting in the valley, from bears, deer, wild sheep and wild goats to pigeons. I went out occasionally after the bigger game, though I prefer low country shooting. I hate climbing hills unless they are really difficult, as I hate everything which only goes half way. There is not much fun, either, in pigeon shooting. One does it less for pleasure than for profit, and the pigeon is certainly welcome up country as an alternative to athletic mutton and chicken.
 
-Footnotes:
+### Chapter 35.
 
-[1] This was done in stark violation of clause 3. Knowles and I paid the whole expenses of these undesirable aliens.
-
-[2] WEH Note: AL II, 33.
-
-[3] P.S. — Well, I am not so sure.
-
-[4] Condensed from an article written in 1917 in New York. Luckily my own paper refused to publish it!
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 35.
 Knowles and I were kept very busy from the fifth to the twenty-second of April. Everything had to be repacked in kiltas. These are baskets shaped either like wide-mouthed vases or like cabin trunks, and covered with raw hide to protect them from rough usage and bad weather. Our limit weight was fifty-three pounds. As a beast of burden, a mule is less efficient than a man, and a man that an woman. In Kashmir, however, one does not use women as coolies. The people are Mohammedans governed by a ruling caste of Hindus. This leads to complications; for one thing, though the river is full of mahsir, one is not allowed to fish for them, because one of them had swallowed the soul of the maharajah in his youth! Another inconvenience is that one cannot bet beef to eat, for Kashmir is theoretically an independent state. The Mohammedan has, of course, no objection to beef; it is the Hindu who prohibits it.
 
-A curious misfortune overtook a native in this connection. His little farm was on the banks of the Indus. During the winter two landslides cut him off completely from his neighbours. The mountain path could not be repaired until the spring. He saved himself from starvation by killing his cow. For this offence he barely escaped the penalty of death.[1]
+A curious misfortune overtook a native in this connection. His little farm was on the banks of the Indus. During the winter two landslides cut him off completely from his neighbours. The mountain path could not be repaired until the spring. He saved himself from starvation by killing his cow. For this offence he barely escaped the penalty of death.^[Later. Poor Sir Hari Singh paid dearly in 1923 for eating sirloin of beef! As bad as Jonathan and the honey!]
 
 We added to our stores by buying a large quantity of local products which it would have been more trouble to bring from England. In some cases this was a mistake. The matches procurable in Kashmir compare only too unfavourably with the worst products of France at its worst period. It was a champion box if it contained half a dozen matches which lit without argument. When we got to the glacier, we sued to spend much of our time on sunny days trying to dry them on convenient rocks.
 
@@ -2739,16 +2649,8 @@ This spirit is at the root of all modern attempts at standardization of attainme
 
 It is hard to prophesy the issue of this tendency, but one can see already that the chivalry of sport is following that of arms into oblivion.
 
-Footnotes:
+### Chapter 36.
 
-[1] Later. Poor Sir Hari Singh paid dearly in 1923 for eating sirloin of beef! As bad as Jonathan and the honey!
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 36.
 Skardu, 2,228 metres above sea-level, is the capital of Baltistan, and contains some twenty thousand inhabitants. The mountains here seem to have conspired to stop suddenly so as to allow a large level plateau. The Indus spreads out almost as if to form a lake. The town is large and scattered; it is in fact less a town than a conglomeration of small farms. After our long and tedious march, we could enjoy to the full the sensation of the peace and beatitude which fill this smiling isolated valley.
 
 We stayed at the dak bagha, which stood some thirty yards back from a delicious stream of clear water. One evening, just after sunset, a young man appeared carrying on his shoulders his brother, who had been working in a quarry. A falling rock had struck the inside of the leg just below the knee and laid it open to the bone as far as the ankle. The doctor needed plenty of running water. So we took the patient down to the stream and held Alpine lanterns while the doctor operated. The leg was in a shocking mess and we suggested chloroform. The doctor said “No — the boy will faint with the pain in a few seconds,” and he went on washing out the dirt and snipping away loose pieces of flesh, and ultimately stitching up the whole fourteen inches of wound. The game went on for an hour and a half. But the boy never lost consciousness, and never moaned or so much as murmured. We heard nothing from him except a perfectly calm request, about half way through the job, for a drink of water.
@@ -2793,32 +2695,22 @@ Later I asked him to dinner in London. He began with two large fried soles to hi
 
 On my own arrival at Rodkass, I mad rather a beast of myself. I had been starving on canned food for nearly two months, and that half-warm, half-cooked fresh mutton made me practically insane. I was suffering the agonies of sugar starvation plus the effects of a recurrence of malaria, so that vomiting and diarrhoea were continuous. But never in my whole life have I tasted anything like that mutton. I gorged myself to the gullet, was violently sick and ordered a fresh dinner.
 
-I am more an antique Roman than a Dane,
-….There's yet some mutton left.
+> I am more an antique Roman than a Dane,
+> ….There's yet some mutton left.
 
 I may mention in this place that experience has convinced me of the truth of the Hindu theories about Prana. Apart from the chemical and physiological transactions involved in eating, one is nourished directly, but what one must call, however one may hate to do so, the vital principle in food. We had already found on Iztaccihuatl that canned food ten years old failed to nourish anything like as well as stuff recently tinned. We derived much more energy from fresh-killed mutton, cooked before rigor mortis had set in, than from ordinary butcher's meat. I ultimately learnt that I could make myself actually drunk on half a dozen oysters chewed in the manner of the yogis.
 
-One of the practices of Hatha Yoga consists in learning to reverse the peristaltic action of the alimentary canal at will, so that one can make oneself sick quietly without spasmodic action. What they do is to swallow a number of yards of tarband and eject it again by training the necessary muscles. They then apply these principles to their rice and, after allowing it to remain in the stomach for a short time, quietly reject it. This rice, though unchanged in appearance, contains no nourishment, so that a dog who ate it would starve. The object of the yogi is to relieve his body of the responsibility of dealing with the elements of the food which do not contribute to sustenance. One is forced to suspect the existence of some subtle principle attached to organic substances which gradually disappears after death, rapidly at first, and then with increasing slowness, so that the process is not complete perhaps for years. It is like the elimination of impurities from alcohol, the first distillation gets rid of most of them, but there is a residuum carried over which requires repeated fractionation.[2]
+One of the practices of Hatha Yoga consists in learning to reverse the peristaltic action of the alimentary canal at will, so that one can make oneself sick quietly without spasmodic action. What they do is to swallow a number of yards of tarband and eject it again by training the necessary muscles. They then apply these principles to their rice and, after allowing it to remain in the stomach for a short time, quietly reject it. This rice, though unchanged in appearance, contains no nourishment, so that a dog who ate it would starve. The object of the yogi is to relieve his body of the responsibility of dealing with the elements of the food which do not contribute to sustenance. One is forced to suspect the existence of some subtle principle attached to organic substances which gradually disappears after death, rapidly at first, and then with increasing slowness, so that the process is not complete perhaps for years. It is like the elimination of impurities from alcohol, the first distillation gets rid of most of them, but there is a residuum carried over which requires repeated fractionation.^[WEH Note: Aside from a caution against bulimia in this question, there is an observation to make. Crowley speculated elsewhere that the human spirit might attach to the body after death in just such a manner as the vital principle in food. This led him to recommend cremation as a remedy for prolonged post-mortem agony.]
 
-Footnotes:
+### Chapter 37.
 
-[1] WEH Note: 100.7 Degrees F.
-
-[2] WEH Note: Aside from a caution against bulimia in this question, there is an observation to make. Crowley speculated elsewhere that the human spirit might attach to the body after death in just such a manner as the vital principle in food. This led him to recommend cremation as a remedy for prolonged post-mortem agony.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 37.
 From the hot spring one goes gently along the valley to Askole. The whole march is short, easy and delightful. It only occupied five hours, of which at least three were spent at the rope bridge and in the pool.
 
 The entire journey had been extraordinarily favourable. We had had very little bad weather, the coolies had behaved admirably, there had been no accidents and no sickness, except for my own dermatological trouble. At Askole, however, several of the servants were slightly indisposed for a couple of days.
 
 We spent ten days in this village. Beyond this point there are no supplies of any sort. It was therefore necessary to establish a depot of food for the men higher up. The difficulty in travelling in uninhabited countries is that a man who eats (say) two pounds a day and carries sixty pounds can carry nothing except his own food on a journey of thirty marches. Our problem was how to get about one hundred and ten loads deposited at a distance representing (there and back) not less than twenty marches. We bought every pound of everything eatable in the valley and employed every man available. This meant (roughly) three men to carry one load, one for the load itself, the other two for the food of the three. Even with the advance depots, the task strained the resources of the valley.
 
-There was one trifling conflict of opinion between myself and Eckenstein at Askole. It was arranged that our valises should not exceed forty pounds on the glacier, though many of the loads exceeded fifty. I could not get my belongings within the limit. Eckenstein wanted me to leave behind my library. His theory of travelling in wild countries was that one should temporarily become an absolute savage; but my experience had already shown me that man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. I attributed the almost universal mental and moral instability of Europeans engaged in exploring to their lack of proper intellectual relaxation far more than to any irritations and hardships inseparable from physical conditions. Conrad's “An Outpost of Progress” and Kipling's story of the lighthouse keeper who went mad are outstanding examples of the psychological processes which are likely to occur. Perfectly good friends become ready to kill each other over a lump of sugar. I won't say that I couldn't have stood the Baltoro glacier in the absence of Milton and the rest; but it is at least the case that Pfannl went actually mad, that Wessely brooded on food to the point of stealing it, and that Eckenstein and Knowles[1] both lost their heads over the cholera scare! Thus the only man beside myself to retain perfect mental balance was the doctor, who kept his mind constantly occupied by observations in natural history, photography, writing articles for the Swiss newspapers, keeping an elaborate journal for the purposes of his book on the expedition, and spending the rest of his spare time in playing chess with me.
+There was one trifling conflict of opinion between myself and Eckenstein at Askole. It was arranged that our valises should not exceed forty pounds on the glacier, though many of the loads exceeded fifty. I could not get my belongings within the limit. Eckenstein wanted me to leave behind my library. His theory of travelling in wild countries was that one should temporarily become an absolute savage; but my experience had already shown me that man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. I attributed the almost universal mental and moral instability of Europeans engaged in exploring to their lack of proper intellectual relaxation far more than to any irritations and hardships inseparable from physical conditions. Conrad's “An Outpost of Progress” and Kipling's story of the lighthouse keeper who went mad are outstanding examples of the psychological processes which are likely to occur. Perfectly good friends become ready to kill each other over a lump of sugar. I won't say that I couldn't have stood the Baltoro glacier in the absence of Milton and the rest; but it is at least the case that Pfannl went actually mad, that Wessely brooded on food to the point of stealing it, and that Eckenstein and Knowles^[The latter under the powerful influence of the Chief — otherwise he would not have turned a hair.] both lost their heads over the cholera scare! Thus the only man beside myself to retain perfect mental balance was the doctor, who kept his mind constantly occupied by observations in natural history, photography, writing articles for the Swiss newspapers, keeping an elaborate journal for the purposes of his book on the expedition, and spending the rest of his spare time in playing chess with me.
 
 Eckenstein made himself quite unpleasant to me, which was utterly out of his character; and, by itself, evidence of the strain on his temper caused by the Austrian idiocies and vanities. I wasted no words. I merely shrugged my shoulders and said: either I took my books with me or I left the expedition. Needless to say, I carried my point. It may strike some people that I was a little outre-cuidant about it; but I take matters like this very seriously. I would rather bear physical starvation than intellectual starvation, any day of the week. It is one of the most frightful consequences of increasing age that one finds fewer and fewer of one's contemporaries worth talking to. One is forced more and more to seek society either with the great masters of the past or with discarnate intelligences.
 
@@ -2854,16 +2746,8 @@ But nowadays, legislation has broken its banks. It has become a thing in itself 
 
 The most honest man cannot always be sure that he is not violating some statute. This is even more appallingly and Gilbertainly true in the United States, where federal laws, state laws, municipal laws and police regulations clash their contradictory complexities at ever turn. “Ignorance of the law excuses no man.” But it leads him to take his chance of peril which he cannot but ignore, and thus the law falls into disrespect and ultimately into desuetude. In the meantime, small gangs take advantage of their special knowledge to blackmail certain sections of the community by technical persecution. We see the censorship, the licensing laws, the inland revenue laws, and even certain commercial and criminal laws arbitrarily invoked against people who have no idea that they are doing wrong in doing exactly as their neighbours do.
 
-Footnotes:
+### Chapter 38.
 
-[1] The latter under the powerful influence of the Chief — otherwise he would not have turned a hair.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 38.
 I left Paiyu with about twenty coolies on the ninth of June. A very short distance brings one to the snout of the glacier, black, greasy and nearly five hundred feet high at the lowest point. The Bralduh rushes from a cavern very repulsively. A great many phenomena observed on this expedition impress one with a kind of horror. I used to think ti utterly absurd in books of travel to see moral qualities associated with nature. At this period of my life, above all, I should have scouted any such idea; but, through the classes of memory, one can analyse oneself beyond one's protestations. This muddy torrent issuing from its vast black source certainly created an ugly impression. The reason maybe that stopping, as I naturally did, to have a good look at it, the presence of that vast body of ice produced a slight physical chill which I promptly translated into emotional terms and attribute wrongly to what I saw instead of to what I felt. There is also probably a strong Freudian element; to cold, black muddiness of the water and its relentless turmoil, its unstaunchability, so to speak, may suggest the flowing of blood from a wound, or some such disease as nephritis. The general tone of the blackness of the debris is peculiarly unsympathetic.
 
 There was no difficulty in finding a way up the snout. I knew that the first camp, Liligo, was on the left bank, so moved over in that direction. (German professors two hundred years hence are requested not to confuse the name of this parau with the “little-go” at Cambridge, though both are alike first stages on a lonely climb leading to nowhere.)
@@ -2920,12 +2804,8 @@ I must admit to a certain heaviness of heart in obeying my instructions and send
 
 I was a little worried by the failure of Pfannl and Wessely to maintain the communications for which arrangements had been made. I could not see their party on the glacier below and wondered whether they had not broken loose. It was just the sort of thing that one might expect; to find that they had bolted up the south end of the mountain and spoilt the whole plan. They arrived, however, on the next day, the nineteenth, and on the twentieth Knowles and the doctor joined us. They arrived in a snowstorm which continued the whole day. It was the first of uninterruptedly bad weather. On the twenty-first the wind dropped, though the snow continued. It tried to clear up on the twenty-second; and the twenty-third was fine. But of course, nothing could be done in the absence of Eckenstein. On the twenty-fourth a blizzard begin. It was the most furious wind that I have ever known. A corner of my tent broke loose; and the only remedy was to sit on it the whole morning! The violence of the wind was indeed amazing. I had secured the side ropes of my tent by tying them round square kiltas and putting others on top. There was thus over one hundred pounds to hold down each rope; but the wind made no bones about shifting them. The twenty-fifth was a dull doubtful day; and on the twenty-sixth the weather was rather worse. On the twenty-seventh it cleared up in the afternoon and Eckenstein arrived with fresh meat and bread.
 
-[« back to toc]
+### Chapter 39.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 39.
 The twenty-eighth was fine and we held a durbar. It was decided that, Eckenstein being ill, Pfannl, Guillarmod and I should start up the mountain. Eckenstein voted for the doctor, qua doctor, in case of one of us being ill. It shows how easy he thought the slopes.
 
 Wessely was very offensive in his resentment at not being included in the party. It was an intolerably bad piece of sportsmanship. Pfannl tended to take his side, and the pair made so much unpleasantness that we were soon reduced to the expedient of getting them out of the way as much as possible.
@@ -2964,8 +2844,10 @@ After cancelling out all the excrescences of the equation, the situation amounts
 
 The only thing to do is to lay in a stock of energy, get rid of all your fat at the exact moment when you have a change to climb a mountain, and jump back out of its reach, so to speak, before it can take its revenge. To talk of acclimatization is to adopt the psychology of the man who trained his horse gradually to live on a single straw a day, and would have revolutionized our system of nutrition, if the balky brute had not been aggravating enough to die on his hands. If you want to acclimatize yourself to mountain conditions, you can go and live a bit higher than the hillmen of Tibet. If you do this for fifteen generations or so, your descendants will acquire a thorax like a beer barrel and a heart capable of doing three times the work that it can at present. If you then get incarnated in your clan, you can lay siege to Chogo Ri with a reasonable prospect of success. As the hymn says,
 
-Patience and perseverance
-Made a Bishop of His Reverence.
+> Patience and perseverance
+> 
+> Made a Bishop of His Reverence.
+
 This programme is however hardly acceptable to Western minds, so little penetrated with Einstein's ideas that everything has to be done in a hurry. We may therefore leave “acclimatization” to the mentally defective heroes of the Everest expedition of 1921 and 1922. Collie was right in saying that one is living on one's capital on prolonged mountain expeditions. My experience enables me to add that it is not only a question of mountains. Any kind of prolonged hardship gradually wears one down. Again I repeat, it is pitiful to have to insist on such obvious truths. The low vitality of the working classes, the national deterioration caused by the privations of wartime, scream their warning. Anyone on earth except a member of the English Alpine Club would take it to heart.
 
 When I went to Kanchenjunga three years later I had got everything down to a fine point. I trained at Darjeeling by feeding up as much as possible (the diet at the Drum Druid Hotel was slow starvation), by having myself massaged by an “educated” Bengali who was a Seventh Day Adventist and stole ten pounds. I arrived at twenty-one thousand feet in absolute perfect condition only three weeks out from the base and suffered absolutely none of the conditions which were pulling us slowly to pieces on Chogo Ri, except Wessely who, like the brute beast that he was, seemed insensible to the influence of hardship and was keeping himself in comfort by stealing the supplies of the expedition surreptitiously.
@@ -2980,12 +2862,8 @@ Another chit told us that Pfannl was worse. The doctor went up to Camp 12 to loo
 
 A pathetic incident sticks in my mind. He sent for me to come to his tent and told me that these dull brutes could not understand him, but that I, as a poet, would be able to enter into his feelings. He then said that there were three of him; two of them were all right; but the third was a mountain with a dagger and he was afraid that it would stab him. I did not at that time realize the significance of the delusion. Today it is obvious that the fear and fascination of the hills had got mixed up with that of the phallus, thus determining the character of the symbol. As things were, I could merely report that he was insane, and the doctor continued the treatment of keeping him continuously under morphia.
 
-[« back to toc]
+### Chapter 40.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 40.
 The twentieth was fine; and we constructed a sledge on which Pfannl could be taken down to Rodkass. Wessely was to stay with him permanently and the doctor to return as soon as he had settled him on that alp. He left on the twenty-first, which was fine; but Eckenstein and I were both ill again towards evening. On the twenty-second it once more commenced to graupen and threatened worse. The twenty-third was equally bad. Towards evening we perceived a strange phenomenon. We wondered at first if it could be a bear. Certainly some animal was approaching the camp on all fours. In the gathering dusk even our field glasses left us uncertain, especially as the irregularities of the glacier hid it at frequent intervals.
 
 But where it came close, we realized that it was the doctor. His face was steaming with sweat and expressed an agony of fear. Eckenstein was not sympathetic. He merely said, “Where's your coolie?” Guillarmod explained that he had left hat specimen of the Creator's handiwork in a crevasse. Eckenstein uttered a single violent objurgation which opened new vistas on the depth of his feelings. I did not waste even one word — I was putting my boots on. Before Guillarmod had fairly crawled into his tent, Eckenstein and I were skimming over the snow on our ski with a coiled rope. (In my haste I forgot to take my goggles, which cost me another two days of snow blindness.)
@@ -2994,7 +2872,7 @@ I got down to the crevasse ahead of Eckenstein, but he shouted to me to wait. He
 
 (I accuse myself of having minimized these things. I should never have agreed to take him on my next expedition, but I liked the man personally so much that I instinctively made every allowance for him, and unquestionably he was suffering no less than the rest of us. I have a fatal weakness for believing the best about everybody. In the face of the plainest evidence, I cannot believe in the existence of dishonesty and malice, and I always try to build with rotten material. I always imagine that I have merely to point out an error for it to be energetically eliminated, and I am constantly lost in mild surprise when the inevitable occurs. Here is a description by himself on one of his bad days.
 
-Pour moi, je reste couché, atteint d'une attaque d'influenza plus forte que je n'en ai jamais eu: la fièvre n'est pas très intense, mais mes amygdales sont si tuméfiées et douloureuses gue j'ai beaucop de peine à respirer; le moindre mouvement produit un accès de suffocation; impossible de dormir; des douleurs lancinantes et des frissons me torturent horriblement.)
+> Pour moi, je reste couché, atteint d'une attaque d'influenza plus forte que je n'en ai jamais eu: la fièvre n'est pas très intense, mais mes amygdales sont si tuméfiées et douloureuses gue j'ai beaucop de peine à respirer; le moindre mouvement produit un accès de suffocation; impossible de dormir; des douleurs lancinantes et des frissons me torturent horriblement.)
 
 Eckenstein, punctiliously putting his left hand behind his back, pulled the coolie out with his right, though entirely unaided by the man himself. He had made up his mind to die and rather resented our interference!
 
@@ -3011,7 +2889,6 @@ On August 3rd the storm was still going strong; but we packed and went down on t
 The condition of the lower glacier was astonishing. Despite all these weeks of snowstorm, it had been stripped of every vestige of snow, whereas on coming up we had walked on smooth slopes. We found dry glacier, most of which was baby séracs up to fifteen feet high, sharp, slim needles of ice which were of course impossible to negotiate. We simply had to dodge them. I was constantly ill with fever, diarrhoea and vomiting, and only recovered when I got to Ghomboro. The symptoms were literally continuous. Every few hundred yards I had to stop, go through it and go on.
 
 On the seventh we rested at Camp 7. It was fine and the temperature in my tent was 37°; but the high peaks were “smoking their pipes” so that a violent wind must have been blowing up there; and as the morning advanced, the clouds gathered. However, I took a chance; and washed. It is a curiously refreshing sensation. I sometimes wonder why people do not indulge in it more often. On the eighth we went to Camp 6. My indiscreet debauch with water had added a cold in the head to my other miseries. Again a fine morning degenerated into thick weather. We rested on the ninth and went to Camp 5 on the tenth. It was cloudy all day and in the afternoon we had a violent storm of rain. On the eleventh we went to Rodokass direct by short cut, passing over a very beautiful scree whose stones were iridescent; every colour of the spectrum glistened on their rain-washed surfaces.
-
 On the twelfth we held a durbar and expelled Wessely from the expedition. Pfannl decided to go with him. Pfannl was now more or less well again, but he would never be able to climb mountains in the future. It poured with rain all day and the following, which I spent in bed. On the fourteenth we went to Camp 1. It took me ten hours; the last part of the march was very bad, the enormous increase of water having made some sections of the march impossible by the route previously taken. I was well enough to eat.
 
 The weather was fairly fine, bar one or two snowstorms; but it snowed all night.
@@ -3038,12 +2915,8 @@ It required more than one voyage to cross the river. It could not have been cros
 
 The pace of the current varies enormously. Sometimes we were kept half an hour at a time spinning about amid contending eddies; sometimes we were flung violently down the stream at over twenty miles an hour. The sensation is extraordinarily exhilarating — the motion, the imminent peril, the intoxication of the air, the majesty of the background, but above all, the beatific realization that, as the doctor said, “the roads are doing our walking for us,” combined to make me delirious with delight. Great too was the joy of rejoining Knowles and Eckenstein, who had now recovered their equanimity. We all went down to Skardu in two hours on a big zak. There we found fresh ripe grapes, potatoes and green corn. Our joy was unconfined; youth at the prow and pleasure at the helm! 
 
-[« back to toc]
+### Chapter 41.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 41.
 There are two ways of returning from Skardu to Srinagar; one the way we had come, the other across the Deosai plateau. This is a high table land from fourteen to seventeen thousand feet, crossed by four principal rivers. It has a devilish reputation for inhospitality. The rivers, in particular, play the prank of inducing you to cross one or two of them, and then coming down in spate, holding you up indefinitely and starving you out. I wanted to go back by that way; but Eckenstein's memories were too painful. We decided to travel separately — he with Knowles, and I with the doctor. (After we had started, he changed his mind and followed us.) On the twenty-sixth of August I had a final go of fever and lay in bed till the afternoon, after which I got up and saw to the bandobast for the journey. The next day we started for Pinderbal, about five hours on horseback — a very pleasant ride up a steep nala. The only incident was that my pony had been reading the Old Testament and proceeded to vary his pleasures by bolting under a tree so that I was caught in its branches like Absalom, while he went on his cheerful way, neighing merrily. We camped under a huge boulder; and as I sat by the fire after dinner reposing delightfully with a pipe, a very characteristic incident occurred.
 
 A shapeless mass was moving down the slopes. It resolved itself into a man who must have been nearer seventy than sixty years old, carrying a sack, much bigger than himself, of what proved to be dried apricots. I greeted him affectionately and offered him some tobacco. He squatted opposite me and began to chat. When he said “dried apricots” I had to summon all my philosophy to prevent raising my eyebrows slightly, for this was indeed carrying coals to Newcastle. Baltistan consists exclusively of rocks, streams and dried apricots. The last named are its principal export.
@@ -3066,16 +2939,12 @@ Soon after crossing the pass, the Vale of Kashmir with the Wular Lake bursts upo
 
 We lazed a day among the delights of comparative comfort, marred only by the return of my malaria. But on the sixth I drove in a tonga to Srinagar, 132 days after leaving it. The expedition to Chogo Ri was over.
 
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 42.
+### Chapter 42.
 After about a week in Srinagar, I accepted an invitation to stay with Radcliffe at his headquarters in Baramula, to go shooting. I travelled by dunga in order to see a little more of native life and character, which I was able to do more freely now that my responsibility of the expedition was at an end. I passed two wonderful days of perfect joy on river and lake. I realized the whole of Kubla Khan, including the parts that Coleridge forgot. I understood the exclamation of the Persian poet:
 
-If on earth is a heaven of bliss,
-It is this, it is this, it is this.
+> If on earth is a heaven of bliss,
+> 
+> It is this, it is this, it is this.
 
 Radcliffe and I went shooting bears occasionally, but I could not get up much enthusiasm. I was still suffering from occasional bouts of fever; and besides, was oppressed with a certain lassitude. I felt admirably well, but disinclined for necessary exertion. The strain of the journey was making itself felt. I wanted to lounge about and indulge in short strolls in the shade, to eat and drink at my ease, and to sleep “lazily, lazily, drowsily, drowsily, in the noonday sun”. I had arranged to go on a more serious expedition with Radcliffe; but he was called away by a telegram, and I decided to wander slowly back to Blighty.
 
@@ -3091,7 +2960,7 @@ I reached Aden on the ninth. It must be a perfectly ghastly place to live in. As
 
 I arrived in Cairo on the fourteenth and was transported to the seventh heaven. I lived at Shephard's Hotel till Guy Fawkes's Day, wallowing in the flesh pots. I would not even go out to see the Pyramids. I wasn't going to have forty centuries look down on me. Confound their impudence! I could not even bother to study Islam from the religious point of view, but I undertook a course in ethnology which remains in my mind as the one study where the roses have no thorns. I got a typist and dictated an account of my various wanderings in my better moments, but most of the time I was earnestly pursuing my researches in the fish market.
 
-My mind began, moreover, to flow back into its accustomed channels. For one thing, I came to the conclusion that “the most permanent poetry is perhaps love songs for real country folk — about trout and love.” And I began to write a set of lyrics to be called “The Lover's Alphabet”. This was to consist of twenty-six poems, associating a girl's name with a flower with the same initial from A to Z. One of my regular pedantic absurdities! Needless to say, it broke down. The debris is printed in my Collected Works, Vol. III, pp. 58 seq. I was also vaguely revising Orpheus and the other literary lumber of the past year and a half.
+My mind began, moreover, to flow back into its accustomed channels. For one thing, I came to the conclusion that “the most permanent poetry is perhaps love songs for real country folk — about trout and love.” And I began to write a set of lyrics to be called “The Lover's Alphabet”. This was to consist of twenty-six poems, associating a girl's name with a flower with the same initial from A to Z. One of my regular pedantic absurdities! Needless to say, it broke down. The debris is printed in my *Collected Works*, Vol. III, pp. 58 seq. I was also vaguely revising Orpheus and the other literary lumber of the past year and a half.
 
 I had been doing a certain amount of practical Magick off and on, even during the expedition; but this too had dropped off since my return to civilization. As to Yoga, I was still completely dead. I had become dull to the trance of sorrow itself. I had no doubts as to the efficacy of Magick or the advantages of Mysticism. I simply couldn't be bothered with them. I was not under any illusions about the value of worldly pleasures; it was simply that I did not possess the energy to live any other kind of life.
 
@@ -3109,37 +2978,37 @@ I drew my own conclusions. What had happened to me was so much like what had hap
 
 I had, however, little doubt that he had fallen through rashly invoking the forces of The book of the Sacred Magick of Abra-Melin the Mage. I thought I would try the testimony of an independent observer. Among the English colony of Montparnasse was a youth named Haweis, son of the once celebrated H. R. Haweis of Music and Morals. He had been to Peterhouse and was now studying art, in which he has since achieved a certain delicate eminence. He went to see Mathers and came back very bored with a pompous disquisition on the ancient gods of Mexico. The charlatan was apparent; Mathers had got his information from the very people who had induced me to go out to Mexico. He was exploiting omne ignotum pro magnifico like the veriest quack. At this moment I came into magical contact with his forces. The story has been told admirably, if somewhat floridly, by Captain (now Major-General) J.F.C.Fuller. I can hardly do better than quote his account.
 
-Gerald Kelly showed considerable perturbation of mind, and on being asked by Frater P. what was exercising him, Gerald Kelly replied, “Come and free Miss Q. from the wiles of Mrs. M.” Being asked who Mrs. M. was, Gerald Kelly answered that she was a vampire and a sorceress who was modelling a sphinx with the intention of one day endowing it with life so that it might carry out her evil wishes; and that her victim was Miss Q. P. Wishing to ease his friend's mind asked Gerald Kelly to take him to Miss Q.'s address, at which Mrs. M. was then living. This Gerald Kelly did.
-
-Miss Q., after an interview, asked P. to tea to meet Mrs. M. After introduction, she left the room to make tea — the White Magick and the Black were left face to face.
-
-On the mantelpiece stood a bronze head of Balzac, and P., taking it down, seated himself in a chair by the fire and looked at it.
-
-Presently a strange dreamy feeling seemed to come over him, and something velvet-soft and soothing and withal lecherous moved across his hand. Suddenly looking up he saw that Mrs. M. had noiselessly quitted her seat and was bending over him; her hair was scattered in a mass of curls over her shoulders and the tips of her fingers were touching the back of his hand.
-
-No longer was she the middle-aged woman, worn with strange lusts; but a young woman of bewitching beauty.
-
-At once recognizing the power of her sorcery, and knowing that if he even so much as contemplated her gorgon head, all the power of his Magick would be petrified, and that he would become but a puppet in her hands, but a toy to be played with and when broken cast aside, he quietly rose as if nothing unusual had occurred; and placing the bust on the mantelpiece turned towards her and commenced with her a magical conversation; that is to say a conversation which outwardly had but the appearance of the politest small talk, but which inwardly lacerated her evil heart, and burnt into her black bowels as if each word had been a drop of some corrosive acid.
-
-She writhed back from him, and then again approached him even more beautiful than she had been before. She was battling for her life now, and no longer for the blood of another victim. If she lost, hell yawned before her, the hell that every once-beautiful woman who is approaching middle age, sees before her; the hell of lost beauty, of decrepitude, of wrinkles and fat. The odour of man seemed to fill her whole subtle form with a feline agility, with a beauty irresistible. One step nearer and then she sprang at Frater P. and with an obscene word sought to press her scarlet lips to his.
-
-As she do so Frater P. caught her and holding her at arm's length smote the sorceress with her own current of evil, just as a would-be murderer is sometimes killed with the very weapon with which he has attacked his victim.
-
-A blue-greenish light seemed to play round the head of the vampire, and then the flaxen hair turned the colour of muddy snow, and the fir skin wrinkled, and those eyes, that had turned so many happy lives to stone, dulled and became as pewter dappled with the dregs of wine. The girl of twenty had gone; before him stood a hag of sixty, bent, decrept, debauched. With dribbling curses she hobbled from the room.
-
-As Frater P. left the house, for some time he turned over in his mind these strange happenings and was not long in coming to the opinion that Mrs. M. was not working alone, and that behind her probably were forces far greater than she. She was but the puppet of others, the slave that would catch the kids and the lambs that were to be served upon her master's table. Could P. prove this? Could he discover who her masters were? The task was a difficult one; it either meant months of work, which P. could not afford to give, or the mere chance of a lucky stroke which P. set aside as unworthy the attempt.
-
-That evening, whilst relating the story to his friend Gerald Kelly, he asked him if he knew any reliable clairvoyant. Gerald Kelly replied that he did, and that there was such a person at that very time in Paris known as the Sibyl, his own “belle amie”. That night they called on her; and from her P. discovered, for he led her in the spirit, the following remarkable facts.
-
-The vision at first was of little importance, then by degrees the seer was led to a house which P. recognized as that in which D.D.C.F. lived. He entered one of the rooms, which he also at once recognized; but curious to say, instead of finding D.D.C.F. and V.N.R. there, he found Theo and Mrs. Horos. Mr. Horos (M.S.R.) incarnated in the body of V.N.R. and Mrs. Horos (S.V.S.) in that of D.D.C.F. Their bodies were in orison; but their spirits were in the house of the fallen chief of the Golden Dawn.
-
-At first Frater P. was seized with horror at the sight, he knew not whether to direct a hostile current of will against D.D.C.F. and V.N.R., supposing them to be guilty of cherishing within their bodies the spirits of two disincarnated vampires, or perhaps Abra-Melin demons under the assumed forms of S.V.A. and M.S.R., or to warn D.D.C.F.; supposing him to be innocent, as he perhaps was, of so black and evil an offence. But, as he hesitated, a voice entered the body of the Sibyl and bade him leave matters alone, which he did. Not yet was the cup full.
+> Gerald Kelly showed considerable perturbation of mind, and on being asked by Frater P. what was exercising him, Gerald Kelly replied, “Come and free Miss Q. from the wiles of Mrs. M.” Being asked who Mrs. M. was, Gerald Kelly answered that she was a vampire and a sorceress who was modelling a sphinx with the intention of one day endowing it with life so that it might carry out her evil wishes; and that her victim was Miss Q. P. Wishing to ease his friend's mind asked Gerald Kelly to take him to Miss Q.'s address, at which Mrs. M. was then living. This Gerald Kelly did.
+> 
+> Miss Q., after an interview, asked P. to tea to meet Mrs. M. After introduction, she left the room to make tea — the White Magick and the Black were left face to face.
+> 
+> On the mantelpiece stood a bronze head of Balzac, and P., taking it down, seated himself in a chair by the fire and looked at it.
+> 
+> Presently a strange dreamy feeling seemed to come over him, and something velvet-soft and soothing and withal lecherous moved across his hand. Suddenly looking up he saw that Mrs. M. had noiselessly quitted her seat and was bending over him; her hair was scattered in a mass of curls over her shoulders and the tips of her fingers were touching the back of his hand.
+> 
+> No longer was she the middle-aged woman, worn with strange lusts; but a young woman of bewitching beauty.
+> 
+> At once recognizing the power of her sorcery, and knowing that if he even so much as contemplated her gorgon head, all the power of his Magick would be petrified, and that he would become but a puppet in her hands, but a toy to be played with and when broken cast aside, he quietly rose as if nothing unusual had occurred; and placing the bust on the mantelpiece turned towards her and commenced with her a magical conversation; that is to say a conversation which outwardly had but the appearance of the politest small talk, but which inwardly lacerated her evil heart, and burnt into her black bowels as if each word had been a drop of some corrosive acid.
+> 
+> She writhed back from him, and then again approached him even more beautiful than she had been before. She was battling for her life now, and no longer for the blood of another victim. If she lost, hell yawned before her, the hell that every once-beautiful woman who is approaching middle age, sees before her; the hell of lost beauty, of decrepitude, of wrinkles and fat. The odour of man seemed to fill her whole subtle form with a feline agility, with a beauty irresistible. One step nearer and then she sprang at Frater P. and with an obscene word sought to press her scarlet lips to his.
+> 
+> As she do so Frater P. caught her and holding her at arm's length smote the sorceress with her own current of evil, just as a would-be murderer is sometimes killed with the very weapon with which he has attacked his victim.
+> 
+> A blue-greenish light seemed to play round the head of the vampire, and then the flaxen hair turned the colour of muddy snow, and the fir skin wrinkled, and those eyes, that had turned so many happy lives to stone, dulled and became as pewter dappled with the dregs of wine. The girl of twenty had gone; before him stood a hag of sixty, bent, decrept, debauched. With dribbling curses she hobbled from the room.
+> 
+> As Frater P. left the house, for some time he turned over in his mind these strange happenings and was not long in coming to the opinion that Mrs. M. was not working alone, and that behind her probably were forces far greater than she. She was but the puppet of others, the slave that would catch the kids and the lambs that were to be served upon her master's table. Could P. prove this? Could he discover who her masters were? The task was a difficult one; it either meant months of work, which P. could not afford to give, or the mere chance of a lucky stroke which P. set aside as unworthy the attempt.
+> 
+> That evening, whilst relating the story to his friend Gerald Kelly, he asked him if he knew any reliable clairvoyant. Gerald Kelly replied that he did, and that there was such a person at that very time in Paris known as the Sibyl, his own “belle amie”. That night they called on her; and from her P. discovered, for he led her in the spirit, the following remarkable facts.
+> 
+> The vision at first was of little importance, then by degrees the seer was led to a house which P. recognized as that in which D.D.C.F. lived. He entered one of the rooms, which he also at once recognized; but curious to say, instead of finding D.D.C.F. and V.N.R. there, he found Theo and Mrs. Horos. Mr. Horos (M.S.R.) incarnated in the body of V.N.R. and Mrs. Horos (S.V.S.) in that of D.D.C.F. Their bodies were in orison; but their spirits were in the house of the fallen chief of the Golden Dawn.
+> 
+> At first Frater P. was seized with horror at the sight, he knew not whether to direct a hostile current of will against D.D.C.F. and V.N.R., supposing them to be guilty of cherishing within their bodies the spirits of two disincarnated vampires, or perhaps Abra-Melin demons under the assumed forms of S.V.A. and M.S.R., or to warn D.D.C.F.; supposing him to be innocent, as he perhaps was, of so black and evil an offence. But, as he hesitated, a voice entered the body of the Sibyl and bade him leave matters alone, which he did. Not yet was the cup full.
 
 This story is typical of my magical state of the time. I was behaving like a Master of Magick, but had no interest in my further progress. I had returned to Europe with a sort of feeling at the back of my mind that I might as well resume the Abra-Melin operation, and yet the debacle of Mathers somehow put me off; besides which, I was a pretty thorough-going Buddhist. My essay “Science and Buddhism” makes this clear. I published a small private edition of “Berashith” in Paris; but my spiritual state was in reality very enfeebled. I am beginning to suspect myself of swelled head with all its cohort of ills. I'm afraid I thought myself rather a little lion on the strength of my journey, and the big people in the artistic world in France accepted me quite naturally as a colleague.
 
 In England there is no such social atmosphere. Artists and writers are either isolated or members of petty cliques. It is impossible to do so much as give a dinner to a distinguished man without upsetting the antheap, and arousing the most insanely violent and personal jealousy. A writer who respects himself in England is bound to become a solitary like Hardy and Conrad; the greatness of his art debars him utterly from taking the smallest part in the artistic affairs of the moment. In a way, this is not to his disadvantage, for the supreme genius does not need specialized human society; he is a home in the slums or on the countryside. The salon stifles him. The social intercourse between artists in France tends to civilize them, to bring them to a common level; and thus, though the average of good writers is far higher than in England, we can show more men of supreme attainment; we can even make a pretty shrewd guess who the masters are even during their lifetime, for we instinctively persecute them.
 
-Any spark of individuality is in England an outrage on decency. We pick out Sir Richard Burton, James Thomson, John Davidson, Ernst Dowson, and heaven knows how many others, for abuse, slander, ostracism, starvation or imprisonment. In our anxiety to do justice, we even annoy perfectly harmless people. At one time Alfred Tennyson was scoffed at as “incomprehensible”. Holman Hunt was denounced by Charles Dickens as an obscene painter, and his prosecution and imprisonment demanded. Jude the Obscure was nicknamed Jude the Obscene. Swinburn was denounced as “the poet of the trough and the sty”, and his publisher withdrew the first series of Poems and Ballads in panic. Rossetti and Morris came in for an equal share of abuse, and we all remember the denunciation of Ibsen, Meredity, Nietzsche, Maeterlinck, Tolstoy, in fact, of every man — also Bernard Shaw — without exception whose name is still in our memories.
+Any spark of individuality is in England an outrage on decency. We pick out Sir Richard Burton, James Thomson, John Davidson, Ernst Dowson, and heaven knows how many others, for abuse, slander, ostracism, starvation or imprisonment. In our anxiety to do justice, we even annoy perfectly harmless people. At one time Alfred Tennyson was scoffed at as “incomprehensible”. Holman Hunt was denounced by Charles Dickens as an obscene painter, and his prosecution and imprisonment demanded. Jude the Obscure was nicknamed *Jude the Obscene*. Swinburn was denounced as “the poet of the trough and the sty”, and his publisher withdrew the first series of *Poems and Ballads* in panic. Rossetti and Morris came in for an equal share of abuse, and we all remember the denunciation of Ibsen, Meredity, Nietzsche, Maeterlinck, Tolstoy, in fact, of every man — also Bernard Shaw — without exception whose name is still in our memories.
 
 In France one attains eminence by a less gratuitous Golgotha. Men of art and letters are respected and honoured by each other and by the public. Their final position in history is quietly assigned by time. It is only in very exceptional circumstances that a great man is awarded the distinction of a Calvary. Of course, Zola went through the mill; but only because he had butted into politics by his J'accuse; he was only denounced as obscene because any stick is good enough to beat a god with.
 
@@ -3155,32 +3024,42 @@ I find by experience that any man well learned in a subject, but whose understan
 
 While other defenders of Rodin were apologizing for him in detail I brushed aside the nonsense — “a plague o' both your houses!” — and wrote a sonnet, which is, in its way, to conventional criticism exactly what the Balzac was. It was translated into French by Marcel Schwob and made considerable stir in Paris. Even at this length of time, I attach a certain importance to it. For one thing, it marks a new stage in my own art.
 
-BALZAC
+> BALZAC
+> 
+> Giant, with iron secrecies ennighted,
+> 
+> Cloaked, Balzac stands and sees. Immense disdain,
+> 
+> Egyptian silence, mastery of pain,
+> 
+> Gargantuan laughter, shake or still the ignited
+> 
+> Stature of the Master, vivid. Far, affrighted,
+> 
+> The stunned air shudders on the skin. In vain
+> 
+> The Master of La Comédie Humaine
+> 
+> Shadows the deep-set eyes, genius-lighted.
+> 
+> 
+> 
+> Epithalamia, birth songs, epitaphs,
+> 
+> Are written in the mystery of his lips.
+> 
+> Sad wisdom, scornful shame, grand agony
+> 
+> In the coffin folds of the cloak, scarred mountains, lie,
+> 
+> And pity hides i' th' heart. Grim knowledge grips
+> 
+> The essential manhood. Balzac stands, and laughs.
 
-Giant, with iron secrecies ennighted,
-Cloaked, Balzac stands and sees. Immense disdain,
-Egyptian silence, mastery of pain,
-Gargantuan laughter, shake or still the ignited
-Stature of the Master, vivid. Far, affrighted,
-The stunned air shudders on the skin. In vain
-The Master of La Comédie Humaine
-Shadows the deep-set eyes, genius-lighted.
+The upshot was that Rodin invited me to come and stay with him at Meudon. The idea was that I should give a poetic interpretation of all his masterpieces. I produced a number of poems, many of which I published at the time in the Weekly Critical Review, an attempt to establish an artistic entente cordiale. The entire series constitutes my *Rodin in Rime*. This book is illustrated by seven often lithographs of sketches which Rodin gave me for the purpose. 
 
-Epithalamia, birth songs, epitaphs,
-Are written in the mystery of his lips.
-Sad wisdom, scornful shame, grand agony
-In the coffin folds of the cloak, scarred mountains, lie,
-And pity hides i' th' heart. Grim knowledge grips
-The essential manhood. Balzac stands, and laughs.
+### Chapter 43.
 
-The upshot was that Rodin invited me to come and stay with him at Meudon. The idea was that I should give a poetic interpretation of all his masterpieces. I produced a number of poems, many of which I published at the time in the Weekly Critical Review, an attempt to establish an artistic entente cordiale. The entire series constitutes my Rodin in Rime. This book is illustrated by seven often lithographs of sketches which Rodin gave me for the purpose. 
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 43.
 Any other man but myself would have made a ladder to fame out of the success of this winter. I had no such idea. I had been thoroughly disillusioned, not only by the original trance of sorrow which had struck me between wind and water in 1897, but by the experience of my travels. The natives of Hawaii were not worrying about Sophocles; Chogo Ri would be there when the last echo of Napoleon's glory had died away. I was more than ever convinced that to take an interest in the affairs of this world, one must turn one's back on truth. Buddhism might be right or wrong in saying that nothing is worth while; but anyhow there could be no doubt that the conventional standards of value were simply comic. If anything were worth while, it could only be discovered by turning one's back resolutely on temporal things.
 
 In accordance with Eckenstein's puritanical ideas of propriety, no communications about the expedition had been made to the newspapers. Ultimately, in the sheer interests of science, a paragraph had been permitted to appear in The Times. It contained thirty-two lines and seventeen misstatements of fact! I myself had been interviewed by a French journalist and the report of my remarks bore no discoverable relation with them. I am perhaps unduly sensitive about such stupidities. I ought perhaps to rely on time to sweep away the rubbish into the dustbin of oblivion and set the truth upon her throne; but yet, the evidence of history smiles grimly. What do we really know of the rights and wrongs of the struggle between Rome and Carthage! What do we know even of Buddhism and Christianity but that the most authentic accounts of their origins are intrinsically absurd! “What is truth?” said jesting Pilate. But, personally, I fail to see the joke.
@@ -3203,7 +3082,7 @@ He told us the true story of Salome. The character of Wilde was simple. He was a
 
 Wilde had denied his nature in the interests of social ambition, and the success of his scheme drove him to adopt every affectation as a sign of superiority. Outside the English system of caste, he might have been a contented cornchandler. Within it, he found himself obliged to affect to be sexually stirred by Maeterlinck, Flaubert, Gustave Moreau, and even the most sacred character of Scripture. He degraded the Sphinx by representing her as a sexual monster. He interpreted the relations between Christ and John, between Paul and Timothy, in the light of his own perverse imagination.
 
-When I say perverse, I do not mean to use the word in the psychopathic sense. Wilde's only perversity was that he was not true to himself. Without knowing it, he had adopted the standards of the English middle class, and thought to become distinguished by the simple process of outraging them. As one is said to be able to invoke the devil by reciting the Lord's Prayer backwards, so Wilde thought to set up a new morality by reciting George R. Sims backwards. He naively accepted the cockney idea that Paris is a very wicked place, and proposed to petrify the puritans by writing a play in French. His difficulty was that his French was that of a schoolboy turned tourist; so he struggled to write Salome on the pretence that he was sexually excited by The Temptation of St. Anthony, Moreau's pictures in the Luxembourg and the style of Pelléas and Mélisande. But the performance was pitiful; and it was Marcel Schwob who re-wrote his puerile dialogue in French.
+When I say perverse, I do not mean to use the word in the psychopathic sense. Wilde's only perversity was that he was not true to himself. Without knowing it, he had adopted the standards of the English middle class, and thought to become distinguished by the simple process of outraging them. As one is said to be able to invoke the devil by reciting the Lord's Prayer backwards, so Wilde thought to set up a new morality by reciting George R. Sims backwards. He naively accepted the cockney idea that Paris is a very wicked place, and proposed to petrify the puritans by writing a play in French. His difficulty was that his French was that of a schoolboy turned tourist; so he struggled to write Salome on the pretence that he was sexually excited by The Temptation of St. Anthony, Moreau's pictures in the Luxembourg and the style of *Pelléas and Mélisande*. But the performance was pitiful; and it was Marcel Schwob who re-wrote his puerile dialogue in French.
 
 At one of Marcel Schwob's afternoons I met Arnold Bennett, very ill at ease to find himself in Paris in polite society. He must have had a perfectly lovely time; everything was alike a source of innocent wonder. He was very much pleased by the generous measure of respect which he received on all hands simply for being a novelist. His speech and his appearance attracted no insult from literary circles in Paris.
 
@@ -3211,14 +3090,21 @@ At the time I had only read one of his books — The Grand Babylon Hotel; Which 
 
 Marcel Schwob gave me an introduction to William Ernest Henley, who invited me to lunch with him in his house near Woking. My sonnet on Rodin's bust of Henley describes the man and the interview rather than the sculpture.
 
-Cloistered seclusion of the galleried pines
-Is mine today; these groves are fit for Pan —
-O rich with Bacchus frenzy and his wine's
-Atonement for the infinite woes of man!
-
-And here his mighty and reverend high priest
-Bade me good cheer, an eager acolyte,
-Poured the high wine, unveiled the mystic feast …
+> Cloistered seclusion of the galleried pines
+> 
+> Is mine today; these groves are fit for Pan —
+> 
+> O rich with Bacchus frenzy and his wine's
+> 
+> Atonement for the infinite woes of man!
+> 
+> 
+> 
+> And here his mighty and reverend high priest
+> 
+> Bade me good cheer, an eager acolyte,
+> 
+> Poured the high wine, unveiled the mystic feast …
 
 Roast lamb and an excellent Chablis which had been sent to him by Lord Northcliffe — thus does the poet transfigure conceptions apparently commonplace.
 
@@ -3232,29 +3118,29 @@ I told him what I was doing about Rodin. His view was that the sonnet had been w
 
 At least I have not died without the joy of knowing that no less a lover of literature than the world-famous Shakespearian Lecturer, Dr. Louis Umfraville Wilkinson, has dared to confess publicly that Clouds without Water is “the most tremendous and the most real love poem since Shakespeare's sonnets” in the famous essay “A Plea for Better Morals”. But I anticipate. Clouds without Water came four years later. I am still sitting sleepily in the twilight in Europe; after my day's labour three years long in the blazing sun of the great world.
 
-I spent many of my evenings at a little restaurant called the Chat blanc in the rue d'Odessa, where was “an upper room furnished” and consecrated informally to a sort of international clique of writer, painters, sculptors, students and their friends. It has been described with accurate vigour in the introduction to Snowdrops from a Curate's Garden. I quote the passage.
+I spent many of my evenings at a little restaurant called the Chat blanc in the rue d'Odessa, where was “an upper room furnished” and consecrated informally to a sort of international clique of writer, painters, sculptors, students and their friends. It has been described with accurate vigour in the introduction to *Snowdrops from a Curate's Garden*. I quote the passage.
 
-His evenings were spent in that witty and high-thinking informal club that met nightly at the restaurant Au Chien Rouge, whose members are so honoured in the world of art. There he met C— the brilliant but debauched sculptor, caustic of wit, though genial to his friends; N—, the great painter, whose royal sense of light made his canvases into a harmonious dream: he also the sweet friend of Bacchus, who filled him with a glow and melody of colour and thought. There too, were D— and L—, the one poet and philosopher, the other painter and — I fear — pederast. Twins in thought, the two were invincible in argument as they were supreme in their respective arts. Often have I sat, a privileged listener, while D—'s cold acumen and L—'s superb indignation, expressed in fiery swords of speech, would drive some luckless driveller from the room. Or at times they would hold down their victim, a bird fascinated by a snake, while they pitilessly exposed his follies to the delighted crowd. Again, a third, pompous and self-confident, would be led on by them, seemingly in full sympathy, to make an exhibition of himself, visible and hideous to all eyes but his own. L—, his eager face like a silver moon starting from a thundercloud, his hair, would pierce the very soul of the debate and kindle it with magick joy or freeze it with scorn implacable. D—, his expression noble and commanding, yet sly, as if ever ready to laugh at the intricacies of his own intellect, sat next him, his deep and wondrous eyes lit with strange light, while with words like burning flames of steel he shore asunder the sophistries of one and the complacencies of another. They were feared, these two! There also did he meet the well-known ethicist, I—, fair as a boy, with boy's gold locks curling about his Grecian head; I—, the pure and subtle-minded student, whose lively humour and sparkling sarcasm were as froth upon the deep and terrible waters of his polished irony. It was a pity that he drank. There the great surgeon and true gentleman, in spite of his exaggerated respect for the memory of Queen Victoria, J—, would join in with his ripe and generous wit. Handsome as a god, with yet a spice of devil's laughter lurking there, he would sit and enjoy the treasures of the conversation, adding at the proper interval his own rich quota of scholarly jest.
-
-Needless to say, so brilliant a galaxy attracted all the false lights of the time. T—, the braggart, the mediocre painter, the lusty soi-disant maquereau of marchionesses, would seek admission (which was in theory denied to none). But the cutting wit of C— drove him headlong, as if by the cherubin, from the gates of the garden of Eden. G—, the famous society painter, came one night and was literally hounded out of the room by a swift and pitiless attack on the part of D— and the young ethicist. A bullet-headed Yankee, rashly supporting him, shared the same fate and ever after sat in solitary disgrace downstairs, like a shipped hound outside its master's door. A fool reveals himself, though he talk but of greasing gimlets, in such a fierce light as beat upon the Chien Rouge. Nor could any fool live long in that light. It turned him inside out; it revealed him even to himself as a leper and an outcast; and he could not stand it.
-
-In such a circle humbug could not live. Men of high intellectual distinction, passing through Paris, were constant visitors at the Chien Rouge. As guests they were treated with high honour; but woe to the best of them if some chance word let fall led D— or L— to suspect that he had a weak spot somewhere. When this happened, nothing could save him: he was rent and cast to the carrion beasts for a prey.
-
-How often have I seen some literary or pictorial Pentheus, impious and self-sufficient as he, disguise himself (with a tremor of fear) in his noblest artistic attire, as the foolish king in the Bassara of the Maenads!
-
-How often have I seen Dionysus — or some god — discover the cheat and give him over to those high priests of dialectic, D— and L—, to be ravaged and stripped amid the gleeful shrieks of the wit- intoxicated crowd! But once the victim was upon the altar, once he rose from his chair, then what a silence fell! Frozen with the icy contempt of the assembly, the wretch would slink down the room with a sacred grin on his face, and not until he had faced that cruel ordeal, more terrible (even to a callous fool) than an actual whipping would have been, not until the door had closed behind him would the silence break as someone exclaimed “My God, what a worm!” and led the conversation to some more savoury subject.
-
-On the other hand there was B—, a popular painter, upon whom the whole Dog pounced as one man, to destroy him.
-
-But when they saw that his popular painting was not he, that he had a true heart and an honest ambition, how quickly were the swords beaten into absinthes and the spears into tournedos!
-
-S—, again, with a face like a portrait by Rembrandt, a man of no great intellect, but making no pretence thereto, how he was loved for his jolly humour, his broad smile, his inimitable stories! Yet it must not be suppose that the average man, however sincere, had much of a welcome there. Without intention to wound, he was yet hurt — the arrows of wit shot over his head and he could never feel at home.
-
-I am perhaps the one exception. Without a ghost of talent, even in my own profession — medicine — I had no claim whatever to the hospitality of the Dog. But being perfectly unobtrusive, I dare say I was easy to tolerate, perhaps even of the same value as a background is to a picture, a mere patch of neutral colour, yet serving to harmonize the whole. Certainly nothing but my silence saved me. The remark a few pages back about Hall Caine and Meredith would have caused my instant execution, by the most painful, if the least prolonged, of deaths.
-
-Ay! no society, since men gathered together, was ever so easy to approach, to seat oneself among, to slip away from or to be hurled in derision from their midst!
-
-Dreaded as they were by the charlatan, no set of men could have been more genial, more fraternal. United by a bond of mutual respect, even where they differed — of mutual respect, I say, by no means of mutual admiration, for it was the sincere artistry that they adored, not the technical skill of achievement — they formed a noble and harmonious group, the like of which has perhaps never yet been seen.[1]
+> His evenings were spent in that witty and high-thinking informal club that met nightly at the restaurant Au Chien Rouge, whose members are so honoured in the world of art. There he met C— the brilliant but debauched sculptor, caustic of wit, though genial to his friends; N—, the great painter, whose royal sense of light made his canvases into a harmonious dream: he also the sweet friend of Bacchus, who filled him with a glow and melody of colour and thought. There too, were D— and L—, the one poet and philosopher, the other painter and — I fear — pederast. Twins in thought, the two were invincible in argument as they were supreme in their respective arts. Often have I sat, a privileged listener, while D—'s cold acumen and L—'s superb indignation, expressed in fiery swords of speech, would drive some luckless driveller from the room. Or at times they would hold down their victim, a bird fascinated by a snake, while they pitilessly exposed his follies to the delighted crowd. Again, a third, pompous and self-confident, would be led on by them, seemingly in full sympathy, to make an exhibition of himself, visible and hideous to all eyes but his own. L—, his eager face like a silver moon starting from a thundercloud, his hair, would pierce the very soul of the debate and kindle it with magick joy or freeze it with scorn implacable. D—, his expression noble and commanding, yet sly, as if ever ready to laugh at the intricacies of his own intellect, sat next him, his deep and wondrous eyes lit with strange light, while with words like burning flames of steel he shore asunder the sophistries of one and the complacencies of another. They were feared, these two! There also did he meet the well-known ethicist, I—, fair as a boy, with boy's gold locks curling about his Grecian head; I—, the pure and subtle-minded student, whose lively humour and sparkling sarcasm were as froth upon the deep and terrible waters of his polished irony. It was a pity that he drank. There the great surgeon and true gentleman, in spite of his exaggerated respect for the memory of Queen Victoria, J—, would join in with his ripe and generous wit. Handsome as a god, with yet a spice of devil's laughter lurking there, he would sit and enjoy the treasures of the conversation, adding at the proper interval his own rich quota of scholarly jest.
+> 
+> Needless to say, so brilliant a galaxy attracted all the false lights of the time. T—, the braggart, the mediocre painter, the lusty soi-disant maquereau of marchionesses, would seek admission (which was in theory denied to none). But the cutting wit of C— drove him headlong, as if by the cherubin, from the gates of the garden of Eden. G—, the famous society painter, came one night and was literally hounded out of the room by a swift and pitiless attack on the part of D— and the young ethicist. A bullet-headed Yankee, rashly supporting him, shared the same fate and ever after sat in solitary disgrace downstairs, like a shipped hound outside its master's door. A fool reveals himself, though he talk but of greasing gimlets, in such a fierce light as beat upon the Chien Rouge. Nor could any fool live long in that light. It turned him inside out; it revealed him even to himself as a leper and an outcast; and he could not stand it.
+> 
+> In such a circle humbug could not live. Men of high intellectual distinction, passing through Paris, were constant visitors at the Chien Rouge. As guests they were treated with high honour; but woe to the best of them if some chance word let fall led D— or L— to suspect that he had a weak spot somewhere. When this happened, nothing could save him: he was rent and cast to the carrion beasts for a prey.
+> 
+> How often have I seen some literary or pictorial Pentheus, impious and self-sufficient as he, disguise himself (with a tremor of fear) in his noblest artistic attire, as the foolish king in the Bassara of the Maenads!
+> 
+> How often have I seen Dionysus — or some god — discover the cheat and give him over to those high priests of dialectic, D— and L—, to be ravaged and stripped amid the gleeful shrieks of the wit- intoxicated crowd! But once the victim was upon the altar, once he rose from his chair, then what a silence fell! Frozen with the icy contempt of the assembly, the wretch would slink down the room with a sacred grin on his face, and not until he had faced that cruel ordeal, more terrible (even to a callous fool) than an actual whipping would have been, not until the door had closed behind him would the silence break as someone exclaimed “My God, what a worm!” and led the conversation to some more savoury subject.
+> 
+> On the other hand there was B—, a popular painter, upon whom the whole Dog pounced as one man, to destroy him.
+> 
+> But when they saw that his popular painting was not he, that he had a true heart and an honest ambition, how quickly were the swords beaten into absinthes and the spears into tournedos!
+> 
+> S—, again, with a face like a portrait by Rembrandt, a man of no great intellect, but making no pretence thereto, how he was loved for his jolly humour, his broad smile, his inimitable stories! Yet it must not be suppose that the average man, however sincere, had much of a welcome there. Without intention to wound, he was yet hurt — the arrows of wit shot over his head and he could never feel at home.
+> 
+> I am perhaps the one exception. Without a ghost of talent, even in my own profession — medicine — I had no claim whatever to the hospitality of the Dog. But being perfectly unobtrusive, I dare say I was easy to tolerate, perhaps even of the same value as a background is to a picture, a mere patch of neutral colour, yet serving to harmonize the whole. Certainly nothing but my silence saved me. The remark a few pages back about Hall Caine and Meredith would have caused my instant execution, by the most painful, if the least prolonged, of deaths.
+> 
+> Ay! no society, since men gathered together, was ever so easy to approach, to seat oneself among, to slip away from or to be hurled in derision from their midst!
+> 
+> Dreaded as they were by the charlatan, no set of men could have been more genial, more fraternal. United by a bond of mutual respect, even where they differed — of mutual respect, I say, by no means of mutual admiration, for it was the sincere artistry that they adored, not the technical skill of achievement — they formed a noble and harmonious group, the like of which has perhaps never yet been seen.^[C. Paul Bartlett, N.J.W.Morrice, D.Crowley, L.Kelly, I.Heward Bell, J. Ivor Back, I. One Kite, G?, B. Penrhyn Stanlaws, S. One Root.]
 
 Another description may be found in the opening chapters of W. S. Maughams "The Magician". The reader will wonder how this gentleman could have got there, but here my tale is tangled. Gerald Kelly's elder sister, Rose, had been for some years the widow of a Major Skerrett, and one of her best friends was a woman as beautiful and fascinating as herself, who was the wife of an English solicitor connected with the British Embassy, named Maugham. W. S. was this man's younger brother. Maugham claimed to have ambitions to become a man of letters and his incapacity was so obvious that I am afraid we were cruel enough to make him the butt of our wit when he visited the Cat Blanc.
 
@@ -3262,7 +3148,7 @@ There is this excuse for us, that his earliest work was vamped over, his plagiar
 
 But in 1902 we were right to chivy him!
 
-It had leaked out that our luckless victim had taken a medical degree and J. W. Morrice[2] used to torment the poor fellow, whose distress was accentuated by his being a confirmed stammerer, by ringing the changes on this disgraceful episode of his career. Morrice was invariably mellow drunk all day and all night. He would look up from his crème de menthe and oeufs sur le plat, clear his throat and tell Maugham with grave importance that he would like to consult him on a matter concerning the welfare of art and artists. “What would you do if —” and after repeating himself in a hundred ways so as to prolong the rigmarole to the utmost, he would wind up by confessing to the premonitory symptoms of some comic an repulsive malady. It was really needlessly cruel, for, bar his pretensions to literature, there is not an ounce of harm in Maugham, any more than there is in a packet of sterilized cotton wool. Even the pretence is after all a perfectly harmless affectation.
+It had leaked out that our luckless victim had taken a medical degree and J. W. Morrice^[This amiable and worthy colonist occupied a studio on the Quai des Grands Augustins (now, I suppose, called Quai Maréchal Fous-le-Camp), most conveniently situated over the apartment of an excellent midwofe: though I never heard that he had occasion to avail himself of her services.] used to torment the poor fellow, whose distress was accentuated by his being a confirmed stammerer, by ringing the changes on this disgraceful episode of his career. Morrice was invariably mellow drunk all day and all night. He would look up from his crème de menthe and oeufs sur le plat, clear his throat and tell Maugham with grave importance that he would like to consult him on a matter concerning the welfare of art and artists. “What would you do if —” and after repeating himself in a hundred ways so as to prolong the rigmarole to the utmost, he would wind up by confessing to the premonitory symptoms of some comic an repulsive malady. It was really needlessly cruel, for, bar his pretensions to literature, there is not an ounce of harm in Maugham, any more than there is in a packet of sterilized cotton wool. Even the pretence is after all a perfectly harmless affectation.
 
 But Maugham suffered terribly under the lash of universal contempt and did his best to revenge himself by drawing portraits, as unpleasant as petty spite could make them, of some of his tormentors. His literary method, when it transcends plain scissors and paste, is the shirt-cuff method of Arnold Bennett. I must thank him for recording some of my actual repartees. The man he most hated was Roderic O'Conor. This man was intimate with Gauguin, Van Gogh and Cézanne. In my opinion history will class him near them as a painter. I do not think he has many superiors in art alive today. But very few people have seen his pictures. His contempt for the world goes beyond that of Balzac and Baudelaire. He cannot be bothered to give a show. He will turn rudely from his door a friendly journalist bent on making him famous and rich. Also, he is a cad.
 
@@ -3272,30 +3158,18 @@ I have never been able to analyse this mental attitude at all adequately, but pa
 
 I do not know whether it is fair to say that I am callous, whether the long torture of my patient silent struggle against the tyrants of my boyhood case-hardened me against the world. I do not know how far the habit of concentration and the peculiar selective action of my memory has deadened my sensibilities, for I am as indifferent to most impressions as the holiest hermit could desire. I have become almost incapable of registering conscious impressions unless they pass the censor as having legitimate business with me. Of course a not dissimilar state of abstractedness is common enough in men whose lives are devoted to study, by the time they are fifty; but in me these tendencies were already bearing fruit long before I was thirty.
 
-The Montparnesse quarter was of course full of people who took their trumpery love affairs very seriously. But the English colony was riddled with English hypocrisy. I remember giving the manuscript of Alice to Kelly and a girl named Sybil Muggins[3] to read, and they agreed that no really nice woman would have kissed a man so early as the thirteenth day of his wooing. I must confess to having been taken a little aback, especially as Sybil Muggins was Haweis's mistress. A few days back, moreover, Haweis having gone to Brussels for a week, she switched over to Kelly. What dreadful days those were! They worked themselves up into such a state that Kelly actually proposed to marry Sybil, and his sister bustled over post haste to prevent it by threatening that his allowance would be stopped if he did anything so foolish.
+The Montparnesse quarter was of course full of people who took their trumpery love affairs very seriously. But the English colony was riddled with English hypocrisy. I remember giving the manuscript of Alice to Kelly and a girl named Sybil Muggins^[Query “Meugins”.] to read, and they agreed that no really nice woman would have kissed a man so early as the thirteenth day of his wooing. I must confess to having been taken a little aback, especially as Sybil Muggins was Haweis's mistress. A few days back, moreover, Haweis having gone to Brussels for a week, she switched over to Kelly. What dreadful days those were! They worked themselves up into such a state that Kelly actually proposed to marry Sybil, and his sister bustled over post haste to prevent it by threatening that his allowance would be stopped if he did anything so foolish.
 
 I had of course no sympathy whatever for the fatuity of the young people, but I have always felt with Shelley that parental tyranny is the most indefensible kind.
 
-I was brought up in the other service; but I knew from the first that the Devil was my natural master and captain and friend. I saw that he was in the right, and that the world cringed to his conqueror only through fear. I prayed secretly to him; and he comforted me, and saved me from having my spirit broken in this house of children's tears. I promised him my soul, and swore an oath that I would stand up for him in this world and stand by him in the next. (Solemnly) That promise and that oath made a man of me. From this day this house is his home; and no child shall cry in it; this hearth is his altar; and no soul shall ever cower over it in the dark evenings and be afraid. (G.B.Shaw, The Devil's Disciple.)
+> I was brought up in the other service; but I knew from the first that the Devil was my natural master and captain and friend. I saw that he was in the right, and that the world cringed to his conqueror only through fear. I prayed secretly to him; and he comforted me, and saved me from having my spirit broken in this house of children's tears. I promised him my soul, and swore an oath that I would stand up for him in this world and stand by him in the next. (Solemnly) That promise and that oath made a man of me. From this day this house is his home; and no child shall cry in it; this hearth is his altar; and no soul shall ever cower over it in the dark evenings and be afraid. (G.B.Shaw, *The Devil's Disciple.*)
 
 I offered to make Kelly an allowance equal to what he was receiving, which rather took the wind out of the sails of the old wooden three-deckers in Camberwell vicarage. The gesture was sufficient. The threat was withdrawn; Gerald on his side had cooled off sufficiently to see the folly of throwing himself away on a half-caste.
 
 To me the joke as obvious. I could already love without attachment so far as physical desire was concerned. There are one or two small errors in my subsequent life and they are due to my failure to extend this principle to other types of attachment. I have tried to set myself up against fate and save those who were predestined to be lost, to keep on trusting people after I knew perfectly well that they were false; and I have paid heavily for my chivalry and generosity. I still think these defects in some way preferable to sterner sense and virtue, and yet I know that I am wrong from every point of view. It does not do ultimate good to anyone concerned to shut one's eyes to the facts or to try to dodge one's creditors.
 
-Footnotes:
+### Chapter 44.
 
-[1] C. Paul Bartlett, N.J.W.Morrice, D.Crowley, L.Kelly, I.Heward Bell, J. Ivor Back, I. One Kite, G?, B. Penrhyn Stanlaws, S. One Root.
-
-[2] This amiable and worthy colonist occupied a studio on the Quai des Grands Augustins (now, I suppose, called Quai Maréchal Fous-le-Camp), most conveniently situated over the apartment of an excellent midwofe: though I never heard that he had occasion to avail himself of her services.
-
-[3] Query “Meugins”.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 44.
 I must give an instance or two of the astounding character of my memory. It is absolutely first rate wherever my true interests are concerned, and also first rate in a very different sense, in elimination other things so as not to overload the mind. But —
 
 I think it was on returning to Boleskine from Paris after taking the Grade of 5° = 6☐ that I asked Eckenstein to join me for the ski-läufing and salmon. We left London together in a sleeper. I had one hundred and fifty pounds in bank notes in my pocket book, which I put under my pillow. In the morning I dressed hurriedly, still half asleep, and left the book behind. I discovered the loss a few minutes later and shrugged my shoulders. I have always had a conviction that it is utterly useless to look for anything that has once been lost. I made up my mind immediately to forget about it; I take it as a matter of fact that anyone who has found anything would steal it; yet equally as a matter of course that it would be returned to me by the finder as simply as one would hand a lady the fan she had dropped, with no question of honesty or reward. But Eckenstein insisted on my going back to the station immediately. We saw the station master and got permission to walk up the tracks — quite a long distance, hardly less than a quarter of a mile — to the siding where the sleeper had been shunted. The pocket book was found intact under my pillow.
@@ -3330,7 +3204,7 @@ At this particular moment he was aiming at the “low tone” of Whistler and Ve
 
 Stanlaws possessed the characteristic American faculty of doing anything and everything easily; of scoring superficial success. One day I called on him and found a large easel in his studio on which stood a vast canvas — evidently by Kelly. I congratulated him on his acquisition. He replied, rather huffily, that he had painted it himself. And the cream of the jest is that this hasty imitation of Kelly's imitations of Velasquez was accepted in the Salon on the strength of Stanlaws' American reputation!
 
-I gradually sickened of the atmosphere of Paris. It was all too easy. I flitted restlessly to London and back, and found no rest for the sole of my foot. I had even got engaged to be married, but returning after a week in London I was partly too shy to resume relations with my fiancée, and partly awake to the fact that we had drifted under the lee shore of matrimony out of sheer lack of moral energy. This lady claims notice principally as the model for several poems, notably (in Rosa Mundi, and other Love Songs) “The Kiss”, “Eileen” and the poems numbered 14, 15, 16, 18, 21 to 28. She was also the “Star” in The Star and the Garter, Which I wrote at this time; and the three women connected with the “Garter” were an English lady with a passion for either, an acrobat and model whom I called my boot-button girl because her face was “round and hard and small and pretty”, and thirdly Nina Olivier. Nina is described in the poem itself and also in several lyrics, notably “The Rondel” — “You laughing little light of wickedness”. My adoration of Nina made her the most famous girl in the quarter for a dozen years and more. She figures, by the way, in my “Ordeal of Ida Pendragon”.
+I gradually sickened of the atmosphere of Paris. It was all too easy. I flitted restlessly to London and back, and found no rest for the sole of my foot. I had even got engaged to be married, but returning after a week in London I was partly too shy to resume relations with my fiancée, and partly awake to the fact that we had drifted under the lee shore of matrimony out of sheer lack of moral energy. This lady claims notice principally as the model for several poems, notably (in Rosa Mundi, and other Love Songs) “The Kiss”, “Eileen” and the poems numbered 14, 15, 16, 18, 21 to 28. She was also the “Star” in *The Star and the Garter*, Which I wrote at this time; and the three women connected with the “Garter” were an English lady with a passion for either, an acrobat and model whom I called my boot-button girl because her face was “round and hard and small and pretty”, and thirdly Nina Olivier. Nina is described in the poem itself and also in several lyrics, notably “The Rondel” — “You laughing little light of wickedness”. My adoration of Nina made her the most famous girl in the quarter for a dozen years and more. She figures, by the way, in my “Ordeal of Ida Pendragon”.
 
 The Star and the Garter contains some of my best lyrics and is also important as marking a new step in my poetic path. I had mastered form better than I had ever done before; I had welded lyrics into a continuous opus with an integral purpose, without artificiality, such as to some extent mars Orpheus and even Alice. I spent two days writing the poem; but I do not consider it a waste of time.
 
@@ -3340,64 +3214,80 @@ One incident became immortal. One incident became immortal. I wrote in The Sword
 
 Another affectation of the women art students was to claim to be treated exactly as if they were men in every respect. Gerald, always eager to oblige, addressed one of his models as old fellow, to her great satisfaction. Then he excused himself for a momentary absence in the terms which he would have used to another man. On his return, the lady had recovered her “sex and character”, and had bolted. Woman can only mix with men on equal terms when adopts his morality lock, stock and barrel, and ceases to set an extravagant artificial value on her animal functions. The most high-principled woman (alleged) insists on the supreme value of an asset which is notoriously of no value whatever in itself.
 
-The Star and the Garter deals frankly with this problem, among others. As far as sexual charm is concerned, it is only reasonable to expect the expert to be more satisfactory than the new chum; and even, class for class, the professional than the amateur. The desire for exclusive possession is one of the most idiotic and bestial pieces of vanity in human psychology. But love can exist between man and woman entirely independent of any sexual relations between them. The condition of this love is that both parties should have completely mastered their sexual natures; for otherwise their mutual relations are not free to love decently until they have analysed themselves completely and swept away ever\ trace of mystery from sex; and this means the acquisition of a profound philosophical theory based on wide reading of anthropology and enlightened practice.
+*The Star and the Garter* deals frankly with this problem, among others. As far as sexual charm is concerned, it is only reasonable to expect the expert to be more satisfactory than the new chum; and even, class for class, the professional than the amateur. The desire for exclusive possession is one of the most idiotic and bestial pieces of vanity in human psychology. But love can exist between man and woman entirely independent of any sexual relations between them. The condition of this love is that both parties should have completely mastered their sexual natures; for otherwise their mutual relations are not free to love decently until they have analysed themselves completely and swept away ever\ trace of mystery from sex; and this means the acquisition of a profound philosophical theory based on wide reading of anthropology and enlightened practice.
 
 My travels had doubtless done much to open my eyes. I had already studied the characteristics of fifty-seven separate races, a number which I subsequently increased to eighty or ninety, when it became difficult to define the word “race”. My ethnological results are not particularly striking; but the course of the research certainly helped to make it clear that no proposition could be judged as right or wrong, or even as true or false. It is always possible to derive a point of view from the circumstances of its holder.
 
-The wildest dreams of Kew are the facts of Khatmandu,
-And the crimes of Clapham chaste in Martaban.
+> The wildest dreams of Kew are the facts of Khatmandu,
+> 
+> And the crimes of Clapham chaste in Martaban.
 
 Every conceivable moral principle is held somewhere by somebody; and it is the ineluctable conclusion from that somebody's premisses. His circumstances are unique; and so are his hereditary tendencies, his environment, his training and the character of his mental processes. Whether we hold free will or determinism, we equally ratify every type of opinion and conduct.
 
 I had not at this time consciously reached this freedom. I was still a romantic, still seeking true love. Observe a curious analogy to the time when I invoked the adepts, and one actually by my side; so now, invoking true love, there lurked unsuspected in my circle the woman destined to satisfy my aspirations; and just as in aspiring to the Path of the Wise I had not realized the nature of that Path, so also I did not understand what the words true love might mean.
 
-True love with black inchauntments filled,
-Its hellish rout of shrieks and groans,
-Its vials of poison death-distilled,
-Its rattling chains and skeletons.
+> True love with black inchauntments filled,
+> 
+> Its hellish rout of shrieks and groans,
+> 
+> Its vials of poison death-distilled,
+> 
+> Its rattling chains and skeletons.
 
 I made comparatively few notes of this period — November 1902 to April 1903. It seems rather strange that I should have been able to get such an epitome of life into so short a period; at least I reached old age. I went back to Boleskine almost as a ghost might retire to his tomb at cock-crow. In May I wrote a very clear résumé of my progress. It will be as well to quote it.
 
-In the year 1899 I came to Boleskine House and put everything in order with the object of carrying out the Operation of Abra-Melin the Mage.
+> In the year 1899 I came to Boleskine House and put everything in order with the object of carrying out the Operation of Abra-Melin the Mage.
+> 
+> I had studied Ceremonial Magick and had obtained remarkable success.
+> 
+> My gods were those of Egypt, interpreted on lines closely akin to those of Greece.
+> 
+> In philosophy I was a realist of the Cabbalistic school.
+> 
+> In 1900 I left England for Mexico, and later the Far East, Ceylon, India, Burma, Baltistan, Egypt and France. It is idle there to detail the corresponding progress of my thought; and passing through a stage of Hinduism, I had discarded all deities as unimportant, and in philosophy was an uncompromising nominalist. I had arrived at what I may describe as the position of an orthodox Buddhist; but with the following reservations.
+> 
+> 1. I cannot deny that certain phenomena do accompany the use of certain rituals; I only deny the usefulness of such methods to the White Adept.
+> 
+> 2. I consider Hindu methods of meditation as possibly useful to the beginner and should not therefore recommend them to be discarded at once.
+> 
+> With regard to my advancement, the redemption of the cosmos, etc. etc. I leave for ever the “Blossom and Fruit” theory and appear in the character of an inquirer on strictly scientific lines.
+> 
+> This is unhappily calculated to damp the enthusiasm; but as I so carefully of old, for the Magical Path, excluded from my life all other interests, that life has now no particular meaning; and the path of Research, on the only lines I can now approve of, remains the one Path possible for me to tread.
+> 
+> (By the Blossom and Fruit theory, I mean the existence of a body of initiates pledged to devote themselves to the redemption of mankind.)
+> 
+> It sounds as if I had become a bit of a prig. I expect a good deal of my attitude was due to exhausted vitality. Chogo Ri was perhaps still taking his revenge.
+> 
+> I had picked out Boleskine for its loneliness. Lord Lovat and Mrs. Fraser-Tyler, my nearest neighbours, were eight miles away, while Grant of Glenmoriston was on the other side of Loch Ness. Besides, Boleskine was already the centre of a thousand legends.
+> 
+> Even before I came there there was a fine crop of the regular Highland superstitions.
+> 
+> The howl of a bulldog, exactly like the crying of a child, is heard far off.
+> 
+> GEORGE.	All right. It's only that damned dog of M'Alister's. He does it every night.			
+> 
+> FENELLA.	He sees the ghost of old Lord Lovat.			
+> 
+> GEORGE.	Old Lord Lovat?			
+> 
+> FENELLA.	Yes; they beheaded him after the '45. He rolls his head up and down the corridors.			
+> 
+> GEORGE	Pleasant pastime!			
+> 
+> FENELLA.	What else is a man to do?			
+> 
+> GEORGE.	What's that tapping?			
+> 
+> (He stops to listen.)			
+> 
+> FENELLA.	Go on! It's only the old woman.			
+> 
+> GEORGE.	What old woman?			
+> 
+> FENELLA.	Her son was a lunatic. They let him out cured, as they thought. His mother came up here with him to lay flowers on his father's grave; and he caught her legs and smashed her brains against the wall.			
+> 
+> GEORGE.	Oh damn it!		FENELLA.	You baby! So, ever since, she comes from time to time to try and pick her brains off the wall.
 
-I had studied Ceremonial Magick and had obtained remarkable success.
-
-My gods were those of Egypt, interpreted on lines closely akin to those of Greece.
-
-In philosophy I was a realist of the Cabbalistic school.
-
-In 1900 I left England for Mexico, and later the Far East, Ceylon, India, Burma, Baltistan, Egypt and France. It is idle there to detail the corresponding progress of my thought; and passing through a stage of Hinduism, I had discarded all deities as unimportant, and in philosophy was an uncompromising nominalist. I had arrived at what I may describe as the position of an orthodox Buddhist; but with the following reservations.
-
-1. I cannot deny that certain phenomena do accompany the use of certain rituals; I only deny the usefulness of such methods to the White Adept.
-
-2. I consider Hindu methods of meditation as possibly useful to the beginner and should not therefore recommend them to be discarded at once.
-
-With regard to my advancement, the redemption of the cosmos, etc. etc. I leave for ever the “Blossom and Fruit” theory and appear in the character of an inquirer on strictly scientific lines.
-
-This is unhappily calculated to damp the enthusiasm; but as I so carefully of old, for the Magical Path, excluded from my life all other interests, that life has now no particular meaning; and the path of Research, on the only lines I can now approve of, remains the one Path possible for me to tread.
-
-(By the Blossom and Fruit theory, I mean the existence of a body of initiates pledged to devote themselves to the redemption of mankind.)
-
-It sounds as if I had become a bit of a prig. I expect a good deal of my attitude was due to exhausted vitality. Chogo Ri was perhaps still taking his revenge.
-
-I had picked out Boleskine for its loneliness. Lord Lovat and Mrs. Fraser-Tyler, my nearest neighbours, were eight miles away, while Grant of Glenmoriston was on the other side of Loch Ness. Besides, Boleskine was already the centre of a thousand legends.
-
-Even before I came there there was a fine crop of the regular Highland superstitions.
-
-The howl of a bulldog, exactly like the crying of a child, is heard far off.
-
-GEORGE.	All right. It's only that damned dog of M'Alister's. He does it every night.			
-FENELLA.	He sees the ghost of old Lord Lovat.			
-GEORGE.	Old Lord Lovat?			
-FENELLA.	Yes; they beheaded him after the '45. He rolls his head up and down the corridors.			
-GEORGE	Pleasant pastime!			
-FENELLA.	What else is a man to do?			
-GEORGE.	What's that tapping?			
-(He stops to listen.)			
-FENELLA.	Go on! It's only the old woman.			
-GEORGE.	What old woman?			
-FENELLA.	Her son was a lunatic. They let him out cured, as they thought. His mother came up here with him to lay flowers on his father's grave; and he caught her legs and smashed her brains against the wall.			
-GEORGE.	Oh damn it!		FENELLA.	You baby! So, ever since, she comes from time to time to try and pick her brains off the wall.
 I certainly used to hear the “rolling of the head”, but when I put in a billiard table, the old gentleman preferred it to the corridor and confined his amusements to the gunroom. Even before that, he had always stopped at the Pylon of the corridor which marked off from the rest of the house the wing which was consecrated to Abra-Melin. I have never discovered any explanation of these noises. We used to listen at the door of the gun room, and the bead would roll merrily up and down the table with untiring energy. The moment we opened the door the noise would stop; but there would be no visible cause.
 
 During my absence, the reputation of the house had become more formidable than ever before. I have little doubt that the Abra-Melin devils, whatever they are, use the place as convenient headquarters and put in some of their spare time in terrifying the natives. No one would pass the house after dark. Folk got into the habit of going round through Strath Errick, a detour of several miles. There were a great many definite legends; but I made rather a point of refraining from making a collection. I was completely committed to rationalism and the occurrence of miracles was a nuisance. I should have like to deny the reality of the whole Abra-Melin business, but the phenomena were just as patent as the stones of the house.
@@ -3406,29 +3296,25 @@ I lived the life of the ordinary Scottish laird in a dull mechanical way and dri
 
 I had completed The Sword of Song before I left Paris and left it to be printed with Philippe Renouard, one of the best men in Paris. I intended to issue it privately. I had no longer any ideas about the “best publisher”. I felt in a dull way that it was a sort of duty to make my work accessible to humanity; but I had no idea of reaping profit or fame thereby.
 
-[« back to toc]
+### Chapter 45.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 45.
 On the thirteenth of July I went to Edinburgh, partly to renew my stock of wines and partly to pick up some kind of companion-housekeeper, but ostensibly toe meet Gerald Kelly who was due to spend the summer at Strathpeffer. His sister Rose was engaged to a man named Howell, who was coming from America to marry her in a few weeks.
 
-I engaged a companion-housekeeper easily enough. What a man wants is a woman whom he can take down from the shelves when required and who can be trusted to stay on them when not. It is true that a woman is much more amusing when she possesses individuality and initiative, but it is the basest kind of sensuality to wish to be amused. The ideal woman should prevent a man from being amused or disturbed in any way, whether by his won passions or the incidents of everyday life. I forget the surname of the lady whom I chose to fill this important position. Let her stand in history by the unassuming title of “Red-headed Arabella”. It was arranged that she should come and take up her duties towards the middle of August. I only stayed two or three days in Edinburgh and, having attended to the matter of wine and woman, completed the triad by writing The God-Eater.
+I engaged a companion-housekeeper easily enough. What a man wants is a woman whom he can take down from the shelves when required and who can be trusted to stay on them when not. It is true that a woman is much more amusing when she possesses individuality and initiative, but it is the basest kind of sensuality to wish to be amused. The ideal woman should prevent a man from being amused or disturbed in any way, whether by his won passions or the incidents of everyday life. I forget the surname of the lady whom I chose to fill this important position. Let her stand in history by the unassuming title of “Red-headed Arabella”. It was arranged that she should come and take up her duties towards the middle of August. I only stayed two or three days in Edinburgh and, having attended to the matter of wine and woman, completed the triad by writing *The God-Eater*.
 
 This sort play is singularly unsatisfactory as a work of art, but extremely significant as a piece of autohagiography. The explanatory note in my Collected Works is itself obscure.
 
-The idea of this obscure and fantastic play is a follows: By a glorious act human misery is secured (history of Christianity).
+> The idea of this obscure and fantastic play is a follows: By a glorious act human misery is secured (history of Christianity).
+> 
+> Hence, appreciation of the personality of Jesus is no excuse for being a Christian.
+> 
+> Inversely, by a vile and irrational series of acts human happiness is secured (story of the play).
+> 
+> Hence, attacks on the mystics of history need not cause us to condemn mysticism.
+> 
+> Also, the knowledge of good and evil is a tree whose fruit man has not yet tasted: so that the devil cheated Eve indeed; or (more probably) Eve cheated Adam. Unless (most probable of all) God cheated the devil and the fruit was a common apple after all. (“Cf”. H. Maudsley, *Life in Mind and Conduct.*)
 
-Hence, appreciation of the personality of Jesus is no excuse for being a Christian.
-
-Inversely, by a vile and irrational series of acts human happiness is secured (story of the play).
-
-Hence, attacks on the mystics of history need not cause us to condemn mysticism.
-
-Also, the knowledge of good and evil is a tree whose fruit man has not yet tasted: so that the devil cheated Eve indeed; or (more probably) Eve cheated Adam. Unless (most probable of all) God cheated the devil and the fruit was a common apple after all. (“Cf”. H. Maudsley, Life in Mind and Conduct.)
-
-The influence of The Golden Bough and the Spencerian philosophers whom I was reading is apparent. In the last paragraphs, too, is evidence that I still clung to Shelley's dream of a regenerated humanity. There is a touch of the influence of a man named L. C. R. Duncombe Jewell, the eldest son of a Plymouth Brother at Streatham, who had “gone to the bad” by becoming a Roman Catholic. I had asked him to spend a week at Boleskine and he had managed somehow or other to settle down there as my factor. I suppose he saved me trouble in one way or another, and was some sort of companion. He called himself Ludovic Cameron, being a passionate Jacobite and having a Cameron somewhere in his family tree. He was very keen on the Celtic revival and wanted to unite the five Celtic nations in an empire. In this political project he had not wholly succeeded: but he had got as far as designing a flag. And, oh so ugly!
+The influence of *The Golden Bough* and the Spencerian philosophers whom I was reading is apparent. In the last paragraphs, too, is evidence that I still clung to Shelley's dream of a regenerated humanity. There is a touch of the influence of a man named L. C. R. Duncombe Jewell, the eldest son of a Plymouth Brother at Streatham, who had “gone to the bad” by becoming a Roman Catholic. I had asked him to spend a week at Boleskine and he had managed somehow or other to settle down there as my factor. I suppose he saved me trouble in one way or another, and was some sort of companion. He called himself Ludovic Cameron, being a passionate Jacobite and having a Cameron somewhere in his family tree. He was very keen on the Celtic revival and wanted to unite the five Celtic nations in an empire. In this political project he had not wholly succeeded: but he had got as far as designing a flag. And, oh so ugly!
 
 All this seemed childish to me, but no more so than imperialism, and it had the advantage of being rather charming and entirely harmless. It is strange to look back on myself at twenty-seven, completely persuaded of the truth of the most extravagant claims of mysticism and magick yet completely disillusioned with regard to the universe. I was inclined to minimize my activity in every respect. The importation of Red-headed Arabella had only one motive — to arrange my life so as to reduce the elements of disturbance to the lowest possible point.
 
@@ -3468,22 +3354,19 @@ I went to the local authorities about the practical programme; but they were lik
 
 Armed with this satisfactory information, I returned to the hotel and had a short conference with my betrothed. We were to get up in time to catch the first train to Dingwall, call on the sheriff and get it over before breakfast. We carried out this design. We had to go quietly for fear of awakening Gerald. The idea was that he might interfere, though I had no reason for supposing that he would do so. But apparently she had.
 
-[« back to toc]
+### Chapter 46.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 46.
 So we stole out in the dim grey of the morning. I remember her furtive passage under his window, and how I murmured
 
-Wake Duncan with thy knocking?
-I would thou could'st
+> Wake Duncan with thy knocking?
+> 
+> I would thou could'st
 
 recalling — too late! — the theatrical superstition that it is very unlucky to quote Macbeth at the beginning of an enterprise.
 
 We jogged along in the little train in a state of curious constraint. Of course our relations “were” rather peculiar, when all was said and done. Anyhow, there was nothing to say. Rose was a charming woman, but far from an intellectual companion. Her brother's friends being for the most part addicted to art or literature, it was her custom to carry a volume of Browning in her dressing-case, and she would ask people to fetch it for her, which impressed them. She didn't have to read it. Again, whenever a conversation flagged, she would remark thoughtfully:
 
-Bright star, would I were steadfast as thou art!
+> Bright star, would I were steadfast as thou art!
 
 “Twas all she knew. However, I wasn't going to have to live with her. All I had to do was to emancipate her. So there was no reason for trying to talk to her.
 
@@ -3507,38 +3390,61 @@ I only remember on scrap of conversation, and I do not remember what it was exce
 
 We arrived at our destination a little before dinner time. My embarrassment reached an acute point. It was simply impossible for me to register at the hotel. I confess to the most abject cowardice. I made some excuse and left Rose to confront a clerk, while I went to look at the sea and wish ti weren't too cold to drown myself. I returned to find that she had booked a double room. I thought it was hardly playing the game; but I couldn't be rude to a lady and, at the worst, it was only a matter of a day or so. I could decently dispatch her from Boleskine to the embraces of Mr. Summers and proceed to
 
-Raze out the written troubles of the brain,
-And with some sweet oblivious antidote
-Cleanse the stuff'd bosom of that perilous stuff.
+> Raze out the written troubles of the brain,
+> 
+> And with some sweet oblivious antidote
+> 
+> Cleanse the stuff'd bosom of that perilous stuff.
 
 It possibly crossed my mind that all these alarums and excursions were alien to arahatship, that marriage was a nuisance to a man whose mind was set on success in Mahasatipatthana, and that the problems raised by Rose would be sent to sleep by Red-headed Arabella.
 
 In any case, there was nothing for it but to behave like a gentleman. So we drank a lot of champagne for dinner. We had been married on August 12th and could give God glory for his good gift of grouse, and then — What's champagne for, anyhow? Rose retired immediately after dinner; I sat in the smoking-room and pole-axed a stranger by making mysterious remarks until he thought I was mad, and fled. I had some more champagne and remembered that I was a poet. I got some paper and wrote the following rondel. Damn it, I had to play up to my partner!
 
-Rose on the breast of the world of spring,
-I press my breast against thy bloom;
-My subtle life drawn out to thee; to thee
-its moods and meaning cling.
-I pass from change and thought to peace,
-woven on love's incredible loom,
-Rose on the breast of the world of spring!
-
-How shall the heart dissolved in joy take
-form and harmony and sing?
-How shall the ecstasy of light fall back to
-music's magic gloom?
-O China rose without a thorn, O honey-bee
-without a sting!
-
-The scent of all thy beauty burns upon the
-wind. The deep perfume
-Of our own love is hidden in our hearts,
-the invulnerable ring.
-No man shall know. I bear thee down unto
-the tomb, beyond the tomb,
-Rose on the breast of the world of spring!
-
-I went upstairs.
+> Rose on the breast of the world of spring,
+> 
+> I press my breast against thy bloom;
+> 
+> My subtle life drawn out to thee; to thee
+> 
+> its moods and meaning cling.
+> 
+> I pass from change and thought to peace,
+> 
+> woven on love's incredible loom,
+> 
+> Rose on the breast of the world of spring!
+> 
+> 
+> How shall the heart dissolved in joy take
+> 
+> form and harmony and sing?
+> 
+> How shall the ecstasy of light fall back to
+> 
+> music's magic gloom?
+> 
+> O China rose without a thorn, O honey-bee
+> 
+> without a sting!
+> 
+> 
+> The scent of all thy beauty burns upon the
+> 
+> wind. The deep perfume
+> 
+> Of our own love is hidden in our hearts,
+> 
+> the invulnerable ring.
+> 
+> No man shall know. I bear thee down unto
+> 
+> the tomb, beyond the tomb,
+> 
+> Rose on the breast of the world of spring!
+> 
+> 
+> 
+> I went upstairs.
 
 I began to suspect the truth, that my absolute indifference to rose, combined with my perfectly casual willingness to marry her in order to do her a service, as one might offer a stranger one's place in an omnibus, had purged her heart of its passion for the fat sensuality of Frank Summers, and hurled her head over heels in love with me.
 
@@ -3562,7 +3468,7 @@ Rose and I were walking towards the Pont Alexandre III when it met Vestigia, as 
 
 The words came as a terrific shock. Vestigia had been our ideal of refinement, purity, spirituality and the rest. And then my mind informed me of what my eyes had seen, that Vestigia was painted thickly to the eyes — did I say painted? I mean plastered. Where the camouflages stopped, there was a neck which could not have been washed for months. I learnt later that Mathers, falling upon evil times, had forced his wife to pose naked in one of the Montmartre shows which are put on for the benefit of ignorant and prurient people, especially provincials and English, and that even that was not the worst of it.
 
-Then we swooped down on Marseilles, perched on the terrace of Bertolini's at Naples and picked up a few crumbs. Our first breathing place was Cairo. It was one of the extravagances of our passion that suggested our spending a night together in the King's Chamber of the Great Pyramid. It was the gesture of the male showing off his plumage. I wanted my wife to see what a great Magician I was. We went, accordingly, after dinner, with candles. More from habit than anything else, as I imagine, I had with me a small notebook of Japanese vellum in which were written my principal invocations, etc. Among these was a copy of the “Preliminary Invocation” of The Goetia.
+Then we swooped down on Marseilles, perched on the terrace of Bertolini's at Naples and picked up a few crumbs. Our first breathing place was Cairo. It was one of the extravagances of our passion that suggested our spending a night together in the King's Chamber of the Great Pyramid. It was the gesture of the male showing off his plumage. I wanted my wife to see what a great Magician I was. We went, accordingly, after dinner, with candles. More from habit than anything else, as I imagine, I had with me a small notebook of Japanese vellum in which were written my principal invocations, etc. Among these was a copy of the “Preliminary Invocation” of *The Goetia*.
 
 We reached the King's Chamber after dismissing the servants at the foot of the Grand Gallery. By the light of a single candle placed on the edge of the coffer I began to read the invocation. But as I went on I noticed that I was no longer stooping to hold the page near the light. I was standing erect. Yet the manuscript was not less but more legible. Looking about me, I saw that the King's Chamber was glowing with a soft light which I immediately recognized as the astral light. I have been accustomed to describe the colour as ultra-violet, from its resemblance to those rays in the spectrum — which I happen to be able to distinguish. The range varies, but it is quite noticeably beyond that visible to the normal human eye. The colour is not unlike that of an arc lamp; it is definitely less coloured than the light of a mercury lamp. If I had to affix a conventional label, I should probably say pale lilac. But the quality of the light is much more striking than the colour. Here the word phosphorescence occurs to the mind. It is one of the mysteries of physics that the total light of the sky is very much greater than can be accounted for by the luminous bodies in the heavens. There are various theories, but I personally believe that the force now called radio-activity which we know to be possessed in some degree by every particle of matter, is responsible. Our eyes are affected with the impression of light by forces which are not in themselves recognized as luminous.
 
@@ -3570,17 +3476,13 @@ However, back to the facts. The King's Chamber was aglow as if with the brightes
 
 In a sort of way, I suppose I did consider myself rather a fine fellow to have been able to produce so striking a phenomenon with so little trouble. But it did not encourage me to go on with Magick. My wife was all in all. 
 
-[« back to toc]
+### Chapter 47.
 
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 47.
 We must have had some vague idea of exploring the little known parts of China, for we had certainly intended to visit Allan in Rangoon. It was probably at Colombo that Rose made up her mind that she was pregnant; for I remember that our shooting expedition in Hambantota, in the south-eastern province of Ceylon, was faute de mieux. We thought we had better get back to Boleskine for the event; and yet we had to justify our journey by some definite accomplishment. So we left Colombo for Galle and thence up country. It is strange that I fail entirely to remember how we got to the jungle. But rough notes tell me that it was by coach, and that we left the base village in four bullock carts on Monday the fourteenth of December. I quote my entry of January 1st, 1904 (some lines are carefully erased. I cannot tell why or imagine what I had written).
 
-Jan. 1st.
-
-Began badly: missed dear and hare. So annoyed. Yet the omen is that the year is well for works of love & union; ill for those of hate. Be mine of love!
+> Jan. 1st.
+> 
+> Began badly: missed dear and hare. So annoyed. Yet the omen is that the year is well for works of love & union; ill for those of hate. Be mine of love!
 
 This entry does not sound as if I were still wholly lunatic in the rays of the honeymoon. The explanation is that the mere fact of getting back to camp life reawakened in me the old ambitions and interests. It may be part of my feeling for ritual that to put on certain types of clothes is to transform my state of mind. However lazy I may be, I have merely to change trousers for knickerbockers to feel athletic at once. There is also the point that I make a profession of virtue when reminded of certain dates, just as a totally irreligious man might go to church at Christmas. The subsequent entries give no hint that my mind was really turning to its ancient masters. The sole entries concern sport and camp life; and they are very meagre.
 
@@ -3604,7 +3506,7 @@ The most dangerous animal in Ceylon (there are no tigers, and if there were, the
 
 One evening I shot a sambhur; the great stag (miscalled elk) of Ceylon. He was standing some three hundred yards away, across a small lagoon. He went off like a streak of lightning. It was impossible to follow him and I thought I had missed him. But two days later I came on him by accident, twenty-five miles from where I had shot him. My bullet had penetrated the lungs and grazed the heart. I cannot help thinking that there is something in the apparently absurd contention of certain mystics that life does not depend wholly on the integrity of the physiological apparatus, but on the will to live. I have dropped the most powerful animals stone dead with a single shot in the right place; but if that first shot happens not to kill him outright, he is so inflamed with fury that you can riddle him with bullets in the most vital spots without further disabling him. I know it sounds like utter nonsense, but I have seen it again and again. The sambhur above mentioned is only one case.
 
-One day I was told of an exceptionally fine wild buffalo bull who was so lost to all principles of propriety that he used to come down every evening to enjoy a heard of tame cows. I felt that I could never face Exeter Hall[1] in the future if I allowed this sort of thing to go on. The only sign of grace in this bull was that he had a guilty conscience and departed for the Ewigkeit at the first hint of human proximity. The cows were accustomed to feed in a wide flat country. It was impossible to approach them in the open. I crawled out to the edge of the jungle and law low, hoping that they would come near enough for a shot. They did. But I misjudged the range; and my bullet, by the most curious luck, pierced the near fore hoof of the bull. He made off indignantly for the jungle at a point some three or four hundred yards from my ambush.
+One day I was told of an exceptionally fine wild buffalo bull who was so lost to all principles of propriety that he used to come down every evening to enjoy a heard of tame cows. I felt that I could never face Exeter Hall^[At that time headquarters of Evangelicalism.] in the future if I allowed this sort of thing to go on. The only sign of grace in this bull was that he had a guilty conscience and departed for the Ewigkeit at the first hint of human proximity. The cows were accustomed to feed in a wide flat country. It was impossible to approach them in the open. I crawled out to the edge of the jungle and law low, hoping that they would come near enough for a shot. They did. But I misjudged the range; and my bullet, by the most curious luck, pierced the near fore hoof of the bull. He made off indignantly for the jungle at a point some three or four hundred yards from my ambush.
 
 Ten minutes later “I stood tiptoe upon a little hill” and looked around me “with a wild surmise”. I knew where I had hit him by the way he limped, and that he was no more put out of action than Battling Siki, if I had trod on his pet corn. I knew that a buffalo bull can conceal himself in the Ceylon jungle as effectively as a bug in a barracks, and I knew that he was perfectly informed of my character and intention. I knew that I was nervous by the way I gripped my rifle (my principal battery, by the way, was a 10-bore Paradox with lead and also steel core bullets, and a .577 Express, both double barrelled). As I stood, I realized for the first time the responsibility of the white man. I had to exhibit perfect aplomb. No sign of the bull!
 
@@ -3616,48 +3518,85 @@ Talking of being charged: the one beast I really fear is the leopard. The tiger 
 
 The wild boar, which one may shoot in Ceylon, as pig-sticking is impossible owing to the nature of the country, is a furious and dangerous quarry, but it gives one a peculiar satisfaction to out him, to stand
 
-Right in the wild way of the coming curse
-Rock-rooted fair with fierce and fastened lips,
-Clear eyes, and springing muscle and shortening limb —
-With chin aslant indrawn to a tightening throat,
-Grave, and with gathered sinews like a god,
-and biff him
+> Right in the wild way of the coming curse
+> 
+> Rock-rooted fair with fierce and fastened lips,
+> 
+> Clear eyes, and springing muscle and shortening limb —
+> 
+> With chin aslant indrawn to a tightening throat,
+> 
+> Grave, and with gathered sinews like a god,
+> 
+> and biff him
 
-Right in the hairiest hollow of his hide
-Under the last rib, sheer through bulk and bone
-Deep in —
-and see
+> 
 
-The blind bulk of the immeasurable beast
-… bristling with intolerable hair
+> Right in the hairiest hollow of his hide
+> 
+> Under the last rib, sheer through bulk and bone
+> 
+> Deep in —
+> 
+> and see
+> 
+> 
+
+> The blind bulk of the immeasurable beast
+> 
+> … bristling with intolerable hair
 
 lying in front of one, and feel that one has done a good turn to Venus. One of my boars, by the way, gave me a lesson in literature. I came across his body two days after the battle and it hit me in the eye — to say nothing of the nose — with Baudelaire's “Charogne”.
 
-Beside the path, an infamous foul carrion,
-….Stones for its couch a fitting sheet.
+> Beside the path, an infamous foul carrion,
+> 
+> ….Stones for its couch a fitting sheet.
+> 
+> 
 
-Its legs stretched in the air, like wanton whores
-….Burning with lust, and reeking venom sweated,
-Laid open, carelessly and cynically, the doors
-….Of belly rank with exhalations fetid.
+> Its legs stretched in the air, like wanton whores
+> 
+> ….Burning with lust, and reeking venom sweated,
+> 
+> Laid open, carelessly and cynically, the doors
+> 
+> ….Of belly rank with exhalations fetid.
+> 
+> 
 
-Upon this rottenness the sun shone deadly straight
-….As if to cook it to a turn,
-And gave back to great Nature hundred-fold the debt
-….That, joining it together, she did earn.
-
-The sky beheld this carcase most superb outspread
-….As spreads a flower, itself, whose taint
-Stank so supremely strong, that on the grass your head
-….You thought to lay, in sudden faint.
-
-The flies swarmed numberless on this putrescent belly,
-….Whence issued a battalion
-Of larvae, black, that flowed, a sluggish liquid jelly,
-….Along this living carrion.
-
-All this was falling, rising as the eager seas,
-….Or heaving with strange crepitation —
+> Upon this rottenness the sun shone deadly straight
+> 
+> ….As if to cook it to a turn,
+> 
+> And gave back to great Nature hundred-fold the debt
+> 
+> ….That, joining it together, she did earn.
+> 
+> 
+> 
+> The sky beheld this carcase most superb outspread
+> 
+> ….As spreads a flower, itself, whose taint
+> 
+> Stank so supremely strong, that on the grass your head
+> 
+> ….You thought to lay, in sudden faint.
+> 
+> 
+> 
+> The flies swarmed numberless on this putrescent belly,
+> 
+> ….Whence issued a battalion
+> 
+> Of larvae, black, that flowed, a sluggish liquid jelly,
+> 
+> ….Along this living carrion.
+> 
+> 
+> 
+> All this was falling, rising as the eager seas,
+> 
+> ….Or heaving with strange crepitation —
 
 There was an utterly unspeakable fascination in watching the waves of maggots. The surface undulated with the peculiar rhythm of the ocean.
 
@@ -3675,17 +3614,9 @@ It was the finest case of obsession that I had ever had the good fortune to obse
 
 (As I revise these pages for the press, I find myself constantly annoyed by having to try to find long roundabout “rational” explanations for all the wonders I have seen and heard. It is silly, too, now that we are getting clear at last of the obsession of Victorian cocksure materialism — science disguised as a fat hausfrau!) 
 
-Footnotes:
+### Chapter 48.
 
-[1] At that time headquarters of Evangelicalism.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Mystical Adventure
-Chapter 48.
-Life in the jungle has many incidents of a more frequent and less amusing type. One night, also in a baghla, I got up to get Rose her medicine. I had left the candle on the table some distance from the beds, which was foolish. On lighting it, I discovered without enthusiasm that between me and the bed was a krait some eighteen inches long — and I had walked barefoot over him! A krait can kill you in a very few minutes, though not without producing symptoms of the utmost interest to any serious student of nature. I was entirely helpless; I was reduced to the ingnominous expedient of getting on the table and calling to the servants outside to bring a lamp, precaution and force majeure.
+Life in the jungle has many incidents of a more frequent and less amusing type. One night, also in a baghla, I got up to get Rose her medicine. I had left the candle on the table some distance from the beds, which was foolish. On lighting it, I discovered without enthusiasm that between me and the bed was a krait some eighteen inches long — and I had walked barefoot over him! A krait can kill you in a very few minutes, though not without producing symptoms of the utmost interest to any serious student of nature. I was entirely helpless; I was reduced to the ingnominous expedient of getting on the table and calling to the servants outside to bring a lamp, precaution and *force majeure.*
 
 Animals are not the only danger of this district. There are many dangerous diseases, especially tetanus. While I was in Calcutta, an acquaintance of mine, walking home from the theatre, slipped and saved himself by putting his hands to the ground. He scratched himself slightly and died within three days.
 
@@ -3699,7 +3630,7 @@ A very curious episode sticks in my memory. General Sit Hector MacDonald was bor
 
 I dropped into the Hotel Regina in Paris one day to lunch. At the next table, also alone, was Sir Hector MacDonald. He recognized me and invited me to join him. He seemed unnaturally relieved; but his conversation showed that he was suffering acute mental distress. He told me that he was on his way to the East. Of course I avoided admitting that I knew his object, which was to defend himself against charges of sexual irregularity brought against him in Ceylon.
 
-The next morning I was amazed to read, in the New York Herald, an outrageously outspoken account of the affair.[1] On the heels of this came the news that MacDonald had shot himself in the Regina. He was a great simple lion-hearted man with the spirit of a child; with all his experience in the Army, he still took the word honour seriously, and the open scandal of the accusation had struck down his standard.
+The next morning I was amazed to read, in the New York Herald, an outrageously outspoken account of the affair.^[People said: the revenge of a Ceylon Big Bug, whom MacDonald had ordered off the field at some jamboree when he had turned up in mufti.] On the heels of this came the news that MacDonald had shot himself in the Regina. He was a great simple lion-hearted man with the spirit of a child; with all his experience in the Army, he still took the word honour seriously, and the open scandal of the accusation had struck down his standard.
 
 One incredible detail must be told. The hotel communicated at once with the British Embassy, and the attaché‚ who went down to see the body told Gerald Kelly that MacDonald's pockets were stuffed with obscene photographs! Inquiry showed that he had gone out and bought them that very morning, apparently with no other purpose. The psychology is appallingly obscure. Was his motive to convey some subtly offensive insult to the puritans whose prurience had destroyed him?
 
@@ -3715,27 +3646,45 @@ The intensity of my repulsion makes me suspect that I wanted to make love to her
 
 The title is a direct allusion to the ladies in question. I prefaced the play with five dedications to (1) Christ, (2) Lady Scott, (3) my friends (Jinawaravasa, whom I had met once more in Galle, and myself), (4) my unborn child, and (5) Mr. G. K. Chesterton. (He had written a long congratulatory criticism of my The Soul of Osiris.) The idea of the play is to show a romantic boy and girl ambushed and ruined by male and female vampires. It is an allegory of the corrupting influence of society, and the moral is given in the final passage:
 
-I much prefer — that is, mere I —
-Solitude to society.
-And that is why I sit and spoil
-So much clean paper with such toil
-By Kandy Lake in far Ceylon.
-I have my old pyjamas on:
-I shake my soles from Britain's dust;
-I shall not go there till I must;
-And when I must! — I hold my nose.
-Farewell, you filthy-minded people!
-I know a stable from a steeple.
-Farewell, my decent-minded friends!
-I know arc lights from candle-ends.
-Farewell-a poet begs your alms,
-Will walk awhile among the palms,
-An honest love, a loyal kiss,
-Can show him better worlds than this;
-Nor will he come again to yours
-While he knows champak-stars from sewers.
+> I much prefer — that is, mere I —
+> 
+> Solitude to society.
+> 
+> And that is why I sit and spoil
+> 
+> So much clean paper with such toil
+> 
+> By Kandy Lake in far Ceylon.
+> 
+> I have my old pyjamas on:
+> 
+> I shake my soles from Britain's dust;
+> 
+> I shall not go there till I must;
+> 
+> And when I must! — I hold my nose.
+> 
+> Farewell, you filthy-minded people!
+> 
+> I know a stable from a steeple.
+> 
+> Farewell, my decent-minded friends!
+> 
+> I know arc lights from candle-ends.
+> 
+> Farewell-a poet begs your alms,
+> 
+> Will walk awhile among the palms,
+> 
+> An honest love, a loyal kiss,
+> 
+> Can show him better worlds than this;
+> 
+> Nor will he come again to yours
+> 
+> While he knows champak-stars from sewers.
 
-(This play has been analysed in such detail by Captain J. F. C. Fuller in The Star in the West that it would be impertinent of me to discuss it further.)
+(This play has been analysed in such detail by Captain J. F. C. Fuller in *The Star in the West* that it would be impertinent of me to discuss it further.)
 
 Rose now felt fairly certain that she was pregnant. But it was not this alone that decided us to turn our faces to the West. We still intended to go to Rangoon and apparently there was absolutely nothing to stop us. But we couldn't go, any more than if it had been the moon. Throughout my life I have repeatedly found that destiny is an absolutely definite and inexorable ruler. Physical ability and moral determination count for nothing. It is impossible to perform the simplest act when the gods say “No”. I have no idea how they bring pressure to bear on such occasions; I only know that it is irresistible. One may be wholeheartedly eager to do something which is as easy as falling off a log; and yet it is impossible.
 
@@ -3761,10 +3710,13 @@ But my mother believed that I was actually Anti-christ of the Apocalypse and als
 
 I conclude my allusion to 66:
 
-Ho! I adopt the number. Look
-At the quaint wrapper of this book!
-I will deserve it if I can:
-It is the number of a Man.
+> Ho! I adopt the number. Look
+> 
+> At the quaint wrapper of this book!
+> 
+> I will deserve it if I can:
+> 
+> It is the number of a Man.
 
 I had thus dismissed my mystical fancies about the number; I accepted it for purely moral reasons and on purely rationalistic grounds. I wanted to be a man in the sense in which the word is used by Swinburne in his Hymn of Man.
 
@@ -3786,23 +3738,15 @@ I mention this incident, not only on account of its extraordinary features, but 
 
 I have dwelt on the character of my life at this time in order to emphasize that the event to be recorded in the next section was an absolute bolt from the blue.
 
-Footnotes:
 
-[1] People said: the revenge of a Ceylon Big Bug, whom MacDonald had ordered off the field at some jamboree when he had turned up in mufti.
+# PART THREE
+#### THE ADVENT OF THE AEON OF HORUS
 
-[« back to toc]
+### Chapter 49.
 
-unicursal hexagram
-
-PART THREE
-THE ADVENT OF THE AEON OF HORUS
-unicursal hexagram
-
-The Advent of the Aeon of Horus
-Chapter 49.
 This chapter is the climax of this book. Its contents are so extraordinary, they demand such breadth and depth of preliminary explanation, that I am in despair. It is so serious to me that my responsibility overwhelms me. My entire previous life was but a preparation for this event, and my entire subsequent life has been not merely determined by it, but wrapped up in it.
 
-I have made several attempts to write the history of these few weeks, notably, that section of The Temple of Solomon the King which appears in The Equinox, vol. I, no. VII. I cannot with literary propriety incorporate these documents in the body of this book, but they are presented in an appendix, together with the text of The Book of the Law.
+I have made several attempts to write the history of these few weeks, notably, that section of The Temple of Solomon the King which appears in The Equinox, vol. I, no. VII. I cannot with literary propriety incorporate these documents in the body of this book, but they are presented in an appendix, together with the text of *The Book of the Law.*
 
 Most of the past nine years of my life have been preoccupied, each year more fully than the last, with the problem of proving to humanity in general the propositions involved. To make the elements of my thesis as clear and distinct as possible, I shall endeavour to insulate them in sections.
 
@@ -3820,7 +3764,7 @@ But was her bull's-eye a fluke? Her mention of Horus gave me a chance to cross-e
 
 I allowed her to go on. She instructed me how to invoke Horus. The instructions were, from my point of view, pure rubbish. I suggested amending them. She emphatically refused to allow a single detail to be altered. She promised success (whatever that might mean) on Saturday or Sunday. If I had any aspiration left at all, it was to attain Samadhi (which I had not yet ever done). She promised that I should do so. I agreed to carry out her instructions, avowedly in order to show her that nothing could happen if you broke all the rules.
 
-On some day before March 23rd, Ouarda identified the particular god with whom she was in communication from a stele in the Boulak Museum, which we had never visited. It is not the ordinary form of Horus but Ra-Hoor-Khuit[1]. I was no doubt very much struck by the coincidence that the exhibit, a quite obscure and undistinguished stele, bore the catalogue number 666. But I dismissed it as an obvious coincidence.
+On some day before March 23rd, Ouarda identified the particular god with whom she was in communication from a stele in the Boulak Museum, which we had never visited. It is not the ordinary form of Horus but Ra-Hoor-Khuit.^[WEH Note: Ra-Heru-Khuti-Ba-Hadit is the particular Egyptian deity said to rule the 2nd Decan of Aries, in 1904, from 1st April to 10th April.] I was no doubt very much struck by the coincidence that the exhibit, a quite obscure and undistinguished stele, bore the catalogue number 666. But I dismissed it as an obvious coincidence.
 
 March 19th. I wrote out the ritual and did the invocation with little success. I was put off, not only by my scepticism and the absurdity of the ritual, but by having to do it in robes at an open window on a street at noon. She allowed me to make the second attempt at midnight.
 
@@ -3834,7 +3778,7 @@ March 23rd to April 7th. I made inquiries about the stele and had the inscriptio
 
 The above statement is as succinct as I can make it. By April 8th, I had been convinced of the reality of the communication and obeyed my wife's arbitrary instructions with a certain confidence. I retained my sceptical attitude none the less.
 
-THE CLAIM OF THE BOOK OF THE LAW IN RESPECT OF RELIGION.
+#### THE CLAIM OF THE BOOK OF THE LAW IN RESPECT OF RELIGION.
 
 The importance of religion to humanity is paramount. The reason is that all men perceive more of less the “First Noble Truth” — that everything is sorrow; and religion claims to console them by an authoritative denial of this truth or by promising compensations in other states of existence. This claim implies the possibility of knowledge derived from sources other than the unaided investigation of nature through the senses and the intellect. It postulates, therefore, the existence of one or more praeter-human intelligences, able and willing to communicate, through the medium of certain chosen man, to mankind a truth or truths which could not otherwise be known. Religion is justified in demanding faith, since the evidence of the senses and the mind cannot confirm its statements. The evidence from prophecy and miracle is valid only in so far as it goes to the credit of the man through whom the communication is made. It establishes that he is in possession of knowledge and power different, not only in degree but in kind, from those enjoyed by the rest of man kind.
 
@@ -3844,9 +3788,9 @@ The history of mankind teems with religious teachers. These may be divided into 
 
 2. Such men as Blake and Boehme claimed to have entered into direct communication with discarnate intelligence which may be considered as personal, creative, omnipotent, unique, identical with themselves or otherwise. Its authority depends on “the interior certainty” of the seer. 3. Such teachers as Lao-Tzu, the Buddha and the highest Gnana-yogis announce that they have attained to superior wisdom, understanding, knowledge and power, but make no pretence of imposing their views on mankind. They remain essentially sceptics. They base their precepts on their own personal experience, saying, in effect, that they have found that the performance of certain acts and the abstention from others created conditions favourable to the attainment of the state which has emancipated them. The wiser they are, the less dogmatic. Such men indeed formulate their transcendental conception of the cosmos more or less clearly; they may explain evil as illusion, etc., but the heart of their theory is that the problem of sorrow has been wrongly stated, owing to the superficial or incomplete data presented by normal human experience through the senses, and that it is possible for men, but virtue of some special training (from Asana to Ceremonial Magick), to develop in themselves a faculty superior to reason and immune from intellectual criticism, by the exercise of which the original problem of suffering is satisfactorily solved.
 
-The Book of the Law claims to comply with the conditions necessary to satisfy all three types of inquirer.
+*The Book of the Law* claims to comply with the conditions necessary to satisfy all three types of inquirer.
 
-Firstly, it claims to be a document not only verbally, but literally inspired. Change not as much as the style of a letter; for behold! thou, o prophet, shalt not behold all these mysteries hidden therein. … This book shall be translated into all tongues: but always with the original in the writing of the Beast; for in the chance shape of the letters and their position to one another: in these are mysteries that no Beast shall divine. Let him not seek to try: but one cometh after him, whence I say not, who shall discover the Key of it all.
+Firstly, it claims to be a document not only verbally, but literally inspired. *Change not as much as the style of a letter; for behold! thou, o prophet, shalt not behold all these mysteries hidden therein. … This book shall be translated into all tongues: but always with the original in the writing of the Beast; for in the chance shape of the letters and their position to one another: in these are mysteries that no Beast shall divine. Let him not seek to try: but one cometh after him, whence I say not, who shall discover the Key of it all.*
 
 The author claims to be a messenger of the Lord of the Universe and therefore to speak with absolute authority.
 
@@ -3854,19 +3798,19 @@ Secondly, it claims to be the statement of transcendental truth, and to have ove
 
 Thirdly, it claims to offer a method by which men may arrive independently at the direct consciousness of the truth of the contents of the Book; enter into communication directly on their own initiative and responsibility with the type of intelligence which informs it, and solve all their personal religious problems.
 
-Generally, The Book of the Law claims to answer all possible religious problems. One is struck by the fat that so many of them are stated and settled separately in so short a space.
+Generally, *The Book of the Law* claims to answer all possible religious problems. One is struck by the fat that so many of them are stated and settled separately in so short a space.
 
 Top return the the general question of religion. The fundamental problem has never been explicitly stated. We know that all religions, without exception, have broken down at the first test. The claim of religion is to complete, and (incidentally) to reverse, the conclusions of reason by means of a direct communication from some intelligence superior in kind to that o any incarnate human being. I ask Mohammed, “How am I to know that the Koran is not your own compilation?”
 
 It is impertinent to answer that the Koran is so sublime, so musical, so true, so full of prophecies which time has fulfilled and confirmed by so many miraculous events that Mohammed could not have written it himself.
 
-The author of The Book of the Law foresaw and provided against all such difficulties by inserting in the text discoveries which I did not merely not make for years afterwards, but did not even possess the machinery for making. Some, in fact, depend upon events which I had no part in bringing about.
+The author of *The Book of the Law* foresaw and provided against all such difficulties by inserting in the text discoveries which I did not merely not make for years afterwards, but did not even possess the machinery for making. Some, in fact, depend upon events which I had no part in bringing about.
 
 It may be said that nevertheless there may have been someone somewhere in the world who possessed the necessary qualities. This again is rebutted by the fact that some of the allusions are to facts known to me alone. We are forced to conclude that the author of The Book of the Law is an intelligence both alien and superior to myself, yet acquainted with my inmost secrets; and, most important point of all, that this intelligence is discarnate.
 
 The existence of true religion presupposes that of some discarnate intelligence, whether we call him God or anything else. And this is exactly what no religion had ever proved scientifically. And this is what The Book of the Law does prove by internal evidence, altogether independent of any statement of mine. This proof is evidently the most important step in science that could possibly be made: for it opens up an entirely new avenue to knowledge. The immense superiority of this particular intelligence, AIWASS, to any other with which mankind has yet been in conscious communication is shown not merely by the character of the book itself, but by the fact of his comprehending perfectly the nature of the proof necessary to demonstrate the fact of his own existence and the conditions of that existence. And, further, having provided the proof required.
 
-THE CLAIM OF THE BOOK OF THE LAW TO OPEN UP COMMUNICATIONS WITH DISCARNATE INTELLIGENCE.
+#### THE CLAIM OF THE BOOK OF THE LAW TO OPEN UP COMMUNICATIONS WITH DISCARNATE INTELLIGENCE.
 
 In the above section I have shown that the failure of previous religions is due, not so much to hostile criticism, but to their positive defect. They have not made good their claim. It has been shown above that The Book of the Law does demonstrate the prime position of religion in the only possible way. The only possible argument, on the other side, is that the communication cannot have been made by a discarnate intelligence, because there are none such. That indeed constitutes the supreme importance of The Book of the Law But there is no a priori reason for doubting the existence of such beings. We have long been acquainted with many discarnate forces. Especially in the last few years science has been chiefly occupied with the reactions, not merely of things which cannot be directly perceived by sense, but of forces which do not possess being at all in the old sense of the word.
 
@@ -3876,7 +3820,7 @@ Our actions may be unintelligible to plants, they might plausibly argue that we 
 
 The was is therefore clear for me to come forward and assert positively that I have opened up communication with one such intelligence; or, rather, that I have been selected by him to receive the first message from a new order of beings.
 
-THE HISTORICAL CONCEPTION ON WHICH THE BOOK OF THE LAW IS BASED.
+#### THE HISTORICAL CONCEPTION ON WHICH THE BOOK OF THE LAW IS BASED.
 
 Just as The Book of the Lawreconciles an impersonal and infinite interpretation of the cosmos with an egocentric and practical viewpoint, so it makes “infinite space” speak in the language of a goddess and deals with the details of eating and drinking:
 
@@ -3908,7 +3852,7 @@ The child is not merely a symbol of growth, but of complete moral independence a
 
 I may now point out that the reign of the Crowned and Conquering Child is limited in time by The Book of the Law itself. We learn that Horus will be in his turn succeeded by Thmaist, the Double-Wanded One; she who shall bring the candidates to full initiation, and though we know litter of her peculiar characteristics, we know at least that her name is justice.
 
-THE ETHICS OF THE BOOK OF THE LAW.
+#### THE ETHICS OF THE BOOK OF THE LAW.
 
 Every cosmography implies some sort of ethical theory. The Aeon of Osiris had been succeeded by that of Horus. The Magical Formula of the Aeon being no longer that of the Dying god but that o the Crowned and Conquering Child, mankind is to govern itself accordingly. A “righteous” act may be defined as one which fulfils the existing Magical Formula. The motives which were valid in the Aeon of Osiris are sheer superstition today. What were those motives and on what basis did they rest? The old conception was that man was born to die; that eternal life had to be gained by a magical act, exactly as the sun had to be brought to life every morning by the priest.
 
@@ -3928,23 +3872,15 @@ With regard to what are commonly considered offences against morality, the undes
 
 With regard again to personal jealousy and ill-regulated passion, is it too much to say that nine tenths of the social misery not due to poverty arises from these hallucinations? The Book of the Law sweeps them out of existence. “There shall be no property in human flesh.” Nobody has a right to say what anyone else shall or shall not do with his or her body. Establish this principle of absolute respect for others and the whole nightmare of sex is dispelled. Blackmail and prostitution automatically lose their raison d'être. The corrupting influence of hypocrisy breaks like a rotten reed. The sweating of “female labour cheapened by prostitution” (as Bernard Shaw says) becomes impossible. I have written at considerable length in recent years on the ethical, as well as on the cosmographical problems solved by the Law of Thelema. I need not go into them more deeply in this place . But the subsequent events of my life will furnish constant illustration of how every time I violated the Law, as I sometimes did with what I was ass enough to call the noblest motives, I got myself into a mess — and failed to benefit those on whose behalf I had chosen to make a fool of myself. 
 
-Footnotes:
+### Chapter 50.
 
-[1] WEH Note: Ra-Heru-Khuti-Ba-Hadit is the particular Egyptian deity said to rule the 2nd Decan of Aries, in 1904, from 1st April to 10th April.
-
-[« back to toc]
-
-unicursal hexagram
-
-The Advent of the Aeon of Horus
-Chapter 50.
 It is part of my character to rest on my oars at the very moment when a spurt would take me past the post. I begin to be recognized as the one poet in England: “Good,” I say to myself, “I needn't bother about that any more.” I acquire most of the world's records as a mountaineer — that lets me out. Nunc est bibendum, nunc pede libero pulsanda tellus. I reach eminence in Magick; it is the signal for me to drop it; in mysticism, and I lose my interest. Now, charged by the Secret Chiefs of the Third Order with a mission of such importance that the last event in the world's history of importance, even approaching it, was Mohammed's, I get cold feet, carry out my instructions as perfunctorily as possible, and even try to find excuses for postponing such work as I could not actually avoid.
 
 I made a certain number of studies of The Book of the Law; for even then I was bound to admit that Aiwass had shown a knowledge of the Cabbala immeasurably superior to my own. I had the manuscript typed. I issued a circular letter to a number of my friends, something in the nature of a proclamation of the New Aeon, but I took no trouble to follow it up. I took a certain number of wide-reaching plans for assuming responsibility, but they remained in the stage of reverie. I dropped the whole business, to all intents and purposes. I completely abandoned my diary. I even neglected a really first-rate opportunity for bringing The Book of the Law into public notice, for Mrs. Besant was on the ship by which Ouarda and I returned to Europe, and I conversed a great deal with her about sacred subjects. In Paris, I wrote a formal letter to Mathers informing him that the Secret Chiefs had appointed me visible head of the Order, and declared a new Magical Formula. I did not expect or receive an answer. I declared war on Mathers accordingly, but it was a brutum fulmen.
 
 The fact of the matter was that I resented The Book of the Law with my whole soul. For one thing, it knocked my Buddhism completely on the head. Remember all ye that existence is pure joy; that all the sorrows are but as shadows; they pass & are done; but there is that which remains.
 
-I was bitterly opposed to the principles of the Book on almost every [point of morality. The third chapter seemed to me gratuitously atrocious. My soul, infinitely sad at the universal sorrow, was passionately eager to raise humanity. And lo! the Magical Formula denounced pity as damnable, acclaimed war as admirable and in almost every other way was utterly repugnant to my ideas. I did not understand the fundamental principles of the initiation of mankind; and (in my own case) I did not realize that Aiwass was not necessarily responsible for the character of his message any more than the newspaper for reporting an earthquake.
+I was bitterly opposed to the principles of the Book on almost every point of morality. The third chapter seemed to me gratuitously atrocious. My soul, infinitely sad at the universal sorrow, was passionately eager to raise humanity. And lo! the Magical Formula denounced pity as damnable, acclaimed war as admirable and in almost every other way was utterly repugnant to my ideas. I did not understand the fundamental principles of the initiation of mankind; and (in my own case) I did not realize that Aiwass was not necessarily responsible for the character of his message any more than the newspaper for reporting an earthquake.
 
 The Secret Chiefs had informed me that a New Aeon implied the breaking up of the civilization existing at the time; obviously to change the Magical Formula of the planet is to change all moral sanctions and the result is bound to appear disastrous. The Cult of The Dying God introduced by Dionysus destroyed the Roman virtue and smashed the Roman culture. (Possibly the introduction of the worship of Osiris in an earlier epoch was primarily responsible for the decay of Egyptian civilization.) The nature of Horus being “Force and Fire”, his aeon would be marked by the collapse of humanitarianism. The first act of his reign would naturally be to plunge the world into the catastrophe of a huge and ruthless war.
 
@@ -3960,15 +3896,15 @@ My position was therefore very difficult. I was bound to the Secret Chiefs by th
 
 My wife and I passed a short time in Paris and renewed old ties. One incident stands out in my memory as peculiarly amusing. We asked Arnold Bennett to lunch at Paillard's. He was completely overpowered by the deference of the Maître d'hôtel, who knew me very well, and his embarrassment at being introduced to such splendours was childishly charming. He was, of course, enormously pleased and very kindly offered to give me an introduction to H. G. Wells. As Arnold Bennett had gratified the public with a highly spiced description of me in Paris Nights, hope that he will take it as a compliment if I imitate his frankness in the matter of personalities. His accent and dialect made his English delightfully difficult. As we were leaving the restaurant, he told me that there was one thing about Wells that I mustn't mind: he spoke English with an accent.
 
-59 rue de Grenelle, Paris
-
-14 Feby 1911
-Dear Aleister Crowley,
-Many thanks. I am very glad to have the volume. I will mention it in The New Age, but I no longer write for T. P's. Weekly. Not a portrait of you — my dear Crowley — in the English Review! for all you sat for was the waistcoat, the title and the poetry. All these portraits are composite.
-
-Yours sincerely,
-
-ARNOLD BENNETT
+> 59 rue de Grenelle, Paris
+> 
+> 14 Feby 1911
+> Dear Aleister Crowley,
+> Many thanks. I am very glad to have the volume. I will mention it in The New Age, but I no longer write for T. P's. Weekly. Not a portrait of you — my dear Crowley — in the English Review! for all you sat for was the waistcoat, the title and the poetry. All these portraits are composite.
+> 
+> Yours sincerely,
+> 
+> ARNOLD BENNETT
 
 Alas! I lack the literary skill to construct composite portraits. My own poor effort is the most crude photography. Also, I beg him to excuse my personalities. He is too great a man at heart to resent jests at the expense of his perishable vehicle; he is himself a star bright-blazing, the more glorious for the thickness of the terrestrial vapours which it has had to pierce.
 
