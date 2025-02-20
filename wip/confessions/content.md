@@ -45,7 +45,7 @@ I made it also a point of absolute honour never to commit myself to any statemen
 unicursal hexagram
 
 # PREFACE
-#### by Kenneth Grant
+##### by Kenneth Grant
 
 Since the publication of this book ten years ago it has become evident that Aleister Crowley was more than just another cult hero of our time.
 
@@ -63,11 +63,11 @@ The seeds of the most interesting speculations regarding the future will be foun
 
 KENNETH GRANT (London 1978.)
 
-#### ACKNOWLEDGMENTS
+##### ACKNOWLEDGMENTS
 
 The editors wish to thank Mr George H. Brook for generously putting his collection of Crowleyana at their disposal; they are also grateful to Mrs Norah Fitzgerald and Mr Gerald Yorke for the loan of typescripts; and they are indebted to Mrs Steffi Grant for her help in preparing the index.
 
-#### ALEISTER CROWLEY AND THE LAW OF THELEMA
+##### ALEISTER CROWLEY AND THE LAW OF THELEMA
 
 It is reasonably clear from the Introduction to this work that John Symonds does not accept the Law of Thelema. On this point we are at variance. Furthermore, I think that The Book of the Law contains the key to the principal occult mysteries of the present age.
 
@@ -77,8 +77,8 @@ KENNETH GRANT
 
 
 # INTRODUCTION
-#### THE MIND AND MASK OF ALEISTER CROWLEY
-##### by John Symonds
+##### THE MIND AND MASK OF ALEISTER CROWLEY
+###### by John Symonds
 
 Among Aleister Crowley's papers I found a letter addressed to him by a stranger, asking for permission to attend his next Black Mass or next sabbath which, the writer presumed, would take place on Midsummer Eve. A stamped and addressed envelope (it was mentioned) was enclosed for Crowley's reply. His reply, if he did reply, was bound to be disappointing, for he was not at that time — May 1937 — putting on any more Black Masses or attending any sabbaths. In point of fact, he never attended sabbaths — he was not a witch — and the Masses that he performed were not, technically speaking, Black Masses,^[They were so-called "Gnostic Masses", such as his 'Mass of the Phoenix' and his 'Gnostic Catholic Mass'. Because of their sexual component, they might be considered Gray, but not "Black Masses".] but that kind of thing was expected of him by the public at large.
 
@@ -178,7 +178,7 @@ Crowley began to write his Confessions in a mood of optimism, but he concluded t
 
 In 1929, a small firm of m o publishers called the Mandrake Press published the first two volumes of the autohagiography in a projected series of six volumes. It bore the title:
 
-#### THE SPIRIT OF SOLITUDE
+##### THE SPIRIT OF SOLITUDE
 <div class="centered">
 An Autohagiography
 
@@ -207,9 +207,8 @@ August 1968
 
 # PART ONE
 ![](img/unicursal_hexagram_red_small.png)
-
 #### TOWARDS THE GOLDEN DAWN
-
+![](img/unicursal_hexagram_red_thumb.png)
 ### Prelude
 ‘Do what thou wilt shall be the whole of the Law.’^[(ED Note:) Crowley's invariable salutation; it echoes Rabelais's Fay ce que voudras, but it carries a serious implication. See The Book of the Law.] Not only to this autohagiography — as he amusedly insists on calling it — of Aleister Crowley, but to every form of biography, biology, even chemistry, these words are key.
 
@@ -240,6 +239,9 @@ I find myself obliged, for these and many other reasons, to abandon altogether a
 
 ### Chapter 1.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Edward Crowley,^[“the younger” (1834-87).] the wealthy scion of a race of Quakers, was the father of a son born at 30 Clarendon Square, Leamington, Warwichshire,^[It has been remarked a strange coincidence that one small county should have given England her two greatest poets — for one must not forget Shakespeare (1550-1610).] ^[ED Note: Shakespeare was born in 1564.] on the 12th day of October^[Presumably this is nature's compensation for the horror which blasted mankind on that date in 1492.] ^[ED Note: The allusion is to the discovery of America.] 1875 E.V. between eleven and twelve at night. Leo was just rising at the time, as nearly as can be ascertained. The branch of the family of Crowley to which this man belonged has been settled in England since Tudor times: in the days of Bad Queen Bess there was a Bishop Crowley, who wrote epigrams in the style of Marital. One of them — the only one I know — runs thus:
 
 > The bawds of the stews be all turnèd out:
@@ -302,7 +304,9 @@ By the way, Edward Crowley possessed the power, as per Higgins, the professor in
 As a preacher Edward Crowley was magnificently eloquent, speaking as he did from the heart. But, being a gentleman, he could not be a real revivalist, which means manipulating the hysteria of mob psychology.
 
 ### Chapter 2.
+![](img/unicursal_hexagram_red_thumb.png)
 
+##### TOWARDS THE GOLDEN DAWN
 If troubles arose in the outer world, they were regarded as the beginning of the fulfilment of the prophecies in Daniel, Matthew and Revelation. But it was understood implicitly that England was specially favoured by God on account of the breach with Rome. The child, who, at this period, was called by the dreadful name Alick, supposed it to be a law of nature that Queen Victoria would never die and that consols would never go below par.
 
 Crowley remembers, as if he had seen it yesterday, the dining-room and the ceremony of family prayers after breakfast. He remembers the order in which the family and the servants sat. A chapter of the Bible was read, each person present taking a verse in turn. At four years old he could read perfectly well. The strange thing about this is not so much his precocity as the fact that he was much less interested in the biblical narratives than in the long Hebrew names. One of his father's favourite sermons was based on the fifth chapter of Genesis; long as the patriarchs lived, they all died in the end. From this he would argue that his hearers would die too; they had therefore better lose no time in making sure of heaven. But the interest of Alick was in the sound of the names themselves — Enoch, Arphaxad, Mahaleel. He often wonders whether this curious trait was symptomatic of his subsequent attainments in poetry, or whether it indicates the attraction which the Hebrew Cabbala was to have for him later on.
@@ -333,6 +337,9 @@ The congenital masochism of which we have spoken demands further investigation. 
 
 ### Chapter 3.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 When Alick was about six years old his father moved from Leamington to Redhill, Surrey. There was some reason connected with a gravel soil and country life. The house was called The Grange. It stood in a large long garden ending in woods which overhung the road between Redhill and Merstham; about a mile, perhaps a little more, from Redhill. Alick lived here until 1886 and his memory of this period is of perpetual happiness. He remembers with the utmost clearness innumerable incidents and it becomes hard to select those which possess significance. He was taught by tutors; but they have faded, though their lessons have not. He was very thoroughly grounded in geography, history, Latin and arithmetic. His cousin, Gregor Grant, six years older than himself, was a constant visitor; a somewhat strange indulgence, as Gregor was brought up in Presbyterianism. The lad was very proud of his pedigree. Edward Crowley used to ridicule this, saying, “My family sprang from a gardener who was turned out of the garden for stealing his master's fruit.” Edward Crowley would not allow himself to be addressed as “Esquire” or even “Mr.” It seems a piece of atavism, for a Crowley had petitioned Charles I to take away the family coat of arms; his successor, however, had asked Charles II to restore them, which was done. This is evidence of the satanic pride of the race. Edward Crowley despised worldly dignities because he was a citizen of heaven. He would not accept favour or honour from any one less than Jesus Christ.
 
 Alick remembers a lady calling at the house for a subscription in aid of Our Soldiers in Egypt. Edward Crowley browbeat and bullied her into tears with a philippic on “bibles and brandy”. He was, however, bitterly opposed to the Blue Ribbon Army. He said that abstainers were likely to rely on good works to get to heaven and thus fail to realize heir need of Jesus. He preached one Sunday in the town hall, saying, “I would rather preach to a thousand drunkards than a thousand T-totallers.” They retorted by accusing him of being connected with “Crowley's Ales”. He replied that he had been an abstainer for nineteen years, during which he had shares in a brewery. He had now ceased to abstain for some time, but all his money was invested in a waterworks.^[At Amsterdam. It was a failure at first, the natives objecting to a liquid which lacked taste, smell and colour.]
@@ -423,6 +430,9 @@ Previous to the death of Edward Crowley, the recollections of his son, however v
 
 ### Chapter 4.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I had naturally no idea at the time that the death of my father would make any practical difference to my environment. In most similar cases it probably would not have done so. Most widows naturally remain in the groove.
 
 As things were, I found myself in a totally new environment. My father's religious opinions had tended to alienate him from his family; and the friends whom he had made in his own circle had no interest in visiting my mother. I was thrown into the atmosphere of her family. She moved to London in order to be near her brother, whom till then I had hardly met.
@@ -495,6 +505,9 @@ It occurs to me that this confession sounds rather strange, after my previous re
 
 ### Chapter 5.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I found nothing in the school curriculum which interested me. I had no inkling of it at the time, but I was already in the thrall of the search for reality. Mathematics captured my imagination. I was brilliant at arithmetic until the subject degenerated into “practice”, which was a matter for grocers. I might have liked geometry; but the arid method of presentation in Euclid put me off. I was asked to memorize what I did not understand; and, my memory being so good, it refused to be insulted in that manner. Similarly, I could never memorize the ordinary “repetitions” of Greek and Latin poetry. I took to trigonometry with ardour; but became disgusted as soon as I found my calculations were to be applied to such vulgarities as architecture. The only pure science for me was algebra and I progressed in that with amazing rapidity. On one occasion, at Malvern, the mathematical master wished to devote the whole hour to the three elder boys, who were going up for some scholarship, and set us juniors to work out quadratic equations. There were sixty-three in the chapter set. At the end of forty minutes I stood up and said, “Please, sir, what shall I do now?” he would not believe that I had worked them correctly, but I had. I seem to have an instinct for appreciating the relations of pure numbers and could find factors by intuition.
 
 My intellectual activity has always been intense. It was for this very reason that I could not bear to waste a moment on subjects which seemed to me alien to my interest, though I had no idea what that interest was. As soon as I heard of chemistry, I realized that it dealt with reality as I understood the word. So I soon had “Little Roscoe”^[ED Note: Sir Henry Enfield Roscoe. 'Little Roscoe' was probably his Lessons in Elementary Chemistry, 1866; the sixth edition was published in 1892.] practically by heart, though it was not a school subject. I furnished a laboratory in the house at Streatham, and spent all my time and money in making experiments. It may be interesting to mention how my mind worked. I had heard of the petard as a military engine; and I was hoist with it. Roscoe told me that chloride of nitrogen was the most powerful and sensitive explosive known. My idea was to dissolve it in some volatile fluid; one could then leave a bucket of it at the enemy's gate. The fluid would evaporate and the chloride explode at the first vibration. After several minor misadventures, I collect it over benzine — about a quart — and the whole thing exploded and nearly burnt the house down.
@@ -507,7 +520,7 @@ An amusing situation arose out of this early devotion to the art of Flamel. In m
 
 I had thus no difficulty at school as far as lessons were concerned, but in my three years at Champney's I had no lack of trouble; the nature of this can only be understood if I adduce a few facts to indicate the atmosphere. I used to tell people about my school life and met with such consistent incredulity that I made a little collection of incidents in the preface to my The World's Tragedy. I quote the passage as it stands.
 
-#### A Boyhood in Hell
+##### A Boyhood in Hell
 
 The Revd. H. d'Arcy Champney, M.A. Of Corpus Christi College, Cambridge, had come out of sect.
 
@@ -573,6 +586,9 @@ My revolt must have manifested itself by actions which were technically not blam
 
 ### Chapter 6.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I must mention the intervention of my Uncle Jonathan in the matter of the Badger's meeting, and that of my Uncle Tom in the final eruption.
 
 Jonathan Crowley, my father's elder brother, was the beau ideal of the noble patrician. He looked like a Roman emperor as we romantically imagine him to have been, not as we see him in most sculpture. The tremendous brow, the eagle eyes, the great hooked arrogant nose, the firm mouth and the indomitable jaw combined to make him one of the most strikingly handsome men that I have ever seen.
@@ -628,6 +644,9 @@ However, that comes later.
 
 ### Chapter 7.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 “The best laid plans of mice and men gang aft agley.” Even so cunning a combination of rat and ape as my Uncle Tom made occasional mistakes, and one of these was very fortunate for me. He engaged a tutor names Archibald Douglas, an Oxford man who had purged that offence by having travelled for the Bible Society across Persia. If my uncle had ever heard of George Borrow, he might have saved himself much trouble; and I might have been driven insane. It was in the spring of '91. I had recovered from a bad attack of whooping-cough. The idea was that we should bicycle down to Torquay, but on reaching Gildford I was too ill to ride further and we went down by train. Though Douglas called himself a Christian, he proved to be both a man and a gentleman. I presume that poverty had compelled the camouflage. From the moment that we were alone together he produced a complete revolution in my outlook upon life, by showing me for the first time a sane, clean jolly world worth living in. Smoking and drinking were natural. He warned me of the dangers of excess from the athletic standpoint. He introduced me to racing, billiards, betting, cards and women. He told me how these things might be enjoyed without damaging oneself or wronging others. He put me up to all the tricks. He showed me the meaning of honour. I immediately accepted his standpoint and began to behave like a normal, healthy human being. The nightmare world of Christianity vanished at the dawn. I fell in with a girl of the theatre in the first ten days at Torquay, and at that touch of human love the detestable mysteries of sex were transformed into joy and beauty. The obsession of sin fell from my shoulders into the sea of oblivion. I had been almost overwhelmed by the appalling responsibility of ensuring my own damnation and helping others to escape from Jesus. I found that the world was, after all, full of delightful damned souls; of people who accepted nature as she is, accepted their own place in nature and enjoyed it, fought mean and despicable things fairly and firmly whenever they met them. It was a period of boundless happiness for me. I had always yearned for the beauty of nature; my only friends, except animals and occasional strangers, from whom I was carefully protected, had been the skies, the streams, the mountains and the seas. For the first time in my life I was brought into contact with my fellow men and women. For the first time honest friendship, wholesome love, frank, gay and courageous, became possible and actual. I had loved nature as a refuge from mankind. I now perceived the beauty of the world in conjunction with the beauty of my species. For the first time the sea sparkled, the breezes whispered other songs than those in praise of solitude, the flowers lent their fragrance and their folly to light, laughing girlhood; the moon, instead of Artemis, was Aphrodite.
 
 > I said, “she is warmer than Dian . . .
@@ -694,6 +713,9 @@ I was allowed to read Tennyson and Longfellow, but it is impossible to class the
 
 ### Chapter 8.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 So when it came to my writing poetry myself, my work fell naturally into three divisions. Firstly, short lyrics modelled on the hymns to which I was accustomed; secondly, parodies, principally of Scottish and English songs; and thirdly, epics based on Sir Walter Scott. I must have written over a hundred thousand lines. They have all been destroyed; and I am rather sorry for it. While they possessed no merit, their contents would afford a valuable key to my thoughts at the time. The few fragments which escaped destruction were reprinted in my Oracles. I remember something of their general moral tendency, which was to celebrate the triumph of the revolt of youth and passion against age and propriety. I tried to get effect by using extremes of expression. I remember two lines from an epic. “Lady Ethelreda”:
 
 > Baron Ethelred waxed wroth,
@@ -794,6 +816,9 @@ The glimpse of normal human life afforded by Archibald Douglas had rendered me c
 
 ### Chapter 9.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 It had never occurred to me that rock climbing, as such, might be a recognized sport. However, my mother and I were at the Sligachan Inn in Skye during the summer of 1892. I talked about my hill rambles with Sir Joseph Lister, who happened to be staying there, and asked him about the Coolins. He was kind enough to suggest to some real climbers who were staying at the hotel to include me in their party the next day, and they were kind enough to take me up Sgurr-nan-Gillean by the Pinnacle Ridge. I found myself up against it; and realized at once that there was something more to be done than scrambling.
 
 I think it was the following summer that I was staying at a farm in Langdale and heard from the natives of the celebrated twenty-four hours' walk. The idea is to climb the four highest fells, Scafell Pikes, Helvellyn, Skiddaw and Saddleback, in a day. I conceived a minor ridge walk and set out one morning at dawn from Langdale, climbed the Langdale Pikes, and followed the crest of the fells to Scafell Pikes. Then I crossed to Scafell by the Broad Stand; and, seeing the Deep Ghyll pinnacle, climbed that on my way to the summit of Scafell. It was a terrifically hot day over Lingmell and down into the valley to climb the screes of Great Gable. My attention was attracted by the Great Napes Needle and I climbed that. Thence I took the easiest way — the Needle ridge, or a gully, I forget which — to the summit of the mountain. I had become almost insane from heat, thirst and exhaustion; I could not longer walk, but crawled on hands and knees down to Sty Head Tarn, whose waters revived me to some extent. I struggled on homewards and reached the top of Rossett Ghyll Pass shortly after nightfall. There was a bright moon, but I had a terrible time picking my way down the path. I must have been a little light-headed from exhaustion and there was a Dantesque quality in the long climb among the blinding white patches of light and the jetty shadows. At the bottom of the pass I met a small rescue party who had just started out to look for me, and reached home about eleven o'clock. It was, in its way, a remarkable performance of a boy.
@@ -857,6 +882,9 @@ By this persistent nagging I got him to make an appointment with me and the game
 
 ### Chapter 10.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 My grand passion was Beachy Head. The fantastic beauty of the cliffs can never be understood by anyone who has not grappled them. Mountain scenery of any kind, but especially rock scenery, depends largely on foreground. This is especially the case when one has acquired an intimate knowledge of the meaning, from the climber's point of view, of what the eyes tell one. The ordinary man looking at a mountain is like an illiterate person confronted with a Greek manuscript. The only chalk in England which is worth reading, so to speak, is that on Beachy Head. This is due to the fact that it is relatively so much higher than other similar cliffs. Most chalk cliffs are either unbroken precipices, unclimbable in our present stage of the game, or broken-down rubble; but Beachy Head offers rock problems as varied, interesting and picturesque as any cliffs in the world. I began to explore the face. Popular ignorance had surrounded it with innumerable absurd rumours. The general opinion was that no one had ever climbed it. There was, however, a legend that it had once been done. I settled the point by walking up, smoking a pipe, with my dog (I had no woman available) in nine and a half minutes from the beach to the coastguard station.
 
 My cousin, Gregor Grant, was with me on my earlier climbs. These were the most obvious, but also the most important, Etheldreda's Pinnacle — which I named after my dog, or a schoolgirl with whom I had stolen interviews, I forget which — was the first great triumph. The second was the Devil's Chimney, and the third the Cullin Crack. I have always refused till now to claim this climb, as I finished it with the moral support of a loose rope from above. It would be formidable enough were it of the best rock in the world: there is one section which actually overhangs. I believe that these latter climbs have never been repeated.
@@ -889,6 +917,9 @@ There remains one remarkable incident of my climbing in Cumberland. I had been t
 
 ### Chapter 11.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 In 1894 I had my first serious taste of the Alps. I went with my tutor to the Suldenthal in the Austrian Tyrol. I had discovered the Badminton Volume of Mountaineering.^[Mountaineering, 1892, by Clinton Thomas Dent (Badminton Library).] I looked on it very much as I had been taught to look on the Bible. It says much for my innocence previously described, that despite the data already in my possession, I failed entirely to realize that the one book was as full of grotesque blunders and inaccuracies as the other. I arrived in Sulden with a deep reverence for the Alpine guide, and hastened to engage Joseph Pingerra, who was supposed to be the best in the valley. I was very shocked to find that is was customary in the Tyrol to go two on a rope instead of three, though in point of fact this was the only thing they knew about climbing. But I was amazed beyond measure to find that I was a much better rock climber than my guide. He did not know what rock climbing was, judged by Cumberland standards! I had no experience of snow and ice; so here, of course, I was the reverent disciple. Imagine my astonishment, then, when after two or three days Pingerra slipped and fell on a perfectly easy snow slope. He was entirely unable to do anything to save himself and I had to pull him up on the rope. I retained my faith in Badminton by saying to myself that the guides in the outlying groups must be very poor examples. I engaged two other guides and started for the Köenigspitze, spending the night in a hut. In the morning the guides were drunk and unwilling to start, making absurd excuses about the weather. I had not sufficient self-confidence to tackle the Köenigspitze by myself; but I dismissed them, made a solitary ascent of the Eisseespitze, and thought the matter over. I was utterly disgusted and decided to learn ice and snowcraft by myself, as I had with rocks.
 
 A few days later I went out alone and made the first ascent of the Ortler by the Hintere Grat. The mountain had previously been climbed on this side; but the ridge had not been followed with the conscientiousness which was the rule in England. It took me six and a half hours to reach the summit.
@@ -925,6 +956,9 @@ The incident had a wholesome effect on my own family. They had failed to break m
 
 ### Chapter 12.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 When I went up to Cambridge in the October term of 1895, I had the sensation of drawing a long deep breath as one does after swimming under water or (an even better analogy) as one does after bracing oneself against the pain inflicted by a dentist. I could not imagine anything better in life. I found myself suddenly in an entirely new world. I was part of the glories of the past; and I made a firm resolution to be one of the glories of the future. I should like the haunted room over the Great Gate of Trinity to be turned into a vault like that of Christian Rosencreutz to receive my sarcophagus. I must admit that I don't know of much else in England of the works of man which I would not make haste to destroy if the opportunity occurred. But Trinity, except New Court and Whewell's Court, is enough for nay poet to live and die for.
 
 I remember being amazed in later years when my patriotism was doubted. I wasn't going to have “Eintritt Verboten” put up over the Great Gate with a Prussian sentry to enforce it. I am perfectly aware that I am irrational. The traditions of England are intertwined inextricably with a million abuses and deformities which I am only too eager to destroy. But all Englishmen keep their brains in watertight compartments. It would be a comic degradation of make Trinity the headquarters of the Rationalist Press Association. But at the time I had not seen the logical incompatibility of my various positions. Shakespeare's patriotism in John of Gaunt's dying speech and Henry V appeals directly to my poetic sense.
@@ -979,6 +1013,9 @@ There is thus little trace of public school faute de mieux paederasty: it surviv
 
 ### Chapter 13.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Till the Great Gate of Trinity opened me the way to freedom I had always been obsessed more or less either by physical weakness or the incubus of adolescence. I had never known what it was to be able to work freely and gladly. Now, however, I was able to give myself with absolute concentration to literature and I read everything important in the language with the utmost thoroughness. For example, I read the whole of the writings of people like Carlyle, Swift, Coleridge, Fielding, Gibbon, and so on. In this way I obtained a much more comprehensive idea of these men than if I had, as people usually do, picked out the masterpieces.
 
 I was very anxious that my style should not be influenced by my contemporaries, and also not to waste myself on anybody who had not stood the test of time. I made it a rule to read no one who had not been dead for fifty years, unless brought under my notice in some special way. For example, I could not avoid Swinburne, as one of my friends was crazy about him and I could not doubt, after the first acquaintance, that that he was a classic. Similarly, I allowed myself to read Sir Richard Burton, because The Arabian Nights was an established masterpiece and his was the best translation. I also read a good deal of French literature and all the best Greek and Latin authors. But my peculiar temperament made me balk at one or two fences. I had certain innate ideas about literature; I say innate because I cannot imagine on what grounds I formed them. Thus I could not tolerate the idea of a novel exceeding a certain length, with the result that I have never read a page of Samuel Richardson. It is easier to understand the objection which I had to what I thought gossip. I have never read Boswell and have never been able to bring myself to face the average memoir. With regard to history^[There is no such thing as history. The facts, even were they available, are too numerous to grasp. A selection must be made; and this can only be one-sided, because the selector is enclosed in the same network of time and space as his subject.] again, I demanded that the subject should be important. I did not see why I should bother my head about the Crimean War. I studied philosophy and kindred subjects with the greatest enthusiasm; but resented the form in which it was set forth by such people as Plato. It seemed to me that the argument of any of Plato's dialogues might have been presented much more clearly and cogently in about a tenth of the space. I made a very thorough study of logic as being my critical apparatus.
@@ -1097,6 +1134,9 @@ Childe Roland to the dark tower came was as real to me as the Battle of Waterloo
 
 ### Chapter 14.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I obtained the honour of knighthood^[There is a great deal more to this story; but I may not tell it — yet.] from one of Don Carlos' lieutenants. It is part of the legitimist theory that the sovereign had abrogated to himself the monopoly of conferring spurs, while on the other hand a woman could not confer knighthood. All Victorian creations are invalid.
 
 The effect of adopting the the official Anglo-German theory is even more patent today than in the 'nineties'.^[WEH Note: Remember, this was the 1890s, not the 1990s, when most people will be reading this copy.] Then it was city knights; the next step was the matinée idol; now the pawnbroker, the movie star and the low comedian have made the title a badge of nastiness. There is only one honour connected with true knighthood, that of being a man of honour, of having taken the vows — to uphold the right, to serve mankind, to protect the distressed, and generally to exercise the manly virtues. When renegade Jews and clowns walk in to dinner before gentlemen, the latter may prefer to go without.
@@ -1145,6 +1185,9 @@ We now found that so far from this obstacle being the last, it was the first! I 
 
 ### Chapter 15.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I must not omit to mention the first descent of the west face of the Trifthorn. It was early in the season of '96. Going up to Zermatt in the train I met an English climber whom I will call Arthur Ellis. He was anxious to do guideless work and we agreed to try a few mountains together. We made some minor expeditions and he proved highly competent. One day we climbed the Trifthorn by the ordinary route, with the idea of attempting the traverse. As I was to go down last, he was carrying the rucksack with our provisions. We made several attempts to find a way down the Zinal face; but always the slopes steepened until it became evident that they pitched over, and we had to retrace our steps. Ellis, however, was very annoyed at my caution and wanted to glissade, which was a proposal about as reasonable as jumping off the Eiffel Tower. Presently he made an excuse for taking off the rope and retired behind a rock while I sat down and lit my pipe. I was aroused by a hail. Ellis was three or four hundred feet down the slope! He urged me once more to glissade. He said he had invented a new method of exercising this art, which was to hold the axe by the shaft and use the pick as a brake. It was downright insanity; and took me absolutely by surprise, as previously he had been a sound and careful climber. I could do nothing to restrain him: I tried to humour him and suggested that he should “come up to where I was and start fair”. But he wasn't taking any and let himself go. A few seconds later he was performing cartwheels and then disappeared over the edge. The angle was such that I could not see where he had fallen. I hastily climbed a convenient rock pinnacle. Then I saw him. He was lying, spreadeagled, in the Bergschrund, with his blood staining the snow; which, by the way, ought not to have been there, and would not have been but for the continuous bad weather.
 
 The task before me was hardly prepossessing. It was up to me to find my way alone down a face which had never previously been climbed. However, I discovered a route which took me to the glacier in about five hours. At one point I was obliged to lower myself down by the rope; and, as I could not unhitch it, I was thrown more than ever on my own resources after that. On several occasions I was obliged to make some very risky jumps, so that I might have been cut off if I had found a passage beyond my powers.
@@ -1187,6 +1230,9 @@ However, we found a chimney where the boy could rest in moderate comfort and the
 
 ### Chapter 16.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Such were some of the adventures of 1896 and 1897. My experiences all contributed to build up an original theory of mountaineering. It was not till 1898 that I discovered the identity of my own ideas with those of the great climbers. But I discovered the extremely unpleasant fact that the English Alpine Club were bitterly opposed to mountaineering — its members were incompetent, insanely jealous of their vested interests and unthinkably unsportsmanlike. Professor Norman Collie had proposed me for the club and Sir Martin Conway had been kind enough to second me; but the record of climbs which I put in to qualify for admission was much too good. It was subversive of all authority. The average Alpine clubman qualifies by paying guides to haul him up a few hackneyed peaks. He is not expected to do any new climbs whatever; and it is an outrage to the spirit of the club to do anything original. Mummery had been blackballed because he was the most famous climber in England; and, though occasionally climbing with guides before he found Collie and Hastings, had been in fact the leader of the party. The club was, of course, afraid to give its real reasons for objecting to him. It circulated the lie that he was a bootmaker! Later on, it became a public scandal that he was not a member of the club and he was weak enough to allow himself to be elected. In my case, Collie and Conway warned me that my election would be opposed and I withdrew my name. On this, the son of a church furnisher named Tattersall, who had insinuated himself into Trinity, circulated the rumour that I had been expelled from a London club. He hated me because I, as president of the Cambridge University Chess club, did not see my way to allow him to become secretary. He was an excellent player, but unsuitable for conducting official correspondence with other clubs. I went to his rooms with a heavy malacca and demanded that he should retract his falsehood or fight. He refused to do either, so I thrashed him soundly then and there. He complained to my tutor, who halled me, made a few remarks on the desuetude of the duel, changed the conversation to Ibsen and asked me to dinner.
 
 Mountaineering differs from other sports in one important respect. A man cannot obtain a reputation at cricket or football by hiring professionals to play for him. His achievements are checked by his averages. But hardly any one in England at that time knew anything about mountaineering. Various old fogies, who could not have climbed the simplest rocks in Cumberland, or led across an easy Alpine pass, had been personally conducted by peasants up a few mountains and written themselves up into fame. The appearance of the guideless climber was therefore a direct challenge. They tried every dirty trick to prevent the facts from leaking out. They refused to record the exploits of guideless men in the Alpine Journal. They discountenanced even their own members, they tried to ignore English rock climbing altogether and would have nothing to do with the continental Alpine clubs.
@@ -1235,6 +1281,9 @@ Aleister Crowley, by the way! I have not yet explained how I came to have change
 
 ### Chapter 17.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 I began my last year at Cambridge with my moral decks cleared for action. I didn't know where I was going, but I was on the way. I was thus quite ready for the perception of the First Noble Truth, but also for an entirely new current to influence my life. Towards the end of the October term I met a man named Herbert Charles Jerome Pollitt. He was an M.A., ten years older than myself, and had merely come up to Cambridge to dance for the F.D.C. (Footlights Dramatic Club). I saw him only once or twice that term, but corresponded with him from abroad during the Christmas vacation. The result was the establishment of the first intimate friendship of my life.
 
 Pollitt was rather plain than otherwise. His face was made tragic by the terrible hunger of the eyes and the bitter sadness of the mouth. He possessed one physical beauty — his hair. This was very plentiful and he wore it rather long. It was what is called a shock. But its colour was pale gold, like spring sunshine, and its texture of the finest gossamer. The relation between us was that ideal intimacy which the Greeks considered the greatest glory of manhood and the most precious prize of life. It says much for the moral state of England that such ideas are connected in the minds of practically every one with physical passion.
@@ -1296,6 +1345,9 @@ It has been my lifelong regret, for a nobler and purer comradeship never existed
 
 ### Chapter 18.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 During the May term of 1898 I met another man who, in his own way, was interested in many of the same things as I was myself. His name was Gerald Festus Kelly. He is described in the telephone book as an artist; and the statement might have passed unchallenged indefinitely had not the Royal Academy recently elected him as an associate. He is hardly to be blamed for this disgrace. He struggled manfully. Even at the last moment, when he felt the thunderclouds about to break over his head, he made a last desperate coup to persuade the world that he was an artist by marrying a model. But the device deceived nobody. The evidence of his pictures was too glaring. The effort, moreover, completely exhausted his power of resistance; and he received the blow with Christian resignation. It saddens me more hat I can say to think of that young life which opened with such brilliant promise, gradually sinking into the slough of respectability. Of course it is not as if he had been able to paint; but to me the calamity is almost as distressing as if that possibility had ever existed. For he completely hypnotized me into thinking that he had something in him. I took his determination to become an artist as evidence of some trace of capacity and I still hope that his years of unremitting devotion to a hopeless ambition will earn him the right to reincarnate with some sort of soul.
 
 We met in a somewhat romantic way. My Aceldama had just been issued and was being sold privately in the university at half-a-crown. (There were only eighty-eight copies, with ten on large paper and two on vellum.) One of the mottoes in Aceldama is a quotation from Swinburne's “The leper”. I had not acknowledged the authorship of Aceldama; it was by A Gentleman of the University of Cambridge“ in imitation of one of Shelley's earlier books.
@@ -1404,6 +1456,9 @@ They boarded the barge without difficulty, but to get her going was another matt
 
 ### Chapter 19.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 We had one or two other people with us, in particular a man named Paley Gardner, who had been with Eckenstein at Wastdale at Ester. He was a man of giant strength, but could not be taught to climb the simplest rocks. He always tried to pull the mountain down to him instead of pulling himself up to it! He was one of the best fellows that ever walked and had led an extraordinary life of which he was too silent and too shy to speak. But he loosened up to some extent in camp; and two of his adventures are so remarkable that I feel they ought to be rescued from oblivion.
 
 He was a rich man, but on once occasion found himself stranded in Sydney and too lazy to wire for money. At this juncture he met a man who offered to take him trading in the islands. They got a schooner, a crew and some stores; set off; sold their stuff; and started home. Then small pox broke out on board and every man died by Paley, who sailed the schooner, singlehanded, seven days back to Sydney.
@@ -1442,7 +1497,7 @@ I felt that my career was already marked out for me. Sir Richard Burton was my h
 
 On the other hand, it is impossible to make positive progress by means of institutions which lead to one becoming a lord chancellor, an archbishop, an admiral, or some other flower of futility. I had got from Cambridge what I wanted: the intellectual and moral freedom, the spirit of initiative and self-reliance; but perhaps, above all, the indefinable tone of the university. The difference between Cambridge and Oxford is that the former makes you the equal of anybody alive; the latter leaves you in the invidious position of being his superior.
 
-#### Note on the Differences between Oxford and Cambridge
+##### Note on the Differences between Oxford and Cambridge
 
 One of the most significant points in English character is thrown into relief by the contemplation of Oxford and Cambridge. I should be very puzzled to have to say that that point is, but the data are unmistakable. The superficial likeness between the universities is very clear, yet their fundamental spiritual difference can only be described as “a great gulf fixed”. Contrast this with America, where even long experience does not enable one to distinguish at a glance between men from the four principal universities, or even to detect, in most cases, the influence of any university training soever, as we understand the idea. But to mistake an Oxford for a Cambridge man is impossible and the converse exceedingly rare.
 
@@ -1502,6 +1557,9 @@ I was half-past twelve before I got home. I took a tub and found I was black and
 
 ### Chapter 20.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Nothing gives such a mean idea of the intelligence of mankind than that it should ever have accepted for a moment the imbecile illusion of “free will”; for there can be very few men indeed, in any generation, who have at any time in their lives sufficient apparent liberty of action to induce them to dally with it. Of these few, I was one. When I left Cambridge, I had acquired no particular ties. I was already the Spirit of Solitude in in embryo. Practically, too, my father having been the younger son of a younger son, I had not even a territorial bond. On the other hand, I had a large fortune entirely at my own disposal; there was no external constraint upon me to do one thing rather than another. And yet, of course, my career was absolutely determined. The events of my life up to that point, it they had been intelligently interpreted, would have afforded ample indications of the future. I was white-hot on three points; climbing, poetry and Magick.
 
 On my return from Switzerland in 1898, I had nowhere in particular to go. There was no reason why I should settle down in any special place. I simply took a room in the Cecil, at that remote period a first-class hostelry, and busied myself with writing on the one hand and following up the magical clues on the other. Jephthah, and most of the other poems which appear in that volume, were written about this period. It is a kind of backwater in my life. I seem to have been marking time. For this reason, no doubt, I was the more ready to be swept away by the first definite current. It was not long before it caught me.
@@ -1562,6 +1620,9 @@ To return to Allan Bennett. I found him staying with V. H. Frater Aequo Animo^[I
 
 ### Chapter 21.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Allan Bennett was four years older than myself. His father, an engineer, had died when he was a boy; his mother had brought him up as a strict Catholic. He suffered acutely from spasmodic asthma. His cycle of life was to take opium for about a month, when the effect wore off, so that he had to inject morphine. After a month of this he had to switch to cocaine, which he took till he began to “see things” and was then reduced to chloroform. I have seen him in bed for a week, only recovering consciousness sufficiently to reach for the bottle and sponge. Asthma being a sthenic disease, he was then too weak to have it any more, so he would gradually convalesce until, after a few weeks of freedom, the spasms would begin once more and he would be forced to renew the cycle of drugs.^[WEH Note: The modern reader should not be too much disturbed by this catalogue of patently illegal drugs. They were all legal until well into the 20th century. This approach to asthma was still followed in the last quarter of the 20th century, with various dangerous medications prescribed in rotation by physicians for the patient to the point of sequential toxic reaction. Crowley himself became afflicted with the disorder, almost “the Magician's disease” for its frequency among those who follow this interest. Crowley's doctor prescribed heroin at a time in the 'teens when it was thought to be non-addictive! Crowley experienced the terrors of withdrawal, recounted in his “Liber XCIII”, and ultimately died of respiratory infection in 1947, fifty years after the events described here.]
 
 No doubt, this constant suffering affected his attitude to life. He revolted against being an animal; he regarded the pleasures of living (and above all, those of physical love) as diabolical illusions devised by the enemy of mankind in order to trick souls into accepting the curse of existence. I cannot forbear quoting one most remarkable incident. When he was about sixteen, the conversation in the laboratory where he was working turned upon childbirth. What he heard disgusted him. He became furiously angry and said that children were brought to earth by angels. The other students laughed at him and tried in vain to convince him. He maintained their theory to be a bestial blasphemy. The next day one of the boys turned up with an illustrated manual of obstetrics. He could no longer doubt the facts. But his reaction was this: “Did the Omnipotent God whom he had been taught to worship devise so revolting and degrading a method of perpetuating the species? Then this God must be a devil, delighting in loathsomeness.” To him the existence of God was disproved from that moment.
@@ -1592,6 +1653,9 @@ When I finally left the flat for Scotland, it was found that the mirrors were to
 
 ### Chapter 22.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### TOWARDS THE GOLDEN DAWN
 Apart from my daily work, my chief preoccupation was to prepare for the Operation of the Sacred Magick.
 
 The first essential is a house in a more or less secluded situation. There should be a door opening to the north from the room of which you make your oratory. Outside this door, you construct a terrace covered with fine river sand. This ends in a “lodge” where the spirits may congregate. It would appear the simplest thing in the world for a man with forty thousand pounds, who is ready to spend every penny of it on the achievement of his purpose, to find a suitable house in a very few weeks. But a magical house is as hard to find as a magical book to publish. I scoured the country in vain. Not till the end of August 1899 did I find an estate which suited me. This was the manor of Boleskine and Abertarff, on the south-east side of Loch Ness, half way between Inverfarigaig and Foyers. By paying twice as much as it was worth, I got it, gave up my flat and settled down at once to get everything in order for the great Operation, which one is told to begin at Easter.
@@ -1841,6 +1905,9 @@ Summer was now at hand and the wanderlust reasserted itself in me. There was no 
 
 ### Chapter 23.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 I think it was on the sixth of July that I reached New York. In those days one was not bored by people who had never seen a real skyline boasting of the outrage since perpetrated by the insects. A mountain skyline is nearly always noble and beautiful, being the result of natural forces acting uniformly and in conformity with law. Thus, though it is not designed, it is the embodiment of the principles which are inherent in design. New York, on the other hand, has been thrown up by a series of disconnected accidents.
 
 The vanity of the natives led them therefore to concentrate their enthusiasm on a rejected statue of commerce intended for the Suez Canal. This they had purchased at secondhand and grandiloquently labelled “Liberty enlightening the World”. They had been prophetic enough to put it on an island with its back to the mainland.
@@ -1901,6 +1968,9 @@ The result was surprising. Business went on pretty well as in the past, with thi
 
 ### Chapter 24.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Lying sick in the Hotel Iturbide, I was attended by an American doctor named Parsons, which whom I stuck up a warm friendship. He was certainly a “live wire”. The faculty had just devised as new source of income by inventing appendicitis. Parsons heard of this and wired to the States for a partner who could perform the operation. He then proceeded to advise immediate operation every time one of his many wealthy patients had a stomach-ache. At a thousand Mexican dollars a time, it did not take many months to pile up a fortune.
 
 The English colony in Mexico City was disliked and despised. The consul was habitually constipated and the vice-consul habitually drunk. It is a curious fact that all over the world these qualities never vary. A wide field is open the philosophical speculation.
@@ -1931,6 +2001,9 @@ I do not know why I made no attempts on the peaks. Perhaps it was from an obscur
 
 ### Chapter 25.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Meanwhile my magical condition was making me curiously uncomfortable. I was succeeding beyond all my expectations. In the dry pure air of Mexico, with its spiritual energy unexhausted and uncontaminated as it is in cities, it was astonishingly easy to produce satisfactory results. But my very success somehow disheartened me. I was getting what I thought I wanted and the attainment itself taught me that I wanted something entirely different. What that might be it did not say. My distress became acute; and, as I had done at the beginning, I sent out an urgent call for help from the Masters. It must have been heard at once, for little over a fortnight later I got a long letter from Fra. V.N. Though I had not written to him, he gave me the very word that I needed. It restore my courage and my confidence. I continued my work with deeper and truer understanding. I began to perceive the real implications of what I was doing. In particular, I gained an entirely new grip of the Cabbala.
 
 One of my results demands detailed record, because it proved later to be one of the foundations of the Great Work of my life. The word Abracadabra is familiar to everyone. Why should it possess such a reputation? Eliphas Lévi’s explanations left me cold. I began to suspect that it must be a corruption of some true “word of power”. I investigated it by means of the Cabbala. I restored its true spelling. Analysis showed it to be indeed the essential formula of the Great Work. It showed who to unite the Macrocosm with the Microcosm. I, therefore, adopted this word and its numerical value, 418, as the quintessentialized expression of the proper way to conduct all major Magical Operations.
@@ -1997,6 +2070,9 @@ We had intended to finish our programme by climbing Citlatepetl; but there were 
 
 ### Chapter 26.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 I broke the journey at El Paso. Coming straight from the quiet civilization of Mexico it was a terrible shock to find myself in touch with the coarse and brutal barbarism of Texas. There are many unpleasant sides of life which cannot be avoided without shirking reality altogether; but in the United States they were naked and horrible. The lust of money raged stark without the softening influences of courtesy. Drunkenness was stripped of good fellowship; the sisterhood of sin presented no deceptive attractions. The most idealistic innocent could not have been under a moment's illusion — they were stalled like cattle in rows of wooden shanties; and they carried on their business with fierce commercial candour. All those little grace of life which make bought kisses tolerable to those sensitive people who are willing to be fooled, were absent.
 
 I strolled across to Juarez to kiss my girl goodbye. O Mexico, my heart still throbs and burns whenever memory brings you to my mind! For many other countries I have more admiration and respect, but none of them rivals your fascination. Your climate, your customs, your people, your strange landscapes of dreamlike enchantment rekindle my boyhood.
@@ -2101,6 +2177,9 @@ As a matter of fact, he was perfectly human and even contributed a quite valuabl
 
 ### Chapter 27.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 I sailed for Ceylon, chiefly because I had said I would go, certainly not in the hope of assistance from Allan. Perhaps because I had found my feet, he was, as will appear, allowed to guide them, in what seemed at first sight a new Path. I had got to learn that all roads lead to Rome. It is proper, more, it is prudent, more yet, it is educative, for the aspirant to pursue all possible Ways to Wisdom. Thus he broadens the base of his Pyramid, thus he diminishes the probability of missing the method which happens to suit him best, thus he insures against the obsession that the goat-track of his own success in the One Highway for all men, and thus he discounts the disappointment of discovering that he is not the Utter, the Unique, when it becomes plain that Magick, mysticism, and the mathematics are triplets, and that the Himalayan Brotherhood is to be found in Brixton.
 
 I say little of Singapore; I say enough when I say that its curries, with their vast partitioned platter of curious condiments to lackey them, speak for themselves. They sting like serpents, stimulate like strychnine; they are subtle and sensual like Chinese courtesans, sublime and sacred, inscrutably inspiring and unintelligibly illumination, like Cambodian carvings.
@@ -2157,6 +2236,9 @@ An appeal couched in such chastely correct yet politely passionate phraseology c
 
 ### Chapter 28.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Allan's adventures in Ceylon had been varied. His first idea had been to take the Yellow Robe; that is, to become a member of the Buddhist Sangha. These men are not priests or monks, as we understand the words; it is hard for European minds to understand the conditions of their life. They have renounced the world and live as mendicants; but it may be stated roughly that the rules of their Order, which are very complex and often seem irrational or frivolous, are all devised in the interest of a single idea. Each rule meets some probably contingency. But in every case the object is to enable the bhikkhu to carry out his programme of spiritual development. There are no superstitious terrors, no propitiatory practices; the while object is to enable a man to free himself from the fetters of desire which hamper his actions, and (incidentally) produce the phantasms which we call phenomena. In Buddhism, the universe is conceived as an illusion, created by ignorant cravings. It is, in fact, a dream as defined by Freud's hypothesis.
 
 Allan was already at heart a Buddhist. The more he studied the Tripitika, “the three baskets of the law” — waste paper baskets I used to call them — the more he was attracted, but he was fearfully disappointed by the degeneracy of the Singalese bhikkhus. With rate exceptions, they were ignorant, idle, immoral and dishonest. At Anuradhapura, the sacred ruined city, there conduct is so openly scandalous as to have given rise to a proverb: “A bhikkhu is made, not born — except at Anuradhapura.” Allan had been offered the post of treasurer to a famous monastery outside Colombo, for the avowed reason that they could not trust any one of themselves. Considering that a bhikkhu is not allowed to touch money at all, this was rather the limit.
@@ -2217,6 +2299,9 @@ Samadhi, “Union with the Lord”, is the general term for the final trance, or
 
 ### Chapter 29.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 The general idea of Eastern religions is that any manifestation of being is necessarily imperfect, since it is not the sum of all truth. (For, if it were, it would not be distinguishable from any other manifestation). Hence, its nature is evil and its effect on the mind to create sorrow. Their idea is to destroy all thought as being false and painful. Their idea is liberation from the illusion of existence. The effect of Samadhi is firstly to produce the bliss which comes from the relief from pain. Later, this bliss disappears and one attains perfect indifference.
 
 But we need not go so far into their philosophy or accept it. Thanks partly to William James' Varieties of Religious Experience, I got the idea of employing the methods of Yoga to produce genius at will. James points out that various religious teachers attained their power to influence mankind in what is essentially the same way; that is, by getting into Samadhi. The trance gives supreme spiritual energy and absolute self-confidence; it removes the normal inhibitions to action. I propose then that any man should use this power to develop his faculties and inspire his ambitions by directing the effects of the trance into the channel of his career. This idea at once connects mysticism with Magick; for one of the principal operations of Magick is to invoke the god appropriate to the thing you want, identify yourself with Him and flood your work with His immaculate impulse. This is, in fact, to make Samadhi with that God. The two processes are essentially identical; the apparent difference arises merely from the distinction between the European and Asiatic conceptions of the cosmos. Most European religion, including orthodox Judaism, is anthropomorphic, an expansion of the moral ideas connected with the members of a family. Asiatic religions,^[Including the oldest Greek religion in its best aspects.] even when superficially theistic, always imply an impersonal universe. One idealized human forces; the other, the forces of nature.
@@ -2287,6 +2372,9 @@ Zodacare, eca, od zodameranu! Odo kikalé Qaa! Zodoreje, lape Zodiredo Noco Mada
 
 ### Chapter 30.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 We came into contact, on one occasion, with the relations between the people and the government. The British official in Ceylon is a very different person from his Indian colleague. He is not “heaven-born” in the same consecrated and ineluctable way. He has failed to convince himself of his superiority to mere created beings; so his airs of authority do not become him. He feels himself a bit of an upstart. Ceylon is full of half-casts, Dutch, English and Portuguese, and the white man feels himself somehow compromised by their presence. They remind him of his poor relations and make him feel as the inhabitants of Dayton, Tennessee, and some others do in a monkey-house. A similar situation exists in the southern states of America, where the pure whites are outnumbered by the negroes, and where a large population of mixed blood provides the logical link. In south Africa, again, we find the same situation; and the practical result is that the white man, feeling his footing insecure, dares not tolerate the native as he can in India, where the relations between the population and the conquering invader are understood by both parties. The Singalese government is inclined to be snappish.
 
 One evening Allan and I were meditating, as usual. The servants were absent for some reason; some marauder took the opportunity to break in and steal my cash box. I am ashamed to say that I was stupid enough to report the incident to the police. A day or two later an alleged inspector appeared, made various inquiries and went off. He took with him my pocket compass, under the impression that it was my watch! This time, of course, we could identify the thief, who had been playing this game all over the island. He was caught and put in the dock; but escaped conviction on some technicality. But I remember the incident acutely on account of the conversation I had with the magistrate, who explained that the man might be flogged for this offence. He spoke of the punishment with a shudder — it was terrible to witness; but his tones displayed intense sadistic pleasure at the idea. It was my first glimpse of the bestial instincts of the average respectable and cultured Englishman. I had not really believed what I had read in Krafft-Ebing about perverse pleasures of this sort; I could not understand cruelty.
@@ -2337,6 +2425,9 @@ The Hindu is of course a slave to his superstitions about sin even more than mos
 
 ### Chapter 31.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 In course of time I arrived at Madras, which is sleepy, sticky and provincial. On one of my steamship journeys I had met a delightful man named harry Lambe, who had invited me to come and stay with him in Calcutta. It fitted in ideally and I booked my passage by the steamer Dupleix. It would have been more natural to go by train; but part of my plan in wandering about the world was to put myself in unpleasant situations on purpose, provided that they were new. This small French boat offered an adventure.
 
 A storm was raging; the Dupleix was some days late, and when she arrived, it was too rough for her to come into the harbour. I had to row out to her in an open boat. I had dismissed my servant and was the only passenger from shore. I note the fact as showing that I had in a sense broken with the past; the point will appear in a few paragraphs.
@@ -2389,6 +2480,9 @@ In order to cross the Arakans to Akyab, we obtained various credentials from the
 
 ### Chapter 32.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 On the twenty-fifth of January we left Rangoon for Prome. Arrived at Prome, we immediately went on board the steam ferry Amherst. It is a five hours' journey to Thayetmyo, where we arrived in the heat of the day, after a very pleasant journey, thanks partly to the beauty of the scenery, but perhaps more to the geniality of the captain. We got three bullock carts for our transport and started the next morning, stopping at Natha for lunch after a pleasant journey of ten miles. After lunch we went off to Kyoukghyi.
 
 The next day we resumed our journey; I walked most of the way and shot some partridges and pigeons for lunch, which we took at Leh-Joung; this is bungalow, but a not a village. We went on in the afternoon to Yegyanzin, fortune to meet Garr, where we had the good the forest commissioner of theUnfortunately he was unable district, and his assistant Hopwood. to give to have no difficulty in getting me any elephants, as they were all in use; but told me I ought coolies and probably ponies if I required them. We forces and had quite a nice dinner combined together. One does not realize until one meets them in how nice Englishmen really are out-of-the-way places. Sometimes not even then.
@@ -2466,6 +2560,9 @@ The next day after breakfast Allan cam to the doctor's house to avoid worshipper
 
 ### Chapter 33.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 While at Akyab I wrote Ahab, which, with a few other poems, was published as a companion to Jezbel. I had also, at odd times, continued Orpheus and The Argonauts. The latter play is really five separate plays of the Greek pattern. The effect of my journey is very manifest. I had entirely neglected the obvious astronomical symbolism of the Golden Fleece, and had introduced a number of Hindu ideas, both about Magick and about philosophy. To illustrate the voyage, I included lyrics descriptive of actual observations of Vera Cruz, Waikiki Beach, Hong Kong and other places which had excited me.
 
 The best thing in Book III of Orpheus, which occupied this period, is, perhaps, the invocation to Hecate, which I recited at Akyab with full magical intention. The goddess appeared in the form of Bhavani. The fact made more concrete my perception of the essential identity of all religions. Sinai and Olympus, Mount Kailasha and Mount Meru differed from each other as do the Dent Blanche, Mote Silvio and the Steinbockhorn. It is the same mountain seen from different sides and named by different people. It encouraged me to continue my studies in the Cabbala, which claims to reduce all possible ideas to combinations of comparatively few originals, the ten numbers, in fact; these ten numbers themselves being of course interrelated.
@@ -2512,6 +2609,9 @@ The Chogo Ri expedition had begun.
 
 ### Chapter 34.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 *Agreement between Oscar Eckenstein and Aleister Crowley*
 
 > 1. By O.E.'s letter of Sept. 20th and cable of Oct. 3rd he agrees to A.C.'s proposal by cable and letter of August 23rd that they should together climb a mountain higher than any previously ascended by man: both agree to use their utmost endeavours in every respect to achieve this result.
@@ -2599,6 +2699,9 @@ There is plenty of shooting in the valley, from bears, deer, wild sheep and wild
 
 ### Chapter 35.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Knowles and I were kept very busy from the fifth to the twenty-second of April. Everything had to be repacked in kiltas. These are baskets shaped either like wide-mouthed vases or like cabin trunks, and covered with raw hide to protect them from rough usage and bad weather. Our limit weight was fifty-three pounds. As a beast of burden, a mule is less efficient than a man, and a man that an woman. In Kashmir, however, one does not use women as coolies. The people are Mohammedans governed by a ruling caste of Hindus. This leads to complications; for one thing, though the river is full of mahsir, one is not allowed to fish for them, because one of them had swallowed the soul of the maharajah in his youth! Another inconvenience is that one cannot bet beef to eat, for Kashmir is theoretically an independent state. The Mohammedan has, of course, no objection to beef; it is the Hindu who prohibits it.
 
 A curious misfortune overtook a native in this connection. His little farm was on the banks of the Indus. During the winter two landslides cut him off completely from his neighbours. The mountain path could not be repaired until the spring. He saved himself from starvation by killing his cow. For this offence he barely escaped the penalty of death.^[Later. Poor Sir Hari Singh paid dearly in 1923 for eating sirloin of beef! As bad as Jonathan and the honey!]
@@ -2655,6 +2758,9 @@ It is hard to prophesy the issue of this tendency, but one can see already that 
 
 ### Chapter 36.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Skardu, 2,228 metres above sea-level, is the capital of Baltistan, and contains some twenty thousand inhabitants. The mountains here seem to have conspired to stop suddenly so as to allow a large level plateau. The Indus spreads out almost as if to form a lake. The town is large and scattered; it is in fact less a town than a conglomeration of small farms. After our long and tedious march, we could enjoy to the full the sensation of the peace and beatitude which fill this smiling isolated valley.
 
 We stayed at the dak bagha, which stood some thirty yards back from a delicious stream of clear water. One evening, just after sunset, a young man appeared carrying on his shoulders his brother, who had been working in a quarry. A falling rock had struck the inside of the leg just below the knee and laid it open to the bone as far as the ankle. The doctor needed plenty of running water. So we took the patient down to the stream and held Alpine lanterns while the doctor operated. The leg was in a shocking mess and we suggested chloroform. The doctor said “No — the boy will faint with the pain in a few seconds,” and he went on washing out the dirt and snipping away loose pieces of flesh, and ultimately stitching up the whole fourteen inches of wound. The game went on for an hour and a half. But the boy never lost consciousness, and never moaned or so much as murmured. We heard nothing from him except a perfectly calm request, about half way through the job, for a drink of water.
@@ -2708,6 +2814,9 @@ One of the practices of Hatha Yoga consists in learning to reverse the peristalt
 
 ### Chapter 37.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 From the hot spring one goes gently along the valley to Askole. The whole march is short, easy and delightful. It only occupied five hours, of which at least three were spent at the rope bridge and in the pool.
 
 The entire journey had been extraordinarily favourable. We had had very little bad weather, the coolies had behaved admirably, there had been no accidents and no sickness, except for my own dermatological trouble. At Askole, however, several of the servants were slightly indisposed for a couple of days.
@@ -2752,6 +2861,9 @@ The most honest man cannot always be sure that he is not violating some statute.
 
 ### Chapter 38.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 I left Paiyu with about twenty coolies on the ninth of June. A very short distance brings one to the snout of the glacier, black, greasy and nearly five hundred feet high at the lowest point. The Bralduh rushes from a cavern very repulsively. A great many phenomena observed on this expedition impress one with a kind of horror. I used to think ti utterly absurd in books of travel to see moral qualities associated with nature. At this period of my life, above all, I should have scouted any such idea; but, through the classes of memory, one can analyse oneself beyond one's protestations. This muddy torrent issuing from its vast black source certainly created an ugly impression. The reason maybe that stopping, as I naturally did, to have a good look at it, the presence of that vast body of ice produced a slight physical chill which I promptly translated into emotional terms and attribute wrongly to what I saw instead of to what I felt. There is also probably a strong Freudian element; to cold, black muddiness of the water and its relentless turmoil, its unstaunchability, so to speak, may suggest the flowing of blood from a wound, or some such disease as nephritis. The general tone of the blackness of the debris is peculiarly unsympathetic.
 
 There was no difficulty in finding a way up the snout. I knew that the first camp, Liligo, was on the left bank, so moved over in that direction. (German professors two hundred years hence are requested not to confuse the name of this parau with the “little-go” at Cambridge, though both are alike first stages on a lonely climb leading to nowhere.)
@@ -2810,6 +2922,9 @@ I was a little worried by the failure of Pfannl and Wessely to maintain the comm
 
 ### Chapter 39.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 The twenty-eighth was fine and we held a durbar. It was decided that, Eckenstein being ill, Pfannl, Guillarmod and I should start up the mountain. Eckenstein voted for the doctor, qua doctor, in case of one of us being ill. It shows how easy he thought the slopes.
 
 Wessely was very offensive in his resentment at not being included in the party. It was an intolerably bad piece of sportsmanship. Pfannl tended to take his side, and the pair made so much unpleasantness that we were soon reduced to the expedient of getting them out of the way as much as possible.
@@ -2868,6 +2983,9 @@ A pathetic incident sticks in my mind. He sent for me to come to his tent and to
 
 ### Chapter 40.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 The twentieth was fine; and we constructed a sledge on which Pfannl could be taken down to Rodkass. Wessely was to stay with him permanently and the doctor to return as soon as he had settled him on that alp. He left on the twenty-first, which was fine; but Eckenstein and I were both ill again towards evening. On the twenty-second it once more commenced to graupen and threatened worse. The twenty-third was equally bad. Towards evening we perceived a strange phenomenon. We wondered at first if it could be a bear. Certainly some animal was approaching the camp on all fours. In the gathering dusk even our field glasses left us uncertain, especially as the irregularities of the glacier hid it at frequent intervals.
 
 But where it came close, we realized that it was the doctor. His face was steaming with sweat and expressed an agony of fear. Eckenstein was not sympathetic. He merely said, “Where's your coolie?” Guillarmod explained that he had left hat specimen of the Creator's handiwork in a crevasse. Eckenstein uttered a single violent objurgation which opened new vistas on the depth of his feelings. I did not waste even one word — I was putting my boots on. Before Guillarmod had fairly crawled into his tent, Eckenstein and I were skimming over the snow on our ski with a coiled rope. (In my haste I forgot to take my goggles, which cost me another two days of snow blindness.)
@@ -2921,6 +3039,9 @@ The pace of the current varies enormously. Sometimes we were kept half an hour a
 
 ### Chapter 41.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 There are two ways of returning from Skardu to Srinagar; one the way we had come, the other across the Deosai plateau. This is a high table land from fourteen to seventeen thousand feet, crossed by four principal rivers. It has a devilish reputation for inhospitality. The rivers, in particular, play the prank of inducing you to cross one or two of them, and then coming down in spate, holding you up indefinitely and starving you out. I wanted to go back by that way; but Eckenstein's memories were too painful. We decided to travel separately — he with Knowles, and I with the doctor. (After we had started, he changed his mind and followed us.) On the twenty-sixth of August I had a final go of fever and lay in bed till the afternoon, after which I got up and saw to the bandobast for the journey. The next day we started for Pinderbal, about five hours on horseback — a very pleasant ride up a steep nala. The only incident was that my pony had been reading the Old Testament and proceeded to vary his pleasures by bolting under a tree so that I was caught in its branches like Absalom, while he went on his cheerful way, neighing merrily. We camped under a huge boulder; and as I sat by the fire after dinner reposing delightfully with a pipe, a very characteristic incident occurred.
 
 A shapeless mass was moving down the slopes. It resolved itself into a man who must have been nearer seventy than sixty years old, carrying a sack, much bigger than himself, of what proved to be dried apricots. I greeted him affectionately and offered him some tobacco. He squatted opposite me and began to chat. When he said “dried apricots” I had to summon all my philosophy to prevent raising my eyebrows slightly, for this was indeed carrying coals to Newcastle. Baltistan consists exclusively of rocks, streams and dried apricots. The last named are its principal export.
@@ -2944,6 +3065,10 @@ Soon after crossing the pass, the Vale of Kashmir with the Wular Lake bursts upo
 We lazed a day among the delights of comparative comfort, marred only by the return of my malaria. But on the sixth I drove in a tonga to Srinagar, 132 days after leaving it. The expedition to Chogo Ri was over.
 
 ### Chapter 42.
+
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 After about a week in Srinagar, I accepted an invitation to stay with Radcliffe at his headquarters in Baramula, to go shooting. I travelled by dunga in order to see a little more of native life and character, which I was able to do more freely now that my responsibility of the expedition was at an end. I passed two wonderful days of perfect joy on river and lake. I realized the whole of Kubla Khan, including the parts that Coleridge forgot. I understood the exclamation of the Persian poet:
 
 > If on earth is a heaven of bliss,
@@ -3064,6 +3189,9 @@ The upshot was that Rodin invited me to come and stay with him at Meudon. The id
 
 ### Chapter 43.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Any other man but myself would have made a ladder to fame out of the success of this winter. I had no such idea. I had been thoroughly disillusioned, not only by the original trance of sorrow which had struck me between wind and water in 1897, but by the experience of my travels. The natives of Hawaii were not worrying about Sophocles; Chogo Ri would be there when the last echo of Napoleon's glory had died away. I was more than ever convinced that to take an interest in the affairs of this world, one must turn one's back on truth. Buddhism might be right or wrong in saying that nothing is worth while; but anyhow there could be no doubt that the conventional standards of value were simply comic. If anything were worth while, it could only be discovered by turning one's back resolutely on temporal things.
 
 In accordance with Eckenstein's puritanical ideas of propriety, no communications about the expedition had been made to the newspapers. Ultimately, in the sheer interests of science, a paragraph had been permitted to appear in The Times. It contained thirty-two lines and seventeen misstatements of fact! I myself had been interviewed by a French journalist and the report of my remarks bore no discoverable relation with them. I am perhaps unduly sensitive about such stupidities. I ought perhaps to rely on time to sweep away the rubbish into the dustbin of oblivion and set the truth upon her throne; but yet, the evidence of history smiles grimly. What do we really know of the rights and wrongs of the struggle between Rome and Carthage! What do we know even of Buddhism and Christianity but that the most authentic accounts of their origins are intrinsically absurd! “What is truth?” said jesting Pilate. But, personally, I fail to see the joke.
@@ -3174,6 +3302,9 @@ To me the joke as obvious. I could already love without attachment so far as phy
 
 ### Chapter 44.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 I must give an instance or two of the astounding character of my memory. It is absolutely first rate wherever my true interests are concerned, and also first rate in a very different sense, in elimination other things so as not to overload the mind. But —
 
 I think it was on returning to Boleskine from Paris after taking the Grade of 5° = 6☐ that I asked Eckenstein to join me for the ski-läufing and salmon. We left London together in a sleeper. I had one hundred and fifty pounds in bank notes in my pocket book, which I put under my pillow. In the morning I dressed hurriedly, still half asleep, and left the book behind. I discovered the loss a few minutes later and shrugged my shoulders. I have always had a conviction that it is utterly useless to look for anything that has once been lost. I made up my mind immediately to forget about it; I take it as a matter of fact that anyone who has found anything would steal it; yet equally as a matter of course that it would be returned to me by the finder as simply as one would hand a lady the fan she had dropped, with no question of honesty or reward. But Eckenstein insisted on my going back to the station immediately. We saw the station master and got permission to walk up the tracks — quite a long distance, hardly less than a quarter of a mile — to the siding where the sleeper had been shunted. The pocket book was found intact under my pillow.
@@ -3302,6 +3433,9 @@ I had completed The Sword of Song before I left Paris and left it to be printed 
 
 ### Chapter 45.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 On the thirteenth of July I went to Edinburgh, partly to renew my stock of wines and partly to pick up some kind of companion-housekeeper, but ostensibly toe meet Gerald Kelly who was due to spend the summer at Strathpeffer. His sister Rose was engaged to a man named Howell, who was coming from America to marry her in a few weeks.
 
 I engaged a companion-housekeeper easily enough. What a man wants is a woman whom he can take down from the shelves when required and who can be trusted to stay on them when not. It is true that a woman is much more amusing when she possesses individuality and initiative, but it is the basest kind of sensuality to wish to be amused. The ideal woman should prevent a man from being amused or disturbed in any way, whether by his won passions or the incidents of everyday life. I forget the surname of the lady whom I chose to fill this important position. Let her stand in history by the unassuming title of “Red-headed Arabella”. It was arranged that she should come and take up her duties towards the middle of August. I only stayed two or three days in Edinburgh and, having attended to the matter of wine and woman, completed the triad by writing *The God-Eater*.
@@ -3360,6 +3494,9 @@ Armed with this satisfactory information, I returned to the hotel and had a shor
 
 ### Chapter 46.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 So we stole out in the dim grey of the morning. I remember her furtive passage under his window, and how I murmured
 
 > Wake Duncan with thy knocking?
@@ -3482,6 +3619,9 @@ In a sort of way, I suppose I did consider myself rather a fine fellow to have b
 
 ### Chapter 47.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 We must have had some vague idea of exploring the little known parts of China, for we had certainly intended to visit Allan in Rangoon. It was probably at Colombo that Rose made up her mind that she was pregnant; for I remember that our shooting expedition in Hambantota, in the south-eastern province of Ceylon, was faute de mieux. We thought we had better get back to Boleskine for the event; and yet we had to justify our journey by some definite accomplishment. So we left Colombo for Galle and thence up country. It is strange that I fail entirely to remember how we got to the jungle. But rough notes tell me that it was by coach, and that we left the base village in four bullock carts on Monday the fourteenth of December. I quote my entry of January 1st, 1904 (some lines are carefully erased. I cannot tell why or imagine what I had written).
 
 > Jan. 1st.
@@ -3620,6 +3760,9 @@ It was the finest case of obsession that I had ever had the good fortune to obse
 
 ### Chapter 48.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MYSTICAL ADVENTURE
 Life in the jungle has many incidents of a more frequent and less amusing type. One night, also in a baghla, I got up to get Rose her medicine. I had left the candle on the table some distance from the beds, which was foolish. On lighting it, I discovered without enthusiasm that between me and the bed was a krait some eighteen inches long — and I had walked barefoot over him! A krait can kill you in a very few minutes, though not without producing symptoms of the utmost interest to any serious student of nature. I was entirely helpless; I was reduced to the ingnominous expedient of getting on the table and calling to the servants outside to bring a lamp, precaution and *force majeure.*
 
 Animals are not the only danger of this district. There are many dangerous diseases, especially tetanus. While I was in Calcutta, an acquaintance of mine, walking home from the theatre, slipped and saved himself by putting his hands to the ground. He scratched himself slightly and died within three days.
@@ -3750,6 +3893,9 @@ I have dwelt on the character of my life at this time in order to emphasize that
 
 ### Chapter 49.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 This chapter is the climax of this book. Its contents are so extraordinary, they demand such breadth and depth of preliminary explanation, that I am in despair. It is so serious to me that my responsibility overwhelms me. My entire previous life was but a preparation for this event, and my entire subsequent life has been not merely determined by it, but wrapped up in it.
 
 I have made several attempts to write the history of these few weeks, notably, that section of The Temple of Solomon the King which appears in The Equinox, vol. I, no. VII. I cannot with literary propriety incorporate these documents in the body of this book, but they are presented in an appendix, together with the text of *The Book of the Law.*
@@ -3784,7 +3930,7 @@ March 23rd to April 7th. I made inquiries about the stele and had the inscriptio
 
 The above statement is as succinct as I can make it. By April 8th, I had been convinced of the reality of the communication and obeyed my wife's arbitrary instructions with a certain confidence. I retained my sceptical attitude none the less.
 
-#### THE CLAIM OF THE BOOK OF THE LAW IN RESPECT OF RELIGION.
+##### THE CLAIM OF THE BOOK OF THE LAW IN RESPECT OF RELIGION.
 
 The importance of religion to humanity is paramount. The reason is that all men perceive more of less the “First Noble Truth” — that everything is sorrow; and religion claims to console them by an authoritative denial of this truth or by promising compensations in other states of existence. This claim implies the possibility of knowledge derived from sources other than the unaided investigation of nature through the senses and the intellect. It postulates, therefore, the existence of one or more praeter-human intelligences, able and willing to communicate, through the medium of certain chosen man, to mankind a truth or truths which could not otherwise be known. Religion is justified in demanding faith, since the evidence of the senses and the mind cannot confirm its statements. The evidence from prophecy and miracle is valid only in so far as it goes to the credit of the man through whom the communication is made. It establishes that he is in possession of knowledge and power different, not only in degree but in kind, from those enjoyed by the rest of man kind.
 
@@ -3816,7 +3962,7 @@ It may be said that nevertheless there may have been someone somewhere in the wo
 
 The existence of true religion presupposes that of some discarnate intelligence, whether we call him God or anything else. And this is exactly what no religion had ever proved scientifically. And this is what The Book of the Law does prove by internal evidence, altogether independent of any statement of mine. This proof is evidently the most important step in science that could possibly be made: for it opens up an entirely new avenue to knowledge. The immense superiority of this particular intelligence, AIWASS, to any other with which mankind has yet been in conscious communication is shown not merely by the character of the book itself, but by the fact of his comprehending perfectly the nature of the proof necessary to demonstrate the fact of his own existence and the conditions of that existence. And, further, having provided the proof required.
 
-#### THE CLAIM OF THE BOOK OF THE LAW TO OPEN UP COMMUNICATIONS WITH DISCARNATE INTELLIGENCE.
+##### THE CLAIM OF THE BOOK OF THE LAW TO OPEN UP COMMUNICATIONS WITH DISCARNATE INTELLIGENCE.
 
 In the above section I have shown that the failure of previous religions is due, not so much to hostile criticism, but to their positive defect. They have not made good their claim. It has been shown above that The Book of the Law does demonstrate the prime position of religion in the only possible way. The only possible argument, on the other side, is that the communication cannot have been made by a discarnate intelligence, because there are none such. That indeed constitutes the supreme importance of The Book of the Law But there is no a priori reason for doubting the existence of such beings. We have long been acquainted with many discarnate forces. Especially in the last few years science has been chiefly occupied with the reactions, not merely of things which cannot be directly perceived by sense, but of forces which do not possess being at all in the old sense of the word.
 
@@ -3826,7 +3972,7 @@ Our actions may be unintelligible to plants, they might plausibly argue that we 
 
 The was is therefore clear for me to come forward and assert positively that I have opened up communication with one such intelligence; or, rather, that I have been selected by him to receive the first message from a new order of beings.
 
-#### THE HISTORICAL CONCEPTION ON WHICH THE BOOK OF THE LAW IS BASED.
+##### THE HISTORICAL CONCEPTION ON WHICH THE BOOK OF THE LAW IS BASED.
 
 Just as The Book of the Lawreconciles an impersonal and infinite interpretation of the cosmos with an egocentric and practical viewpoint, so it makes “infinite space” speak in the language of a goddess and deals with the details of eating and drinking:
 
@@ -3858,7 +4004,7 @@ The child is not merely a symbol of growth, but of complete moral independence a
 
 I may now point out that the reign of the Crowned and Conquering Child is limited in time by The Book of the Law itself. We learn that Horus will be in his turn succeeded by Thmaist, the Double-Wanded One; she who shall bring the candidates to full initiation, and though we know litter of her peculiar characteristics, we know at least that her name is justice.
 
-#### THE ETHICS OF THE BOOK OF THE LAW.
+##### THE ETHICS OF THE BOOK OF THE LAW.
 
 Every cosmography implies some sort of ethical theory. The Aeon of Osiris had been succeeded by that of Horus. The Magical Formula of the Aeon being no longer that of the Dying god but that o the Crowned and Conquering Child, mankind is to govern itself accordingly. A “righteous” act may be defined as one which fulfils the existing Magical Formula. The motives which were valid in the Aeon of Osiris are sheer superstition today. What were those motives and on what basis did they rest? The old conception was that man was born to die; that eternal life had to be gained by a magical act, exactly as the sun had to be brought to life every morning by the priest.
 
@@ -3880,6 +4026,9 @@ With regard again to personal jealousy and ill-regulated passion, is it too much
 
 ### Chapter 50.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 It is part of my character to rest on my oars at the very moment when a spurt would take me past the post. I begin to be recognized as the one poet in England: “Good,” I say to myself, “I needn't bother about that any more.” I acquire most of the world's records as a mountaineer — that lets me out. Nunc est bibendum, nunc pede libero pulsanda tellus. I reach eminence in Magick; it is the signal for me to drop it; in mysticism, and I lose my interest. Now, charged by the Secret Chiefs of the Third Order with a mission of such importance that the last event in the world's history of importance, even approaching it, was Mohammed's, I get cold feet, carry out my instructions as perfunctorily as possible, and even try to find excuses for postponing such work as I could not actually avoid.
 
 I made a certain number of studies of The Book of the Law; for even then I was bound to admit that Aiwass had shown a knowledge of the Cabbala immeasurably superior to my own. I had the manuscript typed. I issued a circular letter to a number of my friends, something in the nature of a proclamation of the New Aeon, but I took no trouble to follow it up. I took a certain number of wide-reaching plans for assuming responsibility, but they remained in the stage of reverie. I dropped the whole business, to all intents and purposes. I completely abandoned my diary. I even neglected a really first-rate opportunity for bringing The Book of the Law into public notice, for Mrs. Besant was on the ship by which Ouarda and I returned to Europe, and I conversed a great deal with her about sacred subjects. In Paris, I wrote a formal letter to Mathers informing him that the Secret Chiefs had appointed me visible head of the Order, and declared a new Magical Formula. I did not expect or receive an answer. I declared war on Mathers accordingly, but it was a brutum fulmen.
@@ -4046,6 +4195,9 @@ Mindful, however, of Tartarin's misadventure in 1902, I made the strictest condi
 
 ### Chapter 51.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 > Expedition 1905, au Kangchenjunga.
 > Accord.
 > 
@@ -4127,6 +4279,9 @@ Our party consisted of five Europeans, three Kashmiris, the sirdar of the coolie
 
 ### Chapter 52.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 One can certainly reach the neighbourhood of Khangchenjunga with delightful comfort. Though the mountain is only forty-five miles from Darjeeling, as the Crow flies, the way is round about. The stages from Ghum are Jorpakri 8½, Tongly 18½, Sandakphu 33, Falut 45, Chabanjong 51. Up to this point there is an excellent riding path, while the first four stages have well-furnished dak baghlas.
 
 Unpleasant features of the journey are two: one, the rain, and the other the leeches. I thought I knew a bit about rain — I didn't. At Akyab one puts one's head under water in the hope of getting out of the wet; at Darjeeling one's head is under water all the time. But on that ghastly ridge, I met a quality and quantity of bat weather that I had never dreamt of in my wildest nightmares. What follows sounds exaggerated. On getting into a dak baghla and standing stripped in front of a roaring fire, one expects to get dry. But no! the dampness seems to be metaphysical rather than physical. The mere removal of the manifestations of the elements of water do not leave one dry. But one used to obtain a sort of approximation to dryness by dint of fires; and of course we were provided with waterproofs specially constructed for that abominable climate. One morning I timed myself; after taking every precaution, it was eight and one half minutes from the door of the baghla before I was dripping wet. When I say “dripping wet”, I mean that the water was coursing freely inside my clothes. In most parts of the world rain falls, but on that accursed ridge it rises. It is blown up in sheets from the valley. It splashes on the rocks so as to give the effect of waterfalls upside down.
@@ -4312,6 +4467,9 @@ I was very sad at heart about the death of my friends, but with regard to the mo
 
 ### Chapter 53.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 I had been so concentrated on Kangchenjunga that the other facts of my life had not glittered perceptibly. They had kept up with me, but I hardly knew it. They were now to shine, the bushel of Kangchenjunga having been rudely removed.
 
 My instinct against The Book of the Law had apparently had its way. It was as if the events of eighteen months before had never taken place. I was going on with Magick on the old lines, without any particular aqmbition, but quietly exercising the powers already obtained. For instance, I had established regular communications with Soror F. (Soror Fidelis — Mrs. Elaine Simpson). We had long interviews, visiting each other alternately. I was a little better than she was, but her body was quite material enough to impress all the senses.
@@ -4556,6 +4714,9 @@ The wretched woman knew no geography. All she knew about Persia was rugs and Oma
 
 ### Chapter 54.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 The voyage to Rangoon was uneventful and delightful. The weather was perfect; for a wonder, the shores and spine of western Burma were on show. There was a fearful fascination in those deadly beauties. I cursed again the fate that had driven me back in 1902 from the sombre slopes of the Arakans. I had rather I had left my bones to Bleach upon those pestilential peaks.
 
 Yet my mind — thanks be to the most high eternal gods! — can never rest for more than an albatross's glide upon the slopes of the past. Today, writing my memories, I feel as if I were playing a sort of practical joke upon myself. I am hot on the trail of the future. I can imagine myself on my deathbed, spent utterly with lust to touch the next world, like a boy asking for his first kiss from a woman.
@@ -4662,6 +4823,9 @@ I find by experience that this theory represents the facts very closely. I thoug
 
 ### Chapter 55.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 It is probably a rare incident for any young man to meet, in the flesh, the ideal of his boyhood's dreams. Such, however was my great good fortune. In the consul at Tengyueh, Mr. Litton, I found all that I had lost when Richard Burton died. He possessed the spirit of adventure in its noblest and most joyous form. He had the instinct for learning foreign languages and dealing with foreign people; and in one respect, his history had been similar. Some years before, he had been consul in another part of China which was the heart of the Boxer movement. Moving, as he did, among the Chinese in the most intimate way, he understood the feeling behind the agitation. He employed his genius in unravelling the conspiracy an succeeded in discovering the plans of the Boxers in detail. This information he communicated to the authorities in Peking. It will be remembered that Burton did exactly the same thing in the matter of the Indian Mutiny; and to a certain extent, Sir William Butler had done this with regard to the Boers.
 
 The result in each case was exactly the same. The indignant authorities banished Litton to the remote and unimportant post of Tengyueh, at the very edge of the wildest province of China. But it is hard to keep a good man down. Litton's influence over the natives was so great that he was the real ruler of the province. He was just starting on tour to compose some native squabble near the frontier, some thirty miles from Tengyueh; and we lunched together by the wayside. He had done miracles to smooth my path.
@@ -4794,6 +4958,9 @@ I have noted about this day's march, “Roads everywhere good.” “Good” is 
 
 ### Chapter 56.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 The day after New Year we crossed the Mekong. The river flows through a superb gorge with extremely steep banks. Inscriptions of all kinds were carved on the naked cliffs. I was aware of a very curious sensation in crossing both this river and the Salween. I can only describe it by saying that I seemed to be aware of the genius loci. At night, the wild beauty of the scenery was further enhanced. A house in the adjacent fields, several acres in extent, caught fire. This warm glow in the midst of the cold vastness of the plateau and the stars was very weird; and the silhouettes of the excited peasants who were trying to keep the fire from spreading seemed to dance in front of the flickering flames gigantically. It was a sort of opium dream of hell.
 
 Talking of opium, I purchased the necessary apparatus and began to learn to smoke. I have already described the fiasco with laudanum in Kandy, and somewhere in Burma I had made an equally futile experiment with powered opium, taking thirty grains or so with no greater profit than making myself suddenly and painlessly sick. I found smoking the drug equally unavailing. I smoked twenty-five pipes in five hours with no result whatever. It now appears that I was not inhaling properly; but (for all that) I might have got something out of twenty-five pipes! The fact is that I have an idiosyncrasy with regard to this drug. I sometimes wonder whether I did not use up all my capacities in that respect in a previous incarnation; possibly I was Ko Hs’uen.
@@ -4902,6 +5069,9 @@ We reached Hokow on the eighteenth and struck a forlorn Englishman who gave us t
 
 ### Chapter 57.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE ADVENT OF THE AEON OF HORUS
 I have had little occasion to mention my wife and child. It is a case of “happy the nation that has no history”. Rose had proved an ideally perfect companion. Since the nurse's elopement she had had no one to help her with the baby. There was also a good deal for her to do in camp. We often travelled over twelve hours a day in really trying conditions; we encountered more than a little hardship, what with fatigue, cold, lack of food and general discomfort; she never gave in, she never complained, she never failed to do more than her her share of the work and she never made a mistake. She was in a class by herself as a comrade. Even Eckenstein was not so competent all round or so uniformly exultant.
 
 We had been over four months away from civilization; and she had not only stood it but flourished exceedingly. When we started, she had been rather empty-headed and frivolous; while physically, though healthy, she could not be called an athlete. At the end she had acquired the kind of soul that is evoked by intimate contact with naked nature. Her figure was straight and supple, scorning corsets. Her limbs were lithe; her eyes bright and eager; her face aflame with the joy of perfect physical well-being and her heart exulting with the expectation of producing a new token of our tenderness before the end of the year.
@@ -4979,6 +5149,9 @@ I close this chapter with a sigh. For ten years my life had been a delirious dan
 
 ### Chapter 58.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 November 18th, 1905 was my seventh birthday in the Order, I wrote: “About now I may count my Speculative Criticism of the Reason as not only proved and understood, but realized.” And on the nineteenth: “The misery of this is simply sickening — I can write no more.”
 
 I must explain. All these seven years, especially when in the East, I had discussed religion and philosophy with all sorts and conditions of men. Further, I had studied the sacred books of all religions of antiquity. My experiences all tended to the uniform conclusion that one could go all round the circle in any argument. Christian philosophers have seized on this fact to urge that our only hope of arriving at truth is through faith; but it is the bankruptcy of faith that originally drove us to test it by reason. I saw that the true solution was, on the contrary, that of the mystic. In Cabbalistic and scientific language, we possess a faculty of apprehension independent of reason, which informs us directly of the truth.
@@ -5278,6 +5451,9 @@ Open T∴ with A∴ I∴.. (Possibly …^[I omit reference to a certain private 
 
 ### Chapter 59.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 I left Shanghai on the twenty-first of April. On the twenty-second I was sick and stayed in bed all day. I did no regular invocation, but thought over the recent crisis. I dismissed the Shanghai experience as a morbid dream. Reading through the above record at this distance of time, after deliberately avoiding doing so for so long, I feel very uncertain about it; I feel that there was a great deal of genuine communication with the right people and that the Oracle is confused, contradictory and uneven, because of the interference of our personalities.
 
 There was the question of our love affair. I was absolutely in love with Rose in the ordinary sense of the term. My love for Fidelis excluded the material almost entirely. I was very proud of my love for Rose and very happy in it. The one thing I feel sure of is this: that we had a superb opportunity to take up the Great Work together and that we missed it on account of our determination to see things with our own eyes. We were, no doubt, quite ready to put the Great Work first, last and all the time; but we were hampered in doing so by our settled conviction as to what the Great Work might imply. For my part, at least, I know that I was always arguing that such and such a course couldn't be right on general principles, as I had done when Rose herself had told me how to invoke Horus; and I had not learned the lesson that my idea of “general Principles” was not reliable.
@@ -5423,6 +5599,9 @@ In the month of December the Secret Chiefs formally invited me, thorough G.R. Fr
 
 ### Chapter 60.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 The years 1907 and 1908 may be described as years of fulfilment. No new current came to stir my life; but the seeds which had been sown in the past came many of them to harvest. I had come to my full stature as a poet. My technique was perfect; it had shaken off from its sandals the last dust which they had acquired by walking in the ways of earlier masters. I produced lyric and dramatic poetry which shows an astounding mastery of rhythm and rime, a varied power of expression which has no equal in the history of the language, and an intensity of idea which eats into the soul of the reader like vitriol.
 
 I should have been assigned publicly my proper place among my peers of the past without difficulty had it not been of one fatal fact. My point of view is so original, my thoughts so profound, and my allusions so recondite, that superficial readers, carried away by the sheer music of the words, found themselves, so to speak, intoxicated and unable to penetrate to the pith. People did not realize that my sonorous similes possessed a subtle sense intelligible only to those whose minds were familiar with the subject. It is, in fact, necessary to study almost any poem of mine like a palimpsest. The slightest phrase is essential; each one must be interpreted individually, and the poem read again until its personality presents itself. People who like my poetry, bar those who are simply tickled by the sound or what they imagine to be the sense, agree that it spoils them for any other poetry.
@@ -5553,6 +5732,9 @@ Footnotes:
 
 ### Chapter 61.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 My favourite rendezvous was a little chemist's shop in Stafford Street, managed by a man named E. P. Whineray, one of the most remarkable and fascinating men that I have ever met. He was a Lancashire lad all over and not ashamed of it. His personal appearance was in itself arresting. Of medium size and well proportioned, his body seemed intentionally inconspicuous. It was the perfect servant of his head. He was almost completely bald, with bushy iron-grey eyebrows. The dome of his skull was perfectly spherical and suggested the most profound capacity for reflection. His eyes were intensely lively and piercing; they shone with eternal laughter, no less good humoured because supremely cynical. He understood human frailty in every detail and not only forgave it, but loved men for their weaknesses. He reminded one of an owl; the resemblance was very striking indeed.
 
 He knew all the secrets of London. People of all ranks, from the courtier and the cabinet minister, to the coachman and the courtesan, made him their father confessor. While he never betrayed a confidence, he had a fund of stories which never failed. His lightest remarks vibrated with wisdom. When one spoke to him, it was like blowing the bellows of a blacksmith's forge; a shower of scintillating sparks came crackling from the sombre heart of the fire of his soul. Like Eckenstein, he saw through everybody at a glance. I used to haunt his shop and learned from him about London. He had already appeared in literature. Robert Hichens has set one of the most subtle incidents of Felix in his little shop. Another reason for my frequenting him was that he understood me, and one of my weaknesses is my bitter need of such people.
@@ -5696,6 +5878,9 @@ My twelve months of creative spurt reached a climax in February 1908, when I wro
 
 ### Chapter 62.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 Beside all these activities of my own, I came into a new world. My Operation of the Sacred Magick was not sterile. After returning from Morocco, the spirit came upon me and I wrote a number of books in a way which I hardly know how to describe. They were not taken from dictation like The Book of the Law nor were they my own composition. I cannot even call them automatic writing. I can only say that I was not wholly conscious at the time of what I was writing, and I felt that I had no right to “change” so much as the style of a letter. They were written with the utmost rapidity without pausing for thought for a single moment, and I have not presumed to revise them. Perhaps “Plenary inspiration” is the only adequate phrase, and this has become so discredited that people are loth to admit the possibility of such a thing.
 
 The prose of these books, the chief of which are Liber Cordis Cincti Serpente, The Book of the Heart girt with the Serpent, and Libri vel Lapidis Lazuli, is wholly different from anything that I have written myself. It is characterized by a sustained sublimity of which I am totally incapable and it overrides all the intellectual objections which I should myself have raised. It does not admit the need to explain itself to anyone, even to me. I cannot doubt that these books are the work of an intelligence independent of my own. The former describes the relation of the adept with his Holy Guardian Angel; the latter is “The voluntary emancipation of a certain adept from his adeptship … the birth words of a Master of the Temple.”
@@ -5802,6 +5987,9 @@ This work extended over a number of years, but the fundamental principles were l
 
 ### Chapter 63.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 In 1908 I began to be a little restless. The Himalayas had cured me of the habit of going to the Alps. I could not play any longer with dolls after wooing such grown-up girls as Chogo Ri and Kangchenjunga. I tried to settle down in the Latin Quarter, finding a real home at 50 rue Vavin with M. and Madame Bourcier, people in whom the spirit of the early days of d'Artagnan was still alive. There is a peculiar relation between the best bourgeois of this type and the wandering gentilhomme, who is seeking his fortune in one way or another and requires a pied à terre. It is one which implies great mutual respect and affection, and, alas, the qualities which make such relations possible are becoming very rare in the world. Despite all its drawbacks, there was never a better social system than the feudal, so far as it derived from the patriarchal. In getting rid of its abuses, we have also got rid of the noblest springs of action and the most congenial code of manners. The war destroyed this relation altogether. The Bourciers ended by being as disgusting as any other French people.
 
 In April I wandered from Paris to Deal and played golf enthusiastically. Rose was going from bad to worse. I had begun to learn to detect the smell of alcohol, but her cunning was so extraordinary that I was never able to catch her in the act of drinking. During the whole period, in fact, I only did so twice. The second occasion makes an interesting story. It shows the extent to which the obsessing demon can conceal his presence.
@@ -5927,6 +6115,9 @@ Through this course of initiation I was brought into great happiness. I was able
 
 ### Chapter 64.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 During this walk across Spain, I had much leisure for meditation. I was pledged to do my work in the world, and that meant my becoming a public character and one sure to arouse controversy. I thought out my plan of campaign during this walk. I decided first of all, that the most important point was never to forget that I was a gentleman and keep my honour the more spotless that I was assuming a position whose professors were rarely well born, more rarely well bred, hardly ever sincere, and still less frequently honest even in the most ordinary sense of the word.
 
 It seemed to me that my first duty was to prove to the world that I was not teaching Magick for money. I promised myself always to publish my books on an actual loss on the cost of production — never to accept a farthing for any form of instruction, giving advice, or any other service whose performance depended on my magical attainments. I regarded myself as having sacrificed my career and my fortune for initiation, and that the reward was so stupendous that it made the price pitifully mean, save that, like the widow's mite, it was all I had. I was therefore the wealthiest man in the world, and the least I could do was to bestow the inestimable treasure upon my poverty-stricken fellow men.
@@ -6021,6 +6212,9 @@ It was time for me to get back to England. Neuburg was to join his relations at 
 
 ### Chapter 65.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 In London I put my foot down at once by taking away my daughter until Rose agreed to follow the doctor's instructions and get rid of her dipsomania once and for all. She capitulated and the necessary measures were taken. This left me free for my proposed Retirement, which I decided to undertake in Paris rather than London. The details of every single minute of my life for the next fortnight are accurately recorded in “John St. John”. Here I need only say that the work was successful beyond all expectations. I not only achieved my stated object, but obtained access to a reserve of energy which carried me on for years, performing Herculean labours without conscious effort. My time was in fact very fully taken up with the preparation of “The Equinox”. I had to be constantly seeing Fuller, who was editing my Magical Records and the vast mass of material connected with the G∴ D∴, besides which I had my own work to do preparing the books of instruction on a special and scientific basis.
 
 Besides this, I was writing a good deal of poetry. Some of my most important work belongs to this period. “The Wizard Way”, “the Garden of Janus”, “After Judgment” and “Bathyllus” are especially notable. I was seeing a good deal of Frank Harris, who was publishing much of my best work in Vanity Fair. It was the first encouragement I had ever had, and in a way it came too late, since I was already entirely disillusioned with regard to fame. The approval of Frank Harris was another matter; it was something, and something very great, to know that my work gained me the respect of the very few men on the planet who knew the difference between Keats and Lewis Morris. I had been recognized as a poet of the first class by my peers and the applause of the mob would leave me as cold as its neglect or hostility does at present.
@@ -6242,6 +6436,9 @@ Footnotes:
 
 ### Chapter 66.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 I had no special magical object in going to Algiers, which I reached on November 17th. As my chela, I took Frater Omnia Vincam, a neophyte of the A∴ A∴ disguised as Victor Neuburg. We merely wanted to rough it a bit in a new and interesting corner of the planet of which we were parasites. We hastily bought a few provisions, took the tram to Arba and after lunch started south, with no particular objective beyond filling our lungs with pure air and renewing the austere rapture of sleeping on the ground and watching the stars, serenely silent above us, till the face of sleep, kissing our eyes, hid them from us in her heavy and holy hair. On the twenty-first we reached Aumale, after two nights in the open and one at a hovel that may have looked so tired on account of its sisypean struggle to pretend to be an hotel.
 
 I cannot imagine why or how the idea came to me. Perhaps I happened to have in my rucksack one of my earliest magical notebooks, where I had copied with infinite patience the Nineteen Calls or Keys obtained by Sir Edward Kelly from certain angels and written from his dictation by Queen Elizabeth's astrologer with whom he was working. The sixth book of their magical workings was translated by Casaubon and is one of the very few genuine and interesting works of Magick of any period. Much of their work still defies explanation, though I and Frater Semper Paratus, an Adeptus Major of A∴ A∴, have spent much time and research upon it and cleared up many obscure points.
@@ -6360,6 +6557,9 @@ The remaining Aethyrs partly complete the experience proper to the Grade which I
 
 ### Chapter 67.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 We may now turn to this journey without the transcendental telescope. It was nothing to shout about as original, difficult or dangerous, but it certainly was one of the most delightful marches I ever made. Very few Europeans have any idea of foreign parts. They always wear thick veils of prejudice, and even prevent the possibility of enjoying really new experiences by their mere habit of life. They stick to the railway and see mere scraps of the country or travel in motors which blur the details of the day.
 
 When one walks, one is brought into touch first of all with the essential relations between one's physical powers and the character of the country; one is compelled to see it as its natives do. Then every man one meets is an individual. One is no longer regarded by the whole population as an unapproachable and uninteresting animal to be cheated and robbed. One makes contact at every point with every stranger.
@@ -6586,6 +6786,9 @@ Recovering from the first spasm of cynical appreciation, I saw that there was on
 
 ### Chapter 68.
 
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### MAGICAL WORKINGS
 The rites being over, and their lesson learnt, I felt free to go back to my beloved Sahara. As before, I took Neuburg with me and motored down from Algiers to bou Saâda to economize time. We proposed to take a more extended itinerary. There were certain little-known parts of the desert within comparatively easy reach. It was part of the programme to obtain visions of the sixteen Sub-Elements, as a sort of pendant to the Aethyrs, but the time was not yet. We began, but the results were so unsatisfactory that we broke off. I have, of course, no doubt that success depends entirely upon working for it, but it is ultimately as impossible to perform a given Operation in Magick to order as it is to write a poem to order, however one's technical ability seems to promise success.
 
 Experiences of this sort ultimately taught me that the will which is behind all magical working is not the conscious will but the true will. Success depends therefore, firstly, on making sure that one's powers are equal to any required demand; but, secondly, upon learning the kind of work for which they are really wanted. It is an excellent training, no doubt, to plug ahead perseveringly in the most discouraging conditions. Indeed the professional is better than the amateur mainly because he has had to struggle on day after day; but this is a question of early training. When one has come to the height of one's powers, one still has one's “days off”.
@@ -6760,6 +6963,9 @@ Footnotes:
 #### THE MAGUS
 
 ### Chapter 69.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 I attended to the production of number five of The Equinox, but shortly after (my diary of 1911 is missing — if, indeed, it was ever kept — so I am uncertain of my dates) I went into Retirement, spending my time alternately between Paris and Montigny-sur-Loing on the southern edge of the Forest of Fontainebleau. It was immediately evident that I was in the right path. I had placed my body and mind entirely at the service of the Master of the Temple who had filled the vacuum of the universe caused by the annihilation of Aleister Crowley. I kept my body in perfect condition by walking almost every day to Fontainebleau and back, always choosing a new way through the forest so that by the end of the summer I knew every tree by name, as one might say. I had acquired a boundless love for that incomparable woodland, whose glorious beauty is still further hallowed by the romance which lurks in every glade. It was tame indeed in comparison with a hundred other jungles which I had known, but for all that it possesses an individual charm which endears it to me beyond any words of mine to utter. Nature herself opposed no obstacle to my wooing. The summer of 1911 was intensely hot and fine. I have always found that dry air is essential to the well-being either of my body or of my genius. Damp air seems to interfere with my insulation; my genius leaks away and leaves me empty and depressed.
 
 This year indeed was another annus mirabilis for me. There was an almost continual outpouring of the Holy Spirit through my mind. The spring of poetry shot crystal clear from the hidden furnace of my being into the pure and brilliant air, and fell and fertilized the earth about the sacred hill. A thousand years from now men will still gather round in wonder and worship to gaze upon the gorgeous pageant of flowers that glow upon the glowing grass and to feast upon the ripe fruits that burden the two great trees which tower like pillars for a gateway to my garden — the tree of the knowledge of Good and Evil and the Tree of Life.
@@ -6995,6 +7201,9 @@ Footnotes:
 [1] WEH Note: This was to be published as “Liber MCCLXIV”, but despite being cited in “Magick in Theory and Practice” it was not published in Crowley's lifetime. The first publication came in the May 1979 e.v. issue of “The O.T.O. Newsletter”, pp. 9 to 44. Unfortunately, when I edited the material together for that publication, I discovered that the most interesting entries had been lost. Crowley kept the Greek Cabbala on slips of paper in a cigar box. Apparently, whenever he wanted to use some entry for his various writings, he fished out a slip from the box. It would appear that he failed to replace most of the slips so extracted. A search of his works will restore many of the missing entries.
 
 ### Chapter 70.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 That fertile passage through Paris on my return from Chogo Ri, which had already born so much fruit in my life, had still some seed — which now came to harvest. I have mentioned Nina Olivier, whom I loved so well and sang so passionately. In my sunlight she had blossomed into La Dame de Montparno, the Queen of the Quarter. But I have not mentioned an obscure prig whom I will call Monet-Knott, whom I had met through my fiancée, the “Star” to Nina's “Garter”. This brainless and conceited youth had become accompanist to the greatest dancer of her generation. Let me call her Lavinia King. She, first and never equalled, had understood and demonstrated the art of dancing as a complete language of the affections of the mind and heart. Knott and Nina, as already recorded, had contracted a liaison. I met Knott for the second time when I was introduced to Fenella Lovell and wrote “The Ghouls”, as previously related. I saw a fair amount of him in the next few weeks; so that, running across him in London on October 11th, he took me after supper to the Savoy to meet Miss King.^[This incident and its sequel are described in “The Net”, chapter one. [Later Crowley changed the title of The Net to “Moonchild”. — ED.]
 
@@ -7117,6 +7326,9 @@ an emphasis the more passionate in proportion as they hope, at the bottom of the
 So much for the so-called scientific contingent. Browning's “Mr Sludge, 'The Medium'” is to me the deepest and completest psychological study ever written. I only wish it could be matched by a parallel exposure of the half-hidden perversities and trickeries of the scientific mind.
 
 ### Chapter 71.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 The spring of 1912 found me once more hovering between London and Paris. I wrote a few first-rate lyrics, a few more or less important essays, such as “Energized Enthusiasm”, but on the whole, the virtue had gone out of me as far as big conceptions and elaborate executions were concerned. The campaign of 1911 had exhausted my heavy ammunition for the time being.
 
@@ -7189,6 +7401,9 @@ Similar incidents constantly occur to those Magicians whose forces tend to manif
 The art of producing phenomena at will is a totally different question. The simplest, most rational, and most direct method had been known to me since the summer of 1911; but for some reason, I had never practised it systematically or recorded my results methodically. I believe this to have been due to an instinctive reluctance in respect of the nature of the method. It was not until January 1st, 1914 that I made it my principal engine.
 
 ### Chapter 72.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 I think it proper to devote an entire chapter to the subject of my relations with freemasonry. I have mentioned that I had obtained the 33° in Mexico City. It did not add much of importance to my knowledge of the mysteries; but I had heard that freemasonry was a universal brotherhood and epected to be welcomed all over the world by all brethren.
 
@@ -7383,6 +7598,9 @@ Shortly after publication, the O.H.O. came to me. (At that time I did not realiz
 I may conclude this chapter with the general remark that I believe that my proposals for reconstituting freemasonry on the lines above laid down should prove critically important. Civilization is crumbling under our eyes and I believe that the best chance of saving what little is worth saving, and rebuilding the Temple of the Holy Ghost on plans, and with material and workmanship, which shall be free from the errors of the former, lies with the O.T.O.
 
 ### Chapter 73.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 In the early part of 1913, my work had apparently settled down to a regular routine. Everything went very well but nothing startling occurred. On March 3rd, the “Ragged Ragtime Girls” opened at the Old Tivoli. It was an immediate success and relieved my mind of all preoccupations with worldly affairs. Most of my time was devoted to developing the work of the O.T.O. In May I took a short holiday in France and the Channel Islands. Only one incident is worthy of record. I had gone down to my beloved Forest of Fontainebleau for a walk. One morning, climbing the Rocher d'Avon, I saw a serpent cross my path. A little higher the same thing happened. This time I was impelled to kill the reptile, which I did.
 
@@ -7437,6 +7655,9 @@ From early boyhood my imagination had been excited by accounts of the Great Fair
 This poem should have appeared in the English Review in the autumn of 1914. It was pushed out to make way for my “Appeal to the American Republic”, reprinted from boyhood's happy days, with such politically necessary revisions as “the traitor Prussian” instead of “the traitor Russian”. It has thus never yet seen the light.
 
 ### Chapter 74.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 As I was sitting at lunch one day in the Hermitage beginning a lyrical ritual intended for the use of an individual in his private work, I found myself, in the middle of a sentence, at a loss for the next word. I have already explained how swiftly and spontaneously my spirit soars from stanza to stanza without need of previous reflection or subsequent revision. In all these weeks my pen had swung like a skater over the paper. Now suddenly it stopped; an eagle in full flight stricken by a shaft. That sentence has never been completed. The inspiration was withdrawn from me. My light had gone out like an arc-light when the cable is cut. It was long before I wrote again.
 
@@ -7493,6 +7714,9 @@ Now, years afterwards, it still seems to me as if for the whole period of the in
 Such is my own point of view with regard to my adventures in America. They are all perfectly probably in themselves, perfectly intelligible regarded as details of a ritual; but they contradict every probability of human life as commonly understood. The chain of my career snaps suddenly; yet it continues as if it had never been broken from the moment that my initiation is over. The effect is to persuade me that this period of my life is in the nature of a dream. I meet strange monsters; one phantom succeeds another without a shadow of coherence. Even those incidents which help me to recognize that I am the central figure of the dream complete my conviction of its unreality.
 
 ### Chapter 75.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 It is one of the regular jokes in India that people on the strength of the season in Calcutta write a book about the peninsula, but even the tourist of genius, like Charles Dickens, is far more presumptuous when he tackles the United States. India indeed is huge and varied beyond hope of human comprehension, but America, though its population is only a third of that of Hindustan, is composed of elements infinitely more varied, besides which India does at least stand still and allow one to look at it, whereas the United States undergoes a revolutionary change continually. I passed through the country in 1900. In 1906 I found it unrecognizable. My third visit in 1914 gave me another surprise, and during the following five years when I was actually resident the panorama shifted with kaleidoscopic swiftness.
 
@@ -7609,6 +7833,9 @@ For many years he toiled at his task almost neglected. It is hardly nice to refl
 I have gone into this at some length in order to firstly stress the importance of the work, and to prevent any reader supposing that any one book will give an adequate idea of his genius.
 
 ### Chapter 76.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 Since December 1914, I have thought, time and again, how best to make public my political actions in America and the motives which determined my policy. I should have settled any other question off-hand, but I am already sensitive about my loyalty to England. I hasten to explain that by loyalty I mean neither admiration, approval or anything amiable of any kind. I reserve the right to speak as severely as Milton, Wordsworth, Byron Shelley and Swinburne. All this does not touch the point. I am English, and that in a very special sense, as being the prophet and poet appointed by the gods to serve her. We do not accuse Isaiah of being unpatriotic because he thunders against Israel. Isaiah's motive is mine. There does not exist an essence which constitutes England, uncorrupted and incorruptible by any possible phenomenal facts. I feel myself to be an integral element of this England; what I do I do for her sake. I may have to scrub her face with yellow soap, open an abscess, or extirpate a cancer. Working as I do in a world of spiritual causes altogether beyond the comprehension of common people I am liable to be misunderstood.
 
@@ -7843,6 +8070,9 @@ Footnotes:
 [4] This paper was first drafted in March 1920 e.v. I revised it finally in January 1922 e.v. in the interval Eckenstein had died. I prefer to leave the passages which relate to him as they stand. His death adds grief to my thoughts of him; nothing can add to the love I have always had for him, or the honour in which I have always held him.
 
 ### Chapter 77.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 I propose to summarize briefly my adventures in America. This chapter should form a framework into which may be fitted the special accounts of my activity. My worst encounter was with the New York World which had distinguished itself by printing Harry Kemp's rubbish about my magical exploits. The editor, a genial Irishman — remarkable precisely for being half educated neither more nor less correct to eight places of decimals — observing that Kemp's statements involved numerous physical impossibilities took him to a notary and made him swear to their truth. I have told elsewhere how it came to be written. Hearing of my arrival Kemp hurried to implore me not to give him away. I contemptuously agreed to save his face. Of course, I could not admit the truth of such asinine balderdash, so said that by magical power I had caused him to see what was not, as indeed in a certain sense I had done.
 
@@ -8069,6 +8299,9 @@ I must not omit one characteristic incident. He happened to be momentarily hard 
 So ended my adventures with these fascinating freaks. I must now run back to New Orleans.
 
 ### Chapter 78.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 New Orleans and San Antonio are said to be the only two towns in the United States which possess souls of their own. That of New Orleans was already being driven out under my eyes, and I dare say that by this time the work of destruction is complete. Probably San Antonio has shared its fate. The most depressing feature in the country is the uniformity of the towns. However singular the geographical situation and its topographical peculiarities, the possibilities of beauty have been nullified by the determination of the people to do everything just right, according to the measure in fashion. Wherever one is, sooner or later, one gets tired of one's surroundings. In Europe, the cure is easy. One toddles along to the next place sure of finding some novelty. In America, however far one goes, the same hideous homogeneity disappoints one. The relief conferred by the old quarter of New Orleans threw me instantly into an ecstasy of creative energy. I wrote day and night continuously — poems, essays and short stories. My principal invention was the detective “Simon Iff” whose method of discovering the solution of a problem was calculation of the mental and moral energies of the people concerned.
 
@@ -8117,6 +8350,9 @@ In the upshot, this characteristic led to our separation. I treated her as an eq
 Such weekends as she could manage were passed in my camp on Oesopus Island. Her first visit was rather an adventure. She had brought up supplies of canned stuff from New York to Staatsburg, where I met her with the canoe. She had understood from my letter that the island was close to this town, and had foolishly failed to consult a map. She was tired with her week's work and the long journey; the train was late, night was falling, the wind was getting up, and the rain beginning to skirmish. The canoe was loaded down within an inch of the gunwale. The wind blew dead in our teeth. The river began to roughen and the rain to come down more steadily. Our progress was tediously slow and the journey not without peril. At one point the stream is bayed out so that for something like a mile one is right out of reach of land. The slightest accident would have been critical. We hardly dared paddle with our full strength. We took something like five hours to reach the island using our utmost effort. It was after eleven o'clock when we beached the canoe. By this time the poor girl was drenched to the skin, completely exhausted and almost starving. Her femininity took advantage of the weariness of the besieging army to sally forth from the main gate. She wanted to curse God and die, and, presumably to get into training, cursed me. I could not comfort her. She threw herself on my couch and collapsed. I covered her with rugs and watched by her side all night. Refreshed by sleep, she was herself again when the sun struck the rocky ridge which walled the lilied creek which my camp overlooked. The sky had cleared, the rain dried off the rocks. We brought the provisions across from the southern inlet and made breakfast. We patted our bellies, contemplated life and behold it was very good.
 
 ### Chapter 79.
+![](img/unicursal_hexagram_red_thumb.png)
+
+##### THE MAGUS
 
 My summer was uneventful. Such adventures as I had were pleasant variations from routine. I must tell one tale from its interest to amateurs of coincidence and philosophers whose favourite subject of meditation is “What a small world we live in!”
 
@@ -8170,7 +8406,7 @@ The climax of the joke came after my return to New York. The secret service, una
 ### Chapter 80.
 ![](img/unicursal_hexagram_red_thumb.png)
 
-##### AT THE ABBEY OF THELEMA
+###### AT THE ABBEY OF THELEMA
 
 I was back in New York on September 9th and started at once to make arrangements to publish volume III of The Equinox. (I should explain that volume II consists of ten numbers of silence to balance those of speech.) I found a studio at 1 University Place, at the corner of Washington Square. Having only one room I thought I would camouflage the bed and had a large screen with three sections made for me. I covered the canvases with a triptych, my first attempt at painting in oil. The design was symbolic of the three principles, Sun, Moon and Agni (fire), of the Hindus. The bed being still visible from some parts of the room, I got a second screen of the same pattern, which brought me to fame. For some days it stood patiently pleading to be painted, but I could not think of a subject.
 
@@ -8207,6 +8443,9 @@ From Atlanta I went to Detroit and then took in the Mammoth Caves of Kentucky. I
 A final inspection of the bughouse in Detroit left me free to get back to Europe. I reached London a few days before Christmas 1919.
 
 ### Chapter 81.
+![](img/unicursal_hexagram_red_thumb.png)
+
+###### AT THE ABBEY OF THELEMA
 In “The Vision and the Voice”, the attainment of the grade of Master of the Temple was symbolized by the adept pouring every drop of his blood, that is his whole individual life, into the Cup of the Scarlet Woman, who represents Universal Impersonal Life. There remains therefore (to pursue the imagery) of the adept “nothing but a little pile of dust”. In a subsequent vision the Grade of Magus is foreshadowed; and the figure is that this dust is burnt into “a white ash”, which ash is preserved in an Urn. It is difficult to convey the appropriateness of this symbolism, but the general idea is that the earthly or receptive part of the Master is destroyed. That which remains has passed through fire; and is therefore, in a sense, of the nature of fire. The Urn is engraved with a word or symbol expressive of the nature of the being whose ash is therein. The Magus is thus, of course, not a person in any ordinary sense; he represents a certain nature or idea. To put it otherwise, we may say, the Magus is a word. He is the Logos of the Aeon which he brings to pass.[1]
 
 The above is obscure. I perceived and deplore the fact. The idea may be more intelligible, examined in the light of history. Gautama Buddha was a Magus. His word was Anatta; that is, the whole of his system, which revolutionized the thought of Asia, may be considered as based upon and consecrated in that one word, which is his denial of the existence of the Atman or “soul” of Hindu philosophy.
@@ -8296,12 +8535,10 @@ SAC = Tzaddi, Aleph, Kaph, צכּך {HB:Koph HB:Aleph HB:Tzaddi}, 90 + 1 + 20 = 1
 
 [5] G.H. Frater AHAH 6°= 5□ R.R. et A. C. is the humblest and simplest of the Brethren of the Order. He has worked with his hands since he was nine years old and he understands and loves the Law and its Logos as a child does its mother and father. He has my respect and affection as no other of my Brethren: for he represents to me mankind incarnate at its weakest (and therefore strongest) and noblest (and therefore most “common”). He is, in a word, that “Man” of whom I am, being 666 (the number of a man) and whom I love and serve. An illuminating incident: he cannot spell, but under inspiration writes as none has ever done save one — John Bunyan! [Frater Ahah was the Australian, Frank Bennett. — ED.]
 
-[« back to toc]
+### Chapter 82.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 82.
+###### AT THE ABBEY OF THELEMA
 The sixth Chokmah day was devoted to a terrible ordeal. I had by this time been enlightened as to the falseness of the Cat; it therefore became my duty to slay her. I had created truth by means of an untrustworthy material and must therefore no longer cling to the image of the ideal. I must destroy it, well knowing that it would never again be possible for me to delude myself with poetical puppets. I must face reality for good and all.
 
 The desolation in my heart was unspeakably dreadful and the seventh Chokmah day found me in the same solitude and silence as the first three; with this difference: that a minister was appointed to comfort and console me. Exactly as before, every single relation that I had established snapped suddenly. I had plenty of friends; but none of them meant anything. However, my consolation was supreme. On the one hand, the despairing cynicism of the wise realist Snake, on the other, the heartless vanity of the foolish idealistic Cat, had left me hopeless for humanity.
@@ -8376,12 +8613,10 @@ From this I came to another discovery: I perceived why platitudes were stupid. T
 
 It would be quite impracticable to go fully into the subject of this vision of the Star-Sponge. It must suffice to reiterate that it has been the basis of most of my work for the last five years, and to remind the reader that the essential form of it is “Nothingness with twinkles”.
 
-[« back to toc]
+### Chapter 83.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 83.
+###### AT THE ABBEY OF THELEMA
 It is a remarkable fact that physical phenomena of an appropriate character frequently accompany a spiritual event. I fail to see any special significance, from a magical point of view, in the experience now to be related; but it is highly interesting in itself, and there is unquestionably a striking correlation between it and the vision just described.
 
 One morning I had started before dawn for the upper reaches of the lake. The day was breathlessly intense, the calm was somehow positive rather than negative, and seemed to conceal some huge menace. It was as if the heart of the world had stopped. I felt an indescribable awe, overwhelming in its solemnity. The act of paddling seemed almost a blasphemy. However, I made a fire on a rocky islet and cooked and ate my lunch, returning to the cottage in a curiously exhausted state. It was one of those days when the electrical conditions seem to abstract every particle of energy from one's nerves. The condition is familiar enough to me, and I understood that it foretold an approaching thunderstorm; in fact, an hour later, as I sprawled lazily on the verandah, I saw the imminence of the tempest. I realized that, wharf or no wharf, my canoe could not possibly live through what was coming. I dashed down to the water's edge at the exact moment when the first drop of rain fell, and although the distance was barely a hundred and fifty yards in all, and I picked up the canoe and tucked it under my arm like an umbrella, I was soaked and dripping before I got back to shelter. At this moment, a dog-cart, occupied by a man, a woman and a child, was hastily backed up away from the road, and they asked leave to take refuge till the rain stopped. I showed them into the main room, staying outside myself to watch the wonder of the storm. Daylight had disappeared with the utmost suddenness. A pall of purple black drove down the valley at a height of scarce a hundred feet above the water, and this pall was veined with a network of incessant lightning. Beneath it the air seemed praeternaturally clear. It was the most spectacular performance I had ever seen. Ahead of the storm, the vast blue sky stood speckless above the unrippled sheen of the lake. Then the advance guard of the tempest, the hail and the rain splashed down in giant drops like bullets. Then came the berry purple of the cloud, and under it the wind lashed the lake into tempestuous froth so fiercely that no water remained visible.
@@ -8410,7 +8645,7 @@ It would be impossible for me even to attempt the merest outline of the abominat
 
 The misery which I underwent at this time had done much to cloud my memory. I do not clearly remember, for example, my reasons for going to New Orleans almost immediately after returning from Lake Pasquaney. It was my last glimpse of beauty for a long while. The old French-Spanish quarter of the city is the only decent inhabited district that I discovered in America. From the architecture to the manners of the people, their clothes, their customs and their cookery, all was delightful. It was like being back in Europe again with the added charm of a certain wildness and romance; it was a civilization sui generis, with its own peculiar adornment in the way of history. It enabled me to realize the spirit of the Middle Ages as even the most remote and time-honoured towns of Europe rarely do. I took a room conveniently close to the Old Absinthe House, where one could get real absinthe prepared in fountains whose marble was worn by ninety years' continual dripping. The result was that I was seized by another of my spasms of literary creation, and this time, the definite sexual stimulus which I had imagined as partly responsible for such attacks was, if not absent, at least related to an atmosphere rather than to an individual.
 
-It lasted, if I remember rightly, some seventeen days. I completely lost track of the properties of times and place. I walked over to the Absinthe House in my shirt sleeves on one occasion without being in the slightest degree aware of the fact. My best work was an essay “The Green Goddess”, descriptive of the Old Absinthe House itself in particular, and the atmosphere of the quarter in general. It may be regarded as the only rival to “The Heart of Holy Russia” for literary excellence and psychological insight. I wrote also The Scrutinies of Simon Iff, a series of six more or less detective stories; two or three less important essays; some short stories, of which I may mention “Every Precaution” for its local colour; and all but the last two or three chapters of my first serious attempt at a long novel, The Net. I also began from the very depths of my spiritual misery a very strange book of an entirely new kind; so much so that I describe it as “A Novelissim”.[1] Its title is Not the Life and Adventure of Sir Roger Bloxam. It remains unfinished to this day; in fact it is hardly theoretically possible to finish it, strictly speaking. I have indeed serious qualms as to whether I have not overstepped the limits of truth in saying that I began it. To be safe, I should be content to say I wrote a good deal of it.
+It lasted, if I remember rightly, some seventeen days. I completely lost track of the properties of times and place. I walked over to the Absinthe House in my shirt sleeves on one occasion without being in the slightest degree aware of the fact. My best work was an essay “The Green Goddess”, descriptive of the Old Absinthe House itself in particular, and the atmosphere of the quarter in general. It may be regarded as the only rival to “The Heart of Holy Russia” for literary excellence and psychological insight. I wrote also The Scrutinies of Simon Iff, a series of six more or less detective stories; two or three less important essays; some short stories, of which I may mention “Every Precaution” for its local colour; and all but the last two or three chapters of my first serious attempt at a long novel, The Net. I also began from the very depths of my spiritual misery a very strange book of an entirely new kind; so much so that I describe it as “A Novelissim”.^[WEH note: Actually, it's a shaggy dog story.] Its title is Not the Life and Adventure of Sir Roger Bloxam. It remains unfinished to this day; in fact it is hardly theoretically possible to finish it, strictly speaking. I have indeed serious qualms as to whether I have not overstepped the limits of truth in saying that I began it. To be safe, I should be content to say I wrote a good deal of it.
 
 The lyrical faculty remained almost entirely dormant, no doubt owing to the fact that in a quarter where almost every woman attracted me intensely, I was quite unable to fix my affection on a single specimen. Perhaps also it was inhibited by the iron which was entering my soul inch by inch and being twisted in my heart by the pitiless love of the Secret Chiefs of the Order.
 
@@ -8428,14 +8663,11 @@ My mission is, in short, to bring everyone to the realization and enjoyment of h
 
 Footnotes:
 
-[1] WEH note: Actually, it's a shaggy dog story.
 
-[« back to toc]
+### Chapter 84.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 84.
+###### AT THE ABBEY OF THELEMA
 Considerations of this kind were constantly present to my mind at this period. Before my eyes was the sickening spectacle of humanity sinking ever deeper into the sticky slime of slavery. The tragedy of New Orleans illustrated one phase of the calamity. While as to the individual, his position might be gauged by the case of my own cousin in Florida, who quite seriously believed that God had sunk the Titanic to rebuke the presumption of the builders, of the pitifully comic worship of the weakly megalomaniac at the White House, and of the moral and mental level of such people as I met in the masonic lodges whose gambols I have described in a previous chapter.
 
 Hope died in my heart. There was not one glimmer of light on the horizon anywhere. It seemed to me an obscene mockery to be called a Magus. I must have been afflicted by “lust of result”; at least it came to this, that I felt that I could not go on with my work. On every side the wizened witches of religion and morality were shrill in celebration of their obscene sabbath. I felt that I had not only failed, but that it was little short of lunacy to imagine that I could ever make the slightest impression upon the monstrous mass of misery which was soaking through the very spine of mankind. My faith failed me; I made a gesture of despair; I committed spiritual suicide, I closed my Magical Record and refused to write. “If the Masters want me to do their Work,” said I, “let them come forward and call me.”
@@ -8480,7 +8712,7 @@ My first important step in this direction, the thin end of the wedge, was an art
 
 This paragraph runs as follows:
 
-Herein is wisdom; let him that hath understanding count the number of The Beast; for it is the number of a man; and his number is six hundred and three score and six.
+> Herein is wisdom; let him that hath understanding count the number of The Beast; for it is the number of a man; and his number is six hundred and three score and six.
 
 I must now return to the feature of my initiation: for the other conditions of the incident in question are connected therewith.
 
@@ -8490,19 +8722,17 @@ In January 1918, I published a revised version of the “Message of the Master T
 
 Even in my political articles I make the Law of Thelema the sole basis of my articles. I apply it, in short, to every circumstance of life, securing in this way a completely coherent point of view. Most men and practically all Anglo-Saxons have an elaborate system of mental watertight compartments. One of the most important elements of the panic fear of truth in every form, the distrust of any man who seems likely to investigate things seriously, is due to the consciousness that even a superficial analysis will reveal a state of spiritual civil war whose issue it is impossible to foresee. They all pretend to be Christians, yet the injunction “Love your enemies”, which by the way is really the first corollary of the Law of Thelema, is universally regarded as infinitely objectionable. I am myself in all kinds of a mess simply because I insist upon putting this into practice. I refuse to consider my enemies as irreconcilable; I take the utmost pains to understand and love them. By this means I invariably succeed sooner or later in destroying them, that is, of incorporating them into my own idea of myself. (I am liable to express this operation by saying that having slain my foe in ambush, I devour his heart and liver raw in order to fortify myself with his courage, energy and other fine qualities, and then I become very sad when I am currently quoted as a cannibal. Picturesque metaphor is not always appreciated.) I cannot make the public understand that to treat a man as an enemy in the ordinary sense of the word, to damage him in every possible way, and otherwise to disintegrate him, is simply to cut off one's nose to spite one's face. There is nothing in the universe which is not indissolubly one with every other thing; and the greatest man is he who makes no difference between any one thing and any other thing. He becomes the “chief of all” as stated in The Book of the Law.
 
-[« back to toc]
+### Chapter 85.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 85.
+###### AT THE ABBEY OF THELEMA
 We may now return to the subject of the initiation itself. Besides my work of proclaiming the Law to the profane and expounding it to the aspirant, I was set the task of analysing it in such a way as to illuminate the most advanced. During most of the winter I gave most of my spare time to the creation of literature which corresponded nobly with this three fold labour. I wrote the twelve stories Simon Iff in America. These were a continuation of the previous The Scrutinies of Simon Iff, but constructed for the most part on mere mechanical principles. I may even compare them to chess problems. The general method was to think of a situation as inexplicable as possible, then to stop up all chinks with putty, and having satisfied myself that no explanation was possible, to make a further effort and find one. I find it hard to consider this sort of thing as serious literature, and yet so ineradicable is the artistic instinct in me that the Old Adam peeps out sufficiently often to remove these stories from the category of jeux d'esprit. In particular, the story “Suffer the Little Children”, whose setting is in Florida as I knew it, flames so fiercely with the passion excited in me by the conditions which I found there, a passion which I cannot fairly describe as pity, scorn, disgust, indignation, or even any combination of these, that I believe this tale may stand like the broken statue of Osymandias, in the eyes of a new civilization, as a witness of the tyranny and abomination which Christians have taught us to associate with the name of Christ. It is at least an extremely accurate study of life in Florida; the accuracy is guaranteed by the acuteness of the suffering of the observer. One does not see children vivisected before one's eyes without receiving an impression, and the emotion which in ordinary cases might obfuscate and mislead the looker-on was in my case transformed into an ideal stimulant of clear-sightedness. I felt intensely that I had to have all my wits about me in order to expose the atrocity of the abominations which I was compelled to witness. The brilliance of the story is striking evidence of the fierceness of my reaction against the conditions of the backwoods life of the United States. One of the chief reasons for the inexpressible intensity of my feeling is doubtless that the nameless tortures which I saw inflicted as a mere matter of routine upon women and children as such broke open the sepulchre in which I had long since buried my own sufferings at the hands of Evangelicalism and released these fetid, noxious and malignant spectres once more to prey upon my mind.
 
 So much for the profane. For the aspirant I wrote the book called “De Lege Libellum”, otherwise called The Sandal, in which I analysed the Law as the source of light, life, love and liberty, and pronounced a panegyric upon it in each of these respects successively. For sustained sublimity of prose this book perhaps ranks next to those in which my pen was definitely and authentically inspired. (The criterion of such inspiration, by the way, is that in the case of an inspired book such as “Liber VII” or “Liber LXV” I do not dare to “change as much as the style of a letter”. I show, in fact, precisely that reverence for the author which should always be observed by the mere editor, and in this case, having not only the manuscript but my memory to assist me in case of any question arising as to the text in consequence of what my earliest tutor would doubtless have considered imperfections of caligraphy, there is fortunately no reason for anxiety as to the critical perfection of the text.)
 
 The above remarks may appear strange as a preliminary to the statement that I regarded and still regard this book The Sandal as essentially an exercise in technique undertaken in order to fit myself to write “Liber Aleph, The Book of Wisdom or Folly”, which is beyond question a consummate masterpiece in its particular sphere in literature. It has always been my custom to practise with a rapier very thoroughly before fighting a duel. If occasionally these friendly bouts have resulted in a few deaths — the more the merrier!
 
-“Liber Aleph, The Book of Wisdom or Folly” was intended to express the heart of my doctrine in the most deep and delicate dimensions. (Before using the word dimensions many considerations occurred to me. It is startling; that quality itself is not repugnant to its use in such a connection. Its use was followed by a discussion between myself and my cynocephalus, who was herself struck by the singularity of the word, so much so, that I had to warn her not to spell it with two d's, and my explanations, thought unsatisfactory, decided me to insert this note in the text of my autohagiography.)[1]
+“Liber Aleph, The Book of Wisdom or Folly” was intended to express the heart of my doctrine in the most deep and delicate dimensions. (Before using the word dimensions many considerations occurred to me. It is startling; that quality itself is not repugnant to its use in such a connection. Its use was followed by a discussion between myself and my cynocephalus, who was herself struck by the singularity of the word, so much so, that I had to warn her not to spell it with two d's, and my explanations, thought unsatisfactory, decided me to insert this note in the text of my autohagiography.)^[The content of the above passage, properly analysed, should serve as an immensely valuable indication of the methods employed by my mind. Note in particular my reliance on obscure allusion. The remark about spelling expects the reader to be instantly reminded of the story of the “Something … Marquis of Queensberry” who, receiving the sympathetic condolences of a friend on having been mixed up with the trial of Oscar Wilde, replied that he regretted only one thing about the whole case; which was that on the libellous card, handed by him to the porter of the club, to be given to Oscar Wilde, he had spelt the word sodomite with two “d's”.]
 
 “Liber Aleph” is the most tense and intense book that I have ever composed. The thought is so concentrated and, if I may use the word, nervous, that both to write then, and to read now, involved an involves an almost intolerable strain. I remember how I used to sit at my desk night after night — it was the bitterest winter that had been known in New York for many years — but even if the central heating had been the flames of hell itself, I doubt whether I should have been warm. Night after night I sat, all through, rigid as a corpse, and icier; the whole of my life concentrated in two spots; the small section of my brain which was occupied in the work, and my right wrist and fingers. I remember with absolute clearness that my consciousness appeared to start from a perfectly dead forearm.
 
@@ -8510,7 +8740,7 @@ The book is written in prose, yet there is a formal circumscription more imminen
 
 I may now deal thoroughly with the complex and astounding incident which I promised to describe above. The Camel was a doctor of pharmacy, employed in pathological analysis, and later in manufacturing perfumery. She had never had any interest in Magick or any similar study, and I had not attempted to rouse it. One weekend she was lying on a mattress on the floor smoking opium, the apparatus having been lent us by a famous chiropractor who had bought it during a trip to Cuba, out of curiosity. I was sitting at my desk, working. To my surprised annoyance, the Camel suddenly began to have visions. I shut off my hearing in the way I have learnt to do; but after some five minutes babbling she pierced my defences by some remark concerning an egg under a palm tree. This aroused me instantly, for the last instruction given to myself and Soror Virakam was to go to the desert and look for just that thing. I saw then a kind of continuity between those visions and these. It was as if the intelligence communicating were taking up the story at the point at which it had been dropped. Of course, it might have been a mere coincidence. But that point could be easily settled by cross-examination. I began to ask questions. The Camel said that someone, whom she called “the Wizard”, wished to communicate with me. I am not a spiritualist who accepts any message as of divine origin. I insist on knowing with whom I am talking, and on his showing such qualities of mind that the communication will benefit me.
 
-Now, as it happened, I had a test question to my hand. I had taken the name Baphomet as my motto in the O.T.O. For six years and more I had tried to discover the proper way to spell this name. I knew that it must have eight letters, and also that the numerical and literal correspondences must be such as to express the meaning of the name in such a ways as to confirm what scholarship had found out about it, and also to clear up those problems which archaeologists had so far failed to solve. Here, then, was an ideal test of the integrity and capacity of the Camel's Wizard. I flung the question in his face. “If you possess the superior knowledge which you claim, you can tell me how to spell Baphomet!” The Camel knew nothing of the Hebrew and little of the Greek. She had no idea that a conventional system existed by which one could check the accuracy of any given orthography. Her Wizard answered my question without hesitation. “Wrong,” said I, “there must be eight letters.” “True,” he answered, “there is an R at the end.” The answer struck me in the midriff. One theory of the name is that it represents the words Beta alpha phi eta mu eta tau epsilon omicron sigma , the baptism of wisdom; another, that it is a corruption of a title meaning “Father Mithras”. Needless to say, the suffix R supported the latter theory. I added up the word as spelt by the Wizard. It totalled 729. This number had never appeared in my Cabbalistic working and therefore meant nothing to me. It however justified itself as being the cube of nine. The word chi eta phi alpha sigma,[2] the mystic title given by Christ to Peter as the cornerstone of the Church, has this same value. So far, the Wizard had shown great qualities! He had cleared up the etymological problem and shown why the Templars should have given the name Baphomet to their so-called idol. Baphomet was Father Mithras, the cubical stone which was the corner of the Temple.
+Now, as it happened, I had a test question to my hand. I had taken the name Baphomet as my motto in the O.T.O. For six years and more I had tried to discover the proper way to spell this name. I knew that it must have eight letters, and also that the numerical and literal correspondences must be such as to express the meaning of the name in such a ways as to confirm what scholarship had found out about it, and also to clear up those problems which archaeologists had so far failed to solve. Here, then, was an ideal test of the integrity and capacity of the Camel's Wizard. I flung the question in his face. “If you possess the superior knowledge which you claim, you can tell me how to spell Baphomet!” The Camel knew nothing of the Hebrew and little of the Greek. She had no idea that a conventional system existed by which one could check the accuracy of any given orthography. Her Wizard answered my question without hesitation. “Wrong,” said I, “there must be eight letters.” “True,” he answered, “there is an R at the end.” The answer struck me in the midriff. One theory of the name is that it represents the words Beta alpha phi eta mu eta tau epsilon omicron sigma , the baptism of wisdom; another, that it is a corruption of a title meaning “Father Mithras”. Needless to say, the suffix R supported the latter theory. I added up the word as spelt by the Wizard. It totalled 729. This number had never appeared in my Cabbalistic working and therefore meant nothing to me. It however justified itself as being the cube of nine. The word chi eta phi alpha sigma,^[WEH note: Crowley obtains these totals by a complex mixture of Greek and Hebrew substitutions, including use of cognate letters. In simple Greek gematria, the total is very different.] the mystic title given by Christ to Peter as the cornerstone of the Church, has this same value. So far, the Wizard had shown great qualities! He had cleared up the etymological problem and shown why the Templars should have given the name Baphomet to their so-called idol. Baphomet was Father Mithras, the cubical stone which was the corner of the Temple.
 
 I therefore felt justified in concluding that the Wizard really possessed sufficient intelligence to make it worth my while to listen to him. I hastily recorded the dialogue to that point. My next question inquired his name. He replied “Amalantrah”. I added this up. This time the result was conclusive. Its value is 729. Already he had shown me that I, in my office as Baphomet, was the rock on which the New Temple should be built, and he now identified himself with me through his own name being of equivalent value. There was however so far no link between the Order to which he belonged and the Great Order; 729 is not a significant number in the Cabbala of Thelema. But when I asked him to assign a mystic name to the Camel, he replied “Ahitha” which adds to 555, an obvious correlative with my own number in the Great Order, 666. It defined, so to speak, the function of the Camel in that Order.
 
@@ -8542,17 +8772,15 @@ Footnotes:
 
 [2] WEH note: Crowley obtains these totals by a complex mixture of Greek and Hebrew substitutions, including use of cognate letters. In simple Greek gematria, the total is very different.
 
-[« back to toc]
+### Chapter 86.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 86.
+###### AT THE ABBEY OF THELEMA
 I found that my long abstinence from magical practices had injured my powers. I resumed elementary drill and soon got back to my old form. For one thing, my protection against mosquitoes had worn off. I spent a night motionless, offering my body to them and concentrating on the thought that they were equally divine with myself. I forced myself to love them, so that in union with them the apparent differences between us might vanish in ecstasy. I compelled my body to accept, to welcome and even to long for their bites, as being acts of love whereby I nourished their lives. In the morning, though badly bitten all over, there was no inflammation whatever; and from that time on they never bit me at all.
 
 I soon recovered the powers of Pratyahara and Dharana. My mind became still; the impact of impressions ceased to obsess me, I became free of the illusion of the reality of material things. All events became equally indifferent, exquisite phrases in an eternal symphony. (Imagine listening to Beethoven with the prepossession that C is a good note and F a bad one; yet this is exactly the stand point from which all uninitiates contemplate the universe. Obviously, they miss the music.)
 
-I soon began to acquire the Magical Memory to recall my past incarnations. I refuse to assert any theory of what this really means. All memory is a re-awakening of ancient impressions. What I was really doing was penetrating to the deeper layers of my unconscious self. When, therefore, I remember my life as Cagliostro or Pope Alexander the Sixth, I am quite willing to interpret the experience as a dreamlike imagination, a dramatization of certain deeper elements in my character. I may, however, argue on the other side, that my present life is, almost equally, an artistic representation of my nature. There are also some fairly strong arguments for the actuality of such memories. Events in the past sometimes throw light on the present. For instance, when I came to remember what had happened to me in Rome, Naples and Paris, I understood certain obscure instinctive feelings about those cities which had always been unintelligible,[1] and were in direct conflict with my conscious ideas about them. I will summarize as follows:
+I soon began to acquire the Magical Memory to recall my past incarnations. I refuse to assert any theory of what this really means. All memory is a re-awakening of ancient impressions. What I was really doing was penetrating to the deeper layers of my unconscious self. When, therefore, I remember my life as Cagliostro or Pope Alexander the Sixth, I am quite willing to interpret the experience as a dreamlike imagination, a dramatization of certain deeper elements in my character. I may, however, argue on the other side, that my present life is, almost equally, an artistic representation of my nature. There are also some fairly strong arguments for the actuality of such memories. Events in the past sometimes throw light on the present. For instance, when I came to remember what had happened to me in Rome, Naples and Paris, I understood certain obscure instinctive feelings about those cities which had always been unintelligible,^[Revising this chapter, in Tunis, my Ape reminded me of how much of these past lives was spent in Sicily and North Africa; and that, when my present life came to an end (of a sort; all the forces which had till then acted upon me having been worked out) I drifted quite aimlessly to that part of the world, as if my unconsciousness, its labours accomplished, had automatically turned its face towards home!] and were in direct conflict with my conscious ideas about them. I will summarize as follows:
 
 Shortly before the time of Mohammed, I was present at a Council of Masters. The critical question was the policy to be adopted in order to help humanity. A small minority, including myself, was hot for positive action; definite movements were to be made; in particular, the mysteries were to be revealed. The majority, especially the Asiatic Masters, refused even to discuss the proposal. They contemptuously abstained from voting, as if to say, “Let the youngsters learn their lesson.” My party therefore carried the day and various Masters were appointed to undertake different adventures. Mohammed, Luther, Adam Weishaupt, the man we knew as Christian Rosencreutz, and many servants of science, were thus chosen. Some of these movements have succeeded more or less; some have failed entirely. In my present incarnation I have met several such Masters, who, having failed, are now building up again their shattered forces. My own task was to bring oriental wisdom to Europe and to restore paganism in a purer form. I was involved in the catastrophe which overtook the order of the Temple, and as Alexander the Sixth, failed in my task of crowning the Renaissance, through not being wholly purified in my personal character. (An appropriately trivial spiritual error may externalize as the most appalling crimes.)
 
@@ -8564,11 +8792,12 @@ It may be that this vision was granted me in order to fortify me for the climax 
 
 I feel that I am more likely to be able to convey some hint of the colossal character of this revelation if I simply quote the broken staggering words in which I wrote it down at the time. As will be seen, I did not dare to write what it actually was, but I remember at this moment how I had to invoke the deep-seated habit of years to get courage to drag myself to my diary. I felt like a soldier wounded to death, scrawling in his own blood the horrifyingly disastrous information which he has lost his life in seeking.
 
-5:00 p.m. The meditation of this afternoon resulted in an initiation so stupendous that I dare not hint at its Word. It is the supreme secret of a Magus, and its is so awful that I tremble even now — two hours later and more — 2:20 p.m. was the time — as I write concerning it. In a single instant I had the Key to the whole of the Chinese wisdom. In the light — momentary glimpse as it was — of this truth, all systems of religion and philosophy became absolutely puerile. Even the Law appears no more than a curious incident. I remain absolutely bewildered, blinded, knowing what blasting image lies in this shrine. It baffles me to understand how my brother Magi, knowing this, ever went on.
+> 5:00 p.m. The meditation of this afternoon resulted in an initiation so stupendous that I dare not hint at its Word. It is the supreme secret of a Magus, and its is so awful that I tremble even now — two hours later and more — 2:20 p.m. was the time — as I write concerning it. In a single instant I had the Key to the whole of the Chinese wisdom. In the light — momentary glimpse as it was — of this truth, all systems of religion and philosophy became absolutely puerile. Even the Law appears no more than a curious incident. I remain absolutely bewildered, blinded, knowing what blasting image lies in this shrine. It baffles me to understand how my brother Magi, knowing this, ever went on.
+> 
+> I had only one foreshadowing of this Vision of Jupiter — for so I may call it! — and that was a Samadhi which momentarily interrupted my concentration of Sammasati. This can only be described vaguely by saying that I obtained a reconciliation of two contraries of which “There is a discrimination between good and evil” is one.
+> 
+> This experience has shaken me utterly; it has been a terrible struggle to force myself to this record. The secret comes along the Path of Aleph to Chokmah. I could write it plainly in a few words of one syllable, and most people would not even notice it.^[I find that I wrote it down plainly seventeen years ago! But I had no conception of its terror — one must be a Magus to get that!] But it has might to hurl every Master of the Temple into the Abyss, and to fling every adept of the Rose Cross down to the Qliphoth. No wonder One said that the Book T was in ashes in the Urn of a Magus! I can't see at all how it will affect me at present. Even the Way of the Tao looks idiotic — but then of course that's what it is! So I suppose that's it, all right. And its freedom, in an utterly fascinating and appalling sense, is beyond my fiercest conception.
 
-I had only one foreshadowing of this Vision of Jupiter — for so I may call it! — and that was a Samadhi which momentarily interrupted my concentration of Sammasati. This can only be described vaguely by saying that I obtained a reconciliation of two contraries of which “There is a discrimination between good and evil” is one.
-
-This experience has shaken me utterly; it has been a terrible struggle to force myself to this record. The secret comes along the Path of Aleph to Chokmah. I could write it plainly in a few words of one syllable, and most people would not even notice it.[2] But it has might to hurl every Master of the Temple into the Abyss, and to fling every adept of the Rose Cross down to the Qliphoth. No wonder One said that the Book T was in ashes in the Urn of a Magus! I can't see at all how it will affect me at present. Even the Way of the Tao looks idiotic — but then of course that's what it is! So I suppose that's it, all right. And its freedom, in an utterly fascinating and appalling sense, is beyond my fiercest conception.
 An experience of this intensity demands a period of repose, no less than a boat race or any other form of intense effort. The adepts have always insisted on due preparation for any initiation. As The Book of the Law says, “… Wisdom says: be strong! Then canst thou bear more joy. …” I accordingly broke up my camp after a few days' holiday from magical work, and returned to New York.
 
 The next period is strangely confused. It was as if I were left in the Desert with no idea of direction and surrounded by a series of mirages. Innumerable people came into my life and passed out again, without leaving any trace.
@@ -8631,12 +8860,10 @@ Footnotes:
 
 [2] I find that I wrote it down plainly seventeen years ago! But I had no conception of its terror — one must be a Magus to get that!
 
-[« back to toc]
+### Chapter 87.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 87.
+###### AT THE ABBEY OF THELEMA
 However, now that we have been sufficiently surprised and shocked to satisfy our feeling of what is due to ourselves, we may as well realize that what in Europe is crudely called falsehood is in America a virtue without which the structure of society would collapse. Roughly speaking, they are the same size as we are; but their environment is so much more huge and hostile that it would crush them out of existence unless they persuaded themselves that they were very much bigger than we are. Our total ignorance of American conditions, our failure to understand that what we regard as fundamental truths and virtues, may be to them mere prejudices, is creating a chasm between the continents into which civilization itself is only too likely to fall.
 
 I was simply too young, ignorant and bigoted to make any impression on the United States. The real work which I accomplished in my five years was the unconscious preparation for my real mission, which is not a matter of flags and trumpets, but of silent growth in darkness. This preparation was now practically complete. With the appearance of the cynocephalus my journey through the Desert had reached its last stage. I went on struggling for some months to get things done, not understanding that I was attempting what was not impossible but undesirable. But at least my impotence was only too evident; and I returned to Europe in December. Even at the time, I felt more or less clearly that I had come to a definite turning-place in my career. It is still difficult to interpret the next period, if only because, for one thing, it is incomplete, and for another, too close to see in proper perspective. But so far as I understand it at all, it seems as if my work were to construct a model of a new civilization to replace that which we see before our eyes reeling towards catastrophe.
@@ -8687,12 +8914,10 @@ Secondly, that I might understand the problems which I should later on be called
 
 I have attained to understanding, I have made my magical model of society, and I await the moment when those who have chosen me to carry out their colossal conception summon me to stand forth before the world and execute their purpose. At this point, then, I leave my memoirs. My individual life is ended forever. It was always a mere means of bringing The Book of the Law to mankind. No man yet lived whose personal adventures were worth wasting a word on. I feel a sort of shame at intruding myself in this way on the public. And yet this book will not be altogether an impudent inanity if it shows how every adventure may serve to bring about some achievement of eternal importance.
 
-[« back to toc]
+### Chapter 88.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 88.
+###### AT THE ABBEY OF THELEMA
 The last lap! I sweep into the straight. The last jump has been cleared. Nothing now between me and the winning post.
 
 I made a rapid summary of my situation. The bronchitis and asthma, which were the symptoms of the emphyzema exacted by the God of the Mountains as the sacrifice due from whoever would approach his altars, had become a regular feature of winter. My obvious course was to dodge it by migrating to North Africa. There was no opposing argument. England was still upside down. I perceived the futility of any campaign to establish the Law there at present.
@@ -8703,14 +8928,14 @@ My object in staying near London was as follows.
 
 When I left for New York, I had confided the administration of the O.T.O. to the Grand Treasurer, George Macnie Cowie, VIII°, Frater Fiat Pax, a Neophyte of A∴ A∴. He was a man of over fifty years, the art editor of Nelson's, the publishers of Edinburgh. He was deaf and dumb. His character was unselfish and noble, his aspiration intense and sincere.
 
-He was a gentleman on whom I built
-............An absolute trust.
+> He was a gentleman on whom I built  
+> ............An absolute trust.  
 
 During the war, he wrote voluminously to keep me informed of the affairs of the Order. I had but one complaint to make of his conduct. I asked repeatedly for his accounts as treasurer and he would not send them. As time passed his letters became increasingly rabid against Germany. Deprived of adequate verbal communication with others, he trusted the newspapers and took their frenzy for fact. I was alarmed at his attitude and referred him to The Book of the Law.
 
-Cap. II,v. 60: Therefore strike hard & low, and to hell with them, master!
-
-Cap. III,v. 59: As brothers fight ye!
+> Cap. II,v. 60: Therefore strike hard & low, and to hell with them, master!  
+>   
+> Cap. III,v. 59: As brothers fight ye!  
 
 “Don't hate the Germans,” I urged. “Love them. Keep cool in order to help them in the only way possible; by smashing them up to teach them how to behave.” He only grew worse. I warned him at last that such virulent hatred would end in this going mad. And my words came true. His character changed completely; he began to intrigue against me secretly and even to rob me, or rather the Order, outright. I cannot say how far he was abetted by the solicitors of the Order but they, no less than he, evaded rendering any account of the property of the Order. I was ultimately compelled to appeal to the police. Under this pressure he sent a balance sheet. The cat was out of the bag. The Order had been systematically defrauded. Let me instance only one item. A sum of five hundred pounds was entered twice. It was the most barefaced outrage in experience. The Grand Secretary General had had the same idea. A sum of one thousand pounds had been entrusted to her. She realized the securities and disappeared into the unknown. As to the furniture and other assets, practically all the more valuable items had been taken out of the warehouse by Cowie and were not to be found. Cowie's insanity was made the excuse for endless delays in settling the various matters. I found myself almost penniless. My available funds scarcely sufficed to postpone starvation for more than a few weeks. It was quite impossible to seek legal redress against the thieves. I was also foolish enough to hope that Cowie might explain his actions and restore the property. (I have not yet succeeded in extracting the account from the lawyers.)
 
@@ -8734,12 +8959,10 @@ Some passages in this marvellous manuscript contain expressions which propriety 
 
 (How ridiculous and disgusting this mealy-mouthed morality is! We print Mark Twain's schoolboy smut about Sir Walter Raleigh at the court of Queen Elizabeth — it circulates under the rose among the most prominent people in society. Why balk at a masterpiece, sublime by virtue of its naked truth, and its spiritual intensity and exaltation, in every way the greatest work ever yet achieved by a woman? I say, emphatically, on my honour that I know of nothing in the whole range of literature which compares with it for all those qualities which are the root of beauty and power, and so saying, I am mindful of my exaggerated enthusiasm about my own achievements in precisely these directions.)
 
-[« back to toc]
+### Chapter 89.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 89.
+###### AT THE ABBEY OF THELEMA
 I go back in time to Fontainebleau. The winter was superb. It rained rarely, and the sun was so strong that even in February we used to picnic in the forest and snatch an hour's sleep upon the hillside. Everything went well.
 
 Little by little Hermes was weaned from his woes; his wail grew less continuous; he began to enjoy life as a child should. I gave him and Dionysus their first lessons in rock climbing. In two or three days they began to find the best way to tackle a crag and to use their muscles to the best advantage. The central principle of my teaching is to compel the pupil to rely on his own resources, and having thus acquired good judgment and confidence, to develop intelligent initiative. One must show them how to choose the best hand holds and foot holds, but not let them acquire the habit of looking for the teacher to tell them what to do. They must be forced to find out for themselves how to meet any possible emergency. It is important to give them from the beginning as great a variety of crags as possible; smooth slabs, rough ridges, narrow chimneys, shallow gullies, straight faces, some with ample holds that they may select the best from the abundance; scanty holds to teach them to make the best use of what scarcely suffices; sound rocks to measure their full strength; smooth faces to teach them the value of friction, and rotten or loose cliffs to exercise their judgment as to what strain they may safely put on a hold and to check a slip when it breaks suddenly away from hand or foot.
@@ -8798,12 +9021,10 @@ What really pulled me from the pit was the courage, wisdom, understanding and di
 
 By her heroic and inspired interpretation heartened, I set my feet upon my sorrow and used it to make firm my feet. I went on with my work. My energy came back, little by little, and I was able after a time to silence the complain that continually called to my consciousness, but only in the spring did I fight my way to freedom. I had gone to Paris, and went down to Fontainebleau for fresh air and exercise, and also to make a little Magical Retirement. As soon as I sat down to look at myself, I was aware of the old wound. I knew there was only one way. I must open it up and cleanse it thoroughly. I went out northward. On my left, as I came to the city wall, was the hospital where just over a year before, the child was born. I strode fiercely forward with clenched teeth. But at the first breath of forest air the universal sorrow of nature flooded me and I broke out into strong sobbing. I refused to fool myself in any of the familiar ways. I faced it open-eyed. I felt its fullest force in every nerve. So having attained the courage to accept it, without resistance or resentment, I conquered it. I slew the fiend that had beset me. From that hour to this I have suffered no more. When memory brings it back the sorrow is as a shadow — the shadow cast by a drifting cloud upon the sea, powerless to darken it, gone swift and silent as it came, leaving no mask, and even adding beauty to the sunlit splendour of the sea by varying its values.
 
-[« back to toc]
+### Chapter 90.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 90.
+###### AT THE ABBEY OF THELEMA
 My precise motive in going to Paris eludes me. I seem to have acted upon general principles. My visit proved eventful. Firstly, I met a man named Sullivan, “a fellow almost damned with a fair wife” named Sylvia. They had been married some time and she had developed a pain in the old place. A friend of hers asked my advice. I gave it, not suspecting the object of her solicitude. The situation suddenly developed by Sylvia and myself starting trouble.
 
 Sullivan came of the people. His brilliant brain had pulled him up to the position of “mathematical and scientific reviewer” for The Times and the Athenaeum, besides casual contributions to various papers. Absorbed in his work, he had no taste in common with Sylvia bar music, and he had begun to find it rather a nuisance to have to trail her along at his heels. He asked me point-blank to take her off his hands for a time. As in the case of Ratan Devi I was glad to oblige. He could have her back when he liked by whistling for her.
@@ -8824,7 +9045,7 @@ He had then just enough sense to understand me; but the foul fiend tore him the 
 
 I saw them off by the train, very heavy at heart. I was sorry for Sylvia buried alive in a south coast village without a soul to speak to and no resource in herself but her music. Yet after all she did not much matter. She was one of millions in a similar plight. Also even if saved, the profit was mostly personal. The case of her husband was altogether more serious. His abject surrender to the brute was a defeat involving a whole world in the disaster. I could have made him the evangelist of Thelema; with his abilities he might have been more important in history than St. Paul. But he could never do any great work as long as he was liable to be obsessed by the body, any more than a motorist could break the record from Land's End to John o'Groats if he shied and ran off the road every time his eye was caught by a tree.
 
-I found the abbey in admirable order. We had a new member, a boy named Godwin,[1] whom I had known in America. When he first wrote me, he was in Annapolis, an attendant in the naval hospital. The boy had amazing ability, backed by exceptional energy and other moral qualities such as the Great Work, or indeed any work worth the name, requires. Out of his scanty savings he had bought a set of “The Equinox” for a hundred dollars and several other expensive items. He grudged his time as little as his cash. He learnt by heart an astounding number of our sacred books, and when later on I asked him to compile a dictionary of Sanskrit roots for my use on a certain research, he went at it with a will and made good. As against all this, he was surly, mulish and bitterly rebellious. He raved against the injustice of being punished for breaking the regulations of the navy. I vainly showed him that when he signed on as he did of his own free will, he pledged himself to conform with the regulations and that in breaking them he blasphemed himself.
+I found the abbey in admirable order. We had a new member, a boy named Godwin,^[WEH note: This is C. F. Russel] whom I had known in America. When he first wrote me, he was in Annapolis, an attendant in the naval hospital. The boy had amazing ability, backed by exceptional energy and other moral qualities such as the Great Work, or indeed any work worth the name, requires. Out of his scanty savings he had bought a set of “The Equinox” for a hundred dollars and several other expensive items. He grudged his time as little as his cash. He learnt by heart an astounding number of our sacred books, and when later on I asked him to compile a dictionary of Sanskrit roots for my use on a certain research, he went at it with a will and made good. As against all this, he was surly, mulish and bitterly rebellious. He raved against the injustice of being punished for breaking the regulations of the navy. I vainly showed him that when he signed on as he did of his own free will, he pledged himself to conform with the regulations and that in breaking them he blasphemed himself.
 
 Reckless in his ardour for knowledge, he injected himself with forty grains of cocaine. He had never tried it before. All he knew was that half a grain had been known to cause death. The record of his experiment makes interesting reading. He began by trying to set a piece of glass on fire by the force of his will.
 
@@ -8862,19 +9083,13 @@ One result of this Retirement is astounding from the point of view of the profan
 
 Parallel with this spiritual attainment, his mental and physical powers were renewed as the eagle's. His depression vanished and was replaced by calm, deep joy, overflowing and manifest to all of us. He began to take long solitary walks across the hills and did his twenty miles a day as he had not done for a quarter of a century. We felt it as an actual bereavement when the time came for him to go back to Sydney.
 
-Footnotes:
+### Chapter 91.
+![](img/unicursal_hexagram_red_thumb.png)
 
-[1] WEH note: This is C. F. Russel
-
-[« back to toc]
-
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 91.
+###### AT THE ABBEY OF THELEMA
 Few jewels in my collection of freaks are more precious than Cecil Maitland. From his birth, he aroused the liveliest hopes among students of entomology; for his father, a distinguished Anglican controversialist, followed Newman and Manning into apostasy. His projects for attaining the papacy were, however, thwarted by the unscrupulous action of a charming lady, who insisted upon dragging him from the very foot of the altar to a rival sacrament pedlar, who promptly conjoined them in wedlock at the regular rates. This escapade did not escape the notice of the Vatican. The Pope was surprised into the exclamation “Tut”, or its Latin equivalent. He scratched his head and muttered, “Martin Luther!” After a moment's reflection he dispatched his chamberlain for bell, book and candle; and proceeded to the magical operation against this occasion made and provided. As in the case of the Jackdraw of Rheims, the effect of the curse was to ruffle the feathers of the audacious follower after the false god Hymen. A touch of rheumatism brought matters to a climax. He rang up Harrods and ordered a supply of sackcloth and ashes. Receiving, like Job, visits of condolence from various righteous friends he besought them to intercede with the Almighty on his behalf; and as they numbered not a few influential people, with strings on the College of Cardinals, the Pope was eventually persuaded to “silence that dreadful bell”, return the book to its shelf and snuff the comminatory candle. The Rev. Mr Maitland was restored to the bosom of the Harlot of the Seven Hills; though not to the priesthood; and on the strict condition that for the future he should regard his wife as tabu. Things thus satisfactorily settled, she brought forth a man child and called his name Cecil James Alexander, rejecting with contumacy the suggested alternative Caoutchouc. He grew in stature and in favour of God and man, so far as research had hitherto been able to determine. But he was subject to amiable delusions, one of which took the sinister shape of Cacoethes Scribendi. In the Great War he joined the army and became a real “capting”. Advised of this fact, the Germans wisely refrained from entering Edinburgh. His next step was to become a dipsomaniac and lose his teeth. During this period he suffered from hydrophobia and did not wash for eighteen months. This romantic situation enflamed the virgin heart of a large, white, red-haired maggot named Mary Butts, or rather Rodker.
 
-In the previous spasm she had rushed to the registrar the most nauseating colopter[1] that ever came under my microscope. It was a Whitechapel Jew who proclaimed himself a poet on the strength of a few ungrammatical and incoherent ramblings, strung together and chopped at irregular intervals into lines. He used to hang about studios in the hope of cadging cigarettes and drinks. He even got into mine on one occasion, owing to a defect in the draught excluder. Luckily the plumbing was perfect. One tug on the chain, a gush and a squeal, and I saw him no more. But somehow he squirmed out of the sewers and, as I said, obtained the official position, louse pediculosis, with Mary Butts. She washed him and dressed him, which naturally led to disenchantment, and Cecil reigned in his stead.
+In the previous spasm she had rushed to the registrar the most nauseating colopter^[WEH Note: Id est: beetle; insect, louse, crawling thing, vermin.] that ever came under my microscope. It was a Whitechapel Jew who proclaimed himself a poet on the strength of a few ungrammatical and incoherent ramblings, strung together and chopped at irregular intervals into lines. He used to hang about studios in the hope of cadging cigarettes and drinks. He even got into mine on one occasion, owing to a defect in the draught excluder. Luckily the plumbing was perfect. One tug on the chain, a gush and a squeal, and I saw him no more. But somehow he squirmed out of the sewers and, as I said, obtained the official position, louse pediculosis, with Mary Butts. She washed him and dressed him, which naturally led to disenchantment, and Cecil reigned in his stead.
 
 In 1922, they were paying the price of their outrage on morality. They were both in very bad health and very hard-pressed for money. One of their favourite amusements was playing at Magick. Idle and mentally muddled, they were attracted by all subjects which seemed to require no orderly thought or steady work. Nothing is easier than to pick up a few awe-inspiring terms and stir them into soup. It is the only way to impress those even more ignorant. They therefore came to me. With my invariable optimism, I picked out all the promising points and overlooked the faults, I promised myself that I could easily correct them. Their wretchedness kindled my pity and I invited them to spend their summer in the abbey at Cefalu. I really believed that a month or two of simple life, free from temptations and distractions, with the quiet discipline of our regulations, might put them on the right road.
 
@@ -8922,16 +9137,10 @@ For the first time in my life, Paris disappointed me. All the old enchantments h
 
 I decided to seek a solitude favourable for concentration at Hardelot, near Boulogne, in a delightful old inn where I had stayed before. The Ape of Thoth was in London. I wired her to meet me at Boulogne. So far there was no hitch in the proceedings. She met me at the train.
 
-Footnotes:
+### Chapter 92.
+![](img/unicursal_hexagram_red_thumb.png)
 
-[1] WEH Note: Id est: beetle; insect, louse, crawling thing, vermin.
-
-[« back to toc]
-
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 92.
+###### AT THE ABBEY OF THELEMA
 For some time past the City of London had amused itself by wondering mildly what could have happened to a dear old friend of theirs named Bevan. He was the head of several important concerns which, in fact, felt such dependence upon his gracious and intelligent guidance that they could hardly get on without him, especially as he had absent-mindedly packed in his portmanteau all their available assets. His absence aroused such anxiety and his speedy return was so desirable, that his friends had succeeded in interesting even Scotland Yard in the matter. Sympathetic friends all over Europe joined the rescue party and the Daily Mail lent its aid by publishing a photograph of the missing millionaire every day, week after week, and offered a prize of twenty-five thousand francs for information calculated to reassure the bereaved ones.
 
 Excuse the digression. Both I and the Ape of Thoth strolled across the station to the Hotel Christol é Christol, proposing to dine and sleep, and go on to Hardelot in the morning. Tired by the journey we lay down for an hour and then came down to dinner. The restaurant opens out of the hall; to reach it from the staircase one inclines to the right. I was slightly surprised to find the whole staff of the hotel, from the manager to the porter, drawn up in a line between me and both the entrance and the restaurant. They all smiled and bowed obsequiously and awkwardly, like so many marionettes.
@@ -9030,12 +9239,10 @@ Beresford was delighted with the manuscript and in high hopes of making a big hi
 
 I now put forward my scheme for publishing my memoirs — my autohagiography I playfully called it — before Collins. Beresford knew Sullivan well, another lucky coincidence; and when I sent him a fairly full synopsis, they accepted my proposals gladly. I took a short holiday in Paris, chiefly to give the Ape a good time at the seaside, and on my return settled down to dictation.
 
-[« back to toc]
+### Chapter 93.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 93.
+###### AT THE ABBEY OF THELEMA
 Another thread is now woven into my destiny. Before the war, one of my best men in the O.T.O. was a man named Hammond. He was an engraver of astonishing skill and had been very useful in preparing plates for the diplomas of the Order. He was enthusiastic about its principle and advanced rapidly from the IV° to which he had been affiliated from Royal Arch of old-fashioned masonry, to the very exalted rank of Grand Inquisitor Commander. I liked Hammond personally so well that I even asked him to spend a week with me in Paris and see life, which till then had meant to him only the narrow and sordid circle of lower middle class English in parts of London barely distinguishable form slums. He beheld the heavens opened. Overflowed with gratitude and adoration, he acquired the sort of affection for me that a dog has for its master.
 
 Alas! this dog had the mange! supposedly as the result of vaccination in childhood with an impure preparation, he suffered the tortures of psoriasis. The irritation was perpetual. He had tried every known treatment and received from none more than temporary relief. (I think it throws light on my character that ever since I met him, I have never forgotten, whenever I met anyone likely to be able to suggest some new remedy, to ask him about it.)
@@ -9102,12 +9309,10 @@ Even the symbols for subordinate members of the Order forecast accurately their 
 
 The description is marvellously accurate. He made fierce quick attempts to achieve his ends. They were baffled. He dashed himself against a wall, was enmeshed in the intrigues of my enemies, and found himself in the end neither able to go forward to victory, nor to extricate himself from the circumstances. He had committed himself to my interests irrevocably.
 
-[« back to toc]
+### Chapter 94.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 94.
+###### AT THE ABBEY OF THELEMA
 In the following month, Betty arranged two lectures on the Law of Thelema in her house and brought a number of friends to seek my assistance.
 
 One such introduction proved pregnant with fate. A brilliant boy, just down from Oxford, where he had distinguished himself by his attainments in history, had long wished to meet me. For over two years, he had studied my magical writings with the utmost enthusiasm and intelligence. His character was extraordinary. He possessed every qualification for becoming a Magician of the first rank. I designed him from the first interview to be my magical heir. He possessed, of course, the defects of these qualities.
@@ -9160,12 +9365,10 @@ Besides The Diary of a Drug Fiend and my autohagiography I had contracted with C
 
 All three failed me! If I have survived, it is that the gods have some further use for me. My own efforts break down every time, and that in circumstances such that the improbability of their doing so is enormous. The one miracle matches the other. If I were even tempted to doubt that my career is planned in every detail by my spiritual superiors with the precision of a chess player whose pieces are powerless to move except at his command, incidents of this surprising kind would bring me back with a jerk to a sense of reality.
 
-[« back to toc]
+### Chapter 95.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 95.
+###### AT THE ABBEY OF THELEMA
 I broke the journey at Rome. All through northern Italy we had been held up by bandits of Fascisti, who had occupied the railway stations. It was the day of the coup d'état. For sometime I had interested myself in Fascismo which I regarded with entire sympathy even excluding its illegitimacy on the ground that constitutional authority had become to all intents and purposes a dead letter. I was delighted with the common sense of its programme and was especially pleased by its attitude towards the Church. It was proposed to use forcible means to prevent the Vatican employing the influence of the priests to attain political ends. I was also convinced of the importance of the movement and of its almost immediate success. I did my utmost to persuade Austin Harrison of the soundness of my judgment. He pooh-poohed the whole thing and only after interminable argument did I persuade him to let me write an article on the situation. He ultimately agreed, and I hunted all round London for a representative of Fascismo from whom I could obtain documentary material for my article.
 
 (The sequel is characteristic of Austin Harrison. He printed an article written not by me but by one of the men I had discovered, and he never paid me a penny for my work, which had kept me busy most of the time for a week.)
@@ -9186,17 +9389,15 @@ Raoul, on his part, amply justified my faith in his future. A few weeks' work en
 
 In practical Magick, he showed promise of the same order, though, of course, not having previously attempted any work of the kind, he had much to learn. Nevertheless, he progressed with astonishing rapidity. Within a fortnight, he was able to perform the Banishing Ritual of the Pentagram sufficiently well to produce unmistakable modulations of the Astral Light. He acquired the faculty of visions in astonishing perfection from the very first. The usual preliminary practice on unimportant explorations was unnecessary. In January I gave him a talisman symbolizing the alchemical mystery of V.I.T.R.I.O.L He travelled straight through to the corresponding plane of the Astral, and entered into relation at once with an intelligence who gave his name Neral, who demonstrated his authenticity and authority in the approved manner by means of letters and numbers, but also by straightforward statements which had no meaning for Raoul but which I recognized as correct expositions.
 
-[« back to toc]
+### Chapter 96.
+![](img/unicursal_hexagram_red_thumb.png)
 
-unicursal hexagram
-
-At the Abbey of Thelema
-Chapter 96.
+###### AT THE ABBEY OF THELEMA
 To turn to other matters. At the end of November I received a telegram from Hammond which I took as a sort of Joke. He said:
 
-English press states you are guilty of sending girls on streets in Palermo or Naples and that you served prison sentence in America for procuration tone(?) ans (answer) per imperative pire (wire immediately).
-
-(Signed) HAMMOND.
+> English press states you are guilty of sending girls on streets in Palermo or Naples and that you served prison sentence in America for procuration tone(?) ans (answer) per imperative pire (wire immediately).
+> 
+> (Signed) HAMMOND.
 
 I replied “Allegations utterly absurd.” My only annoyance was having to pay for the telegram. Presently copies of the Sunday papers for November 28th arrived. I read them with tireless amusement. I had read in my time a great deal of utter balderdash, but nothing quite so comprehensively ridiculous. It gave me the greatest joy to notice that practically every single detail was false. There was, for instance, a description of the abbey, without a single failure to misstate the facts. If a thing was white, they called it red, if square, circular, if stone, brick; and so for everything.
 
@@ -9274,27 +9475,212 @@ I also began an examination of The Golden Verses of Pythagoras. I was struck by 
 
 The true significance of the Atus of Tahuti, or Tarot Trumps, also awaits full understanding. I have satisfied myself that these twenty-two cards compose a complete system of hieroglyphs representing the total energies of the universe. In the case of some cards, I have succeeded in restoring the original form and giving a complete account of their meaning. Others, however, I understand imperfectly, and of some few I have at present obtained no more than a general idea.
 
-It is heartbreaking to have to write on this matter, “So much to do, so little done.” I am overwhelmed by the multiplicity of urgent work. I need the co-operation of a whole cohort of specialists and my helplessness lies heavy on my heart, yet the word which I uttered at my first initiation, “Perdurabo”, still echoes in eternity. What may befall I know not, and I have almost ceased to care. It is enough that I should press towards the mark of my high calling, secure in the magical virtue of my oath, “I shall endure unto the End.”[1]
+It is heartbreaking to have to write on this matter, “So much to do, so little done.” I am overwhelmed by the multiplicity of urgent work. I need the co-operation of a whole cohort of specialists and my helplessness lies heavy on my heart, yet the word which I uttered at my first initiation, “Perdurabo”, still echoes in eternity. What may befall I know not, and I have almost ceased to care. It is enough that I should press towards the mark of my high calling, secure in the magical virtue of my oath, “I shall endure unto the End.”^[WEH note: Crowley's writing ends here, but the following later writing by Jane Wolfe is of interest in that it relates to the events of this final chapter: “A villifying report of what took place at the time of the death of Raoul Loveday, at the Abbey of Thelema in Cefalu, having come to my attention, leads me to write a brief account of that unhappy event, as I was not only there during Raoul's brief sojourn at the Abbey, but I took care of him on his deathbed. “He arrived in Cefalu from London late in November, or early December, 1922, pale and aenemic, and had just recovered from a rather severe septic throat. “The weather at the time was sunshiny and warm. Raoul basked in this sunshine, spent much time out of doors, and soon showed signs of improvement. “By January he was taking long walks, and one one of these occasions, being thirsty, drank water from a small stream which was 'polutted', and was therefore taboo. No one round about touched this water, and Raoul had been cautioned about it, but forgot it, no doubt, at the time of his thirst. “A diarrhea set in, which after 10 or 12 days, became suddenly acute on the day of his death, causing a sloughing off of the mucous membrances of the intestines. “During this period he had been under medical care, but without avail. “That ceremonies of a sensational or ridiculous character were performed during the passing, is a part of the desire of some people to defile whatever they touch. “As a matter of fact, no ceremonies of any nature took place during his illness, or at the time of his death. (signed) Jane Wolfe]
 
-Footnotes:
+# APPENDIX
 
-[1] WEH note: Crowley's writing ends here, but the following later writing by Jane Wolfe is of interest in that it relates to the events of this final chapter:
+#### Illustrations
 
-“A villifying report of what took place at the time of the death of Raoul Loveday, at the Abbey of Thelema in Cefalu, having come to my attention, leads me to write a brief account of that unhappy event, as I was not only there during Raoul's brief sojourn at the Abbey, but I took care of him on his deathbed.
+![](img/Crowley_self_portrait.jpg)
 
-“He arrived in Cefalu from London late in November, or early December, 1922, pale and aenemic, and had just recovered from a rather severe septic throat.
+###### List of Illustrations
 
-“The weather at the time was sunshiny and warm. Raoul basked in this sunshine, spent much time out of doors, and soon showed signs of improvement.
+* An idealized self-portrait frontispiece
+* The Magician, 1911
+* Crowley´s mother
+* Crowley´s father
+* The schoolboy, aged 14
+* The poet, aged 30
+* Osiris Risen: Crowley in 1899
+* S. L. M. Mathers, Head of the Golden Dawn
+* Allan Bennett
+* The explorer, mountaineer and big-game hunter, c. 1906
+* The expedition to Chogo Ri, 1902
+* Crowley in the Himalayas, 1905
+* The Buddhist, the man of sorrows
+* Rose Kelly, Crowley´s first wife
+* Sister Cybele (Leila Waddell)
+* The Beast 666: Crowley aged 37
+* Demonstrating a yogic technique of breath-control, c. 1912
+* The Charter issued by John Yarker admitting Crowley to the highest grade (33°) of the Scottish Rite of Masonry, 1910
+* The Stele of Revealing: Exhibit 666, Boulak Museum, Cairo
+* Crowley wearing the head-dress of Horus, c. 1910
+* Baphomet: Crowley in full Masonic regalia, 1916
+* The Arabian alchemist
+* Leah Hirsig in Crowley´s studio, New York, 1918
+* Handwritten plan for climbing Mt Everest, 1921
+* Crowley and Alostrael (Leah Hirsig) at the Abbey of Thelema, 1921
+* Betty May
+* Raoul Loveday (Frater Aud), 1923
+* Sketch by Crowley of Norman Mudd (Frater Omnia Pro Veritate)
+* Frank Bennett (Frater Progradior)
+* Maria de Miramar and Crowley
+* Sketch by Crowley of a devouring demon
+* Crowley as a human being, 1934
+* Crowley as Fo-hi, the Chinese god of joy and laughter
+* Crowley´s hands locked in yogic mudra
+* Sketch by Crowley
+* In Jermyn Street, Piccadilly, c. 1943
+* At Netherwood, Hastings
+* The Beast 666: self-portrait
 
-“By January he was taking long walks, and one one of these occasions, being thirsty, drank water from a small stream which was 'polutted', and was therefore taboo. No one round about touched this water, and Raoul had been cautioned about it, but forgot it, no doubt, at the time of his thirst.
+![An idealized self-portrait frontispiece](img/an-idealized-self-portrait.png)
 
-“A diarrhea set in, which after 10 or 12 days, became suddenly acute on the day of his death, causing a sloughing off of the mucous membrances of the intestines.
+![The Magician, 1911. [Plate 1.]](img/Aleister_Crowley_Magician_small.jpg)
 
-“During this period he had been under medical care, but without avail.
+Crowley at his altar. magically robed and equipped with a wand, bell, sword, cup, phial of holy Abra-Melin oil. His hand rests on the Stele of Revealing. The book is The Book of the Law. He is crowned with the Egyptian Uraeus serpent and upon his finger is the ring of Nuit.
 
-“That ceremonies of a sensational or ridiculous character were performed during the passing, is a part of the desire of some people to defile whatever they touch.
+![ALeister Crowley's mother Plate 2a.](img/Emily_Bertha_Bishop.jpg)
 
-“As a matter of fact, no ceremonies of any nature took place during his illness, or at the time of his death.
+Emily Bertha Bishop (1848-1917); Aleister Crowley’s mother. Crowley called her "a brainless bigot of the most narrow, logical and inhuman type". She thought Crowley was the incarnation of the Beast of Revelation.
 
-(signed) Jane Wolfe
+![Aleister Crowley's father Plate 2b.](img/Edward_Crowley.jpg)
 
+Edward Crowley (1830-1887); Aleister Crowley’s father. One of the leaders of the Plymouth Brethren sect. He preached up and down the country. "Get right with God." was his cry.
+
+![Aleister Crowley the schoolboy Plate 3a.](img/Aleister_Crowley_Schoolboy_small.jpg)
+
+The schoolboy in Hell: Crowley aged 14
+
+![Aleister Crowley the poet Plate 3b.](img/Aleister_Crowley_Poet_small.jpg)
+
+The poet, before the Great Awakening: Crowley at the age 30.
+
+![Aleister Crowley as Osiris Plate 4a.](img/Aleister_Crowley_Osiris_small.jpg)
+
+Osiris Risen: Crowley formulating the Pentagram in the Golden Dawn 1899
+
+![S.L.M. Mathers, Head of the Golden Dawn Plate 4b.](img/Samuel_Liddell_MacGregor_Mathers_small.jpg)
+
+The only know photograph of Samuel Liddell MacGregor Mathers, the head of the Golden Dawn. He holds the Lotus Wand in the Rite of Isis, which he performed in Paris shortly after the collapse of the Golden Dawn in London.
+
+![Allan Bennett Plate 5a.](img/Allan_Bennett_small.jpg)
+
+Allan Bennett (Ananda Metteya) (1872–1923), one of Crowley's teachers in the Golden Dawn. He gave up the practice of ceremonial magic and became a buddhist monk. He was the founder of the Buddhist Sangha (Brotherhood) in the West.
+
+![Aleister Crowley the explorer Plate 5b.](img/Aleister_Crowley_Explorer_small.jpg)
+
+The explorer, mountaineer and big-game hunter. Crowley circa 1906.
+
+![The expedition to Chogo Ri, 1902 Plate 6.](img/Expedition_Chogo_Ri.jpg)
+
+Left to right (standing): V. Wessely, H. Pfannl. Center: Oscar Eckenstein, Aleister Crowley. Foreground: Dr. J. Jacot Guillarmod, Guy Knowles
+
+![Aleister Crowley in the Himalayas, 1905 Plate 7a.](img/Aleister_Crowley_Himalayas.jpg)
+
+Crowley on the Deosai Plateau in the Himalayas, 1905, the year he led the expedition to Kangchenjunga
+
+![Aleister Crowley, the man of sorrows Plate 7b.](img/Aleister_Crowley_1901_small.jpg)
+
+The Buddhist, the man of sorrows.
+
+![Rose Kelly, Crowley's first wife Plate 8a](img/Rose_Edith_Crowley_small.jpg)
+
+Crowley's first wife, Rose Edith Kelly, his Scarlet Woman for the Cairo Working.
+
+![Sister Cybele (Leila Waddell) Plate 8b.](img/Leila_Waddell_small.jpg)
+
+Sister Cybele (Leila Waddell) who played the violin in Crowley's Rites of Eleusis, at Caxton Hall, 1910. She was one of Crowley's magical assistants; hence the Mark of the Beast between her breasts.
+![The Beast 666: Crowley aged 37 Plate 9.](img/Aleister_Crowley_The_Beast_small.jpg)
+
+The Beast 666: Aleister Crowley aged 37
+
+![The Charter issued by John Yarker Plate 11.](img/Aleister_Crowley_John_Yarker_Freemason_Charter_small.jpg)
+
+The Charter issued by John Yarker admitting Crowley to the highest grade (33°) of the Scottish Rite of Masonry, 1910.
+
+![](img/Aleister_Crowley_Pranayama_123_small.jpg)
+
+![](img/Aleister_Crowley_Pranayama_456_small.jpg)
+
+![](img/Aleister_Crowley_Pranayama_7_small.jpg)
+
+Demonstrating a yogic technique of breath-control (Pranayama), c. 1912.
+
+![](img/Stele_of_Revealing_front_small.jpg)
+![](img/Stele_of_Revealing_back_small.jpg)
+
+The Stele of Revealing: Exhibit 666, Boulak Museum, Cairo.
+
+The Pantacle of Ankh-f-n-Khonsu, a priest of the XXVIth dynasty who, according to Crowley, foretold the advent of the New Aeon. Crowley believed that he himself was Ankh-f-n-Khonsu in a previous incarnation.
+
+![Crowley wearing the head-dress of Horus, c. 1910 Plate 13a.](img/Aleister_Crowley_Head_Dress_of_Horus_small.jpg)
+
+Crowley *circa* 1910, wearing the head-dress of Horus. He is making the sign of Pan, the horns (thumbs) indicating creative energy. On the table is his book of Abra-Melin talismans and the rood cross with topaz which he used for skrying.
+
+![Baphomet: Crowley in full Masonic regalia, 1916. Plate 13b.](img/Aleister_Crowley_as_Baphomet_X_OTO_small.jpg)
+
+Baphomet, the Supreme and Holy King of Ireland, Iona, and all the Britains that are in the Sanctuary of the Gnosis, O.T.O. Crowley in full Masonic regalia, 1916.
+
+![The Arabian alchemist Plate 14a.](img/Aleister_Crowley_Arabian_Alchemist_small.jpg)
+
+The Arabian alchemist: Crowley smoking his favourite mixture, perique soaked in rum
+
+![Leah Hirsig in Crowley's studio, New York, 1918. Plate 14b.](img/Leah_Hirsig_small.jpg)
+
+Leah Hirsig, the Scarlet Woman in Crowley's Greenwich Village studio, New York, 1918. Backgound: Crowley's "Dead Souls" painting.
+
+![Handwritten plan for climbing Mt Everest, 1921. Plate 15.](img/Crowley_How_to_Climb_Mount_Everest_small.jpg)
+
+How to Climb Mount Everest 1921: Crowley's handwriting at the age of 46. Brief outline of how he and the American writer on travel and magic, William B. Seabrook, two very ill-conditioned men, could "rush the mountain".
+
+![The Beast and Alostrael at the Abbey of Thelema, 1921. Plate 16.](img/Crowley_and_Alostrael_Abbey_of_Thelema_small.jpg)
+
+
+The Beast (Aleister Crowley) (in Highland dress) and the Scarlet Woman, Alostrael (Leah Hirsig) at the Abbey of Thelema, the headquaters of their new social experiment in life, love, liberty and light, 1921. Alostrael (Leah Hirsig) is holding their baby, Poupée, who died shortly afterwards.
+
+![Betty May Plate 17a.](img/Betty_May_small.jpg)
+
+Betty May, the artists' model, who was taken by her husband, Raoul Loveday, to Crowley's Abbey of Thelema.
+
+Betty May – whose husband Raoul Loveday died at the Abbey of Thelema in Cefalù, Sicily, in 1923 – is an interesting character in herself. Her autobiography, ”Tiger Woman”, offers an often amazing first-hand view of the abbey. Even if her main objective is to show the awfulness of the place.
+
+She sold the story of her husband’s death to the press. Publications which led to a media scandal of modern proportions. Allegations against the ”devil-worshippers” in Cefalù reached a fever pitch, leading to Aleister Crowley recieving the still famous title ”the wickedest man alive”.
+
+The book (”Tiger Woman”) however, is surprisingly balanced, given the animosity that Betty May held against Crowley. Even if the rumours said that her husband died from drinking the blood of a cat during a black mass, May describes his death as a result of drinking bad water from a stream. Something that Crowley, according to May, had warned against.
+
+Some of the highlights of the book include vivid descriptions of the temple in the Abbey, and a phonetic rendering of the Thelemic version of the qabalistic cross. The actual words being ”Ateh, Aiwass, Malkuth, Ve-geburah, Ve-gedulah, Le-olahm Amen”. — ED.
+
+![Raoul Loveday (Frater Aud), 1923.](img/Raoul_Loveday_small.jpg)
+
+Raoul Loveday, Frater Aud (the Magic Light), Crowley's chief assistant, who died at the Abbey, 1923.
+
+![Sketch by Crowley of Norman Mudd Plate18a.](img/Norman_Mudd_sketch_small.jpg)
+
+Sketch by Crowley of Norman Mudd (Frater Omnia Pro Veritate), Professor of Applied Mathematics; he helped Crowley to interpret the mathematical problems in The Book of the Law.
+
+![Frank Bennett (Frater Progradior) Plate 18b.](img/Frank_Bennett_small.jpg)
+
+Frank Bennett (Frater Progradior) who went into a high mystical trance, and remained in it for several days, during his stay at Crowley's Abbey of Thelema.
+
+![Maria de Miramar and Crowley Plate 19.](img/Aleister_Crowley_with_Maria_de_Miramar_small.jpg)
+
+Maria Teresa Ferrari de Miramar and Aleister Crowley; they were married in Leipzig during August 1929.
+
+![Sketch by Crowley of a devouring demon Plate 20a.](img/Crowley_Devouring_Demon.jpg)
+
+Sketch by Crowley of a devouring demon.
+
+![Crowley as a human being, 1934. Plate 20.](img/Aleister_Crowley_Human_Being_small.jpg)
+
+Aleister Crowley as a human being, 1934.
+
+![Crowley as Fo-Hi, the Chinese god of joy and laughter Plate 21a.](img/Aleister_Crowley_Fo-Hi_small.jpg)
+
+![Aleister Crowley's hands locked in yogic mudra Plate 21b.](img/Mudra_small.jpg)
+
+The hands of Aleister Crowley locked in yogic mudra or mystical gesture affirming the union of the active and the passive.
+
+![Sketch by Crowley of Chinese Sage Kwaw Plate 22a.](img/Chinese_Sage_Kwaw_small.jpg)
+
+Sketch by Aleister Crowley of one of the demons of the Goetia or of the Chinese Sage Kwaw or an idealized self-portrait of Crowley, the Beast
+
+![Crowley at Netherwood, Hastings. Plate 23a.](img/Aleister_Crowley_Netherwood_small.jpg)
+
+Aleister Crowley at "Netherwood", Hastings, where he died on December 1st 1947.
+
+![Crowley in Jermyn Street, Piccadilly, c. 1943. Plate 22b.](img/Aleister_Crowley_1943_small.jpg)
+
+Aleister Crowley in his room in Jermyn Street, Piccadilly, *circa* 1943.
+
+![](img/Aleister_Crowley_Master_Therion_self_portrait_small.jpg)
