@@ -4,8 +4,88 @@
 
 PART I MEDITATION 
 
-THE WAY OF ATTAINMENT OF GENIUS OR GODHEAD CONSIDERED AS A DEVELOPMENT OF THE HUMAN BRAIN Issued by order of the GREAT WHITE BROTHERHOOD known as the A.'.A.'. "Witness our Seal," N.'.' "Praemonstrator-General"</div>
+THE WAY OF ATTAINMENT OF GENIUS OR GODHEAD CONSIDERED AS A DEVELOPMENT OF THE HUMAN BRAIN
 
+Issued by order of the GREAT WHITE BROTHERHOOD
+
+known as the A∴A∴
+
+*Witness our Seal,*
+
+![](img/AA_Seal.gif)
+
+N.'.' "Praemonstrator-General"
+
+ΧΑΙΡΕ ΣΩΤΗΡ
+ΚΟΣΜΟΥ
+
+</div>
+
+![](img/Aleister_Crowley_Yoga.jpg)
+
+
+> **THERE are seven keys to the great gate,**  
+> **Being eight in one and one in eight.**  
+> **First, let the body of thee be still,**  
+> **Bound by the cerements of will,**  
+> **Corpse-rigid; thus thou mayst abort**  
+> **The fidget-babes that tease the thought.**  
+> **Next, let the breath-rhythm be low,**  
+> **Easy, regular, and slow;**  
+> **So that thy being be in tune**  
+> **With the great sea's Pacific swoon.**  
+> **Third, let thy life be pure and calm,**  
+> **Swayed softly as a windless palm.**  
+> **Fourth, let the will-to-live be bound**  
+> **To the one love of the profound.**  
+> **Fifth, let the thought, divinely free**  
+> **From sense, observe its entity.**  
+> **Watch every thought that springs; enhance**  
+> **Hour after hour thy vigilance!**  
+> **Intense and keen, turned inward, miss**  
+> **No atom of analysis!**  
+> **Sixth, on one thought securely pinned**  
+> **Still every whisper of the wind!**  
+> **So like a flame straight and unstirred**  
+> **Burn up thy being in one word!**  
+> **Next, still that ecstasy, prolong**  
+> **Thy meditation steep and strong,**  
+> **Slaying even God, should He distract**  
+> **Thy attention from the chosen act!**  
+> **Last, all these things in one o'erpowered,**  
+> **Time that the midnight blossom flowered!**  
+> **The oneness is. Yet even in this,**  
+> **My son, thou shall not do amiss**  
+> **If thou restrain the expression, shoot**  
+> **Thy glance to rapture's darkling root,**  
+> **Discarding name, form, sight, and stress**  
+> **Even of this high consciousness;**  
+> **Pierce to the heart! I leave thee here:**  
+> **Thou art the Master. I revere**  
+> **Thy radiance that rolls afar,**  
+> **O Brother of the Silver Star!**  
+
+[Aleister Crowley - "AHA!"]
+
+### A NOTE
+
+THIS book is intentionally "not" the work of Frater Perdurabo. Experience shows that his writing is too concentrated, too abstruse, too occult, for ordinary minds to apprehend. It is thought that this record of disjointed fragments of his casual conversation may prove alike more intelligible and more convincing, and at least provide a preliminary study which will enable the student to attack his real work from a standpoint of some little general knowledge and understanding of his ideas, and of the form in which he figures them.
+
+Part II, "Magick," is more advanced in style than Part I; the student is expected to know a little of the literature of the subject, and to be able to take an intelligent view of it. This part is, however, really explanatory of Part I, which is a crude outline sketch only.
+
+If both parts are thoroughly studied and understood, the pupil will have obtained a real grasp of all the fundamentals and essentials of both Magick and Mysticism.
+
+I wrote this book down from Frater Perdurabo's dictation at the Villa Caldarazzo, Posilippo, Naples, where I was studying under him, a villa actually prophesied to us long before we reached Naples by that Brother of the A∴A∴ who appeared to me in Zurich. Any point which was obscure to me was cleared up in some new discourse (the discourses have consequently been re-arranged). Before printing, the whole work was read by several persons of rather less than average intelligence, and any point not quite clear even to them has been elucidated.
+
+May the whole Path now be plain to all!
+
+Frater Perdurabo is the most honest of all the great religious teachers. Others have said: "Believe me!" He says:"Don't believe me!" He does not ask for followers; would despise and refuse them. He wants an independent and self-reliant body of students to follow out their own methods of research. If he can save them time and trouble by giving a few useful "tips," his work will have been done to his own satisfaction.
+
+Those who have wished men to believe in them were absurd. A persuasive tongue or pen, or an efficient sword, with rack and stake, produced this "belief," which is contrary to, and destructive of, all real religious experience.
+
+The whole life of Frater Perdurabo is now devoted to seeing that you obtain this living experience of Truth for, by, and in yourselves!
+
+**Soror Virakam** (Mary d'Este Sturges)
 
 ### PRELIMINARY REMARKS
 
@@ -30,7 +110,9 @@ But what of the origin of religions? How is it that unproved assertion has so fr
 No point of doctrine, no point of ethics, no theory of a "hereafter" do they share, and yet in the history of their lives we find one identity amid many diversities.
 
 Buddha was born a Prince, and died a beggar.
+
 Mohammed was born a beggar, and died a Prince.
+
 Christ remained obscure until many years after his death.
 
 Elaborate lives of each have been written by devotees, and **there is one thing common to all three &mdash; an omission.** We hear nothing of Christ between the ages of twelve and thirty. Mohammed disappeared into a cave. Buddha left his palace, and went for a long while into the desert.
@@ -123,7 +205,7 @@ There are a great many other obstacles which you will discover as you go on, and
 
 In your early struggles you may have found it difficult to conquer sleep; and you may have wandered so far from the object of your meditations without noticing it, that the meditation has really been broken; but much later on, when you feel that you are "getting quite good," you will be shocked to find a complete oblivion of yourself and your surroundings. You will say: "Good heavens! I must have been to sleep!" or else "What on earth was I meditating upon?" or even "What was I doing?" "Where am I~" "Who am I?" or a mere wordless bewilderment may daze you. This may alarm you, and your alarm will not be lessened when you come to full consciousness, and reflect that you have actually forgotten who you are and what your are doing!
 
-This is only one of many adventures that may come to you; but it is one of the most typical. By this time your hours of meditation will fill most of the day, and you will probably be constantly having presentiments that something is about to happen. You may also be terrified with the idea that your brain may be giving way; but you will have learnt the real symptoms of mental fatigue, and you will be careful to avoid them. They must be very carefully distinguished from idleness!
+This is only one of many adventures that may come to you; but it is one of the most typical. By this time your hours of meditation will fill most of the day, and you will probably be constantly having presentiments that something is about to happen. You may also be terrificd with the idea that your brain may be giving way; but you will have learnt the real symptoms of mental fatigue, and you will be careful to avoid them. They must be very carefully distinguished from idleness!
 
 At certain times you will feel as if there were a contest between the will and the mind; at other times you may feel as if they were in harmony; but there is a third state, to be distinguished from the latter feeling. It is the certain sign of near success, the view-halloo. This is when the mind runs naturally towards the object chosen, not as if in obedience to the will of the owner of the mind, but as if directed by nothing at all, or by something impersonal; as if it were falling by its own weight, and not being pushed down. 
 
@@ -197,7 +279,7 @@ Our first obstacle has been removed, and we can continue with the others. {18}
 
 ### Chapter II &mdash; Pranayama
 
-<div class="centered-small-caps">And its Parallel in Speech, Mantrayoga</div>
+##### And its Parallel in Speech, Mantrayoga
 
 THE connection between breath and mind will be fully discussed in speaking of the Magick Sword, but it may be useful to premise a few details of a practical character. You may consult various Hindu manuals, and the writing of *K*wang Tze, for various notable theories as to method and result.
 
@@ -212,38 +294,46 @@ This is the proper way to practise a mantra. Utter it as loudly and slowly as po
 Any sentence may be used as a mantra, and possibly the Hindus are correct in thinking that there is a particular sentence best suited to any particular man. Some men might find the liquid mantras of the Quran slide too easily, so that it would be possible to continue another train of thought without disturbing the mantra; one is supposed while saying the mantra to meditate upon its meaning. This suggests that the student might construct for himself a mantra which should represent the Universe in sound, as the pantacle^[See Part II.] should do in form. Occasionally a mantra may be "given, *i.e.,* heard in some unexplained manner during a meditation. One man, for example, used the words: "And strive to see in everything the will of God;" to another, while engaged in killing thoughts, came the words "and push it down," apparently referring to the action of the inhibitory centres which he was using. By keeping on with this he got his "result."
 The ideal mantra should be rhythmical, one might even say musical; but there should be sufficient emphasis on some syllable to assist the faculty of attention. The best mantras are of medium length, so far as the beginner is concerned. If the mantra is too long, one is apt to forget it, unless one practises very hard for a great length of time. On the other hand, mantras of a single syllable, such as *Aum,*^[However, in saying a mantra containing the word "Aum," one sometimes forgets the other words, and remains concentrated, repeating the "Aum" at intervals; but this is the result of a practice already begun, not the beginning of a practice.] are rather jerky; the rhythmical idea is lost. Here are a few useful mantras: 
 
-1. Aum. 
+1. **Aum.**
 
-2. Aum Tat Sat Aum. This mantra is purely spondaic.
+2. **Aum Tat Sat Aum.** This mantra is purely spondaic.
+
+[illustration: line of music with: Aum Tat Sat Aum](img/Mantra_AumTatSatAum.jpg)
 
 3. Aum mani padme hum; two trochees between two caesuras.
 
+[illustration: line of music with: Aum Ma-ni Pad-me Hum](img/Mantra_AumManiPadmeHum.jpg)
+
 4. Aum shivaya vashi; three trochees.
+
+[illustration: line of music with: Aum shi-va-ya Va-shi Aum shi-va-ya Vashi](img/Mantra_AumShivayaVashi.jpg)
 
 Note that "shi" means rest, the absolute or male aspect of the Deity; "va" is energy, the manifested or female side of the Deity. This Mantra therefore expresses the whole course of the Universe, from Zero through the finite back to Zero.
 
-5. Allah. The syllables of this are accented equally, with a certain pause between them; and are usually combined by fakirs with a rhythmical motion of the body to and fro.
+5. **Allah.** The syllables of this are accented equally, with a certain pause between them; and are usually combined by fakirs with a rhythmical motion of the body to and fro.
 
-6. Hua allahu alazi lailaha illa Hua. 
+6. **Hua allahu alazi lailaha illa Hua.**
 
 Here are some longer ones:
 
 7. The famous Gayatri.
 
-> Aum! tat savitur varenyam 
-> Bhargo devasya dimahi 
-> Dhiyo yo na pratyodayat.
+> **Aum! tat savitur varenyam**  
+> **Bhargo devasya dimahi**  
+> **Dhiyo yo na pratyodayat.**  
 
 Scan this as trochaic tetrameters. 
 
-8. Qol: Hua Allahu achad; Allahu Assamad; lam yalid walam yulad; walam yakun lahu kufwan achad.
+8. **Qol: Hua Allahu achad; Allahu Assamad; lam yalid walam yulad; walam yakun lahu kufwan achad.**
 
 9. This mantra is the holiest of all that are or can be. It is from the Stele of Revealing.^[See Equinox VII.]
 
-> A ka dua 
-> Tuf ur biu 
-> Bi aa chefu
-> Dudu ner af an nuteru. 
+> **A ka dua**  
+> **Tuf ur biu**  
+> **Bi aa chefu**  
+> **Dudu ner af an nuteru.**  
+
+[illustration: two lines of music with: A ka du-a Tuf ur bi-u Bi A'a che-fu Du-du ner af an nu-te-ru](img/Mantra_AKaDua.jpg)
 
  Such are enough for selection.^[Meanings of mantras: 1 Aum is the sound produced by breathing forcibly from the back of the throat and gradually closing the mouth. The three sounds represent the creative, preservative, and destructive principles. There are many more points about this, enough to fill a volume. 2. O that Existent! O! -- An aspiration after realty, truth. 3. O the Jewel in the Lotus! Amen! -- Refers to Buddha and Harpocrates; but also the symbolism of the Rosy Cross. 4. Gives the cycle of creation. Peace manifesting as Power, Power dissolving in Peace. 5. God. It adds to 66, the sum of the first 11 numbers. 6. He is God, and there is no other God than He. 7. O! let us strictly meditate on the adorable light of that divine Savitri (the interior Sun, etc.). May she enlighten our minds! 8. Say: He is God alone! God the Eternal! He begets not and is not begotten! Nor is there like unto Him any one! 9. Unity uttermost showed! I adore the might of Thy breath, Supreme and terrible God, Who makest the Gods and Death To tremble before Thee: -- I, I adore Thee!]
 
@@ -283,7 +373,7 @@ The only difficult question is that of continence, which is complicated by many 
 
 We may then dismiss Yama and Niyama with this advice: let the student decide for himself what form of life, what moral code, will least tend to excite his mind; but once he has formulated it, let him stick to it, avoiding opportunism; and let him be very careful to take no credit for what he does or refrains from doing -- it is a purely practical code, of no value in itself.
 
-The cleanliness which assists the surgeon in his work would prevent the engineer from doing his at all. (Ethical questions are adequately dealt with in "Then Tao" in "Konx Om Pax," and should be there studied. Also see Liber XXX of the A.·.A.·.Also in Liber CCXX, the "Book of the Law," it is said: **"DO WHAT THOU WILT shall be the whole of the Law."** Remember that for the purpose of this treatise the whole object of Yama and Niyama is to live so that no emotion or passion disturbs the mind.)
+The cleanliness which assists the surgeon in his work would prevent the engineer from doing his at all. (Ethical questions are adequately dealt with in "Then Tao" in "Konx Om Pax," and should be there studied. Also see Liber XXX of the A∴A∴Also in Liber CCXX, the "Book of the Law," it is said: **"DO WHAT THOU WILT shall be the whole of the Law."** Remember that for the purpose of this treatise the whole object of Yama and Niyama is to live so that no emotion or passion disturbs the mind.)
 
 ### Chapter IV &mdash; Pratyahara 
 
@@ -304,6 +394,14 @@ Conscious of this fact, we begin to try to control it: "Not quite so many though
 When the unsuspecting pupil first approaches his holy but wily Guru, and demands magical powers, that Wise One replies that he will confer them, points out with much caution and secrecy some particular spot on the pupil's body which has never previously attracted his attention, and says: "In order to obtain this magical power which you seek, all that is necessary is to wash seven times in the Ganges during seven days, being particularly careful to avoid thinking of that one spot."
 
 Of^[diagram on page 26, nothing else, graph with following text beneath: BD shows the Control of the Mind, improving slowly at first, afterwards more quickly. It starts from at or near zero, and should reach absolute control at D. EF shows the Power of Observation of the contents of the mind, improving quickly at first, afterwards more slowly, up to perfection at F. It starts well above zero in the case of most educated men. The height of the perpendiculars HI indicates the dissatisfaction of the student with his power of control. Increasing at first, it ultimately diminishes to zero.] course the unhappy youth spends a disgusted week in thinking of little else.
+
+![](img/Time.jpg)
+
+*BD shows the Control of the Mind, improving slowly at first, afterwards more quickly. It starts from at or near zero, and should reach absolute control at D.*
+
+*EF shows the Power of Observation of the contents of the mind, improving quickly at first, afterwards more slowly, up to perfection at F. It starts well above zero in the case of most educated men.*
+
+*The height of the perpendiculars HI indicates the dissatisfaction of the student with his power of control. Increasing at first, it ultimately diminishes to zero.*
 
 It is positively amazing with what persistence a thought, even a whole train of thoughts, returns again and again to the charge. It becomes a positive nightmare. It is intensely annoying, too, to find that one does not become conscious that one has got on to the forbidden subject until one has gone right through with it. However, one continues day after day investigating thoughts and trying to check them; and sooner or later one proceeds to the next stage, Dharana, the attempt to restrain the mind to a single object.
 
@@ -368,7 +466,7 @@ We shall treat of Dhyana as a result rather than as a method. Up to this point a
 
 They exhaust the possibilities of poetry to declare what is demonstrably untrue. For example, we find in the Shiva Sanhita that "he who daily contemplates on this lotus of the heart is eagerly desired by the daughters of Gods, has clairaudience, clairvoyance, and can walk in the air." Another person "can make gold, discover medicine for disease, and see hidden treasures." All this is filth. What is the curse upon religion that its tenets must always be associated with every kind of extravagance and falsehood?
 
-There is one exception; it is the A.'.A.'., whose members are extremely careful to make no statement at all that cannot be verified in the usual manner; or where this is not easy, at least avoid anything like a dogmatic statement. In Their second book of practical instruction, Liber O, occur these words:
+There is one exception; it is the A∴A∴, whose members are extremely careful to make no statement at all that cannot be verified in the usual manner; or where this is not easy, at least avoid anything like a dogmatic statement. In Their second book of practical instruction, Liber O, occur these words:
 
 "By doing certain things certain results will follow. Students are most earnestly warned against attributing objective reality or philosophical validity to any of them."
 
@@ -504,7 +602,7 @@ You can also meditate on *your dreams.* This sounds superstitious; but the idea 
 
 You can also meditate on *anything that especially appeals to you.*
 
-But in all this one feels inclined to suggest that **it will be better and more convincing if the meditation is directed to an object which in itself is apparently unimportant.** One does not want the mind to be excited in any way, even by adoration. See the three meditative methods in Liber HHH (Equinox VI.).^[These are the complements of the three methods of Enthusiasm (A.'.A.'. instruction not yet issued up to March **1912**.)] At the same time, one would not like to deny positively that it is very much "easier" to take some idea towards which the mind would naturally flow.
+But in all this one feels inclined to suggest that **it will be better and more convincing if the meditation is directed to an object which in itself is apparently unimportant.** One does not want the mind to be excited in any way, even by adoration. See the three meditative methods in Liber HHH (Equinox VI.).^[These are the complements of the three methods of Enthusiasm (A∴A∴ instruction not yet issued up to March **1912**.)] At the same time, one would not like to deny positively that it is very much "easier" to take some idea towards which the mind would naturally flow.
 
 The Hindus assert that the nature of the object determines the Samadhi; that is, the nature of those lower Samadhis which confer so-called "magic powers." For example, there are the Yogapravritti. Meditating on the tip of the nose, one obtains what may be called the "ideal smell"; that is, a smell which is not any particular smell, but is the archetypal smell, of which all actual smells are modifications. It is "the smell which is "not" a smell." This is the only reasonable description; for the experience being contrary to reason, it is only reasonable that the words describing it should be contrary to reason too.^[Hence the Athanasian Creed. Compare the precise parallel in the Zohar: "The Head which is above all heads; the Head which is *not* a Head.]
 
@@ -579,7 +677,7 @@ Fourthly, we suppress all other thoughts by a direct concentration upon a single
 
 *Q.* How can I obtain further knowledge and experience of this? 
 
-*A.* The A.'.A.'. is an organization whose heads have obtained by personal experience to the summit of this science. They have founded a system by which every one can equally attain, and that with an ease and speed which was previously impossible. The first grade in Their system is that of 
+*A.* The A∴A∴ is an organization whose heads have obtained by personal experience to the summit of this science. They have founded a system by which every one can equally attain, and that with an ease and speed which was previously impossible. The first grade in Their system is that of 
 
 <div class="centered-small-caps">Student.</div>
 
@@ -602,15 +700,40 @@ Study of these books will give a thorough grounding in the intellectual side of 
 
 After three months the Student is examined in these books, and if his knowledge of them is found satisfactory, he may become a Probationer, receiving Liber LXI and the secret holy book, Liber LXV. The principal point of this grade is that the Probationer has a master appointed, whose experience can guide him in his work.
 
-He may select any practices that he prefers, but in any case must keep an exact record, so that he may discover the relation of cause and effect in his working, and so that the A.'.A.'. may judge of his progress, and direct his further studies.
+He may select any practices that he prefers, but in any case must keep an exact record, so that he may discover the relation of cause and effect in his working, and so that the A∴A∴ may judge of his progress, and direct his further studies.
 
-After a year of probation he may be admitted a Neophyte of the A.'.A.'., and receive the secret holy book Liber VII.
+After a year of probation he may be admitted a Neophyte of the A∴A∴, and receive the secret holy book Liber VII.
 
 These are the principal instructions for practice which every probationer should follow out:
 
 Libri E, A, O, III, XXX, CLXXV, CC, CCVI, CMXIII.
 
 # PART II - MAGICK (Elementary Theory)
+
+First published London: Wieland & co., 1913
+Corrected edition included in "Magick: Book 4 Parts I-IV", York Beach, Maine: Samuel Weiser, 1994
+
+This edition is based on the electronic edition prepared and issued by Celephaïs Press,
+somewhere beyond the Tanarian Hills, and manifested in the waking world in Leeds, Yorkshire, England July 2004.
+
+Issued by order of the
+
+GREAT WHITE BROTHERHOOD
+
+known as the A∴A∴
+
+*Witness our Seal,*
+
+![](img/AA_Seal.gif)
+N∴
+
+Praemonstrator-General
+
+#### CEREMONIAL MAGICK
+
+![](img/Alesiter_Crowley_Magus_small.jpg)
+
+**"THE MAGICIAN IN HIS ROBE AND CROWN, ARMED WITH WAND, CUP, SWORD, PANTACLE, BELL, BOOK, AND HOLY OIL."**
 
 ### PRELIMINARY REMARKS
 
@@ -640,63 +763,31 @@ The oil consecrates everything that is touched with it; it is his aspiration; al
 
 We will now consider each of these matters in detail.
 
-
-
 ### Chapter I — THE TEMPLE
-
-
-
-
-
-
 
 THE TEMPLE REPRESENTS the external Universe.
 
 The Magician must take it as he finds it, so that it is of no particular shape; yet we find written, Liber VII, vi, 2:
 
-
-
-
-
 "We made us a Temple of stones in the shape of the Universe, even as thou didst wear openly and I concealed."
-
-
-
-
 
 THIS SHAPE IS THE Vesica Piscis but it is only the greatest of the Magicians who can thus fashion the Temple. There may, however, be some choice of rooms; this refers to the power of the Magician to reincarnate in a suitable body.
 
-
-
-
-
 ### Chapter II — THE CIRCLE
 
-
-
-
-
-
-
 THE CIRCLE ANNOUNCES the Nature of the Great Work.
+
+![a magical circle reminiscent of an illustration in the "Treasure House of Images" in the Equinox.](img/The_Circle.jpg)
 
 Though the Magician has been limited in his choice of room, he is more or less able to choose what part of the room he will work in. He will consider convenience and possibility. His circle should not be too small and cramp his movements; it should not be so large that he has long distances to traverse. Once the circle is made and consecrated, the Magician must not leave it, or even lean outside, lest he be destroyed by the hostile forces that are without.
 
 He chooses a circle rather than any other lineal figure for many reasons; e.g.,
-
-
-
-
 
 1. He affirms thereby his identity with the infinite.
 
 2. He affirms the equal balance of his working; since all points on the circumference are equidistant from the center.
 
 3. He affirms the limitation implied by his devotion to the Great Work. He no longer wanders about aimlessly in the world.
-
-
-
-
 
 THE CENTER OF THIS circle is the center of the Tau of ten squares which is in the midst, as shown in the illustration. The Tau and the circle together make one form of the Rosy Cross, the uniting of subject and object which is the Great Work, and which is symbolized sometimes as this cross and circle, sometimes as the Lingam-Yoni, sometimes as the Ankh or Crux Ansata, sometimes by the Spire and Nave of a church or temple, and sometimes as a marriage feast, mystic marriage, spiritual marriage, chymical nuptials, and in a hundred other ways. Whatever the form chosen, it is the symbol of the Great Work.
 
@@ -716,19 +807,14 @@ These nine lamps were originally candles made of human fat, the fat of enemies s
 
 These candles stand upon pentagrams, which symbolize Geburah, severity, and give protection; but also represent the microcosm, the four elements crowned by Spirit, the Will of man perfected in its aspiration to the Higher. They are placed outside the Circle to attract the hostile forces, to give them the first inkling of the Great Work, which they too must someday perform.
 
-
-
-
-
 ### Chapter III — THE ALTAR
 
-
-
-
-
-
-
 THE ALTAR REPRESENTS the solid basis of the work, the fixed Will of the Magician; and the law under which he works. Within this altar everything is kept, since everything is subject to law. Except the lamp.
+
+![diagram on this page: A double cubic altar with universal sigil on top, sigils of the 4 Enochian elemental kings around sides in top half and Enochian watch towers (elemental squares) around sides in bottom half. There is a scale at bottom of the diagram and the caption under that: "THE ALTAR. SIDE DESIGNS FROM DR. DEE, AS IN EQUINOX VII."](img/The_Altar.jpg)
+
+*{diagram on this page: A double cubic altar with universal sigil on top, sigils of the 4 Enochian elemental kings around sides in top half and Enochian watch towers (elemental squares) around sides in bottom half. There is a scale at bottom of the diagram and the caption under that: "THE ALTAR. SIDE DESIGNS FROM DR. DEE, AS IN EQUINOX VII."}*
+
 
 According to some authorities the Altar should be made of oak to represent the stubbornness and rigidity of law; others would make it of Acacia, for Acacia is the symbol of resurrection.
 
@@ -742,19 +828,19 @@ The top of the Altar shall be covered with gold, and on this gold should be engr
 
 On the sides of the Altar are also sometimes drawn the great tablets of the elements, and the sigils of the holy elemental kings, as shown in The Equinox, No. VII; for these are syntheses of the forces of Nature. Yet these are rather special than general symbols, and this book purports to treat only of the grand principles of working.
 
+![](img/The_Altar_Design.jpg)
 
+![](img/The_Holy_Oblation.jpg)
 
-
+*{diagrams on this page, at top the microcosm of Vitruvius from the title page decoration (not frontispiece as is sometimes said) to Robert Fludd's "Utriusque Cosmi Maioris scilicet et Minoris Metaphysica, Physica, Atque Technica Historia", based on a Renaissance copy of Vitruvius' 1st century "De Architectura" as interpreted by Cesariano in 1521, minus Fludd's rope, clouds and winged fawn+hourglass, with the caption beneath "DESIGN SUITABLE FOR TOP OF ALTAR", and below that a geometrical figure of the planets and stars from "The Cannon" fig. 3, p. 30, chap. II. with the under caption "THE HOLY OBLATION"}*
 
 ### Chapter IV — THE SCOURGE, THE DAGGER, AND THE CHAIN
 
-
-
-
-
-
-
 THE SCOURGE, THE DAGGER, and the Chain, represent the three alchemical principles of Sulphur, Mercury, and Salt. These are not the substances which we now call by these names; they represent principles, whose operations chemists have found it more convenient to explain in other ways. But Sulphur represents the energy of things, Mercury their fluidity, Salt their fixity. They are analogous to Fire, Air and Water; but they mean rather more, for they represent something deeper and subtler, and yet more truly active. An almost exact analogy is given by the three Gunas of the Hindus; Sattvas, Rajas, and Tamas. Sattvas is Mercury, equable, calm, clear; Rajas is Sulphur, active, excitable, even fierce; Tamas is Salt, thick, sluggish, heavy, dark.
+
+![](img/The_Scourge_The_Dagger_The_Chain.jpg)
+
+*diagram on this page: Inside a dashed equilateral triangle are a scourge, chain, dagger and a wide, low perfume bottle shaped like a woman's breast with nipple, below this is a scale in inches and below that the caption "THE SCOURGE, THE DAGGER, AND THE CHAIN; ENCLOSING THE PHIAL FOR THE HOLY OIL."*
 
 But Hindu philosophy is so occupied with the main idea that only the Absolute is worth anything, that it tends to consider these Gunas (even Sattvas) as evil. This is a correct view, but only from above; and we prefer, if we are truly wise, to avoid this everlasting wail which characterizes the thought of the Indian peninsula: "Everything is sorrow," etc. Accepting their doctrine of the two phases of the Absolute, we must, if we are to be consistent, class the two phases together, either as good or as bad; if one is good and the other bad we are back again in that duality, to avoid which we invented the Absolute.
 
@@ -782,17 +868,7 @@ The Scourge keeps the aspiration keen: the Dagger expresses the determination to
 
 We may now consider the Holy Oil itself.
 
-
-
-
-
 ### Chapter V — THE HOLY OIL
-
-
-
-
-
-
 
 THE HOLY OIL IS THE Aspiration of the Magician; it is that which consecrates him to the performance of the Great Work; and such is its efficacy that it also consecrates all the furniture of the Temple and the instruments thereof. It is also the grace or chrism; for this aspiration is not ambition; it is a quality bestowed from above. For this reason the Magician will anoint first the top of his head before proceeding to consecrate the lower centers in their turn.
 
@@ -810,19 +886,11 @@ This perfect Oil is most penetrating and subtle. Gradually it will spread itself
 
 The phial which contains the Oil should be of clear rock crystal, and some magicians have fashioned it in the shape of the female breast, for that it is the true nourishment of all that lives. For this reason also it has been made of mother-of-pearl and stoppered with a ruby.
 
-
-
-
-
 ### Chapter VI — THE WAND
 
-
-
-
-
-
-
 THE MAGICAL WILL IS in its essence twofold, for it presupposes a beginning and an end; to will to be a thing is to admit that you are not that thing.
+
+![](img/The_Wand_The_Cup_The_Sword_The_Disk.jpg)
 
 Hence to will anything but the supreme thing, is to wander still further from it—any will but that to give up the self to the Beloved is Black Magick—yet this surrender is so simple an act that to our complex minds it is the most difficult of all acts; and hence training is necessary. Further, the Self surrendered must not be less than the All-Self; one must not come before the altar of the Most High with an impure or an imperfect offering. As it is written in Liber LXV, "To await Thee is the end, not the beginning."
 
@@ -840,7 +908,7 @@ How then is the will to be trained? All these wishes, whims, caprices, inclinati
 
 Vigilance and courage are obviously required. I was about to add self-denial, in deference to conventional speech; but how could I call that self-denial which is merely denial of those things which hamper the self? It is not suicide to kill the germs of malaria in one's blood.
 
-Now there are very great difficulties to be overcome in the training of the mind. Perhaps the greatest is forgetfulness, which is probably the worst form of what the Buddhists call ignorance. Special practices for training the memory may be of some use as a preliminary for persons whose memory is naturally poor. In any case the Magical Record prescribed for Probationers of the A.'.A.'. is useful and necessary.
+Now there are very great difficulties to be overcome in the training of the mind. Perhaps the greatest is forgetfulness, which is probably the worst form of what the Buddhists call ignorance. Special practices for training the memory may be of some use as a preliminary for persons whose memory is naturally poor. In any case the Magical Record prescribed for Probationers of the A∴A∴ is useful and necessary.
 
 Above all the practices of Liber III must be done again and again, for these practices develop not only vigilance but those inhibiting centers in the brain which are, according to some psychologists, the mainspring of the mechanism by which civilized man has raised himself above the savage.
 
@@ -1058,20 +1126,12 @@ But the unfortunate indeed is he who cannot thus endure. It is useless for him t
 
 Once take one step on the path, and there is no return. You will remember in Browning's Childe Roland to the dark Tower came:
 
-
-
-
-
-> For mark! no sooner was I fairly found
-> Pledged to the plain, after a pace or two,
-> Then, pausing to throw backwards a last view
-> O'er the safe road, 'twas gone: grey plain all round,
-> Nothing but plain to the horizon's bound.
-> I might go on; naught else remained to do.
-
-
-
-
+> For mark! no sooner was I fairly found  
+> Pledged to the plain, after a pace or two,  
+> Then, pausing to throw backwards a last view  
+> O'er the safe road, 'twas gone: grey plain all round,  
+> Nothing but plain to the horizon's bound.  
+> I might go on; naught else remained to do.  
 
 AND THIS IS UNIVERSALLY true. The statement that the Probationer can resign when he chooses is in truth only for those who have taken the oath but superficially.
 
@@ -1095,17 +1155,7 @@ It is astonishing that this typical cry—"I am I"—is the cry of that which ab
 
 It was that Master whose Will was so powerful that at its lightest expression the deaf heard, and the dumb spake, lepers were cleansed and the dead arose to life, that Master and no other who at the supreme moment of his agony could cry, "Not my Will, but Thine, be done."
 
-
-
-
-
 ### Chapter VII — THE CUP
-
-
-
-
-
-
 
 AS THE MAGICK WAND is the Will, the Wisdom, the Word of the Magician, so is the Magick Cup his Understanding.
 
@@ -1302,24 +1352,18 @@ The Master of the Temple has crossed the Abyss, has entered the Palace of the Ki
 
 This mystery is all too complex to be elucidated in these fragments of impure thought; it is a suitable subject for meditation.
 
-
-
-
-
 ### An Interlude
-
-
 
 Every nursery rime contains profound magical secrets which are open to everyone who has made a study of the correspondences of the Holy Qabalah. To puzzle out an imaginary meaning for this "nonsense" sets one thinking of the Mysteries; one enters into deep contemplation of holy things and God Himself leads the soul to a real illumination. Hence also the necessity of Incarnation; the soul must descend into all falsity in order to attain All-Truth.
 
 For instance:
 
-> Old Mother Hubbard
-> Went to her cupboard
-> To get her poor dog a bone;
-> When she got there,
-> The cupboard was bare,
-> And so the poor dog had none.
+> Old Mother Hubbard  
+> Went to her cupboard  
+> To get her poor dog a bone;  
+> When she got there,  
+> The cupboard was bare,  
+> And so the poor dog had none.  
 
 Who is this ancient and venerable mother of whom it is spoken? Verily she is none other than Binah, as is evident in the use of the holy letter H with which her name begins.
 
@@ -1337,12 +1381,12 @@ Isis sought them in every corner of the Universe, and she found all except his s
 
 Let us take another example from this rich storehouse of magick lore.
 
-> Little Bo Peep
-> She lost her sheep,
-> And couldn't tell where to find them.
-> Leave them alone!
-> And they'll come home,
-> Dragging their tails behind them.
+> Little Bo Peep  
+> She lost her sheep,  
+> And couldn't tell where to find them.  
+> Leave them alone!  
+> And they'll come home,  
+> Dragging their tails behind them.  
 
 "Bo" is the root meaning Light, from which spring such words as Bo-Tree, Bodhisattva, and Buddha.
 
@@ -1354,12 +1398,12 @@ This ancient one, the Wisdom of Eternity, sits in its old anguish awaiting the R
 
 Again we read:
 
-> Little Miss Muffett
-> Sat on a tuffet,
-> Eating of curds and whey,
-> Up came a big spider,
-> And sat down beside her,
-> And frightened Miss Muffett away.
+> Little Miss Muffett  
+> Sat on a tuffet,  
+> Eating of curds and whey,  
+> Up came a big spider,  
+> And sat down beside her,  
+> And frightened Miss Muffett away.  
 
 Little Miss Muffett unquestionably represents Malkah; for she is unmarried. She is seated upon a "tuffet"; id est, she is the unregenerate soul upon Tophet, the pit of hell. And she eats curds and whey, that is, not the pure milk of the mother, but milk which has undergone decomposition.
 
@@ -1369,12 +1413,12 @@ It would be interesting if tradition had preserved for us Miss Muffett's subsequ
 
 But we must proceed to consider the interpretation of the following rime:
 
-> Little Jack Horner
-> Sat in a corner,
-> Eating a Christmas pie.
-> He stuck in his thumb,
-> And pulled out a plum,
-> And said, "What a good boy am I!"
+> Little Jack Horner  
+> Sat in a corner,  
+> Eating a Christmas pie.  
+> He stuck in his thumb,  
+> And pulled out a plum,  
+> And said, "What a good boy am I!"  
 
 In the interpretation of this remarkable poem there is a difference between two great schools of Adepts.
 
@@ -1382,11 +1426,11 @@ One holds that Jack is merely a corruption of John, Ion, he who goes-Hermes, the
 
 Let us pass from this most blessed subject to yet another.
 
-> Tom, Tom, the piper's son,
-> Stole a pig and away he run.
-> The pig was eat,
-> And Tom was beat,
-> And Tom went roaring down the street.
+> Tom, Tom, the piper's son,  
+> Stole a pig and away he run.  
+> The pig was eat,  
+> And Tom was beat,  
+> And Tom went roaring down the street.  
 
 This is one of the more exoteric of these rimes. In fact, it is not much better than a sun-myth. Tom is Toum, the God of the Sunset (called the Son of Apollo, the Piper, the maker of music). The only difficulty in the poem concerns the pig; for anyone who has watched an angry sunset in the Tropics upon the sea, will recognize how incomparable a description of that sunset is given in that wonderful last line. Some have thought that the pig refers to the evening sacrifice, others that she is Hathor, the Lady of the West, in her more sensual aspect.
 
@@ -1394,11 +1438,11 @@ But it is probable that this poem is only the first stanza of an epic. It has al
 
 It must be abandoned, then, as at least partially insoluble. Let us consider this poem:
 
-> Hickory, dickory, dock!
-> The mouse ran up the clock;
-> The clock struck one,
-> And the mouse ran down,
-> Hickory, dickory, dock!
+> Hickory, dickory, dock!  
+> The mouse ran up the clock;  
+> The clock struck one,  
+> And the mouse ran down,  
+> Hickory, dickory, dock!  
 
 Here we are on higher ground at once. The clock symbolizes the spinal column, or, if you prefer it, Time, chosen as one of the conditions of normal consciousness. The mouse is the Ego; "Mus," a mouse, being only Sum, "I am," spelt Qabalistically backwards.
 
@@ -1406,11 +1450,11 @@ This Ego or Prana or Kundalini force being driven up the spine, the clock strike
 
 "Hickory, dickory, dock!" is perhaps the mantra which was used by the adept who constructed this rime, thereby hoping to fix it in the minds of men; so that they might attain to Samadhi by the same method. Others attribute to it a more profound significance—which it is impossible to go into at this moment, for we must turn to:-
 
-> Humpty Dumpty sat on a wall;
-> Humpty Dumpty got a great fall;
-> All the king's horses
-> And all the king's men
-> Couldn't set up Humpty Dumpty again.
+> Humpty Dumpty sat on a wall;  
+> Humpty Dumpty got a great fall;  
+> All the king's horses  
+> And all the king's men  
+> Couldn't set up Humpty Dumpty again.  
 
 This is so simple as hardly to require explanation. Humpty Dumpty is of course the Egg of Spirit, and the wall is the Abyss—his "fall" is therefore the descent of spirit into matter; and it is only too painfully familiar to us that all the king's horses and all his men cannot restore us to the height.
 
@@ -1418,13 +1462,10 @@ Only The King Himself can do that!
 
 But one can hardly comment upon a theme which has been so fruitfully treated by Ludovicus Carolus, that most holy illuminated man of God. His masterly treatment of the identity of the three reciprocating paths of Daleth, Teth, and Pe, is one of the most wonderful passages in the Holy Qabalah. His resolution of what we take to be the bond of slavery into very love, the embroidered neckband of honor bestowed upon us by the King himself, is one of the most sublime passages in this class of literature.
 
-Peter, Peter, pumpkin eater,
-
-Had a wife and couldn't keep her.
-
-He put her in a peanut shell;
-
-Then he kept her very well.
+> Peter, Peter, pumpkin eater,  
+> Had a wife and couldn't keep her.  
+> He put her in a peanut shell;  
+> Then he kept her very well.  
 
 This early authentic text of the Hinayana School of Buddhism is much esteemed even today by the more cultured and devoted followers of that school.
 
@@ -1434,14 +1475,14 @@ Peter is therefore the Arahat who has put an end to his series of resurrections.
 
 Buddha said that if any man became an Arahat he must either take the vows of a Bhikkhu that very day, or die, and it is this saying of Buddha's that the unknown poet wished to commemorate.
 
-> Taffy was a Welshman
-> Taffy was a thief;
-> Taffy came to my house
-> And stole a leg of beef.
-> I went to Taffy's house;
-> Taffy was in bed.
-> I took a carving knife,
-> And cut off Taffy's head.
+> Taffy was a Welshman  
+> Taffy was a thief;  
+> Taffy came to my house  
+> And stole a leg of beef.  
+> I went to Taffy's house;  
+> Taffy was in bed.  
+> I took a carving knife,  
+> And cut off Taffy's head.  
 
 Taffy is merely short for Taphthatharath, the Spirit of Mercury and the God of Welshmen or thieves. "My house" is of course equivalent to "my magick circle." Note that Beth, the letter of Mercury and "The Magus," means "a house."
 
@@ -1451,33 +1492,23 @@ In the following verse we find that Taffy is "in bed," owing to the operation of
 
 One can then take the Holy Dagger, and separate the Caput Mortuum from the Elixir. Some Alchemists believe that the beef represents that dense physical substance which is imbibed by Mercury for his fixation; but here as always we should prefer the more spiritual interpretation.
 
-> Bye, Baby Bunting!
-> Daddy's gone a-hunting.
-> He's gone to get a rabbit-skin
-> To wrap my Baby Bunting in.
+> Bye, Baby Bunting!  
+> Daddy's gone a-hunting.  
+> He's gone to get a rabbit-skin  
+> To wrap my Baby Bunting in.  
 
 This is mystical charge to the new-born soul to keep still, to remain steadfast in meditation; for, in Bye, Beth is the letter of thought, Yod that of the Hermit. It tells the soul that the Father of All will clothe him about with His own majestical silence. For is not the rabbit he "who lay low and said nuffin'"?
 
-> Pat-a-cake, pat-a-cake, baker's man!
-> Bake me a cake as fast as you can!
-> Pat it and prick it and mark it with P!
-> Bake it in the oven for baby and me!
+> Pat-a-cake, pat-a-cake, baker's man!  
+> Bake me a cake as fast as you can!  
+> Pat it and prick it and mark it with P!  
+> Bake it in the oven for baby and me!  
 
 This rime is usually accompanied (even today in the nursery) with a ceremonial clapping of hands-the symbol of Samadhi. Compare what is said on this subject in our comment on the famous "Advent" passage in Thessalonians.
 
 The cake is of course the bread of the sacrament, and it would ill become Frater P. to comment upon the third line-though it may be remarked that even among the Catholics the wafer has always been marked with a phallus or cross.
 
-
-
-
-
 ### Chapter VIII — The Sword
-
-
-
-
-
-
 
 "THE WORD OF THE LORD is quick and powerful, and sharper than a two-edged sword."
 
@@ -1645,13 +1676,10 @@ Make a thermometer, and the glass is so excited by the necessary fusion that yea
 
 As the Dhammapada says:
 
-An ill-thatched house is open to the mercy of the rain and wind;
-
-So passion hath the power to break into an unreflecting mind.
-
-A well-thatched house is proof against the fury of the rain and wind;
-
-So passion hath no power to break into a rightly-ordered mind.
+> An ill-thatched house is open to the mercy of the rain and wind;  
+> So passion hath the power to break into an unreflecting mind.  
+> A well-thatched house is proof against the fury of the rain and wind;  
+> So passion hath no power to break into a rightly-ordered mind.  
 
 Let then the Student practice observation of those things which normally would cause him emotion; and let him, having written a careful description of what he sees, check it by the aid of some person familiar with such sights.
 
@@ -1710,19 +1738,13 @@ As long as we try to fit facts to theories instead of adopting the scientific at
 
 The religious taunt the scientific man with this open-mindedness, with this adaptability. "Tell a lie and stick to it!" is "their" golden rule.
 
-
-
-
-
 ### Chapter IX — THE PANTACLE
 
-
-
-
-
-
-
 AS THE MAGICK CUP IS the heavenly food of the Magus, so is the Magick Pantacle his earthly food.
+
+![](img/Sigillium_Dei_Aemeth.jpg)
+
+*diagram on this page: The Sigillum Dei Aemeth pantacle, taken from the version in the Equinox. This caption below: "THE SIGILLUM DEI AEMETH, A PANTACLE MADE BY DR. JOHN DEE.*
 
 The Wand was his divine force, and the Sword his human force.
 
@@ -1802,17 +1824,12 @@ This great task of separating the self from the impressions or "vrittis" is one 
 
 In the Dhammapada we read:
 
-All that we are from mind results; on mind is founded, built of mind;
-
-Who acts or speaks with evil thought him doth pain follow sure and blind.
-
-So the ox plants his foot, and so the car wheel follows hard behind.
-
-All that we are from mind results; on mind is founded, built of mind;
-
-Who acts or speaks with righteous thought him happiness doth surely find.
-
-So failing not the shadow falls for ever in its place assigned.
+> All that we are from mind results; on mind is founded, built of mind;  
+> Who acts or speaks with evil thought him doth pain follow sure and blind.  
+> So the ox plants his foot, and so the car wheel follows hard behind.  
+> All that we are from mind results; on mind is founded, built of mind;  
+> Who acts or speaks with righteous thought him happiness doth surely find.  
+> So failing not the shadow falls for ever in its place assigned.  
 
 The Pantacle is then in a sense identical with the Karma or Kamma of the Magician.
 
@@ -1820,7 +1837,7 @@ The Karma of a man is his "ledger." The balance has not been struck and he does 
 
 A business conducted on such lines would be in a terrible mess; and we find in fact that man is in just such a mess. While he is working day and night at some unimportant detail of his affairs, some giant force may be advancing "pede claudo" to overtake him.
 
-Many of the entries in this "ledger" are for the ordinary man necessarily illegible; the method of reading them is given in that important instruction of the A.'.A.'. called "Thisharb," Liber CMXIII.
+Many of the entries in this "ledger" are for the ordinary man necessarily illegible; the method of reading them is given in that important instruction of the A∴A∴ called "Thisharb," Liber CMXIII.
 
 Now consider that this Karma is all that a man has or is. His ultimate object is to get rid of it completely—when it comes to the point of surrendering the Self to the Beloved; but in the beginning the Magician is not that Self, he is only the heap of refuse from which that Self is to be built up. The Magical instruments must be made before they are destroyed.
 
@@ -1854,15 +1871,11 @@ With the majority of people their actions cancel each other out; no sooner is ef
 
 Not one man in a thousand makes even an apparent escape from the commonplace of animal life.
 
-Birth is sorrow;
-
-Life is sorrow;
-
-Sorrowful are old age, disease, and death;
-
-But resurrection is the greatest misery of all.
-
-"Oh what misery! birth incessantly!" as Buddha said.
+> Birth is sorrow;  
+> Life is sorrow;  
+> Sorrowful are old age, disease, and death;  
+> But resurrection is the greatest misery of all.  
+> "Oh what misery! birth incessantly!" as Buddha said.  
 
 One goes on from day to day with a little of this and a little of that, a few kind thoughts and a few unkind thoughts; nothing really gets done. Body and mind are changed, changed beyond recall by nightfall. But what "meaning" has any of this change?
 
@@ -1888,19 +1901,9 @@ Such distinctions must be graven deeply upon the surface of the Pantacle by the 
 
 There is only one other of the elemental Instruments to be considered, namely the Lamp.
 
-
-
-
-
 ### Chapter X — THE LAMP
 
-
-
-
-
-
-
-IN LIBER A. VEL ARMORUM, the official instruction of the A.'.A.'. for the preparation of the elemental weapons, it is said that each symbolic representation of the Universe is to be approved by the Superior of the Magician. To this rule the Lamp is an exception; it is said:
+IN LIBER A. VEL ARMORUM, the official instruction of the A∴A∴ for the preparation of the elemental weapons, it is said that each symbolic representation of the Universe is to be approved by the Superior of the Magician. To this rule the Lamp is an exception; it is said:
 
 "A Magical Lamp that shall burn without wick or oil, being fed by the Aethyr. This shall he accomplish secretly and apart, without asking the advice or approval of his Adeptus Minor."
 
@@ -1932,23 +1935,13 @@ Yet in so great ~a matter all advice is vain. There is no master so great that h
 
 Yet since the Master is pledged to serve, he may take up that service on these simple lines. Since all thoughts are veils of this Light, he may advise the destruction of all thoughts, and to that end teach those practices which are clearly conductive to such destruction.
 
-These practices have now fortunately been set down in clear language by order of the A.'.A.'..
+These practices have now fortunately been set down in clear language by order of the A∴A∴.
 
 In these instructions the relativity and limitation of each practice is clearly taught, and all dogmatic interpretations are carefully avoided. Each practice is in itself a demon which must be destroyed; but to be destroyed it must first be evoked.
 
 Shame upon that Master who shirks any one of these practices, however distasteful or useless it may be to him! For in the detailed knowledge of it, which experience alone can give him, may lie his opportunity for crucial assistance to a pupil. However dull the drudgery, it should be undergone. If it were possible to regret anything in life, which is fortunately not the case, it would be the hours wasted in fruitful practices which might have been more profitably employed on sterile ones: for NEMO in tending his garden seeketh not to single out the flower that shall be NEMO after him. And we are not told that NEMO might have used other things than those which he actually does use; it seems possible that if he had not the acid or the knife, or the fire, or the oil, he might miss tending just that one flower which was to be NEMO after him!
 
-
-
-
-
 ### Chapter XI — THE CROWN
-
-
-
-
-
-
 
 THE CROWN OF THE MAGICIAN represents the Attainment of his Work. It is a band of pure gold, on the front of which stand three pentagrams, and on the back a hexagram. The central pentagram contains a diamond or a great opal; the other three symbols contain the Tau. Around this Crown is twined the golden Ureaus serpent, with erect head and expanded hood. Under the Crown is a crimson cap of maintenance, which falls to the shoulders.
 
@@ -1968,17 +1961,7 @@ In the Hindu system the Great Work is represented by saying that this serpent, w
 
 The serpent is also he who poisons. It is that force which destroys the manifested Universe. This is also the emerald snake which encircles the Universe. This matter must be studied in Liber LXV, where this is discussed incomparably. In the hood of this serpent are the six jewels, three on each side, Ruby, Emerald, and Sapphire, the three holy elements made perfect, on both sides in equilibrium.
 
-
-
-
-
 ### Chapter XII — THE ROBE
-
-
-
-
-
-
 
 THE ROBE OF THE MAGICIAN may be varied according to his grade and the nature of his working.
 
@@ -1992,17 +1975,7 @@ In another sense it is the "Aura" of the Magician, that invisible egg or sheath 
 
 The only light of the Magician is from the Lamp which hangs above his head, as he stands in the center of the Circle, and the Robe, being open at the neck, opposes no obstacles to the passage of this light. And being open, and very wide open, at the bottom, it permits that light to pass and illumine them that sit in darkness and in the shadow of death.
 
-
-
-
-
 ### Chapter XIII — THE BOOK
-
-
-
-
-
-
 
 THE BOOK OF SPELLS or of Conjurations is the Record of every thought, word, and deed of the Magician; for everything that he has willed is willed to a purpose. It is the same as if he had taken an oath to perform some achievement.
 
@@ -2018,17 +1991,7 @@ And yet there is no page of this Book on which this word is not written; but so 
 
 This full stop may never be written anywhere else; for the writing of the Book goes on eternally; there is no way of closing the record until the goal of all has been attained. Let every page of this Book be filled with song—for it is a Book of incantation!
 
-
-
-
-
 ### Chapter XIV — THE BELL
-
-
-
-
-
-
 
 THE MAGICAL BELL IS best attached to the chain. In some systems of Magick a number of bells have been worn, sewn upon the hem of the robe with the idea of symbolizing that every movement of the Magician should make music. But the Bell of which we shall speak is a more important implement. This Bell summons and alarms; and it is also the Bell which sounds at the elevation of the Host.
 
@@ -2042,19 +2005,13 @@ The sound of this Bell is indescribably commanding, solemn, and majestic. Withou
 
 As the Magical Book was the record of the past, so is the Magick Bell the prophecy of the future. The manifested shall repeat itself again and again, always a clear thin note, always a simplicity of music, yet ever less and less disturbing the infinite silence until the end.
 
-
-
-
-
 ### Chapter XV — THE LAMEN
 
-
-
-
-
-
-
 THE BREASTPLATE OR Lamen of the Magician is a very elaborate and important symbol. In the Jewish system we read that the High Priest was to wear a plate with twelve stones, for the twelve tribes of Israel (with all their correspondences), and in this plate were kept the Urim and Thummin.
+
+![](img/The_Lamen.jpg)
+
+*figure on this page: A vesica with balances, sword, rose and crown, along with several letters and numbers. This caption beneath: "EXAMPLE OF DESIGN FOR A LAMEN"*
 
 The modern Lamen is, however, a simple plate which (being worn over the heart) symbolizes Tiphereth, and it should therefore be a harmony of all the other symbols in one. It connects naturally by its shape with the Circle and the Pentacle; but it is not sufficient to repeat the design of either.
 
@@ -2068,19 +2025,13 @@ In the system of Abramelin the Lamen is a plate of silver upon which the Holy Gu
 
 It is the "Knowledge and Conversation of the Holy Guardian Angel" which confers this faith. The task of attaining to this Knowledge and Conversation is the sole task of him who would be called Adept. An absolute method for achieving this is given in the Eighth Aethyr (Liber CDXVIII, Equinox V).
 
-
-
-
-
 ### Chapter XVI — THE MAGICK FIRE; WITH CONSIDERATIONS OF THE THURIBLE, THE CHARCOAL, AND THE INCENSE
 
-
-
-
-
-
-
 INTO THE MAGICK FIRE all things are cast. It symbolizes the final burning up of all things in Shivadarshana. It is the absolute destruction alike of the Magician and the Universe.
+
+![](img/The_Censer.jpg)
+
+*illustration on this page: a pot supported by a tripod with arms up and over the top to hold up a perforated circular grate. The upper extensions of the arms are flame-shaped. This caption beneath: "THE CENSER (CROWLEY'S PATENT PATTERN)."*
 
 The Thurible stands upon a small altar. "My altar is of open brass work: burn thereon in silver or gold!"
 
@@ -2120,21 +2071,11 @@ But the worst of all phantasms are the moral ideas and the religious ideas. Sani
 
 All these phantoms, of whatever nature, must be evoked, examined, and mastered; otherwise we may find that just when we want it there is some idea with which we have never dealt; and perhaps that idea, springing on us by surprise, and as it were from behind, may strangle us. This is the legend of the sorcerer strangled by the Devil!
 
-
-
-
-
 ### GLOSSARY
-
-
 
 ONLY words nowhere explained in the preceding pages are given in this list. Several others, mentioned in passing in the early part of the book, are sufficiently dealt with later on. In these cases the references in the Index should be turned up.
 
-
-
-
-
-A.'.A.'. THE GREAT White Brotherhood which is giving this Method of Attainment to the world. See Equinox I.
+A∴A∴ THE GREAT White Brotherhood which is giving this Method of Attainment to the world. See Equinox I.
 
 Adeptus Minor. A grade of adeptship. See Equinox III.
 
@@ -2302,11 +2243,7 @@ Zohar. Splendour, a collection of books on the Qabalah. See "The Temple of Solom
 
 ### Notice
 
-
-
-
-
-THE A.'.A.'. IS AN organization whose heads have obtained by personal experience to the summit of this science. They have founded a system by which everyone can equally attain, and that with an ease and speed which was previously impossible. The first grade in Their system is that of STUDENT.
+THE A∴A∴ IS AN organization whose heads have obtained by personal experience to the summit of this science. They have founded a system by which everyone can equally attain, and that with an ease and speed which was previously impossible. The first grade in Their system is that of STUDENT.
 
 A Student must possess the following books: The Equinox, 777. Konx Om Pax. Collected Works of A. Crowley; Tannhauser, The Sword of Song, Time, Eleusis. 3 vols. Raja Yoga, by Swami Vivekananda. The Shiva Sanhita, or the Hathayoga Pradipika. The Tao Teh King and the writings of Kwang Tze: S.B.E. xxxix, xl. The Spiritual Guide, by Miguel de Molinos. Rituel et Dogme de la Haute Magie, by Eliphas Levi, or its translation by A. E. Waite. The Goetia of the Lemegeton of Solomon the King. These books should be well studied in any case in conjunction with the second part—Magick—of this Book IV.
 
@@ -2314,9 +2251,9 @@ Study of these books will give a thorough grounding in the intellectual side of 
 
 After three months the Student is examined in these books, and if his knowledge of them is found satisfactory, he may become a Probationer, receiving Liber LXI and the secret holy book, Liber LXV. The principal point of this grade is that the Probationer has a master appointed, whose experience can guide him in his work.
 
-He may select any practices that he prefers, but in any case must keep an exact record, so that he may discover the relation of cause and effect in his working, and so that the A.'.A.'. may judge of his progress, and direct his further studies.
+He may select any practices that he prefers, but in any case must keep an exact record, so that he may discover the relation of cause and effect in his working, and so that the A∴A∴ may judge of his progress, and direct his further studies.
 
-After a year of probation he may be admitted a Neophyte of the A.'.A.'., and receive the secret holy book Liber VII.
+After a year of probation he may be admitted a Neophyte of the A∴A∴, and receive the secret holy book Liber VII.
 
 These are the principal instructions for practice which every probationer should follow out:
 
@@ -2334,7 +2271,17 @@ This is the original 1912 public domain text without Aleister Crowley’s 1921 c
 
 As Crowley describes it: "This book deals with many matters on all planes of the very highest importance. It is an official publication for Babes of the Abyss, but is recommended even to beginners as highly suggestive."
 
-# PART III - MAGICK IN THEORY AND PRACTICE
+# PART III - MAGICK
+
+#### IN THEORY AND PRACTICE
+
+First published in Paris by Lecram Press., 1930.
+Corrected edition included in "Magick: Book 4 Parts I-IV", York Beach, Maine: Samuel Weiser, 1994
+
+This edition is based on the electronic edition prepared and issued by Celephaïs Press,
+somewhere beyond the Tanarian Hills, and manifested in the waking world in Leeds, Yorkshire, England July 2004.
+
+![](img/Alesiter_Crowley_Magick_small.jpg)
 
 ### HYMN TO PAN 
 
@@ -2345,7 +2292,6 @@ As Crowley describes it: "This book deals with many matters on all planes of the
 > θεῶν χοροποιὲ ἄναξ!  
 
 SOPH. AJ. 
-
 
 > Thrill with lissome lust of the light,  
 > O man! My man!  
@@ -2415,31 +2361,43 @@ SOPH. AJ.
 > In the might of Pan.  
 > lo Pan! Io Pan Pan! Pan! Io Pan!  
 
+### Prefatory Note
+
+Our beloved Soror VIRAKAM, feeling the hoodwink of her inexperience in Practical Magick, has asked me to take up the work of obtaining this book from the lips of Frater Perdurabo. Conscious of my own defects, I yet yielded to her insistence, and most earnestly thank and bless her for the privilege conferred. The bravest as the sweetest of all the women I have known, she has now, at the suggestion of the Master, entered the harem of a Turk in order to study Mohammedan methods of Mysticism and Magick.
+
+Blessed among women be her name unto the ages!
+
+I have done my best to cross-examine Frater Perdurabo on all points of difficulty that have occurred in my own working, and I have been incomparably blest by the instruction, and yet more by the Initiation, which I have received.
+
+However, it has proved impossible to confine Part III to such elementary thought as the former parts. Remonstrance has only drawn from Frater Perdurabo the reply that He has it in mind to say these things, and that they had better be said now, lest He forget to say them at some other time.
+
+This must be my excuse to any who find portions of this Part III difficult to understand. Let them take courage; practice and progress will make all clear as it is glorious. It is earth that breeds the clouds that hide the sun. Let them leave earth; they will find Him, the source of all Light.^[It is amazing to observe that FRATER PERDURABO, when He had completed the series of discourses in Part II, supposed that He had exhaussted the subject. Everyone (He thought) would say, "Oh, that is the meaning of the Wand!" "Now I understand about the Cup!" It never occurred to Him that there were people who had not done magick. He only thought that there might be a few who were doing it badly!!!!!]
+
+**Soror Agatha**
+
 ### INTRODUCTION 
 
 > Ἐσσῆαι ἀθάνατος θεός, ἀμβρότος, οὐκέτι θνητός.
-*Pythagoras.*
+*Pythagoras.*^[Greek: ""You shall be a deathless god, immortal, no longer subject to death."" The final line of the "Golden Verses of Pythagoras.]
 
 > “Magic is the Highest, most Absolute, and most Divine Knowledge of Natural Philosophy, advanced in its Works and wonderful operations by a right understanding of the inward and occult virtue of things; so that true Agents being applied to proper Patients, strange and admirable effects will thereby be produced. Whence magicians are profound and diligent searchers into Nature; they, because of their skill, know how to anticipate an effect, the which to the vulgar shall seem to be a miracle.” 
-*The Goetia of the Lemegeton of King Solomon.*
+*The Goetia of the Lemegeton of King Solomon.*^[Part of the "Preliminary Definition of Magic" which appears at the start of some MSS. of the Lemegeton, a 17th-century English compilation of magical texts attributed to Solomon; in turn taken from an English translation of Themis Auræ, a Rosicrucian work by Michael Maier.]
 
 “Wherever sympathetic magic occurs in its pure unadulterated form, it is assumed that in nature one event follows another necessarily and invariably without the intervention of any spiritual or personal agency. 
 
-> **Thus its fundamental conception is identical with that of modern science; underlying the whole System is a farth, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur failure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.” 
-Dr. J. G. FRAZER, *«The Golden Bough*
+> **Thus its fundamental conception is identical with that of modern science; underlying the whole System is a faith, implicit but real and firm, in the order and uniformity of nature.** The magician does not doubt that the same causes will always produce the same effects, that the performance of the proper ceremony accompanied by the appropriate spell, will inevitably be attended by the desired results, unless, indeed, his incantations should chance to be thwarted and foiled by the more potent charms of another sorcerer. He supplicates no higher power: he sues the favour of no fickle and wayward being: he abases himself before no awful deity. Yet his power, great as he believes it to be, is by no means arbitrary and unlimited. He can wield it only so long as he strictly conforms to the rules of his art, or to what may be called the laws of nature as conceived by him. To neglect these rules, to break these laws in the smallest particular is to incur failure, and may even expose the unskilful practitioner himself to the utmost peril. If he claims a sovereignty over nature, it is a constitutional sovereignty rigorously limited in its scope and exercised in exact conformity with ancient usage. **Thus the analogy between the magical and the scientific conceptions of the worid is close. In both of them the succession of events is perfectly regular and certain, being determined by immutable laws, the operation of which can be foreseen and calculated precisely;** the elements of caprice, of chance, and of accident are banished from the course of nature. Both of them open up a seemingly boundless vista of possibilities to him who knows the causes of things and can touch the secret springs that set in motion the vast and intncate mechanism of the worid. Hence the strong attraction which magic and science alike have exercised on the human mind hence the powerful stimulus that both have given to the pursuit of knowledge. They lure the weary enquirer, the footsore seeker, on through the wilderness of disappointment in the present by their endless promises of the future: they take him up to the top of an exceeding high mountain and shew him, beyond the dark clouds and rolling mists at his feet, a vision of the celestial city, far off, it may be, but radiant with unearthly splendour, bathed in the light of dreams.”  
+Dr. J. G. FRAZER, *«The Golden Bough*^[The Magic Art and the Evolution of Kings (part I of the third edition Golden Bough), i. 220-221. &mdash; Emphasis Crowley's.]
 
+> “So far, therefore, **as the public profession of magic has been one of the roads by which men have passed to supreme power, it has contributed to emancipate mankind from the thraldom of tradition and to elevate them into a larger, f reer life, with a broader outlook, on the worid. This is no small service rendered to humanity.** And when we remember further that in another direction magic has paved the way for science, we are forced to admit that if the black art has done much evil, it has also been the source of much good that if it is the child of error, **it has yet been the mother of freedom and truth.”**  
+Ibid.^[The Magic Art &c., i. 218-219. &mdash; Emphasis Crowley's.]
 
-> “So far, therefore, **as the public profession of magic has been one of the roads by which men have passed to supreme power, it has contributed to emancipate mankind from the thraldom of tradition and to elevate them into a larger, f reer life, with a broader outlook, on the worid. This is no small service rendered to humanity.** And when we remember further that in another direction magic has paved the way for science, we are forced to admit that if the black art has done much evil, it has also been the source of much good that if it is the child of error, **it has yet been the mother of freedom and truth.”**
-
-Ibid. 
-
-> “Prove all things; hold fast that which is good”. 
-
-St. Paul. 
+> “Prove all things; hold fast that which is good”.  
+St. Paul.^[1 Thess. V. 21.]
 
 > “Also the mantras and spells; the obeah and the wanga; the work of the wand and the work of the sword: these he shall learn and teach. “He must teach; but he may make severe the ordeals. 
-> “The word of the Law is 0EAHMA.” 
-LIBER AL vel xxxi: The Book of the Law. 
+> “The word of the Law is 0EAHMA.”  
+LIBER AL vel xxxi: The Book of the Law.^[cap. I vv. 37-39.]
+
 
 ---
 
@@ -2668,7 +2626,7 @@ is merely to be and to do. I should add: a "to suffer". For Magick is the verb a
 
 Yet, once the above principles are firmly fixed in the mind, it is easy enough to sum up the situation very shortly. One must find out for oneself, and make sure beyond doubt, *who* one is, *what* one is, *why* one is. This done, one may put the Will which is implicit in the “Why” into words, or rather into One Word. Being thus conscious of the proper course to pursue, the next thing is to understand the conditions necessary to following it out. After that, one must eliminate from oneself every element alien or hostile to success, and develop those parts of oneself which are specially needed to control the aforesaid conditions. 
 
-Let us make an analogy. A nation must become aware of its own character before it can be said to exist. From that knowledge it must divine its destiny. It must then consider the political conditions of the world; how other countries may help it or hinder it. It must then destroy in itself any elements discordant with its destiny. Lastly, it must develop in itself those qualifies which will enable it to combat successfully the external conditions which threaten to oppose its purpose. We have had a recent example in the case of the young German Empire, which, knowing itself and its will, disciplined and trained itself so that it conquered the neighbours which had oppressed it for so many centuries. But after 1866 and 1870, 1914!^[At least, it allowed England to discover its intentions, and so to combine the world against it.] It mistook itself for superhuman, it willed a thing impossible, it falled to eliminate its own internal jealousies, it falled to understand the conditions of victory, it did not train itself to hold the sea, and thus, having violated every principle of 
+Let us make an analogy. A nation must become aware of its own character before it can be said to exist. From that knowledge it must divine its destiny. It must then consider the political conditions of the world; how other countries may help it or hinder it. It must then destroy in itself any elements discordant with its destiny. Lastly, it must develop in itself those qualities which will enable it to combat successfully the external conditions which threaten to oppose its purpose. We have had a recent example in the case of the young German Empire, which, knowing itself and its will, disciplined and trained itself so that it conquered the neighbours which had oppressed it for so many centuries. But after 1866 and 1870, 1914!^[At least, it allowed England to discover its intentions, and so to combine the world against it.] It mistook itself for superhuman, it willed a thing impossible, it falled to eliminate its own internal jealousies, it falled to understand the conditions of victory, it did not train itself to hold the sea, and thus, having violated every principle of 
 
 **MAGICK,**
 
@@ -2690,7 +2648,7 @@ he shall be such a shepherd as David was. If it be the studio of a sculptor, he 
 
 Witness mine hand:
 
-TO META 0HPION (nnn) • The Beast 666; MAGUS 9° = 2° A. A., who is The Word of the Aeon THELEMA; whose name is called V.V.V.V.V. 8° = 3 0 A. A., in the City of the Pyramids; OU MH 7 0 = 4 0; OL SONUF VAORESAGI 6° = 5 0 , and . 5 0 = 6° A.\ A., in the Mountain of Abiegnus: but FRATER PERDURABO in the Outer Order or the A. A., and in the World of men upon the Earth, Aleister Crowley of Trinity College, Cambridge.
+TO META 0HPION (nnn) • The Beast 666; MAGUS 9° = 2° A∴A∴, who is The Word of the Aeon THELEMA; whose name is called V.V.V.V.V. 8° = 3 0 A∴A∴, in the City of the Pyramids; OU MH 7 0 = 4 0; OL SONUF VAORESAGI 6° = 5 0 , and . 5 0 = 6° A.\ A., in the Mountain of Abiegnus: but FRATER PERDURABO in the Outer Order or the A∴A∴, and in the World of men upon the Earth, Aleister Crowley of Trinity College, Cambridge.
 
 ---
 
@@ -2805,7 +2763,7 @@ A special section is devoted to Necromancy and Spiritism.
 
 Instruction in mental and bodily training, which is the basis of the Great Work. 
 
-**Appendix I.** General literature recommended to aspirants for The A. A. and a list of the principal books of instruction issued by the A.A.
+**Appendix I.** General literature recommended to aspirants for The A∴A∴ and a list of the principal books of instruction issued by the A.A.
 
 **Appendix II. One Star in Sight.** An essay on the structure and System of the Great White Brotherhood. 
 
@@ -2821,7 +2779,11 @@ Instruction in mental and bodily training, which is the basis of the Great Work.
 
 ### Do what thou wilt shall be the whole of the Law.
 
-### Chapter O — The Magical Theory of the Universe. 
+### The Tree of Life with various attributions
+
+![](img/The_Tree_of_Life.jpg)
+
+### Chapter 0 — The Magical Theory of the Universe. 
 
 **There are three main theories of the Universe: Dualism, Monism and Nihilism.** It is impossible to enter into a discussion of their relative merits in a popular manual of this sort. They may be studied in Erdmann’s “History of Philosophy” and similar treatises. 
 
@@ -2835,7 +2797,7 @@ This first triad is essentially unity, in a manner transcending reason. The comp
 
 An immeasurable abyss divides it from all manifestations of Reason or the lower qualities of man. In the ultimate analysis of Reason, we find all reason identified with this abyss. Yet this abyss is the crown of the mind. Purely intellectual faculties all obtain here. This abyss has no number, for in it all is confusion. 
 
-Below this abyss we find the moral qualifies of Man, of which there are six. The highest is symbolised by the number Four. Its nature is fatherly^[Each conception is, however, balanced in itself. Four is also Daleth, the letter of Venus; so that the mother-idea is included. Again, the Sephira of 4 is Chesed, referred to Water. 4 is ruled by Jupiter, Lord of the Lightning (Fire) yet ruler of Air. Each Sephira is complete in its way.] Mercy and Authority are the attributes of its dignity. 
+Below this abyss we find the moral qualities of Man, of which there are six. The highest is symbolised by the number Four. Its nature is fatherly^[Each conception is, however, balanced in itself. Four is also Daleth, the letter of Venus; so that the mother-idea is included. Again, the Sephira of 4 is Chesed, referred to Water. 4 is ruled by Jupiter, Lord of the Lightning (Fire) yet ruler of Air. Each Sephira is complete in its way.] Mercy and Authority are the attributes of its dignity. 
 The number Five is balanced against it. The attributes of Five are Energy and Justice. Four and Five are again combined and harmonized in the number Six, whose nature is beauty and harmony, mortality and immortality. 
 In the number Seven the feminine nature is again predominant, but it is the masculine type of female, the Amazon, who is balanced in the number Eight by the feminine type of male. 
 
@@ -2867,7 +2829,7 @@ Yet this is true also, that, once the language is mastered, one can divine the u
 
 An excellent man of great intelligence, a learned Qabalist, once amazed the Master Therion by stating that the Tree of Life was the framework of the Universe. It was as if some one had seriously maintained that a art was a creature constructed by placing the letters C. A. T. in that order. It is no wonder that Magick has excited the ridicule of the unintelligent, since even its educated students can be guilty of so gross a violation of the first principles of common sense.^[Long since writing the above, an even grosser imbecility bas been perpetrated. One who ought to have known better tried to improve the Tree of Life by turning the Serpent of Wisdom upside down! Yet he could not even make his scheme symmetrical: bis little remaining good sense revolted at the supreme atrocities. Yet be succeeded in reducing the whole Magical Alphabet to nonsense, and shewing that he had never understood its real meaning. The absurdity of any such disturbance of the arrangement of the Paths is evident to any sober student from such examples as the following. Binah, the Supernal Understanding, is connected with Tiphereth, the Human Consciousness, by Zain, Gemini, the Oracles of the Gods, or the Intuition. That is, the attribution represents a psychological fact: to replace it by The Devil is either humour or plain idiocy. Again, the card ‘Fortitude”, Leo, balances Majesty and Mercy with Strength and Severity: what sense is there in putting “Death”, the Scorpion, in its stead? There are twenty other mistakes in the new wonderful illuminated-from-on-high attribution; the student can therefore be sure of twenty more laughs if he cares to study it.] 
 
-A synopsis of the grades of the A. A., as illustrative of the Magical Hierarchy in Man is given in Appendix 2 “One Star in Sight.” This should be read before proceeding with the chapter. The subject is very difficult. To deal with it in full is entirely beyond the limits of this small treatise. 
+A synopsis of the grades of the A∴A∴, as illustrative of the Magical Hierarchy in Man is given in Appendix 2 “One Star in Sight.” This should be read before proceeding with the chapter. The subject is very difficult. To deal with it in full is entirely beyond the limits of this small treatise. 
 
 #### FURTHER CONCERNING THE MAGICAL UNIVERSE 
 
@@ -2976,7 +2938,7 @@ With this understanding, we may rehabilitate the Hebrew System of invocations. *
 
 At the same time let us reflect that **there is a certain definite consensus of experience as to the correlation of the various beings of the hierarchy with the observed facts of Magick.** In the simple matter of astral vision, for example, one striking case may be quoted. 
 
-Without telling him what it was, the Master Therion once recited as an invocation Sappho’s “Ode to Venus” before a Probationer of the A. A. who was ignorant of Greek, the language of the Ode. The disciple then went on an “astral journey,” and everything seen by him was without exception harmonious with Venus. This was true down to the smallest detail. He even obtained all the four colour-scales of Venus with absolute correctness. Considering that he saw something like one hundred symbols in all, the odds against coincidence are incalculably great. Such an experience (and the records of the A. A., contain dozens of similar cases) affords proof as absolute as any proof can be in this world of Illusion that the correspondences in Liber 777 really represent facts in Nature. 
+Without telling him what it was, the Master Therion once recited as an invocation Sappho’s “Ode to Venus” before a Probationer of the A∴A∴ who was ignorant of Greek, the language of the Ode. The disciple then went on an “astral journey,” and everything seen by him was without exception harmonious with Venus. This was true down to the smallest detail. He even obtained all the four colour-scales of Venus with absolute correctness. Considering that he saw something like one hundred symbols in all, the odds against coincidence are incalculably great. Such an experience (and the records of the A∴A∴, contain dozens of similar cases) affords proof as absolute as any proof can be in this world of Illusion that the correspondences in Liber 777 really represent facts in Nature. 
 
 It suggests itself that this “straightforward” System of magick was perhaps never really employed at all. One might maintain that the invocations which have come down to us are but the ruins of the Temple of Magick. The exorcisms might have been committed to writing for the purpose of memorising them, while it was forbidden to make any record of the really important parts of the ceremony. Such details of Ritual as we possess are meagre and unconvincing, and though much success h as been attained in the quite conventional exoteric way both by Frater Perdurabo and by many of his colleagues, yet ceremonies of this character have always remained tedious and difficult. It has seemed as if the success were obtained almost in spite of the ceremony. In any case, they are the more mysterious parts of the Ritual which have evoked the divine force. Such conjurations as those of the “Goetia” leave one cold, although, notably in the second conjuration, there is a crude attempt to use that formula of Commemoration of which we spoke in the preceding Chapter. 
 
@@ -2992,7 +2954,7 @@ The formation of the Yod is the formulation of the first creative force, of that
 
 His mission is to redeem her by making her his bride; the result of this is to set her upon the throne of her mother, and it is only she whose youthful embrace can reawaken the eld of the All-Father. In this complex family relationship^[The formula of Tetragrammaton, as ordinarily understood, ending with the appearance of the daughter, is indeed a degradation.] is symbolised! the whole course of the Universe. It will be seen that (after all) the Climax is at the end. It is the second half of the formula which symbolises the Great Work which we are pledged to accomplish. The first step of this is the attainment of the Knowledge and Conversation of the Holy Guardian Angel, which constitutes the Adept of the Inner Order. 
 
-The re-entry of these twin spouses into the womb of the mother is that initiation described in Liber 418, which gives admission to the Inmost Order of the A. A. Of the last step we cannot speak. 
+The re-entry of these twin spouses into the womb of the mother is that initiation described in Liber 418, which gives admission to the Inmost Order of the A∴A∴ Of the last step we cannot speak. 
 
 It will now be recognised that to devise a practical magical ceremony to correspond to Tetragrammaton in this exalted sense might be difficult if not impossible. In such a ceremony the Rituals of purification alone might occupy many incarnations. 
 
@@ -3061,7 +3023,7 @@ Even in the legend of Prometheus we find an identical formula concealed; and a s
 
 A magical ceremony constructed on this formula is thus in close essential harmony with the natural mystic process. We find it the basis of many important initiations, notably the Third degree in Masonry, and the 5°—6 ° ceremony of the G.D. described in Equinox I, III. A ceremonial self-initiation may be constructed with advantage on this formula. The essence of it consists in robing yourself as a king, then stripping and slaying vourself, and rising from that death to the Knowledge and Conversation of the Holy Guardian Angel^[This formula, although now superseded by that of HORUS, the Crowned and Conquering Child, remains valid for those who have not yet assimilated the point of view of the Law of Thelema. But see Appendix, Liber SAMEKH. Compare also “The Book of the Spirit of the Living Gods,” where there is a ritual given in extenso on slightly different lines: Equinox I, III, pages 269-272.] There is an etymological identity between Tetragrammaton and **I.A.O.**, but the magical formulæ are entirely different, as the descriptions here given have shewn. 
 
-Professor William James, in his “Varieties of Religious Experience”, has well classified religion as the "once-born” and the “twice-born”; but the religion now proclaimed in Liber Legis harmonizes these by transcending them. There is no attempt to get rid of death by denying it, as among the once-born; nor to accept death as the gate of a new life, as among the twice-born. With the A. A., life and death are equally incidents in a career, very much like day and night in the history of a planet. But, to pursue the simile, we regard this planet from afar. **A Brother of A. A., looks at (what another person would call) “himself”, as one — or, rather, some — among a group of phenomena. He is that “nothing” whose consciousness is in one sense the universe considered as a single phenomenon in time and space, and in another sense is the negation of that consciousness.** The body and mind of the man are only important (if at all) as the telescope of the astronomer to him. If the telescope were destroyed it would make no appreciable difference to the Universe which that telescope reveals. 
+Professor William James, in his “Varieties of Religious Experience”, has well classified religion as the "once-born” and the “twice-born”; but the religion now proclaimed in Liber Legis harmonizes these by transcending them. There is no attempt to get rid of death by denying it, as among the once-born; nor to accept death as the gate of a new life, as among the twice-born. With the A∴A∴, life and death are equally incidents in a career, very much like day and night in the history of a planet. But, to pursue the simile, we regard this planet from afar. **A Brother of A∴A∴, looks at (what another person would call) “himself”, as one — or, rather, some — among a group of phenomena. He is that “nothing” whose consciousness is in one sense the universe considered as a single phenomenon in time and space, and in another sense is the negation of that consciousness.** The body and mind of the man are only important (if at all) as the telescope of the astronomer to him. If the telescope were destroyed it would make no appreciable difference to the Universe which that telescope reveals. 
 
 It will now be understood that this formula of I A O is a formula of Tiphareth. The magician who employs it is conscious of himself as a man liable to suffering, and anxious to transcend that state by becoming one with God. It will appear to him as the Supreme Ritual, as the final step but, as has already been pointed out, it is but a preliminary. For the normal man to-day, however, it represents considerable attainment; and there is a much earlier formula whose investigation will occupy Chapter VI. 
 
@@ -3074,7 +3036,7 @@ these:
 
 We find the theory reflected in the customs of Matriarchy. Parthenogenesis is supposed to be true. The Virgin (Yod-Virgo) contains in herself the Principle of Growth — the epicene Hermetic seed. It becomes the Babe in the Egg (A — Harpocrates) by virtue of the Spirit (A = Air, impregnating the Mother- Vulture) and this becomes the Sun or Son (F = the letter of Tiphareth, 6, even when spelt as Omega, in Coptic. See 777). 
 
-*Aeon of Osiris*. Patriarchal age. Two sexes. I conceived as the Father-Wand. (Yod in Tetragrammaton). A The Babe is pursued by the Dragon, who casts a flood from his mouth to swallow it. See *Rev.* VII The Dragon is also the Mother — the “Evil Mother” of Freud. It is Harpocrates, threatened by the crocodile in the Nile. We find the symbolism of the Ark, the Coffin of Osiris, etc. The Lotus is the Yoni; the Water the Amniotic Fluid. In order to live his own life, the child must leave the Mother, and overcome the temptation to return to her for refuge. Kundry, Armida, Jocasta, Circe, etc., are svmbols of this force Which tempts the Hero. He may take her as his servant^[Her sole speech in the last Act is “Dienen: Dienen”.] when he has mastered her, so as to heal his father (Amfortas), avenge him (Osiris), or pacify him (Jehovah). But in order to grow to manhood, he must cease to depend on her, earning the Lance (Parzival), claiming his arms (Achilles), or making his club (Hercules)^[Note that all these three remain for a time as neuters among women, prevented from living the male life.] , and wander in the waterless wilderness like Krishna, Jesus, Oedipus, chi tau lambda — until the hour when, as the “King’s Son” or knight-errant, he must win the Princess, and set himself upon a strange throne. Almost all the legends of heroes imply this formula in strikingly similar symbols. F. Vau the Sun — Son. He is supposed to be mortal; but how is this shewn? It seems an absolute perversion of truth: the sacred symbols have no hint of it. This lie is the essence of the Great Sorcery. Osirian religion is a Freudian phantasy fashioned of man’s dread of death and ignorance of nature. The parthenogenesis-idea persists, but is now the formula for incarnating demi-gods, or divine kings; these must be slain and raised from the dead in one way or another.^[all these ideas may be explained by reference to anthropology. But this is not their condemnation, but their justification; for the customs and legends of mankind reflect the true nature of the species.]
+*Aeon of Osiris*. Patriarchal age. Two sexes. I conceived as the Father-Wand. (Yod in Tetragrammaton). A The Babe is pursued by the Dragon, who casts a flood from his mouth to swallow it. See *Rev.* VII The Dragon is also the Mother — the “Evil Mother” of Freud. It is Harpocrates, threatened by the crocodile in the Nile. We find the symbolism of the Ark, the Coffin of Osiris, etc. The Lotus is the Yoni; the Water the Amniotic Fluid. In order to live his own life, the child must leave the Mother, and overcome the temptation to return to her for refuge. Kundry, Armida, Jocasta, Circe, etc., are symbols of this force Which tempts the Hero. He may take her as his servant^[Her sole speech in the last Act is “Dienen: Dienen”.] when he has mastered her, so as to heal his father (Amfortas), avenge him (Osiris), or pacify him (Jehovah). But in order to grow to manhood, he must cease to depend on her, earning the Lance (Parzival), claiming his arms (Achilles), or making his club (Hercules)^[Note that all these three remain for a time as neuters among women, prevented from living the male life.] , and wander in the waterless wilderness like Krishna, Jesus, Oedipus, chi tau lambda — until the hour when, as the “King’s Son” or knight-errant, he must win the Princess, and set himself upon a strange throne. Almost all the legends of heroes imply this formula in strikingly similar symbols. F. Vau the Sun — Son. He is supposed to be mortal; but how is this shewn? It seems an absolute perversion of truth: the sacred symbols have no hint of it. This lie is the essence of the Great Sorcery. Osirian religion is a Freudian phantasy fashioned of man’s dread of death and ignorance of nature. The parthenogenesis-idea persists, but is now the formula for incarnating demi-gods, or divine kings; these must be slain and raised from the dead in one way or another.^[all these ideas may be explained by reference to anthropology. But this is not their condemnation, but their justification; for the customs and legends of mankind reflect the true nature of the species.]
 
 *Aeon of Horus*. Two sexes in one person. 
 
@@ -3100,9 +3062,9 @@ These symbols are all shewn in the Atu “The Hermit”. They are the powers of 
 
 A is the Babe “who has formulated his Father, and made fertile his Mother” — Harpocrates, etc., as before; but he develops to 
 
-O The exalted “Devil” (also the other secret Eye) by the formula of the Initiation of Horus elsewhere described in detail. This “Devil” is called Satan or Shartan, and regarded with horror by people who are ignorant of his formula, and, imagining themselves to be evil, accuse Nature herself of their own phantasmal crime. Satan is Saturn, Set, Abrasax, Adad, Adonis, Attis, Adam, Adonai, etc. The most serious charge against him is only that he is the Sun in the South. The Ancient Initiates, dwelling as they did in lands whose blood was the water of the Nile or the Euphrates, connectee! the South with life-withering heat and cursed that quarter where the solar darts were deadliest. Even in the legend of Hiram, it is at high noon that he is stricken down and slain. Capricornus is moreover the sign which the Sun enters when he reaches his extreme Southern declination at the Winter Solstice, the season of the death of vegetation, for the folk of the Northern hemisphere. This gave them a second cause for cursing the South. A third; the tyranny of hot, dry, poisonous winds; the menace of deserts or oceans dreadful because mysterious and impassable; these also were connected in their minds with the South. But to us, aware of astronomical facts, this antagonism to the South is a silly superstition which the accidents of their local conditions suggested to our animistic ancestors. We see no enmity between Right and Left, Up and Down, and similar pairs of opposites. These antitheses are real only as a statement of relation; they are the conventions of an arbitrary device for representing our ideas in a pluralistic symbolism based on duality. “Good” must be defined in terms of human ideals and instincts. “East” has no meaning except with reference to the earth’s internal affairs; as an absolute direction in space it changes a degree every four minutes. “Up” is the same for no two men, unless one chance to be in the line joining the other with the centre of the earth. “Hard” is the private opinion of our muscles. “True” is an utterly unintelligible epithet which has proved refractory to the analysis of our ablest philosophers. 
+O The exalted “Devil” (also the other secret Eye) by the formula of the Initiation of Horus elsewhere described in detail. This “Devil” is called Satan or Shartan, and regarded with horror by people who are ignorant of his formula, and, imagining themselves to be evil, accuse Nature herself of their own phantasmal crime. Satan is Saturn, Set, Abrasax, Adad, Adonis, Attis, Adam, Adonai, etc. The most serious charge against him is only that he is the Sun in the South. The Ancient Initiates, dwelling as they did in lands whose blood was the water of the Nile or the Euphrates, connected the South with life-withering heat and cursed that quarter where the solar darts were deadliest. Even in the legend of Hiram, it is at high noon that he is stricken down and slain. Capricornus is moreover the sign which the Sun enters when he reaches his extreme Southern declination at the Winter Solstice, the season of the death of vegetation, for the folk of the Northern hemisphere. This gave them a second cause for cursing the South. A third; the tyranny of hot, dry, poisonous winds; the menace of deserts or oceans dreadful because mysterious and impassable; these also were connected in their minds with the South. But to us, aware of astronomical facts, this antagonism to the South is a silly superstition which the accidents of their local conditions suggested to our animistic ancestors. We see no enmity between Right and Left, Up and Down, and similar pairs of opposites. These antitheses are real only as a statement of relation; they are the conventions of an arbitrary device for representing our ideas in a pluralistic symbolism based on duality. “Good” must be defined in terms of human ideals and instincts. “East” has no meaning except with reference to the earth’s internal affairs; as an absolute direction in space it changes a degree every four minutes. “Up” is the same for no two men, unless one chance to be in the line joining the other with the centre of the earth. “Hard” is the private opinion of our muscles. “True” is an utterly unintelligible epithet which has proved refractory to the analysis of our ablest philosophers. 
 
-We have therefore no scruple in restoring the “devil-worship” of such ideas as those which the laws of sound, and the phenomena of speech and hearing, compel us to connect with the group of “Gods” whose names are based upon ShT or D, vocalized by the free breath A. For these Names imply the qualifies of courage, frankness, energy, pride, power and triumph; they are the words which express the creative and paternal will. 
+We have therefore no scruple in restoring the “devil-worship” of such ideas as those which the laws of sound, and the phenomena of speech and hearing, compel us to connect with the group of “Gods” whose names are based upon ShT or D, vocalized by the free breath A. For these Names imply the qualities of courage, frankness, energy, pride, power and triumph; they are the words which express the creative and paternal will. 
 
 Thus “the Devil” is Capricornus, the Goat who leaps upon the loftiest mountains, the Godhead which, if it become manifest in man, makes him Aegipan, the All.
 
@@ -3120,7 +3082,7 @@ It is the same copper; but we have learnt some of its properties. We observe esp
 
 The second main point is the completion of the A babe Bacchus by the O Pan (Parzival wins the Lance, etc.). 
 
-The first process is to find the I in the V — initiation, purification, finding the Secret Root of oneself, the epicene Virgin who is io (Malkuth) but spelt in full 20 (Jupiter). 
+The first process is to find the I in the V — initiation, purification, finding the Secret Root of oneself, the epicene Virgin who is in (Malkuth) but spelt in full 20 (Jupiter). 
 
 This Yod in the Virgin expands to the Babe in the Egg by formulating the Secret Wisdom of Truth of Hermes in the Silence of the Fool. He acquires the Eye-Wand, beholding and acting and being adored. The Inverted Pentagram — Baphomet — the Hermaphrodite fully grown — begets himself on himself as V again. 
 
@@ -3129,13 +3091,10 @@ Note that there are now two sexes in one person throughout, so that each individ
 The I is formed from the V by removing its tall, the A by balancing 4 Yods, the O by making an inverted triangle of Yods, which suggests the formula of Nuit — Hadit — Ra-Hoor-Khuit. A is the elements whirling as a Svastika — the creative Energy in 
 equilibrated action. 
 
----
 
-### Chapter VI — The Formula of the Neophyte 
+### Chapter VI — The Formula of the Neophyte^[See the Neophyte Ceremony, Equinox I, II.]
 
-^[See the Neophyte Ceremony, Equinox I, II.]
-
-This formula has for its “first matter” the ordinary man entirely ignorant of everything and incapable of anything. He is therefore represented as blindfolded and bound. His only aid is his aspira¬ tion, represented by the officer who is to lead him into the Temple. Before entering, he must be purified and consecrated. Once within the Temple, he is required to bind himself by an oath. His aspiration is now formulated as Will. He makes the mystic circumambulation of the Temple for the reasons to be described in the Chapter on “Gesture”. After further purification and consecratioon, he is allowed for one moment to see the Lord of the West, and gains courage^[Fear is the source of all false perception. Even Freud had a glimpse of this fact.] to persist. For the third time he is purified and consecrated, and he sees the Lord of the East, who holds the balance, keeping him in a straight line. In the West he gains energy. In the East he is prevented from dissipating the same. So fortified, he may be received into the order as a neophyte by the three principal officers, thus uniting the Cross with the Triangle. He may then be placed between the pillars of the Temple, to receive the fourth and final consecration. In this position the secrets of the grade are communicated to him, and the last of his fetters is removed. all this is sealed by the sacrament of the Four Elements. 
+This formula has for its “first matter” the ordinary man entirely ignorant of everything and incapable of anything. He is therefore represented as blindfolded and bound. His only aid is his aspiration, represented by the officer who is to lead him into the Temple. Before entering, he must be purified and consecrated. Once within the Temple, he is required to bind himself by an oath. His aspiration is now formulated as Will. He makes the mystic circumambulation of the Temple for the reasons to be described in the Chapter on “Gesture”. After further purification and consecration, he is allowed for one moment to see the Lord of the West, and gains courage^[Fear is the source of all false perception. Even Freud had a glimpse of this fact.] to persist. For the third time he is purified and consecrated, and he sees the Lord of the East, who holds the balance, keeping him in a straight line. In the West he gains energy. In the East he is prevented from dissipating the same. So fortified, he may be received into the order as a neophyte by the three principal officers, thus uniting the Cross with the Triangle. He may then be placed between the pillars of the Temple, to receive the fourth and final consecration. In this position the secrets of the grade are communicated to him, and the last of his fetters is removed. All this is sealed by the sacrament of the Four Elements. 
 
 It will be seen that the **effect of this whole ceremony is to endow a thing inert and impotent with balanced motion in a given direction.** Numerous examples of this formula are given in Equinox I, Nos. II and III. It is the formula of the Neophyte Ceremony of G.D. It should be employed in the consecration of the actual weapons used by the magician, and may also be used as the first formula of initiation. 
 
@@ -3193,7 +3152,7 @@ It would therefore be impossible, even were it desireable, to analyse all such n
 
 #### IV 
 
-It should also be remarked that every grade bas its peculiar magical formula. Thus, the formula of Abrahadabra concerns us, as men, principally because each of us represents the pentagram or microcosm; and our equilibration must therefore be with the hexa- gram or macrocosm. In other words, 5 0 = 6° is the formula of the Solar operation^[The Holy Qabalah (see Liber D in Equinox I, VIII, Supplement, and Liber 777) affords the means of analysis and application required. See also Equinox I, V, “The Temple of Solomon The King”.] but then 6°=5° is the formula of the Martial operation, and this reversai of the figures implies a very different Work. In the former instance the problem was to dissolve the microcosm in the macrocosm 5 but this other problem is to separate a particular force from the macrocosm, just as a savage might hew out a flint axe from the deposits in a chalk cliff. Similarly, an operation of Jupiter will be of the nature of the equilibration of him with Venus. Its graphie formula will be 7°=4°, and there will be a Word in which the character of this operation is described, just as Abrahadabra describes the Operation of the Great Work. 
+It should also be remarked that every grade has its peculiar magical formula. Thus, the formula of Abrahadabra concerns us, as men, principally because each of us represents the pentagram or microcosm; and our equilibration must therefore be with the hexa- gram or macrocosm. In other words, 5 0 = 6° is the formula of the Solar operation^[The Holy Qabalah (see Liber D in Equinox I, VIII, Supplement, and Liber 777) affords the means of analysis and application required. See also Equinox I, V, “The Temple of Solomon The King”.] but then 6°=5° is the formula of the Martial operation, and this reversal of the figures implies a very different Work. In the former instance the problem was to dissolve the microcosm in the macrocosm 5 but this other problem is to separate a particular force from the macrocosm, just as a savage might hew out a flint axe from the deposits in a chalk cliff. Similarly, an operation of Jupiter will be of the nature of the equilibration of him with Venus. Its graphic formula will be 7°=4°, and there will be a Word in which the character of this operation is described, just as Abrahadabra describes the Operation of the Great Work. 
 
 It may be stated without unfairness, as a rough general principle, that the farther from original equality are the two sides of the equation, the more difficult is the operation to perform. 
 
@@ -3232,11 +3191,11 @@ Now it so happens that the root GN signifies both knowledge and generation combi
 
 **Sound work invariably vindicates itself by furnishing confirmatory corollaries not contemplated by the Qabalist.** In the present instance, the Master Therion was delighted to remark that his compound letter MGN, constructed on theoretical principles with the idea of incorporating the new knowledge of the Aeon, had the value of 93 (M = 40, G = 3, N = 50). 93 is the number of the word of the Law — Thelema — Will, and of Agape -— Love, which indicates the nature of Will. It is furthermore the number of the Word which overcomes death, as members of the degree of M.M. of the O.T.O. are well aware and it is also that of the complete formula of existence as expressed in the true Word of the Neophyte, where existence is taken to import that phase of the whole which is the finite resolution of the Qabalistic Zero. 
 
-Finally, the total numeration of the Word AUMGN is 100, which, as initiates of the Sanctuary of the Gnosis of the O.T.O. are taught, expresses the unity under the form of complete manifestation by the symbolism of pure number, being Kether by Aiq Bkr^[A method of exegesis in which 1 = 10 = 100, 2 = 20 = 200, etc.]; also Malkuth multiplied by itself^[10^2= 100], and thus established in the phenomenal universe. But, moreover, this number 100 mysteriously indicates the Magical formula of the Universe as a reverberatory engine for the extension of Nothingness through the device of equilibrated opposites^[rp = IOO (20 + 80). 3 = X = kteis : ru = psi = thallo;; (by Notarigon).].
+Finally, the total numeration of the Word AUMGN is 100, which, as initiates of the Sanctuary of the Gnosis of the O.T.O. are taught, expresses the unity under the form of complete manifestation by the symbolism of pure number, being Kether by Aiq Bkr^[A method of exegesis in which 1 = 10 = 100, 2 = 20 = 200, etc.]; also Malkuth multiplied by itself^[10^2= 100], and thus established in the phenomenal universe. But, moreover, this number 100 mysteriously indicates the Magical formula of the Universe as a reverberatory engine for the extension of Nothingness through the device of equilibrated opposites^[rp = 100 (20 + 80). 3 = X = kteis : ru = psi = thallo;; (by Notarigon).].
 
-It is moreover the value of the letter Qoph, which means “the back of the head”, the cerebellum, where the creative or reproductive force is primarily situated. Qoph in the Tarot is “the Moon”, a card suggesting illusion, yet shewing counterpartal forces operating in darkness, and the Winged Beetle or Midnight Sun in his Bark travelling through the Nadir. Its Yetziratic attribution is Pisces, symbolic of the positive and negative currents of fluidic energy, the male Ichthus or “Pesce” and the female Vesica, seeking respectively the anode and kathode. The number ioo is therefore a synthetic glyph of the subtle energies employed in creating the Illusion, or Reflection of Reality, which we call manifested existence. 
+It is moreover the value of the letter Qoph, which means “the back of the head”, the cerebellum, where the creative or reproductive force is primarily situated. Qoph in the Tarot is “the Moon”, a card suggesting illusion, yet shewing counterpartial forces operating in darkness, and the Winged Beetle or Midnight Sun in his Bark travelling through the Nadir. Its Yetziratic attribution is Pisces, symbolic of the positive and negative currents of fluidic energy, the male Ichthus or “Pesce” and the female Vesica, seeking respectively the anode and kathode. The number 100 is therefore a synthetic glyph of the subtle energies employed in creating the Illusion, or Reflection of Reality, which we call manifested existence. 
 
-The above are the principal considerations in the matter of AUMGN. They should suffice to illustrate to the student the methods employed in the construction of the hieroglyphics of Magick, and to arm him with a mantra of terrifie power by virtue whereof he may apprehend the Universe, and control in himself its Karmic consequences. 
+The above are the principal considerations in the matter of AUMGN. They should suffice to illustrate to the student the methods employed in the construction of the hieroglyphics of Magick, and to arm him with a mantra of terrific power by virtue whereof he may apprehend the Universe, and control in himself its Karmic consequences. 
 
 #### VI 
 
@@ -3248,9 +3207,9 @@ There is no more important task than the exploration of one’s previous incarna
 
 If one were to wake up in a boat on a strange river, it would be rash to conclude that the direction of the one reach visible was that of the whole stream. It would help very much if one remembered the bearings of previous reaches traversed before one’s nap. It would further relieve one’s anxiety when one became aware that a uniform and constant force was the single determinant of all the flindings of the stream: gravitation. We could rejoice “that even the weariest river winds somewhere safe to sea.” 
 
-Liber Thisarb describes a method of obtaining the Magical Memory by learning to remember backwards. But the careful practice of Dharana is perhaps more generally useful. As one prevents the more accessible thoughts from arising, we strike deeper strata — memories of childhood reawaken. Still deeper lies a class of thoughts whose origin puzzles us. Sojne of these apparently belong to former incarnations. By cultivating these departments of one’s mind we can develop them; we become expert; we form an organized coherence of these originally disconnected elements ; the faculty grows with astonishing rapidity, once the knack of the business is mastered. 
+Liber Thisarb describes a method of obtaining the Magical Memory by learning to remember backwards. But the careful practice of Dharana is perhaps more generally useful. As one prevents the more accessible thoughts from arising, we strike deeper strata — memories of childhood reawaken. Still deeper lies a class of thoughts whose origin puzzles us. Some of these apparently belong to former incarnations. By cultivating these departments of one’s mind we can develop them; we become expert; we form an organized coherence of these originally disconnected elements ; the faculty grows with astonishing rapidity, once the knack of the business is mastered. 
 
-It is much easier (for obvious reasons) to acquire the Magical Memory when one has been sworn for many lives to reincarnate immediately. The great obstacle is the phenomenon called Freudian forgetfulness; that is to say, that, though an unpleasant event may be recorded farthfully enough by the mechanism of the brain, we fall to recall it, or recall it wrong, because it is painful. “The Psychopathology of Everyday Life” analyses and illustrates this phenomenon in detail. Now, the King of Terrors being Death, it is hard indeed to look it in the face. Mankind has created a host of phantastic masks; people talk of “going to heaven”, “passing over”, and so on; banners flaunted from paste-board towers of baseless theories. One instinctively flinches from remembering one’s last, as one does from imagining one’s next, death^[This latter is a very valuable practice to perforai. See Liber HHH; also read up the Buddhist meditations on the Ten Impurities.].
+It is much easier (for obvious reasons) to acquire the Magical Memory when one has been sworn for many lives to reincarnate immediately. The great obstacle is the phenomenon called Freudian forgetfulness; that is to say, that, though an unpleasant event may be recorded faithfully enough by the mechanism of the brain, we fall to recall it, or recall it wrong, because it is painful. “The Psychopathology of Everyday Life” analyses and illustrates this phenomenon in detail. Now, the King of Terrors being Death, it is hard indeed to look it in the face. Mankind has created a host of phantastic masks; people talk of “going to heaven”, “passing over”, and so on; banners flaunted from paste-board towers of baseless theories. One instinctively flinches from remembering one’s last, as one does from imagining one’s next, death^[This latter is a very valuable practice to perforai. See Liber HHH; also read up the Buddhist meditations on the Ten Impurities.].
 
 The point of view of the initiate helps one immensely. As soon as one has passed this Pons Asinorum, the practice becomes much easier. It is much less trouble to reach the life before the last; familiarity with death breeds contempt for it. 
 
@@ -3276,13 +3235,13 @@ If the theory of reincarnation were generally accepted, the above considerations
 
 Unless one has a groundwork of this sort to start with, one must get back to one’s life as best one can by the methods above indicated. 
 
-It may be of sortie assistance to give a few characteristics of geunine Magical Memory; to mention a few sources of error, and to lay down critical mies for the verification of one’s results. 
+It may be of some assistance to give a few characteristics of genuine Magical Memory; to mention a few sources of error, and to lay down critical means for the verification of one’s results. 
 
 The first great danger arises from vanity. One should always beware of “remembering” that one was Cleopatra or Shakespeare. 
 
 Again, superficial resemblances are usually misleading. 
 
-One of the great tests of the genuineness of any recollection is that one remembers the really important things in one’s life, not those which mankind commonly classes as such. For instance, Aleister Crowley does not remember any of the decisive events in the life of Eliphas Levi. He recalls intimate trivialities of childhood. He has a vivid recollection of certain spiritual crises; in particular, one which was fought out as he paced up and down a lonely stretch of road in a fiat and desolate district. He remembers ridiculous incidents, such as often happen at suppers when the conversation takes a turn such that its gaiety somehow strikes to the soul, and one receives a supreme revelation which is yet perfectly inarticulate. He has forgotten his marriage and its 
+One of the great tests of the genuineness of any recollection is that one remembers the really important things in one’s life, not those which mankind commonly classes as such. For instance, Aleister Crowley does not remember any of the decisive events in the life of Eliphas Levi. He recalls intimate trivialities of childhood. He has a vivid recollection of certain spiritual crises; in particular, one which was fought out as he paced up and down a lonely stretch of road in a flat and desolate district. He remembers ridiculous incidents, such as often happen at suppers when the conversation takes a turn such that its gaiety somehow strikes to the soul, and one receives a supreme revelation which is yet perfectly inarticulate. He has forgotten his marriage and its 
 tragic results^[It is perhaps significant that although the name of the woman has been familiar to him since 1898, he has never been able to commit it to memory.], although the plagiarism which Fate has been shameless enough to perpetrate in his present life, would naturally, one might think, reopen the wound. 
 
 There is a sense which assures us intuitively when we are running on a scent breast high. There is an oddness about the memory which is somehow annoying. It gives a feeling of shame and guiltiness. There is a tendency to blush. One feels like a schoolboy caught red-handed in the act of writing poetry. There is the same sort of feeling as one has when one finds a faded photograph or a lock of hair twenty years old among the rubbish in some forgotten cabinet. This feeling is independent of the question whether the thing remember was in itself a source of pleasure or of pain. Can it be that we resent the idea of our “previous condition of servitude”? We want to forget the past, however good reason we may have to be proud of it. It is well known that many men are embarrassed in the presence of a monkey. 
@@ -3294,11 +3253,11 @@ The testimony of intuitions is, however, strictly subjective, and shrieks for co
 There is an obvious line of criticism about any recollection. It must not clash with ascertained facts. For example one cannot have two lives which overlap, unless there is reason to suppose that the earlier died spiritually before his body ceased to breathe. 
 This might happen in certain cases, such as insanity. 
 
-It is not conclusive against a previous incarnation that the present should be inferior to the past. One’s life may represent the full possibilities of a certain partial Karma. One may have devoted one’s incarnation to discharging the liabilities of one part of one’s previous character. For instance, one might devote a lifetime to settling the bill run up b, Napoleon for causing unnecessary suffering, with the object of starting afresh, clear of debt, in a life devoted to reaping the reward of the Corsican’s invaluable services to the race. 
+It is not conclusive against a previous incarnation that the present should be inferior to the past. One’s life may represent the full possibilities of a certain partial Karma. One may have devoted one’s incarnation to discharging the liabilities of one part of one’s previous character. For instance, one might devote a lifetime to settling the bill run up by Napoleon for causing unnecessary suffering, with the object of starting afresh, clear of debt, in a life devoted to reaping the reward of the Corsican’s invaluable services to the race. 
 
-The Master Therion, in fact, rernembers several incarnations of almost uncompensated wretchedness, anguish and humiliation, voluntarily undertaken so that he might resume his work unhampered by spiritual creditors. 
+The Master Therion, in fact, remembers several incarnations of almost uncompensated wretchedness, anguish and humiliation, voluntarily undertaken so that he might resume his work unhampered by spiritual creditors. 
 
-These are the stigmata. Memory is hall-marked by its correspondence with the facts actually observed in the present. This correspondence may be of two kinds. It is rare (and it is unimportant for the reasons stated above) that one s memory should be confirmed by what may be called, contemptuously, external evidence. It was indeed a reliable contribution to psychology to remark that an evil and adulterous generation sought for a sign. 
+These are the stigmata. Memory is hall-marked by its correspondence with the facts actually observed in the present. This correspondence may be of two kinds. It is rare (and it is unimportant for the reasons stated above) that one's memory should be confirmed by what may be called, contemptuously, external evidence. It was indeed a reliable contribution to psychology to remark that an evil and adulterous generation sought for a sign. 
 
 (Even so, the permanent value of the observation is to trace the genealogy of the Pharisee — from Caiaphas to the modern Christian.) 
 
@@ -3308,11 +3267,11 @@ Genuine recollections almost invariably explain oneself to oneself. Suppose, for
 
 As an example, we may cite certain memories of the Master Therion. He followed a train of thought which led him to remember his life as a Roman named Marius de Aquila. It would be straining probability to presume a connection between (a) this hieroglyphically recorded mode of self-analysis and (b) ordinary introspection conducted on principles intelligible to himself. He remembers directly various people and various events connected with this incarnation; and they are in themselves to all appearance actual. There is no particular reason why they, rather than any others, should have entered his sphere. In the act of remembering them, they are absolute. He can find no reason for correlating them with anything in the present. But a subsequent examination of the record shows that the logical result of the Work of Marius de Aquila did not occur to that romantic reprobate; in point of fact, he died before anything could happen. Can we suppose that any cause can be baulked of effect? The Universe is unanimous in rebuttal. If then the exact effects which might be expected to result from these causes are manifested in the career of the Master Therion, it is assuredly the easiest and most reasonable explanation to assume an identity between the two men. Nobody is shocked to observe that the ambition of Napoleon has diminished the average stature of Frenchmen. We know that somehow or other every force must find its fulfilment; and those people who have grasped the fact that external events are merely symptoms of external ideas, cannot find any difficulty in attributing the correspondences of the one to the identities of the other. 
 
-Far be it from any apologist for Magick to insist upon the objective validity of these concatenations! It would be childish to cling to the belief that Marius de Aquila actually existed; it matters no more than it matters to the mathematician whether the use of the symbol X^22^ involves the ‘reality' of 22 dimensions of space. The Master Therion does not care a scrap of yesterday’s newspaper whether he was Marius de Aquila, or whether there ever was such a person, or whether the Universe itself is anything more than a nightmare created by his own imprudence in the matter of rum and water. His memory of Marius de Aquila, of the adventures of that person in Rome and the Black Forest, matters nothing, either to him or to anybody else. What matters is this: True or false, he has found a symbolic form which has enabled him to govern himself to the best advantage. “Quantum nobis prodest haec fabula Christi!” The ‘falsity’ of Aesop’s bables does not diminish their value to mankind. 
+Far be it from any apologist for Magick to insist upon the objective validity of these concatenations! It would be childish to cling to the belief that Marius de Aquila actually existed; it matters no more than it matters to the mathematician whether the use of the symbol X^22^ involves the ‘reality' of 22 dimensions of space. The Master Therion does not care a scrap of yesterday’s newspaper whether he was Marius de Aquila, or whether there ever was such a person, or whether the Universe itself is anything more than a nightmare created by his own imprudence in the matter of rum and water. His memory of Marius de Aquila, of the adventures of that person in Rome and the Black Forest, matters nothing, either to him or to anybody else. What matters is this: True or false, he has found a symbolic form which has enabled him to govern himself to the best advantage. “Quantum nobis prodest haec fabula Christi!” The ‘falsity’ of Aesop’s Fables does not diminish their value to mankind. 
 
-The above reduction of the Magical Memory to a device for externalizing one’s interior wisdom need not be regarded as skeptical, save only in the last resort. No scientific hypothesis can adduce stronger evidence of its validity than the confirmation of its predictions by experimental evidence. The objective can always be expressed in subjective symbols if necessary. The controversy is ultimately unmeaning. However we interpret the evidence, its relative truth depends in its internal coherence. We may therefore say that any magical recollection is genuine if it gives the explanation of our external or internai conditions. Anything which throws light upon the Universe, anything which reveals us to ourselves, should be welcome in this world of riddles. 
+The above reduction of the Magical Memory to a device for externalizing one’s interior wisdom need not be regarded as skeptical, save only in the last resort. No scientific hypothesis can adduce stronger evidence of its validity than the confirmation of its predictions by experimental evidence. The objective can always be expressed in subjective symbols if necessary. The controversy is ultimately unmeaning. However we interpret the evidence, its relative truth depends in its internal coherence. We may therefore say that any magical recollection is genuine if it gives the explanation of our external or internal conditions. Anything which throws light upon the Universe, anything which reveals us to ourselves, should be welcome in this world of riddles. 
 
-As our record extends into the past, the evidence of its truth is cumulative. Every incarnation that we remember must increase our comprehension of ourselves as we are. Each accession of knowledge must indicate with unmistakable accuracy the solution of some enigma which is propounded by the Sphynx of our own unknown birth-city, Thebes. The complicated situation in which we find ourselves is composed of elements \ and no element of it came out of nothing. Newton’s First Law applies to every plane of thought. The theory of evolution is omniform. There is a reason for one’s predisposition to gout, or the shape of one’s ear, in the past. The symbolism may change; the facts do not. In one form or another, everything that exists is derived from some previous manifestation. have it, if you will, fhat the memories of other incarnations are dreamsj but dreams are determined by reality just as much as the events of the day. The truth is to be apprehended by the correct translation of the symbolic language. The last section of the Oath of the Master of the Temple is: “I swear to interpret every phenomenon as a particular dealing of God with my soul.” The Magical Memory is (in the last analysis) one manner, and, as experience testifies, one of the most important manners, of performing this vow. 
+As our record extends into the past, the evidence of its truth is cumulative. Every incarnation that we remember must increase our comprehension of ourselves as we are. Each accession of knowledge must indicate with unmistakable accuracy the solution of some enigma which is propounded by the Sphynx of our own unknown birth-city, Thebes. The complicated situation in which we find ourselves is composed of elements \ and no element of it came out of nothing. Newton’s First Law applies to every plane of thought. The theory of evolution is omniform. There is a reason for one’s predisposition to gout, or the shape of one’s ear, in the past. The symbolism may change; the facts do not. In one form or another, everything that exists is derived from some previous manifestation. have it, if you will, fhat the memories of other incarnations are dreams; but dreams are determined by reality just as much as the events of the day. The truth is to be apprehended by the correct translation of the symbolic language. The last section of the Oath of the Master of the Temple is: “I swear to interpret every phenomenon as a particular dealing of God with my soul.” The Magical Memory is (in the last analysis) one manner, and, as experience testifies, one of the most important manners, of performing this vow. 
 
 ---
 
@@ -3378,7 +3337,7 @@ To sum up this whole matter in a phrase, every article employed is treated as if
 
 The oath which he takes is replaced by a “charge” in similar terms. The details of the preparation of each weapon should be thought out carefully by the magician. 
 
-**Further, the attitude of the magician to his weapous should be that of the God to the suppliant who invokes Him. It should he the love of the father for his child, the tenderness and care of the hridegroom for his bride, and that peculiar feeling which the creator of every work of art feeïs for his masterpiece. 
+**Further, the attitude of the magician to his weapous should be that of the God to the suppliant who invokes Him. It should he the love of the father for his child, the tenderness and care of the hridegroom for his bride, and that peculiar feeling which the creator of every work of art feeïs for his masterpiece.**
 
 Where this is clearly understood, the magician will find no difficulty in observing the proper ritual, not only in the actual ceremonial consecration of each weapon, but in the actual preparation, a process which should adumbrate this ceremony; e.g., the magician will cut the wand from the tree, will strip it of leaves and twigs, will remove the bark. He will trim the ends neatly, and smooth down the knots: — this is the banishing. 
 
@@ -3494,13 +3453,14 @@ Of course one changes one’s methods as experience indicates; but there is no n
 “Magick takes every thought and act for ifs apparatus; it has the Universe for its Library and its Laboratory; all Nature is its Subject; and its Game, free from close seasons and protective restrictions, always abounds in infinite variety, being all that 
 exists.^[The elasticity of Magick makes it equal to all possible kinds of environment, and therefore biologically perfect. “Do what thou wilt” implies self-adjustment, so that failure cannot occur. One’s true Will is necessarily fitted to the whole Universe with the utmost exactitude, because each term in the equation a + b+c=0 must be equal and opposite to the sum of all the other terms. No individual can ever be aught than himself, or do aught else than his Will, which is his necessary relation with his environment, dynamically considered. all error is no more than an illusion proper to him to dissipate the mirage, and it is a general law that the method of accomplishing this operation is to realize, and to acquiesce in, the order of the Universe, and to refrain from attempting the impossible task of overcoming the inertia of the forces which oppose, and therefore are identical with, one’s self. Error in thought is therefore fallure to understand, and in action to perform one s own true Will.]
 
-### Chapter X &mdash; Of THE GESTURES. 
+### Chapter X &mdash; Of the Gestures. 
 
 This chapter may be divided into the following parts: 
 
 1. Attitudes. 
 2. Circumambulations (and similar movements). 
-3. Changes of position (This depends upon the theory of the construction of the circle). 4. The Knocks or Knells. 
+3. Changes of position (This depends upon the theory of the construction of the circle).
+4. The Knocks or Knells. 
 
 #### I 
 
@@ -3618,12 +3578,7 @@ But there is no call for all this frightfulness. There is no need to knock the g
 
 It is not necessary to say much more than this concerning transformations. Those to whom the subject naturally appeals will readily understand the importance of what has been said. Those who are otherwise inclined may reflect that a nod is a good as a wink to a blind horse. 
 
----
-
-### Chapter XII 
-
-
-<div class="centered-small-caps">Of the Bloody Sacrifice and Matters Cognate.</div>
+### Chapter XII &mdash; Of the Bloody Sacrifice and Matters Cognate.
 
 It is necessary for us to consider carefully the problems connected with the bloody sacrifice, for this question is indeed traditionally important in Magick. Nigh all ancient Magick revolves around this matter. In particular all the Osirian religions — the rites of the Dying God — refer to this, The slaying of Osiris and Adonis; the mutilation of Attis; the cults of Mexico and Peru; the story of Hercules or Melcarth; the legends of Dionysus and of Mithra, are all connected with this one idea. In the Hebrew religion we find the same thing inculcated. The first ethical lesson in the Bible is that the only sacrifice pleasing to the Lord is the sacrifice of blood; Abel, who made this, finding favour with the Lord, while Cain, who offered cabbages, was rather naturally considered a cheap sport. The idea recurs again and again. We have the sacrifice of the Passover, following on the story of Abraham s being commanded to sacrifice his firstborn son, with the idea of the substitution of animal for human life. The annual ceremony of the two goats carries out this in perpetuity. And we see again the domination of this idea in the romance of Esther, where Haman and Mordecai are the two goats or gods; and ultimately in the presentation of the rite of Purim in Palestine, where Jesus and Barabbas happened to be the Goats in that particular year of which we hear so much, without agreement on the date. 
 
@@ -3683,13 +3638,7 @@ Yet it should not be forgotten that this, and that other art at which we have da
 You are also likely to get into trouble over this chapter unless 
 you truly comprehend its meaning.^[There is a traditional saying that whenever an Adept seems to have made a straightforward, comprehensible statement, then is it most certain that He means something entirely different. The Truth is nevertheless clearly set forth in His Words: it is His simplicity that baffles the unworthy. I have chosen the expressions in this Chapter in such a way that it is likely to mislead those magicians who allow selfish interests to cloud their intelligence, but to give useful hints to such as are bound by the proper Oaths to devote their powers to legitimate ends. Thou hast no right but to do thy will.” “It is a lie, this folly against self.” The radical error of all uninitiates is that they define “self” as irreconciliably opposed to “not-self.” Each element of oneself is, on the contrary, sterile and without meaning, until it fulfils itself, by “love under will”, in its counterpart in the Macrocosm. To separate oneself from others is to destroy oneself; the way to realize and to extend oneself is to lose that self — its sense of separateness — in the other. Thus: Child plus food: this does not preserve one at the expense of the other; it “destroys” or rather changes both in order to fulfil both in the result of the operation — a grown man. It is in fact impossible to preserve anything as it is by positive action upon it. Its integrity demands inaction; and inaction, resistance to change, is stagnation, death and dissolution due to the internal putrefaction of the starved elements.]
 
----
-
-### Chapter XIII 
-
-<div class="centered-small-caps">Of the Banishings:</div>
-
-<div class="centered-small-caps">And of the Purifications.</div> 
+### Chapter XIII &mdash; Of the Banishings: And of the Purifications.
 
 Cleanliness is next to Godliness, and had better come first. Purity means singleness. God is one. The wand is not a wand if it has something sticking to it which is not an essential part of itself. If you wish to invoke Venus, you do not succeed if there are traces of Saturn mixed up with it. 
 
@@ -3719,12 +3668,9 @@ Be alert and on your guard! Watch before you pray! The feeling of success in ban
 
 At the conclusion, it is usually well to pause for a few moments, and to make sure once more that every thing necessary to the ceremony is in its right place. The Magician may then proceed to the final consecration of the furniture of the Temple.^[That is, of the special arrangement of that furniture. Each object should have been separately consecrated beforehand. The ritual here in question should summarize the situation, and devote the particular arrangement to its purpose by invoking the appropriate forces. Let it be well remembered that each object is bound by the Oaths of its original consecration as such. Thus, if a Pantacle has been made sacred to Venus, it cannot be used in an operation of Mars; the Energy of the Exorcist would be taken up in overcoming the opposition of the “Karma” or inertia therein inherent.]
 
----
+### Chapter XIV &mdash; Of the Consecrations
 
-### Chapter XIV 
-
-<div class="centered-small-caps">Of the Consecrations: 
-
+<div class="centered-small-caps">
 With an account of the
 
 Nature and Nurture of the Magical Link.</div>
@@ -3854,11 +3800,7 @@ When Frater I. A. was in danger of death in 1899 e.v. Frater V. N. and <span cla
 
 **Let the Magical Link be made strong! It is “love under will”; it affirms the identity of the Equation of the work; it makes success Necessity.**
 
-### Chapter XVI 
-
-<div class="centered">*(Part 1)*</div> 
-
-<div class="centered-small-caps">Of The Oath</div>
+### Chapter XVI &mdash; Of The Oath
 
 The third operation in any magical ceremony is the oath or proclamation. The Magician, armed and ready, stands in the centre of the Circle, and strikes once upon the bell as if to call the attention of the Universe. Ele then declares *who he is* reciting his magical history by the proclamation of the grades which he has attained, giving the signs and words of those grades.^[This is not merely to prove himself a person in authority. It is to trace the chain of causes that have led to the present position, so that the operation is seen as karma.]
 
@@ -3872,8 +3814,6 @@ He makes this confession prostrate^[Compare the remarks in a previous chapter. B
 The dread answer comes that It Must Be, and this answer so fortifies him with holy zeal that it will seem to him as if he were raised by divine hands from that prostrate position; with a thrill of holy exaltation he renews joyfully the Oath, feeling himself once again no longer the man but the Magician, yet not merely the Magician, but the chosen and appointed person to accomplish a task which, however apparently unimportant, is yet an integral part of universal destiny, so that if it were not accomplished the Kingdom of Heaven would be burst in pieces. 
 
 He is now ready to commence the invocations. He consequently pauses to cast a last glance around the Temple to assure himself of the perfect readiness of all things necessary, and to light the incense. 
-
----
 
 The Oath is the foundation of all Work in Magick, as it is an affirmation of the Will. An Oath binds the Magician for ever. In Part II of Book 4 something has already been said on this subject; but its importance deserves some further elaboration. Thus, should one, loving a woman, make a spell to compel her embraces, and tiring of her a little later, evoke Zazel to kill her; he will find that the implications of his former Oath conflict with those proper to invoke the Unity of the Godhead of Saturn. Zazel will refuse to obey him in the case of the woman whom he has sworn that he loves. To this some may object that, since all acts are magical, every man who loves a woman implicitly takes an Oath of love, and therefore would never be able to murder her later, as we find to be the not uncommon case. The explanation is as follows. It is perfectly true that when Bill Sykes desires to possess Nancy, he does in fact evoke a spirit of the nature of Venus, constraining him by his Oath of Love (and by his magical power as a man) to bring him the girl. So also, when he wants to kill her, he evokes a Martial or Saturnian spirit, with an Oath of hate. But these are not pure planetary spints, moving in well- dehned spneres by rigidlv righteous laws. They are gross concretions of confused impulses, “incapable of understanding the nature of an oath”. They are also such that the idea of murder is nowise offensive to the Spirit of Love. 
 
@@ -3899,12 +3839,10 @@ Yet more awful is the doom that He hath invoked upon Himself in renouncing His r
 
 Yet He, who hath power over Death, with a breath to call back health, with a touch to beckon life, He must watch His own child waste awav month by month, aware that His Art may not anywise avall, who hath sold the signet ring of his personal profit to buy him a plain gold band for the felon finger of his bride, that worn widow, the World! 
 
-### Chapter XV 
-
+### Chapter XV &mdash; Of the Invocation
 
 #### I 
 
-<div class="centered-small-caps">Of the Invocation</div>
 
 In the straightforward or “Protestant" System of Magick there is very little to add to what has already been said. The Magician addresses a direct petition to the Being invoked. But the secret of success in invocation has not hitherto been disclosed. It is an exceedingly simple one. It is practically of no importance whatever that the invocation should be “right”. There are a thousand different wavs of compassing the end proposed, so far as external things are concerned. The whole secret may be summarised in these four words: **“Enflame thyself in praying.”**^[This is Qabalistically expressed in the old Formula : Domine noster, audi tuo servo! kyrie Christe! O Christe!]
 
@@ -3945,17 +3883,12 @@ Suppose the Supreme Invocation to consist of 20 or 30 barbarous names, let him i
 
 In the essay “Energized Enthusiasm” in No. IX, Vol. 1 of the Equinox^[The earliest and truest Christians used what is in all essentials this method. See “Fragments of a Farth Forgotten” by G. R. S. Mead, Esa. B. A., pp. 80-81. There is a real connexion between what the vulgar call blasphemy and what they call immorality, in the fact that the Christian iegend is an echo of a Phallic rite. There is also a true and positive connexion between the Creative force of the Macrocosm, and that of the Microcosm. For this reason the latter must be made as pure and consecrated as the former. The puzzle for most people is how to do this. The study of Nature is the Key to that gate.] is given a concise account of one of the classical methods of arousing Kundalini. This essay should be studied with care and determination. 
 
-### Chapter XVI 
+### Chapter XVI &mdash; Of the charge to the Spirit
 
-<div class="centered">(Part II)</div>
-
-
-<div class="centered-small-caps">Of the charge to the spirit
-
+<div class="centered-small-caps">
 with some account of the
 
 constraints and curses occasionally necessary</div>
-
 
 #### I 
 
@@ -4024,9 +3957,7 @@ It is not at all irrational to fight for one’s flag, provided that the flag is
 
 But with many ikons and images, it is easy to steai their virtue. This can be done sometimes on a tremendous scale, as, for example, when all the images of Isis and Horus, or similar mother-child combinations, were appropriated Wholesale by the Christians. The miracle is, however, of a somewhat dangerous type, as in this case, where enlightenment has come through the researches of archaeologists. It has been shown that the so-called images of Mary and Jesus are really nothing but imitations of those of Isis and Horus. Honesty is the best policy in Magick as in other lines of life. 
 
-### Chapter XVII 
-
-<div class="centered-small-caps">Of the license to depart</div>
+### Chapter XVII &mdash; Of the License to depart
 
 After a ceremony has reached its climax, anti-climax must inevitably follow. But if the ceremony has been successful this anti-climax is merely formai. The Magician should rest permanently on the higher plane to which he has aspired.^[The rock-climber who relaxes on the face of the precipice falls to earth; but once he has reached a safe ledge he may sit down.]
 
@@ -4053,9 +3984,9 @@ It is at least, it was — perfectly incredible to The <span class="small-caps">
 
 There are numerous models of magical and mystical records to be found in the various numbers of the *Equinox*, and the student will have no difficulty in acquiring the necessary technique, if he be diligent in practice. 
 
-### Chapter XVIII 
+### Chapter XVIII &mdash; Of Clairvoyance and of the Body of Light
 
-<div class="centered-small-caps">Of clairvoyance and of the body of light
+<div class="centered-small-caps">
 its power and its development
 also concerning divination</div>
 
@@ -4135,7 +4066,7 @@ The are also planes corresponding to various religions past and present, all of 
 
 **It is of the utmost importance to the “Clairvoyant” or "traveller in the fine body" to be able to find his way to any desired plane, and operate therein as its ruler.**
 
-**The Neophyte of A.·.A.·.is examined most strict ly in this practice before he is passed to the degree of Zelator.**
+**The Neophyte of A∴A∴is examined most strict ly in this practice before he is passed to the degree of Zelator.**
 
 In “Rising on the Planes” one must usually pass clear through the Astral to the Spiritual. Sonie will be unable to do this. The “fine body” which is good enough to subsist on lower planes, a shadow among shadows, will fall to penetrate the higher strata. It requires a great development of this body, and an intense infusion of the highest spiritual constituents of man, before he can pierce the veils. The constant practice of Magick is the best preparation possible. Even though the human consciousness fall to reach the goal, the consciousness of the fine body itself may do so, wherefore whoso travels in that body on a subsequent occasion may be found worthy; and its success will react favourably on the human consciousness, and increase its likelihood of success in its next magical operation. 
 
@@ -4247,13 +4178,13 @@ reactions toward them.
 One can hardly expect the diviner to make Samadhi with his question — that would be going too far, and destroy the character of the operation by removing the question from the class of concatenated ideas. It would mean interpreting the question in terms of “without limit”, and thus imply an equally formless answer. But he should approximate to this extreme sufficiently to **allow the question entire freedom to make for itself its 
 own proper links with the intelligence directing the answer**, preserving its position on its own plane, and evoking the necessary counterpoise to its own deviation from the norm of nothingness. 
 
-We may recapitulate the above reflections in a practical form. We will suppose that one wishes to divine by geomancy whether or no one should marry, it being assumed that one’s emotional impulses suggest so rash a course. The man takes his wand and his sand; he traces the question, makes the appropriate pentagram, and the sigil of the spirit. Before tracing the dashes which are to determine the four “Mothers”, he must strictly examine himself. He must banish from his mind every thought which can possibly act as an attachment to his proposed partner. He must banish all thoughts which concern himself, those of apprehension no less than those of ardour. He must carry his introspection as far as possible. He must observe with all the subtletv at his command whether it pains him to abandon any of these thoughts. So long as his mind is stirred, however slightly, by one single aspect of the subject, he is not fit to begin to form the figure. **He must sink his personality in that of the intelligence hearing the question propounded by a stranger to whom he is indifferent, but whom it is his business to serve farthfully**. He must now run over the whole affair in his mind, making sure of his utter aloofness therefrom. He must also make sure that his muscles are perfectly free to respond to the touch of the Will of that intelligence. (It is of course understood that he has not become so familiar with geomancy by dint of practice as to be able to calculate subconsciously what figures he will form; form; for this would vitiate the experiment entirely. It is, in fact, one of the objections to geomancy that sooner or later one does become aware at the time of tracing them whether the dots are going to be even or odd. This needs a special training to correct). 
+We may recapitulate the above reflections in a practical form. We will suppose that one wishes to divine by geomancy whether or no one should marry, it being assumed that one’s emotional impulses suggest so rash a course. The man takes his wand and his sand; he traces the question, makes the appropriate pentagram, and the sigil of the spirit. Before tracing the dashes which are to determine the four “Mothers”, he must strictly examine himself. He must banish from his mind every thought which can possibly act as an attachment to his proposed partner. He must banish all thoughts which concern himself, those of apprehension no less than those of ardour. He must carry his introspection as far as possible. He must observe with all the subtletv at his command whether it pains him to abandon any of these thoughts. So long as his mind is stirred, however slightly, by one single aspect of the subject, he is not fit to begin to form the figure. **He must sink his personality in that of the intelligence hearing the question propounded by a stranger to whom he is indifferent, but whom it is his business to serve faithfully**. He must now run over the whole affair in his mind, making sure of his utter aloofness therefrom. He must also make sure that his muscles are perfectly free to respond to the touch of the Will of that intelligence. (It is of course understood that he has not become so familiar with geomancy by dint of practice as to be able to calculate subconsciously what figures he will form; form; for this would vitiate the experiment entirely. It is, in fact, one of the objections to geomancy that sooner or later one does become aware at the time of tracing them whether the dots are going to be even or odd. This needs a special training to correct). 
 
 Physio-psychological theory will probably maintain that the “automatic” action of the hand is controlled by the brain no less than in the case of conscious volition; but this is an additional argument for identiiying the brain with the intelligence invoked. 
 
 Having thus identified himself as closely as possible with that intelligence, and concentrated on the question as if the “prophesying spirit” were giving its whole attention thereto, he must awart the impulse to trace the marks on the sand; and, as soon as it comes let it race to the finish. Here arises another technical difficulty. One has to make 16 rows of dots; and, especialiy for the beginner, the mind has to grapple with the apprehension lest the hand fall to execute the required number. It is also troubled by fearing to exceed; but excess does not matter. Extra lines are simply null and void, so that the best plan is to banish that thought, and make sure only of not stopping too soon.^[Practice soon teaches one to count subconsciously.yes, and that is the other difficulty again!]
 
-The lines being traced, the operation is over as far as spiritual qualifies are required, for a time. The process of setting up the figure for judgment is purely mechanical. 
+The lines being traced, the operation is over as far as spiritual qualities are required, for a time. The process of setting up the figure for judgment is purely mechanical. 
 
 But, in the judgment, the diviner stands once more in need of his mmost and utmost attainments. **He should exhaust the intellectual sources of information at his disposal, and form from them his judgment. But having done this, he should detach his mind from what it has just formulated, and proceed to concentrate it on the figure as a whole, almost as if it were the object of his meditation.** One need hardly repeat that in both these operations detachment from one’s personal partialities is as necessary as it was in the first part of the work. In setting up the figure, bias would beget a Freudian phantasm to replace the image of truth which the figure ought to be; and it is not too much to say that the entire subconscious machinery of the body and mind lends itself with horrid willingness to this ape-like antic of treason. But now that the figure stands for judgment, the same bias would tend to form its phantasm of wish-fulfilment in a different manner. It would act through the mind to betray sound judgment. It might, for example, induce one to emphasize the Venereal element in Puella at the expense of the Saturnian. It might lead one to underrate the influence of a hostile figure, or to neglect altogether some element of importance. The <span class="small-caps">Master Therion</span> has known cases where the diviner was so afraid of an unfavourable answer that he made actual mistakes in the simple mechanical construction of the figure! Finally, in the summing up; it is fatally easy to slur over unpleasantness, and to breathe on the tiniest spark that promises to kindle the tinder — the rotten rags! —of hope. 
 
@@ -4315,9 +4246,7 @@ The method of divination, the *ratio* of it, is as obscure to-day as was that of
 
 To-day it may sound impossible for inanimate objects to reveal the inmost secrets of mankind and nature. We cannot say why divination is valid. We cannot trace the process by which it performs its marvels.^[The main difference between a Science and an Art is that the former admits mensuration. Its processes must be susceptible of the application of quantitative standards. Its laws reject imponderable variables. Science despises Art for its refusal to conform with calculable conditions. But even to-day, in the boasted Age of Science, man is still dependent on Art as to most matters of practical importance to him; the Arts of Government, of War, of Literature, etc. are supremely influential, and Science does little more than facilitate them by making their materials mechanically docile. The utmost extension of Science can merely organize the household of Art. Art thus progresses in perception and power by increased control or automatic accuracy of its details. The <span class="small-caps">Master Therion</span> has made an Epoch in the Art of Magick by applying the Method of Science to its problems. His Work is a contribution of unique value, comparable only to that of those men of genius who revolutionized the empirical guess-work of “natural philosophers”. The Magicians of to-morrow will be armed with mathematical theory, organized observation, and experimentally-verified practice. But their Art will remain inscrutable as ever in essence; talent will never supplant genius. Education is impotent to produce a poet greater than Robert Burns; the perfection of laboratory apparatus prepares indeed the path of a Pasteur, but cannot make masters of mediocrities.] But the same objections apply equally well to the telephone. No man knows what electricity is, or the nature of the forces which determine its action. We know only that by doing certain things we get certain results, and that the least error on our part will bring our work to naught. The same is exactly true of divination. The difference between the two sciences is no more than this: that, more minds having been at work on the former we have learnt to master its tricks with greater success than in the case of the latter. 
 
-### Chapter XIX 
-
-<div class="centered-small-caps">Of Dramatic Rituals</div>
+### Chapter XIX &mdash; Of Dramatic Rituals
 
 The Wheel turns to those effectuai methods of invocation employed in the ancient Mysteries and bv certain secret bodies of initiates to-day. The object of them is almost invariably^[The Word is unwarrantably universal. It would not be impracticable to adopt this method to such operations as Talismanic Magick. For example, one might consecrate and charge a Pantacle by the communication by AIWAZ to the Scribe of the BOOK :of the LAW, the Magician representing the Angel, the Pantacle being the Book, and the person on whom the Pantacle is intended to act taking the part of the Scribe.] the invocation of a God, that God conceived in a more or less material and personal fashion. These Rituals are therefore well suited for such persons as are capable of understanding the spirit of Magick as opposed to the letter. One of the great advantages of them is that a large number of persons may take part, so that there is consequently more force available; but it is important that they should all be initiates of the same mysteries, bound by the same oaths, and filled with the same aspirations. They should be associated only for this one purpose. 
 
@@ -4329,11 +4258,9 @@ In the rite of Jupiter the impromptu is the dance, in that of Saturn long period
 
 It will be noticed that in these Rites poetry and music were large!y employed mostly published pieces by well-known authors and composers. It would be better^["PERHAPS! One can think of certain Awful Consequences”. “But, after all, they wouldn’t seem so to the authors! ” “But — pity the poor Gods!” “Bother the Gods! ”] to Write and compose specially for the ceremony.^[A body of skilled Magicians accustomed to work in concert may be competent to conduct impromptu Orgia. To cite an actual instance in recent times; the blood of a Christian being required for some purpose, a young cock was procured and baptized into the Roman Catholic Church by a man who, being the son of an ordained Priest, was magicaliy an incarnation of the Being of that Priest, and was therefore congenitally possessed of the powers thereto appurtenant. This cock, “Peter Paul,” was consequently a baptized Christian for all magical purposes. Order was then taken to imprison the bird; which done, the Magicians assuming respectively the characters of Herod, Herodias, Salome, and the Executioner, acted out the scene of the dance and the beheading, on the lines of Oscar Wilde’s drama, “Peter Paul” being cast for the part of John the Baptist. This ceremony was devised and done on the spur of the moment, and its spontaneity and simplicity were presumably potent factors in its success. On the point of theology, I doubt whether Dom Gorenflot sucessfully avoided eating meat in Lent by baptizing the pullet a carp. For as the sacrament — by its intention, despite its defects of form — could not fall of efficacy, the pullet must have become a Christian, and therefore a human being. Carp was therefore only its baptized name — cf. Polycarp — and Dom Gorenflot ate human flesh in Lent, so that, for all he became a bishop, he is damned.]
 
-### Chapter XX 
+### Chapter XX &mdash; Of the Eucharist
 
-<div class="centered-small-caps">Of the Eucharist
-
-And of the Art of Alchemy</div>
+##### And of the Art of Alchemy
 
 #### I 
 
@@ -4424,7 +4351,7 @@ Let us emphasize the fact that the final product is in all cases a living thing.
 
 Organic Chemistry, with its metatheses and syntheses dependent on the conceptions of molecules as geometrical structures has demonstrated a praxis which gives this theory body; and the properties of Radium have driven the Old Guard from the redoubt which flew the flag of the essential heterogeneity of the elements. The doctrines of Evolution have brought the alchemical and monistic theory of matter into line with our conception of life; the collapse of the wall between the animal and vegetable kingdoms has shaken that which divided them from the mineral. 
 
-But even though the advanced chemist might admit the possibility of transmuting lead into gold, he could not conceive of that gold as other than metallic, of the same order of nature as the lead from which it had been made. That this gold should possess the power of multiplying itself, or of acting as a ferment upon other substances, seemed so absurd that he felt obliged to conclude that the alchemists who claimed these properties for their Gold must, after all, have been referring not to Chemistry, but to some spiritual operations whose sanctity demanded some such symbolic veil as the cryptographie use of the language of the laboratory. 
+But even though the advanced chemist might admit the possibility of transmuting lead into gold, he could not conceive of that gold as other than metallic, of the same order of nature as the lead from which it had been made. That this gold should possess the power of multiplying itself, or of acting as a ferment upon other substances, seemed so absurd that he felt obliged to conclude that the alchemists who claimed these properties for their Gold must, after all, have been referring not to Chemistry, but to some spiritual operations whose sanctity demanded some such symbolic veil as the cryptography use of the language of the laboratory. 
 
 The <span class="small-caps">Master Therion</span> is sanguine that his present reduction of all cases of the art of Magick to a single formula will both elucidate and vindicate Alchemy, while extending chemistry to cover all classes of Change. 
 
@@ -4461,13 +4388,11 @@ It may be observed in conclusion that, in dealing with forms of Matter-Motion so
 The <span class="small-caps">Master Therion</span> has possessed the theory of these Powers for many years; but His practice is still in progress towards perfection. Even efficiency in the preparation is not all; there is need to be judicious in the manipulation, and adroit in the administration, of the product. He does not perform haphazard miracles, but applies His science and skill in conformity with the laws of nature. 
 
 
-### Chapter XXI 
+### Chapter XXI &mdash; Of Black Magick
 
-<div class="centered-small-caps">Of Black Magick</div>
+##### Of the main Types of the Operations of Magick Art
 
-<div class="centered-small-caps">Of the main Types of the Operations of Magick Art</div>
-
-<div class="centered-small-caps">And of the Powers of the Sphinx</div>
+##### And of the Powers of the Sphinx
 
 #### I 
 
@@ -4476,8 +4401,6 @@ As was said at the opening of the second chapter, the Single Supreme Ritual is t
 **Any deviation from this line tends to become black magic. Any otlier operation is black magic.**
 
 In the True Operation the Exaltation is equilibrated by an expansion in the other three arms of the Cross. Hence the Angel immediately gives the Adept power over the Four Great Princes and their servitors.^[See the Book of the Sacred Magic of Abramelin the Mage.]
-
-
 
 If the magician needs to perform any other operation than this, it is only lawful in so far as it is a necessary preliminary to That One Work. 
 
@@ -4652,9 +4575,1868 @@ Very different is His record after the training in 1901 e. v. had put Him in the
 
 At the conclusion of this part of this book, one may sum up the whole matter in these words: **There is no object whatever worthy of attainment but the regular development of the being of the Aspirant by steady scientific work; he should not attempt to run before he can walk; he should not wish to go somewhere until he knows for certain whither he wills to go.**
 
-# PART IV - THE LAW
+# PART IV &mdash; ΘΕΛΗΜΑ
+
+#### THELEMA &mdash; The Law
+
+### THE EQUINOX OF THE GODS
+
+#### The Official Organ of the A∴ A∴
+
+Do what thou wilt shall be the whole of the Law.   
+Love is the law, love under will.   
+The word of the law is   
+ΘΕΛΗΜΑ   
+  
+The Official Organ of the O.T.O.   
+Deus est Homo   
+Vol. III No. III   
+An I x Sol in Libra   
+SEPTEMBER MCMXXXVI E.V.   
+Issued by the O.T.O.   
+
+![](img/AA_Seal.gif)
+
+A∴A∴ Publication in Class E
+
+### The Stele of Revealing
+
+![](img/Stele_Of_Revealing_front.gif)
+
+#### A PARAPHRASE OF THE INSCRIPTIONS UPON THE OBVERSE OF THE STELE OF REVELLING
+
+> Above, the gemmèd azure is  
+> The naked splendour of Nuit;  
+> She bends in ecstasy to kiss  
+> The secret ardours of Hadit.  
+> The wingèd globe, the starry blue  
+> Are mine, o Ankh-f-n-Khonsu. 
+>  
+> I am the Lord of Thebes, and I  
+> The inspired forth-speaker of Mentu;  
+> For me unveils the veiled sky,  
+> The self-slain Ankh-f-n-Khonsu  
+> Whose words are truth. I invoke, I greet  
+> Thy presence, o Ra-Hoor-Khuit! 
+>  
+> Unity uttermost showed!  
+> I adore the might of Thy breath,  
+> Supreme and terrible God,  
+> Who makest the gods and death  
+> To tremble before Thee: —  
+> I, I adore thee! 
+>  
+> Appear on the throne of Ra!  
+> Open the ways of the Khu!  
+> Lighten the ways of the Ka!  
+> The ways of the Khabs run through  
+> To stir me or still me!  
+> Aum! let it kill me! 
+>  
+> The Light is mine; its rays consume  
+> Me: I have made a secret door  
+> Into the House of Ra and Tum,  
+> Of Khephra, and of Ahathoor.  
+> I am thy Theban, o Mentu,  
+> The prophet Ankh-f-n-Khonsu! 
+>  
+> By Bes-na-Maut my breast I beat:  
+> By wise Ta-nech I weave my spell.  
+> Show thy star-splendour, O Nuit!  
+> Bid me within thine House to dwell,  
+> O winged snake of light, Hadith!  
+> Abide with me, Ra-Hoor-Khuit! 
+
+![](img/Stele_Of_Revealing_back.gif)
+
+#### A PARAPHRASE OF THE HIEROGLYPHS OF THE 11 LINES UPON THE REVERSE OF THE STELE
+
+> Saith of Mentu the truth-telling brother  
+> Who was master of Thebes from his birth:  
+> O heart of me, heart of my mother!  
+> O heart which I had upon earth!  
+> Stand not thou up against me as a witness!  
+> Oppose me not, judge, in my quest!  
+> Accuse me not now of unfitness  
+> Before the Great God, the dread Lord of the West!  
+> For I fastened the one to the other  
+> With a spell for their mystical girth,  
+> The earth and the wonderful West,  
+> When I flourished, o earth, on thy breast! 
+>  
+> The dead man Ankh-f-n-Khonsu  
+> Saith with his voice of truth and calm:  
+> O thou that hast a single arm!  
+> O thou that glitterest in the moon!  
+> I weave thee in the spinning charm;  
+> I lure thee with the billowy tune. 
+>  
+> The dead man Ankh-f-n-Khonsu  
+> Hath parted from the darkling crowds,  
+> Hath joined the dwellers of the light,  
+> Opening Duant, the star-abodes,  
+> Their keys receiving.  
+> The dead man Ankh-f-n-Khonsu  
+> Hath made his passage into night,  
+> His pleasure on the earth to do  
+> Among the living. 
+
+### The Stele of Revealing
+
+The image of The Stele of Revealing above is taken from the first edition of the Equinox of the Gods and is not a photo of the original stele. (It has a typo in hieroglyphs.) The original stele can be seen below. ----- [Ed.]
+
+![](img/Stele_Of_Revealing_front_original.jpg)
+
+![](img/Stele_Of_Revealing_back_original.jpg)
+
+![](img/Rose_and_Aleister_Crowley.jpg)
+
+![](img/Stele_Of_Revealing_transcript_heiroglyphs_by_Crowley.jpg)
+
+![](img/Stele_Of_Revealing_transcript_French_by_Crowley.jpg)
+
+![](img/Liber_AL_page1.jpg)
+
+The **Stèle of Revealing** (also called Stèle 666) was discovered by Aleister Crowley and his wife Rose in the Boulaq Museum in Cairo, Egypt on March 18, 1904. For the previous two days, she had been receiving the message, “They are waiting for you” and claimed that it was from Horus. When Aleister took her to the museum to point out the speaker to him, she finally settled on this small, unassuming funerary stele. What struck Crowley was that it did indeed show Horus, and attached to the top was the exhibit number: 666, the number that he strongly identified himself with. The discovery of the Stele of Revealing was an important step in the events leading to the writing of The Book of the Law.
+
+The Stele of Revealing was created by an actual Egyptian priest of the god Mentu, Ankh-af-na-khonsu (lit. He Lives in Khonsu), who lived in Thebes in the 26th dynasty (apx. 725 PEV). It is a funerary tablet created to commemorate his death. It is wooden, covered with stucco and painted on both sides. It is rounded at the top and measures 51.5 by 31 centimeters.
+
+On April 8 1904, the voice of the Goddess Nuith spoke through the intermediary of the intelligence known as Aiwass, to deliver the first chapter of The Holiest Book of Thelema, The Book of the Law, Liber AL vel Legis. A month earlier Rose Crowley, Ouarda the Seer, had told her husband "they are waiting for you" and later directed his attention to Stélé 666 in Cairo's Boulak museum. Her instructions were that Crowley should enter the room "exactly at noon on April 8, 9 & 10, and write down what I had heard, rising exactly at one o'clock.
+
+> "March 23rd to April 7th. I made inquiries about the stele and had the inscriptions translated into French by the assistant curator at Boulak. I made poetic paraphrases of them. Ouarda now told me to enter the room, where all this work had been done, exactly at noon on April 8th, 9th and 10th, and write down what I heard, rising exactly at one o'clock. This is did. In these three hours were written the three chapters of The Book of the Law.
+> 
+> The above statement is as succinct as I can make it. By April 8th, I had been convinced of the reality of the communication and obeyed my wife's arbitrary instructions with a certain confidence. I retained my sceptical attitude none the less.
+> 
+> THE CLAIM OF THE BOOK OF THE LAW IN RESPECT OF RELIGION.
+> 
+> The importance of religion to humanity is paramount. The reason is that all men perceive more of less the "First Noble Truth" --- that everything is sorrow; and religion claims to console them by an authoritative denial of this truth or by promising compensations in other states of existence. This claim implies the possibility of knowledge derived from sources other than the unaided investigation of nature through the senses and the intellect. It postulates, therefore, the existence of one or more praeter-human intelligences, able and willing to communicate, through the medium of certain chosen man, to mankind a truth or truths which could not otherwise be known. Religion is justified in demanding faith, since the evidence of the senses and the mind cannot confirm its statements. The evidence from prophecy and miracle is valid only in so far as it goes to the credit of the man through whom the communication is made. It establishes that he is in possession of knowledge and power different, not only in degree but in kind, from those enjoyed by the rest of man kind." (Aleister Crowley)
+
+[from THE CONFESSIONS OF ALEISTER CROWLEY - An Autohagiography Part III. {p. 395})] ---- [Ed.]
+
+### THE SUMMONS
+
+#### - THE EQUINOX OF THE GODS -
+
+On April 8, 9 and 10, 1904, e.v. this book was dictated to 666 (Aleister Crowley) by Aiwass, a Being whose nature he does not fully understand, but who described Himself as "the Minister of Hoor-Paar-Kraat" (the Lord of Silence).
+
+The contents of the book prove to strict scientific demonstration that He possesses knowledge and power quite beyond anything that has been hitherto associated with human faculties.
+
+The circumstances of the dictation are described in the Equinox, Vol. I, No. vii: but a fuller account, with an outline of the proof of the character of the book is now here to be issued.
+
+The book announces a New Law for mankind.
+
+It replaces the moral and religious sanctions of the past, which have everywhere broken down, by a principle valid for each man and woman in the world, and self-evidently indefeasible.
+
+The spiritual Revolution announced by the book has already taken place: hardly a country where it is not openly manifest.
+
+Ignorance of the true meaning of this new Law has led to gross anarchy. Its conscious adoption in its proper sense is the sole cure for the political, social and racial unrest which have brought about the World War, the catastrophe of Europe and America, and the threatening attitude of China, India and Islam.
+
+Its solution of the fundamental problems of mathematics and philosophy will establish a new epoch in history.
+
+But it must not be supposed that so potent an instrument of energy can be used without danger.
+
+I summon, therefore, by the power and authority entrusted to me, every great spirit and mind now on this planed incarnate to take effective hold of this transcendent force, and apply it to the advancement of the welfare of the human race.
+
+For as the experience of these two and thirty years has shown too terribly, the book cannot be ignored. It has leavened Mankind unaware: and Man must make thereof the Bread of Life. Its ferment has begun to work on the grape of thought: Man must obtain therefrom the Wine of Ecstasy.
+
+Come then, all ye, in the Name of the Lord of the Aeon, the Crowned and Conquering Child, Heru-Ra-Ha: I call ye to partake this sacrament.
+
+Know-will-dare-and be silent!
+
+The Priest of the Princes,
+
+ANKH-AF-NA-KHONSU.
+
+### A SUMMARY
+#### - THE EQUINOX OF THE GODS -
+
+MARSYAS : The Beast 666   
+OLYMPAS : Any Aspirant  
+MARSYAS.	I bear a message. Heaven hath sent  
+The knowledge of a new sweet way  
+Into the Secret Element.  
+OLYMPAS.	Master, while yet the glory clings   
+Declare this mystery magical!  
+MARSYAS.	I am yet borne on these blue wings  
+Into the Essence of the All.  
+Now, now I stand on earth again,  
+Though, blazing through each nerve and vein,  
+The light yet holds its choral course,  
+Filling my frame with fiery force  
+Like God's. Now hear the Apocalypse!  
+New-fledged on these reluctant lips!  
+OLYMPAS.	I tremble like an aspen, quiver  
+Like light upon a rainy river !  
+MARSYAS.	Do what thou wilt ! is the sole word  
+Of law that my attainment heard.  
+Arise, and lay thine hand on God !  
+Arise, and set a period  
+Unto Restriction ! That is sin :  
+To hold thine holy spirit in !  
+O thou that chafest at thy bars,  
+Invoke Nuit beneath her stars  
+With a pure heart (Her incense burned  
+Of gums and woods, in gold inurned)  
+And let the serpent flame therein  
+A little, and thy soul shall win  
+To lie within her bosom. Lo !  
+Thou wouldst give all------and she cries : No !  
+Take all, and take me ! Gather spice  
+And virgins and great pearls of price !  
+Worship me in a single robe,  
+Crowned Richly ! Girdle of the globe,  
+I love thee. I am drunkenness  
+Of the inmost sense, my soul's caress  
+Is toward thee ! Let my priestess stand  
+Bare and rejoicing, softly fanned  
+By smooth-lipped acolytes, upon  
+Mine iridescent altar-stone,  
+And in her love-chaunt swooningly  
+Say evermore : To me ! To me !  
+I am the azure-lidded daughter  
+Of sunset; the all-girdling water;  
+The naked brilliance of the sky  
+In the voluptuous night am I !  
+With song, with jewel, with perfume,  
+Wake all my rose's blush and bloom !  
+Drink to me ! Love me ! I love thee,  
+My love, my lord--to me ! to me !  
+OLYMPAS.	There is no harshness in the breath  
+Of this--is life surpassed, and death ?  
+MARSYAS.	There is the Snake that gives delight  
+And Knowledge, stirs the heart aright  
+With drunkenness. Strange drugs are thine,  
+Hadit, and draughts of wizard wine !  
+These do no hurt. Thine hermits dwell  
+Not in the cold secretive cell,  
+But under purple canopies  
+With mighty-breasted mistresses  
+Magnificent as lionesses--  
+Tender and terrible caresses !  
+Fire lives, and light, in eager eyes;  
+And massed huge hair about them lies.  
+They lead their hosts to victory :  
+In every joy they are kings ; then see  
+That secret serpent coiled to spring  
+And win the world ! O priest and king,  
+Let there be feasting, foining, fighting,  
+A revel of lusting, singing, smiting !  
+Work ; be the bed of work ! Hold ! Hold !  
+The stars' kiss is as molten gold.  
+Harden ! Hold thyself up ! now die--  
+Ah ! Ah ! Exceed ! Exceed !  
+OLYMPAS.	                                        And I ?  
+MARSYAS.	My stature shall surpass the stars :  
+He hath said it ! Men shall worship me  
+In hidden woods, on barren scaurs,  
+Henceforth to all eternity.  
+OLYMPAS.	Hail ! I adore thee ! Let us feast.  
+MARSYAS.	I am the consecrated Beast.  
+I build the Abominable House.  
+The Scarlet Woman is my Spouse---  
+OLYMPAS.	What is this word ?  
+MARSYAS.	                           Thou canst not know  
+Till thou hast passed the Fourth Ordeal.  
+OLYMPAS.	I worship thee. The moon-rays flow  
+Masterfully rich and real  
+From thy red mouth, and burst, young suns  
+Chanting before the Holy Ones  
+Thine Eight Mysterious Orisons !  
+MARSYAS.	The last spell ! The availing word !  
+The two completed by the third !  
+The Lord of War, of Vengeance  
+That slayeth with a single glance !  
+This light is in me of my Lord.  
+His Name is this far-whirling sword.  
+I push His order. Keen and swift  
+My Hawk's eye flames ; these arms uplift  
+The Banner of Silence and of Strength---  
+Hail ! Hail ! thou are here, my Lord, at length !  
+Lo, the Hawk-Headed Lord am I :  
+My nemyss shrouds the night-blue sky.  
+Hail ! ye twin warriors that guard  
+The pillars of the world ! Your time  
+Is nigh at hand. The snake that marred  
+Heaven with his inexhaustible slime  
+Is slain ; I bear the Wand of power,  
+The Wand that waxes and that wanes ;  
+I crush the Universe this hour  
+In my left hand ; and naught remains !  
+Ho ! for the splendour in my name  
+Hidden and glorious, a flame  
+Secretly shooting from the sun.  
+Aum ! Ha !--my destiny is done.  
+The Word is spoken and concealed.  
+OLYMPAS.	I am stunned. What wonder was revealed ?  
+MARSYAS.	The rite is secret.  
+OLYMPAS.	Profits it ?  
+MARSYAS.	Only to wisdom and to wit.  
+OLYMPAS.	The other did no less.  
+MARSYAS.	Then prove  
+Both by the master-key of Love.  
+The lock turns stiffly ? Shalt thou shirk  
+To use the sacred oil of work ?  
+Not from the valley shalt thou wrest  
+The eggs that line the eagle's nest !  
+Climb, with thy life at stake, the ice,  
+The sheer wall of the precipice !  
+Master the cornice, gain the breach,  
+And learn what next the ridge can teach !  
+Yet--not the ridge itself may speak  
+The secret of the final peak.  
+OLYMPAS.	All ridges join at last.  
+MARSYAS.	Admitted,  
+O thou astute and subtle-witted !  
+Yet one--loose, jagged, clad in mist !  
+Another--firm, smooth, loved and kissed  
+By the soft sun ! Our order hath  
+This secret of the solar path,  
+Even as our Lord the Beast hath won  
+The mystic Number of the Sun.  
+OLYMPAS.	These secrets are too high for me.  
+MARSYAS.	Nay, little brother ! Come and see !  
+Neither by faith nor fear not awe  
+Approach the doctrine of the Law !  
+Truth, Courage, Love, shall win the bout,  
+And those three others be cast out.  
+OLYMPAS.	Lead me, Master, by the hand  
+Gently to this gracious land !  
+Let me drink the doctrine in,  
+An all-healing medicine !  
+Let me rise, correct and firm,  
+Steady striding to the term,  
+Master of my fate, to rise  
+To imperial destinies ;  
+With the sun's ensanguine dart  
+Spear-bright in my blazing heart,  
+And my being's basil-plant  
+Bright and hard as adamant !  
+MARSYAS.	Yonder, faintly luminous,  
+The yellow desert waits for us.  
+Lithe and eager, hand in hand,  
+We travel to the lonely land.  
+There, beneath the stars, the smoke  
+Of our incense shall invoke  
+The Queen of Space ; and subtly She  
+Shall bend from Her Infinity  
+Like a lambent flame of blue,  
+Touching us, and piercing through  
+All the sense-webs that we are  
+As the aethyr penetrates a star !  
+Her hands caressing the black earth,  
+Her sweet lithe body arched for love,  
+Her feet a Zephyr to the flowers,  
+She calls my name--she gives the sign  
+That she is mine, supremely mine,  
+And clinging to the infinite girth  
+My soul gets perfect joy thereof  
+Beyond the abysses and the hours ;  
+So that--I kiss her lovely brows ;  
+She bathes my body in perfume  
+Of sweat....O thou my secret spouse,  
+Continuous One of Heaven ! illume  
+My soul with this arcane delight,  
+Voluptuous Daughter of the Night !  
+Eat me up wholly with the glance  
+Of thy luxurious brilliance !  
+OLYMPAS.	The desert calls.  
+MARSYAS.	Then let us go !  
+Or seek the sacramental snow,  
+Where like an high-priest I may stand  
+With acolytes on every hand,  
+The lesser peaks--my will withdrawn  
+To invoke the dayspring from the dawn,  
+Changing that rosy smoke of light  
+To a pure crystalline white ;  
+Though the mist of mind, as draws  
+A dancer round her limbs the gauze,  
+Clothe Light, and show the virgin Sun  
+A lemon-pale medallion !  
+Thence leap we leashless to the goal,  
+Stainless star-rapture of the soul.  
+So the altar-fires fade  
+As the Godhead is displayed.  
+Nay, we stir not. Everywhere  
+Is our temple right appointed.  
+All the earth is faery fair  
+For us. Am I not anointed ?  
+The Sigil burns upon the brow  
+At the adjuration--here and now.  
+OLYMPAS.	The air is laden with perfumes.  
+MARSYAS.	Behold ! it beams--it burns--it blooms.  
+OLYMPAS.	Master, how subtly hast thou drawn  
+The daylight from the Golden Dawn,  
+Bidden the Cavernous Mount unfold  
+Its Ruby Rose, its Cross of Gold ;   
+Until I saw, flashed from afar,  
+The Hawk's Eye in the Silver Star !  
+MARSYAS.	Peace to all beings. Peace to thee,  
+Co-heir of mine eternity !  
+Peace to the greatest and the least,  
+To nebula and nenuphar !  
+Light in abundance be increased   
+On them that dream that shadows are !  
+OLYMPAS.	Blessing and worship to The Beast,  
+The prophet of the lovely Star !  
+
+## LIBER AL vel LEGIS Sub Figura CCXX
+
+###### LIBER CCXX - Book 220
+
+#### LIBER AL
+#### VEL
+#### LEGIS
+##### sub figurâ CCXX
+
+as delivered by  
+XCIII = 418  
+to DCLXVI  
+
+![](img/Liber_Al_Vel_Legis.gif)
+
+![](img/AA_Seal.gif)
+
+A∴A∴ Publication in Class A
+
+Pro Coll. Sum.:
+
+93	10°=1□  
+666	9°=2□  
+V.V.V.V.V.	8°=3□  
+
+Pro. Coll. Int.:
+
+V.	7°=4□  
+V.V.	6°=5□  
+Y.	5°=6□  
+ 
+
+### Introduction
+
+#### I &mdash; The Book
+
+1. This book was dictated in Cairo between noon and 1 p.m. on three successive days, April 8th, 9th and 10th in the year 1904.
+
+The Author called himself Aiwass, and claimed to be “the minister of Hoor-Paar-Kraat”; that is, a messenger from the forces ruling this earth at present, as will be explained later on.
+
+How could he prove that he was in fact a being of a kind superior to any of the human race, and so entitled to speak with authority? Evidently he must show KNOWLEDGE and POWER such as no man has ever been known to possess.
+
+2. He showed his KNOWLEDGE chiefly by the use of cipher or cryptogram in certain passages to set forth recondite facts, including some events which had yet to take place, such that no human being could possibly be aware of them; thus, the proof of his claim exists in the manuscript itself. It is independent of any human witness.
+
+The study of these passages necessarily demands supreme human scholarship to interpret— it needs years of intense application. A great deal has still to be worked out. But enough has been discovered to justify his claim; the most sceptical intelligence is compelled to admit its truth.
+
+This matter is best studied under the Master Therion, whose years of arduous research have led him to enlightenment.
+
+On the other hand, the language of most of the Book is admirably simple, clear and vigorous. No one can read it without being stricken in the very core of his being.
+
+3. The more than human POWER of Aiwass is shewn by the influence of his Master, and of the Book, upon actual events: and history fully supports the claim made by him. These facts are appreciable by everyone; but are better understood with the help of the Master Therion.
+
+4. The full detailed account of the events leading up to the dictation of this Book, with facsimile reproduction of the Manuscript and an essay by the Master Therion, is published in The Equinox of the Gods.
+
+#### II &mdash; The Universe
+
+This Book explains the Universe.
+
+The elements are Nuit— Space— that is, the total of possibilities of every kind— and Hadit, any point which has experience of these possibilities. (This idea is for literary convenience symbolized by the Egyptian Goddess Nuit, a woman bending over like the Arch of the Night Sky. Hadit is symbolized as a Winged Globe at the heart of Nuit.)
+
+Every event is a uniting of some one monad with one of the experiences possible to it.
+
+“Every man and every woman is a star,” that is, an aggregate of such experiences, constantly changing with each fresh event, which affects him or her either consciously or subconsciously.
+
+Each one of us has thus an universe of his own, but it is the same universe for each one as soon as it includes all possible experience. This implies the extension of consciousness to include all other consciousness.
+
+In our present stage, the object that you see is never the same as the one that I see; we infer that it is the same because your experience tallies with mine on so many points that the actual differences of our observation are negligible. For instance, if a friend is walking between us, you see only his left side, I his right; but we agree that it is the same man, although we may differ not only as to what we may see of his body but as to what we know of his qualities. This conviction of identity grows stronger as we see him more often and get to know him better. Yet all the time neither of us can know anything of him at all beyond the total impression made on our respective minds.
+
+The above is an extremely crude attempt to explain a system which reconciles all existing schools of philosophy.
+
+#### III &mdash; The Law of Thelema^[Thelema is the Greek for Will, and has the same numerical value as Agape, the Greek for Love.]
+
+This Book lays down a simple Code of Conduct.
+
+“Do what thou wilt shall be the whole of the Law.”
+
+“Love is the law, love under will.”
+
+“There is no law beyond Do what thou wilt.”
+
+This means that each of us stars is to move on our true orbit, as marked out by the nature of our position, the law of our growth, the impulse of our past experiences. All events are equally lawful— and every one necessary, in the long run— for all of us, in theory; but in practice, only one act is lawful for each one of us at any given moment. Therefore Duty consists in determining to experience the right event from one moment of consciousness to another.
+
+Each action or motion is an act of love, the uniting with one or another part of “Nuit”; each such act must be “under will,” chosen so as to fulfil and not to thwart the true nature of the being concerned.
+
+The technical methods of achieving this are to be studied in Magick, or acquired by personal instruction from the Master Therion and his appointed assistants.
+
+#### IV &mdash; The New Aeon
+
+The third chapter of the Book is difficult to understand, and may be very repugnant to many people born before the date of the book (April, 1904).
+
+It tells us the characteristics of the Period on which we are now entered. Superficially, they appear appalling. We see some of them already with terrifying clarity. But fear not!
+
+It explains that certain vast “stars” (or aggregates of experience) may be described as Gods. One of these is in charge of the destinies of this planet for periods of 2,000 years.* In the history of the world, as far as we know accurately, are three such Gods: Isis, the mother, when the Universe was conceived as simple nourishment drawn directly from her; this period is marked by matriarchal government.
+
+Next, beginning 500 B.C., Osiris, the father, when the Universe was imagined as catastrophic, love, death, resurrection, as the method by which experience was built up; this corresponds to patriarchal systems.
+
+Now, Horus, the child, in which we come to perceive events as a continual growth partaking in its elements of both these methods, and not to be overcome by circumstance. This present period involves the recognition of the individual as the unit of society.
+
+We realize ourselves as explained in the first paragraphs of this essay. Every event, including death, is only one more accretion to our experience, freely willed by ourselves from the beginning and therefore also predestined.
+
+This “God,” Horus, has a technical title: Heru-Ra-Ha, a combination of twin gods, Ra-Hoor-Khuit and Hoor-Paar-Kraat. The meaning of this doctrine must be studied in Magick. (He is symbolized as a Hawk-Headed God enthroned.)
+
+He rules the present period of 2,000 years, beginning in 1904. Everywhere his government is taking root. Observe for yourselves the decay of the sense of sin, the growth of innocence and irresponsibility, the strange modifications of the reproductive instinct with a tendency to become bisexual or epicene, the childlike confidence in progress combined with nightmare fear of catastrophe, against which we are yet half unwilling to take precautions.
+
+Consider the outcrop of dictatorships, only possible when moral growth is in its earliest stages, and the prevalence of infantile cults like Communism, Fascism, Pacifism, Health Crazes, Occultism in nearly all its forms, religions sentimentalised to the point of practical extinction.
+
+Consider the popularity of the cinema, the wireless, the football pools and guessing competitions, all devices for soothing fractious infants, no seed of purpose in them.
+
+Consider sport, the babyish enthusiasms and rages which it excites, whole nations disturbed by disputes between boys.
+
+Consider war, the atrocities which occur daily and leave us unmoved and hardly worried.
+
+We are children.
+
+How this new Aeon of Horus will develop, how the Child will grow up, these are for us to determine, growing up ourselves in the way of the Law of Thelema under the enlightened guidance of the Master Therion.
+
+* The moment of change from one period to another is technically called The Equinox of the Gods.
+
+#### V &mdash; The Next Step
+
+Democracy dodders.
+
+Ferocious Fascism, cackling Communism, equally frauds, cavort crazily all over the globe.
+
+They are hemming us in.
+
+They are abortive births of the Child, the New Aeon of Horus.
+
+Liberty stirs once more in the womb of Time.
+
+Evolution makes its changes by anti-Socialistic ways. The “abnormal” man who foresees the trend of the times and adapts circumstance intelligently, is laughed at, persecuted, often destroyed by the herd; but he and his heirs, when the crisis comes, are survivors.
+
+Above us today hangs a danger never yet paralleled in history. We suppress the individual in more and more ways. We think in terms of the herd. War no longer kills soldiers; it kills all indiscriminately. Every new measure of the most democratic and autocratic govenments is Communistic in essence. It is always restriction. We are all treated as imbecile children. Dora, the Shops Act, the Motoring Laws, Sunday suffocation, the Censorship— they won’t trust us to cross the roads at will.
+
+Fascism is like Communism, and dishonest into the bargain. The dictators suppress all art, literature, theatre, music, news, that does not meet their requirements; yet the world only moves by the light of genius. The herd will be destroyed in mass.
+
+The establishment of the Law of Thelema is the only way to preserve individual liberty and to assure the future of the race.
+
+In the words of the famous paradox of the Comte de Fénix— The absolute rule of the state shall be a function of the absolute liberty of each individual will.
+
+All men and women are invited to cooperate with the Master Therion in this, the Great Work.
+
+O. M.
+
+## LIBER CCXX
+#### THE BOOK OF THE LAW
+#### LIBER AL VEL LEGIS
+##### sub figurâ CCXX
+
+as delivered by  
+XCIII = 418  
+to DCLXVI  
 
 
+### CHAPTER I.
+
+1. Had! The manifestation of Nuit.
+2. The unveiling of the company of heaven.
+3. Every man and every woman is a star.
+4. Every number is infinite; there is no difference.
+5. Help me, o warrior lord of Thebes, in my unveiling before the Children of men!
+6. Be thou Hadit, my secret centre, my heart & my tongue!
+7. Behold! it is revealed by Aiwass the minister of Hoor-paar-kraat.
+8. The Khabs is in the Khu, not the Khu in the Khabs.
+9. Worship then the Khabs, and behold my light shed over you!
+10. Let my servants be few & secret: they shall rule the many & the known.
+11. These are fools that men adore; both their Gods & their men are fools.
+12. Come forth, o children, under the stars, & take your fill of love!
+13. I am above you and in you. My ecstasy is in yours. My joy is to see your joy.
+14. Above, the gemmèd azure is  
+The naked splendour of Nuit;  
+She bends in ecstasy to kiss  
+The secret ardours of Hadit.  
+The wingèd globe, the starry blue,  
+Are mine, O Ankh-af-na-khonsu!  
+15. Now ye shall know that the chosen priest & apostle of infinite space is the prince-priest the Beast; and in his woman called the Scarlet Woman is all power given. They shall gather my children into their fold: they shall bring the glory of the stars into the hearts of men.
+16. For he is ever a sun, and she a moon. But to him is the winged secret flame, and to her the stooping starlight.
+17. But ye are not so chosen.
+18. Burn upon their brows, o splendrous serpent!
+19. O azure-lidded woman, bend upon them!
+20. The key of the rituals is in the secret word which I have given unto him.
+21. With the God & the Adorer I am nothing: they do not see me. They are as upon the earth; I am Heaven, and there is no other God than me, and my lord Hadit.
+Now, therefore, I am known to ye by my name Nuit, and to him by a secret name which I will give him when at last he knoweth me. Since I am Infinite Space, and the Infinite Stars thereof, do ye also thus. Bind nothing! Let there be no difference made among you between any one thing & any other thing; for thereby there cometh hurt.
+But whoso availeth in this, let him be the chief of all!
+I am Nuit, and my word is six and fifty.
+Divide, add, multiply, and understand.
+Then saith the prophet and slave of the beauteous one: Who am I, and what shall be the sign? So she answered him, bending down, a lambent flame of blue, all-touching, all penetrant, her lovely hands upon the black earth, & her lithe body arched for love, and her soft feet not hurting the little flowers: Thou knowest! And the sign shall be my ecstasy, the consciousness of the continuity of existence, the omnipresence of my body.
+Then the priest answered & said unto the Queen of Space, kissing her lovely brows, and the dew of her light bathing his whole body in a sweet-smelling perfume of sweat: O Nuit, continuous one of Heaven, let it be ever thus; that men speak not of Thee as One but as None; and let them speak not of thee at all, since thou art continuous!
+None, breathed the light, faint & færy, of the stars, and two.
+For I am divided for love’s sake, for the chance of union.
+This is the creation of the world, that the pain of division is as nothing, and the joy of dissolution all.
+For these fools of men and their woes care not thou at all! They feel little; what is, is balanced by weak joys; but ye are my chosen ones.
+Obey my prophet! follow out the ordeals of my knowledge! seek me only! Then the joys of my love will redeem ye from all pain. This is so: I swear it by the vault of my body; by my sacred heart and tongue; by all I can give, by all I desire of ye all.
+Then the priest fell into a deep trance or swoon, & said unto the Queen of Heaven; Write unto us the ordeals; write unto us the rituals; write unto us the law!
+But she said: the ordeals I write not: the rituals shall be half known and half concealed: the Law is for all.
+This that thou writest is the threefold book of Law.
+My scribe Ankh-af-na-khonsu, the priest of the princes, shall not in one letter change this book; but lest there be folly, he shall comment thereupon by the wisdom of Ra-Hoor-Khu-it.
+Also the mantras and spells; the obeah and the wanga; the work of the wand and the work of the sword; these he shall learn and teach.
+He must teach; but he may make severe the ordeals.
+The word of the Law is Θελημα.
+Who calls us Thelemites will do no wrong, if he look but close into the word. For there are therein Three Grades, the Hermit, and the Lover, and the man of Earth. Do what thou wilt shall be the whole of the Law.
+The word of Sin is Restriction. O man! refuse not thy wife, if she will! O lover, if thou wilt, depart! There is no bond that can unite the divided but love: all else is a curse. Accursèd! Accursèd be it to the æons! Hell.
+Let it be that state of manyhood bound and loathing. So with thy all; thou hast no right but to do thy will.
+Do that, and no other shall say nay.
+For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect.
+The Perfect and the Perfect are one Perfect and not two; nay, are none!
+Nothing is a secret key of this law. Sixty-one the Jews call it; I call it eight, eighty, four hundred & eighteen.
+But they have the half: unite by thine art so that all disappear.
+My prophet is a fool with his one, one, one; are not they the Ox, and none by the Book?
+Abrogate are all rituals, all ordeals, all words and signs. Ra-Hoor-Khuit hath taken his seat in the East at the Equinox of the Gods; and let Asar be with Isa, who also are one. But they are not of me. Let Asar be the adorant, Isa the sufferer; Hoor in his secret name and splendour is the Lord initiating.
+There is a word to say about the Hierophantic task. Behold! there are three ordeals in one, and it may be given in three ways. The gross must pass through fire; let the fine be tried in intellect, and the lofty chosen ones in the highest. Thus ye have star & star, system & system; let not one know well the other!
+There are four gates to one palace; the floor of that palace is of silver and gold; lapis lazuli & jasper are there; and all rare scents; jasmine & rose, and the emblems of death. Let him enter in turn or at once the four gates; let him stand on the floor of the palace. Will he not sink? Amn. Ho! warrior, if thy servant sink? But there are means and means. Be goodly therefore: dress ye all in fine apparel; eat rich foods and drink sweet wines and wines that foam! Also, take your fill and will of love as ye will, when, where and with whom ye will! But always unto me.
+If this be not aright; if ye confound the space-marks, saying: They are one; or saying, They are many; if the ritual be not ever unto me: then expect the direful judgments of Ra Hoor Khuit!
+This shall regenerate the world, the little world my sister, my heart & my tongue, unto whom I send this kiss. Also, o scribe and prophet, though thou be of the princes, it shall not assuage thee nor absolve thee. But ecstasy be thine and joy of earth: ever To me! To me!
+Change not as much as the style of a letter; for behold! thou, o prophet, shalt not behold all these mysteries hidden therein.
+The child of thy bowels, he shall behold them.
+Expect him not from the East, nor from the West; for from no expected house cometh that child. Aum! All words are sacred and all prophets true; save only that they understand a little; solve the first half of the equation, leave the second unattacked. But thou hast all in the clear light, and some, though not all, in the dark.
+Invoke me under my stars! Love is the law, love under will. Nor let the fools mistake love; for there are love and love. There is the dove, and there is the serpent. Choose ye well! He, my prophet, hath chosen, knowing the law of the fortress, and the great mystery of the House of God. 
+All these old letters of my Book are aright; but צ is not the Star. This also is secret: my prophet shall reveal it to the wise.
+I give unimaginable joys on earth: certainty, not faith, while in life, upon death; peace unutterable, rest, ecstasy; nor do I demand aught in sacrifice.
+My incense is of resinous woods & gums; and there is no blood therein: because of my hair the trees of Eternity.
+My number is 11, as all their numbers who are of us. The Five Pointed Star, with a Circle in the Middle, & the circle is Red. My colour is black to the blind, but the blue & gold are seen of the seeing. Also I have a secret glory for them that love me.
+But to love me is better than all things: if under the night stars in the desert thou presently burnest mine incense before me, invoking me with a pure heart, and the Serpent flame therein, thou shalt come a little to lie in my bosom. For one kiss wilt thou then be willing to give all; but whoso gives one particle of dust shall lose all in that hour. Ye shall gather goods and store of women and spices; ye shall wear rich jewels; ye shall exceed the nations of the earth in splendour & pride; but always in the love of me, and so shall ye come to my joy. I charge you earnestly to come before me in a single robe, and covered with a rich headdress. I love you! I yearn to you! Pale or purple, veiled or voluptuous, I who am all pleasure and purple, and drunkenness of the innermost sense, desire you. Put on the wings, and arouse the coiled splendour within you: come unto me!
+At all my meetings with you shall the priestess say—and her eyes shall burn with desire as she stands bare and rejoicing in my secret temple—To me! To me! calling forth the flame of the hearts of all in her love-chant.
+Sing the rapturous love-song unto me! Burn to me perfumes! Wear to me jewels! Drink to me, for I love you! I love you!
+I am the blue-lidded daughter of Sunset; I am the naked brilliance of the voluptuous night-sky.
+To me! To me!
+The Manifestation of Nuit is at an end.
+
+### CHAPTER II.
+
+Nu! the hiding of Hadit.
+Come! all ye, and learn the secret that hath not yet been revealed. I, Hadit, am the complement of Nu, my bride. I am not extended, and Khabs is the name of my House.
+In the sphere I am everywhere the centre, as she, the circumference, is nowhere found.
+Yet she shall be known & I never.
+Behold! the rituals of the old time are black. Let the evil ones be cast away; let the good ones be purged by the prophet! Then shall this Knowledge go aright.
+I am the flame that burns in every heart of man, and in the core of every star. I am Life, and the giver of Life, yet therefore is the knowledge of me the knowledge of death.
+I am the Magician and the Exorcist. I am the axle of the wheel, and the cube in the circle. «Come unto me» is a foolish word: for it is I that go.
+Who worshipped Heru-pa-kraath have worshipped me; ill, for I am the worshipper.
+Remember all ye that existence is pure joy; that all the sorrows are but as shadows; they pass & are done; but there is that which remains.
+O prophet! thou hast ill will to learn this writing.
+I see thee hate the hand & the pen; but I am stronger.
+Because of me in Thee which thou knewest not.
+for why? Because thou wast the knower, and me.
+Now let there be a veiling of this shrine: now let the light devour men and eat them up with blindness!
+For I am perfect, being Not; and my number is nine by the fools; but with the just I am eight, and one in eight: Which is vital, for I am none indeed. The Empress and the King are not of me; for there is a further secret.
+I am The Empress & the Hierophant. Thus eleven, as my bride is eleven.
+Hear me, ye people of sighing!
+The sorrows of pain and regret
+Are left to the dead and the dying,
+The folk that not know me as yet.
+These are dead, these fellows; they feel not. We are not for the poor and sad: the lords of the earth are our kinsfolk.
+Is a God to live in a dog? No! but the highest are of us. They shall rejoice, our chosen: who sorroweth is not of us.
+Beauty and strength, leaping laughter and delicious languor, force and fire, are of us.
+We have nothing with the outcast and the unfit: let them die in their misery. For they feel not. Compassion is the vice of kings: stamp down the wretched & the weak: this is the law of the strong: this is our law and the joy of the world. Think not, o king, upon that lie: That Thou Must Die: verily thou shalt not die, but live. Now let it be understood: If the body of the King dissolve, he shall remain in pure ecstasy for ever. Nuit! Hadit! Ra-Hoor-Khuit! The Sun, Strength & Sight, Light; these are for the servants of the Star & the Snake.
+I am the Snake that giveth Knowledge & Delight and bright glory, and stir the hearts of men with drunkenness. To worship me take wine and strange drugs whereof I will tell my prophet, & be drunk thereof! They shall not harm ye at all. It is a lie, this folly against self. The exposure of innocence is a lie. Be strong, o man! lust, enjoy all things of sense and rapture: fear not that any God shall deny thee for this.
+I am alone: there is no God where I am.
+Behold! these be grave mysteries; for there are also of my friends who be hermits. Now think not to find them in the forest or on the mountain; but in beds of purple, caressed by magnificent beasts of women with large limbs, and fire and light in their eyes, and masses of flaming hair about them; there shall ye find them. Ye shall see them at rule, at victorious armies, at all the joy; and there shall be in them a joy a million times greater than this. Beware lest any force another, King against King! Love one another with burning hearts; on the low men trample in the fierce lust of your pride, in the day of your wrath.
+Ye are against the people, O my chosen!
+I am the secret Serpent coiled about to spring: in my coiling there is joy. If I lift up my head, I and my Nuit are one. If I droop down mine head, and shoot forth venom, then is rapture of the earth, and I and the earth are one.
+There is great danger in me; for who doth not understand these runes shall make a great miss. He shall fall down into the pit called Because, and there he shall perish with the dogs of Reason.
+Now a curse upon Because and his kin!
+May Because be accursèd for ever!
+If Will stops and cries Why, invoking Because, then Will stops & does nought.
+If Power asks why, then is Power weakness.
+Also reason is a lie; for there is a factor infinite & unknown; & all their words are skew-wise.
+Enough of Because! Be he damned for a dog!
+But ye, o my people, rise up & awake!
+Let the rituals be rightly performed with joy & beauty!
+There are rituals of the elements and feasts of the times.
+A feast for the first night of the Prophet and his Bride!
+A feast for the three days of the writing of the Book of the Law.
+A feast for Tahuti and the child of the Prophet — secret, O Prophet!
+A feast for the Supreme Ritual, and a feast for the Equinox of the Gods.
+A feast for fire and a feast for water; a feast for life and a greater feast for death!
+A feast every day in your hearts in the joy of my rapture!
+A feast every night unto Nu, and the pleasure of uttermost delight!
+Aye! feast! rejoice! there is no dread hereafter. There is the dissolution, and eternal ecstasy in the kisses of Nu.
+There is death for the dogs.
+Dost thou fail? Art thou sorry? Is fear in thine heart?
+Where I am these are not.
+Pity not the fallen! I never knew them. I am not for them. I console not: I hate the consoled & the consoler.
+I am unique & conqueror. I am not of the slaves that perish. Be they damned & dead! Amen. (This is of the 4: there is a fifth who is invisible, & therein am I as a babe in an egg. )
+Blue am I and gold in the light of my bride: but the red gleam is in my eyes; & my spangles are purple & green.
+Purple beyond purple: it is the light higher than eyesight.
+There is a veil: that veil is black. It is the veil of the modest woman; it is the veil of sorrow, & the pall of death: this is none of me. Tear down that lying spectre of the centuries: veil not your vices in virtuous words: these vices are my service; ye do well, & I will reward you here and hereafter.
+Fear not, o prophet, when these words are said, thou shalt not be sorry. Thou art emphatically my chosen; and blessed are the eyes that thou shalt look upon with gladness. But I will hide thee in a mask of sorrow: they that see thee shall fear thou art fallen: but I lift thee up.
+Nor shall they who cry aloud their folly that thou meanest nought avail; thou shall reveal it: thou availest: they are the slaves of because: They are not of me. The stops as thou wilt; the letters? change them not in style or value!
+Thou shalt obtain the order & value of the English Alphabet; thou shalt find new symbols to attribute them unto.
+Begone! ye mockers; even though ye laugh in my honour ye shall laugh not long: then when ye are sad know that I have forsaken you.
+He that is righteous shall be righteous still; he that is filthy shall be filthy still.
+Yea! deem not of change: ye shall be as ye are, & not other. Therefore the kings of the earth shall be Kings for ever: the slaves shall serve. There is none that shall be cast down or lifted up: all is ever as it was. Yet there are masked ones my servants: it may be that yonder beggar is a King. A King may choose his garment as he will: there is no certain test: but a beggar cannot hide his poverty.
+Beware therefore! Love all, lest perchance is a King concealed! Say you so? Fool! If he be a King, thou canst not hurt him.
+Therefore strike hard & low, and to hell with them, master!
+There is a light before thine eyes, o prophet, a light undesired, most desirable.
+I am uplifted in thine heart; and the kisses of the stars rain hard upon thy body.
+Thou art exhaust in the voluptuous fullness of the inspiration; the expiration is sweeter than death, more rapid and laughterful than a caress of Hell’s own worm.
+Oh! thou art overcome: we are upon thee; our delight is all over thee: hail! hail: prophet of Nu! prophet of Had! prophet of Ra-Hoor-Khu! Now rejoice! now come in our splendour & rapture! Come in our passionate peace, & write sweet words for the Kings.
+I am the Master: thou art the Holy Chosen One.
+Write, & find ecstasy in writing! Work, & be our bed in working! Thrill with the joy of life & death! Ah! thy death shall be lovely: whoso seeth it shall be glad. Thy death shall be the seal of the promise of our agelong love. Come! lift up thine heart & rejoice! We are one; we are none.
+Hold! Hold! Bear up in thy rapture; fall not in swoon of the excellent kisses!
+Harder! Hold up thyself! Lift thine head! breathe not so deep—die!
+Ah! Ah! What do I feel? Is the word exhausted?
+There is help & hope in other spells. Wisdom says: be strong! Then canst thou bear more joy. Be not animal; refine thy rapture! If thou drink, drink by the eight and ninety rules of art: if thou love, exceed by delicacy; and if thou do aught joyous, let there be subtlety therein!
+But exceed! exceed!
+Strive ever to more! and if thou art truly mine—and doubt it not, an if thou art ever joyous!—death is the crown of all.
+Ah! Ah! Death! Death! thou shalt long for death. Death is forbidden, o man, unto thee.
+The length of thy longing shall be the strength of its glory. He that lives long & desires death much is ever the King among the Kings.
+Aye! listen to the numbers & the words:
+4 6 3 8 A B K 2 4 A L G M O R 3 Y X 24 89 R P S T O V A L. What meaneth this, o prophet? Thou knowest not; nor shalt thou know ever. There cometh one to follow thee: he shall expound it. But remember, o chosen one, to be me; to follow the love of Nu in the star-lit heaven; to look forth upon men, to tell them this glad word.
+O be thou proud and mighty among men!
+Lift up thyself! for there is none like unto thee among men or among Gods! Lift up thyself, o my prophet, thy stature shall surpass the stars. They shall worship thy name, foursquare, mystic, wonderful, the number of the man; and the name of thy house 418.
+The end of the hiding of Hadit; and blessing & worship to the prophet of the lovely Star!
+ 
+
+### CHAPTER III.
+
+Abrahadabra; the reward of Ra Hoor Khut.
+There is division hither homeward; there is a word not known. Spelling is defunct; all is not aught. Beware! Hold! Raise the spell of Ra-Hoor-Khuit!
+Now let it be first understood that I am a god of War and of Vengeance. I shall deal hardly with them.
+Choose ye an island!
+Fortify it!
+Dung it about with enginery of war!
+I will give you a war-engine.
+With it ye shall smite the peoples; and none shall stand before you.
+Lurk! Withdraw! Upon them! this is the Law of the Battle of Conquest: thus shall my worship be about my secret house.
+Get the stélé of revealing itself; set it in thy secret temple—and that temple is already aright disposed—& it shall be your Kiblah for ever. It shall not fade, but miraculous colour shall come back to it day after day. Close it in locked glass for a proof to the world.
+This shall be your only proof. I forbid argument. Conquer! That is enough. I will make easy to you the abstruction from the ill-ordered house in the Victorious City. Thou shalt thyself convey it with worship, o prophet, though thou likest it not. Thou shalt have danger & trouble. Ra-Hoor-Khu is with thee. Worship me with fire & blood; worship me with swords & with spears. Let the woman be girt with a sword before me: let blood flow to my name. Trample down the Heathen; be upon them, o warrior, I will give you of their flesh to eat!
+Sacrifice cattle, little and big: after a child.
+But not now.
+Ye shall see that hour, o blessèd Beast, and thou the Scarlet Concubine of his desire!
+Ye shall be sad thereof.
+Deem not too eagerly to catch the promises; fear not to undergo the curses. Ye, even ye, know not this meaning all.
+Fear not at all; fear neither men nor Fates, nor gods, nor anything. Money fear not, nor laughter of the folk folly, nor any other power in heaven or upon the earth or under the earth. Nu is your refuge as Hadit your light; and I am the strength, force, vigour, of your arms.
+Mercy let be off: damn them who pity! Kill and torture; spare not; be upon them!
+That stélé they shall call the Abomination of Desolation; count well its name, & it shall be to you as 718.
+Why? Because of the fall of Because, that he is not there again.
+Set up my image in the East: thou shalt buy thee an image which I will show thee, especial, not unlike the one thou knowest. And it shall be suddenly easy for thee to do this.
+The other images group around me to support me: let all be worshipped, for they shall cluster to exalt me. I am the visible object of worship; the others are secret; for the Beast & his Bride are they: and for the winners of the Ordeal x. What is this? Thou shalt know.
+For perfume mix meal & honey & thick leavings of red wine: then oil of Abramelin and olive oil, and afterward soften & smooth down with rich fresh blood.
+The best blood is of the moon, monthly: then the fresh blood of a child, or dropping from the host of heaven: then of enemies; then of the priest or of the worshippers: last of some beast, no matter what.
+This burn: of this make cakes & eat unto me. This hath also another use; let it be laid before me, and kept thick with perfumes of your orison: it shall become full of beetles as it were and creeping things sacred unto me.
+These slay, naming your enemies; & they shall fall before you.
+Also these shall breed lust & power of lust in you at the eating thereof.
+Also ye shall be strong in war.
+Moreover, be they long kept, it is better; for they swell with my force. All before me.
+My altar is of open brass work: burn thereon in silver or gold!
+There cometh a rich man from the West who shall pour his gold upon thee.
+From gold forge steel!
+Be ready to fly or to smite!
+But your holy place shall be untouched throughout the centuries: though with fire and sword it be burnt down & shattered, yet an invisible house there standeth, and shall stand until the fall of the Great Equinox; when Hrumachis shall arise and the double-wanded one assume my throne and place. Another prophet shall arise, and bring fresh fever from the skies; another woman shall awake the lust & worship of the Snake; another soul of God and beast shall mingle in the globèd priest; another sacrifice shall stain the tomb; another king shall reign; and blessing no longer be poured To the Hawk-headed mystical Lord!
+The half of the word of Heru-ra-ha, called Hoor-pa-kraat and Ra-Hoor-Khut.
+Then said the prophet unto the God:
+I adore thee in the song—
+
+I am the Lord of Thebes, and I
+The inspired forth-speaker of Mentu;
+For me unveils the veilèd sky,
+The self-slain Ankh-af-na-khonsu
+Whose words are truth. I invoke, I greet
+Thy presence, O Ra-Hoor-Khuit!
+
+Unity uttermost showed!
+I adore the might of Thy breath,
+Supreme and terrible God,
+Who makest the gods and death
+To tremble before Thee:—
+I, I adore thee!
+
+Appear on the throne of Ra!
+Open the ways of the Khu!
+Lighten the ways of the Ka!
+The ways of the Khabs run through
+To stir me or still me!
+Aum! let it fill me!
+
+So that thy light is in me; & its red flame is as a sword in my hand to push thy order. There is a secret door that I shall make to establish thy way in all the quarters, (these are the adorations, as thou hast written), as it is said:
+
+The light is mine; its rays consume
+Me: I have made a secret door
+Into the House of Ra and Tum,
+Of Khephra and of Ahathoor.
+I am thy Theban, O Mentu,
+The prophet Ankh-af-na-khonsu!
+
+By Bes-na-Maut my breast I beat;
+By wise Ta-Nech I weave my spell.
+Show thy star-splendour, O Nuit!
+Bid me within thine House to dwell,
+O wingèd snake of light, Hadit!
+Abide with me, Ra-Hoor-Khuit!
+
+All this and a book to say how thou didst come hither and a reproduction of this ink and paper for ever—for in it is the word secret & not only in the English—and thy comment upon this the Book of the Law shall be printed beautifully in red ink and black upon beautiful paper made by hand; and to each man and woman that thou meetest, were it but to dine or to drink at them, it is the Law to give. Then they shall chance to abide in this bliss or no; it is no odds. Do this quickly!
+But the work of the comment? That is easy; and Hadit burning in thy heart shall make swift and secure thy pen.
+Establish at thy Kaaba a clerk-house: all must be done well and with business way.
+The ordeals thou shalt oversee thyself, save only the blind ones. Refuse none, but thou shalt know & destroy the traitors. I am Ra-Hoor-Khuit; and I am powerful to protect my servant. Success is thy proof: argue not; convert not; talk not over much! Them that seek to entrap thee, to overthrow thee, them attack without pity or quarter; & destroy them utterly. Swift as a trodden serpent turn and strike! Be thou yet deadlier than he! Drag down their souls to awful torment: laugh at their fear: spit upon them!
+Let the Scarlet Woman beware! If pity and compassion and tenderness visit her heart; if she leave my work to toy with old sweetnesses; then shall my vengeance be known. I will slay me her child: I will alienate her heart: I will cast her out from men: as a shrinking and despised harlot shall she crawl through dusk wet streets, and die cold and an-hungered.
+But let her raise herself in pride! Let her follow me in my way! Let her work the work of wickedness! Let her kill her heart! Let her be loud and adulterous! Let her be covered with jewels, and rich garments, and let her be shameless before all men!
+Then will I lift her to pinnacles of power: then will I breed from her a child mightier than all the kings of the earth. I will fill her with joy: with my force shall she see & strike at the worship of Nu: she shall achieve Hadit.
+I am the warrior Lord of the Forties: the Eighties cower before me, & are abased. I will bring you to victory & joy: I will be at your arms in battle & ye shall delight to slay. Success is your proof; courage is your armour; go on, go on, in my strength; & ye shall turn not back for any!
+This book shall be translated into all tongues: but always with the original in the writing of the Beast; for in the chance shape of the letters and their position to one another: in these are mysteries that no Beast shall divine. Let him not seek to try: but one cometh after him, whence I say not, who shall discover the Key of it all. Then this line drawn is a key: then this circle squared in its failure is a key also. And Abrahadabra. It shall be his child & that strangely. Let him not seek after this; for thereby alone can he fall from it.
+Now this mystery of the letters is done, and I want to go on to the holier place.
+I am in a secret fourfold word, the blasphemy against all gods of men.
+Curse them! Curse them! Curse them!
+With my Hawk’s head I peck at the eyes of Jesus as he hangs upon the cross.
+I flap my wings in the face of Mohammed & blind him.
+With my claws I tear out the flesh of the Indian and the Buddhist, Mongol and Din.
+Bahlasti! Ompehda! I spit on your crapulous creeds.
+Let Mary inviolate be torn upon wheels: for her sake let all chaste women be utterly despised among you!
+Also for beauty’s sake and love’s!
+Despise also all cowards; professional soldiers who dare not fight, but play; all fools despise!
+But the keen and the proud, the royal and the lofty; ye are brothers!
+As brothers fight ye!
+There is no law beyond Do what thou wilt.
+There is an end of the word of the God enthroned in Ra’s seat, lightening the girders of the soul.
+To Me do ye reverence! to me come ye through tribulation of ordeal, which is bliss.
+The fool readeth this Book of the Law, and its comment; & he understandeth it not.
+Let him come through the first ordeal, & it will be to him as silver.
+Through the second, gold.
+Through the third, stones of precious water.
+Through the fourth, ultimate sparks of the intimate fire.
+Yet to all it shall seem beautiful. Its enemies who say not so, are mere liars.
+There is success.
+I am the Hawk-Headed Lord of Silence & of Strength; my nemyss shrouds the night-blue sky.
+Hail! ye twin warriors about the pillars of the world! for your time is nigh at hand.
+I am the Lord of the Double Wand of Power; the wand of the Force of Coph Nia—but my left hand is empty, for I have crushed an Universe; & nought remains.
+Paste the sheets from right to left and from top to bottom: then behold!
+There is a splendour in my name hidden and glorious, as the sun of midnight is ever the son.
+The ending of the words is the Word Abrahadabra.
+The Book of the Law is Written 
+and Concealed. 
+Aum. Ha.
+
+hex
+
+THE COMMENT
+
+Do what thou wilt shall be the whole of the Law.
+
+The study of this Book is forbidden. It is wise to destroy this copy after the first reading.
+
+Whosoever disregards this does so at his own risk and peril. These are most dire.
+
+Those who discuss the contents of this Book are to be shunned by all, as centres of pestilence.
+
+All questions of the Law are to be decided only by appeal to my writings, each for himself.
+
+There is no law beyond Do what thou wilt.
+
+Love is the law, love under will.
+
+The priest of the princes,
+
+Ankh-f-n-khonsu
+
+
+## THE EQUINOX OF THE GODS
+
+### Chapter I &mdash; The Boyhood of Aleister Crowley
+
+At 36 Clarendon Square, Leamington, Warwickshire, England, at 10.50 p.m. on the twelfth day of October, in the Eighteen Hundred and Seventy-Fifth Year of the vulgar era, was born the person whose history is to be recounted.
+
+His father was named Edward Crowley; his mother, Emily Bertha, her maiden name being Bishop. Edward Crowley was an Exclusive Plymouth Brother, the most considered leader in that sect. This branch of the family of Crowley has been settled in England since Tudor times, but is Celtic in origin, Crowley being a clan in Kerry and other counties in the South-West of Ireland, of the same stock as the Breton `de Querouaille' or `de Kerval' which gave a Duchess of Portsmouth to England. It is supposed that the English branch---the direct ancestry of Edward Alexander Crowley---came to England with the Duke of Richmond, and took root at Bosworth.
+
+In 1881 he went to live at The Grange, Redhill, Surrey. In I884 the boy, who had till then been educated by governesses and tutors, was sent to a school at St. Leonards, kept by some extreme Evangelicals named Habershon. A year later he was transferred to a school at Cambridge kept by a Plymouth Brother of the name of Champney. (The dates in this paragraph are possibly inaccurate. Documentary evidence is at the present moment unavailable. Ed.)
+
+On March 5, 1887, Edward Crowley died. Two years later the boy was removed from the school. Those two years were years of unheard-of torture. He has written details in the Preface to "The World's Tragedy." This torture seriously undermined his health. For two years he travelled, mostly in Wales and Scotland, with tutors. In 1890 he went for a short time to a school at Streatham, kept by a man named Yarrow, his mother having moved there in order to be near her brother, an extremely narrow Evangelical named Tom Bond Bishop. This prepared him for Malvern, which he entered at the summer term of 1891. He only remained there a year, as his health was still very delicate. In the autumn he entered for a term at Tonbridge, but fell seriously ill, and had to be removed. The year 1893 was spent with tutors, principally in Wales, the north of Scotland, and Eastbourne. In 1895 he completed his studies in chemistry at King's College, London, and in October of that year entered Trinity College, Cambridge.
+
+With this ends the first period of his life. It is only necessary to state briefly that his brain developed early. At four years old he could read the Bible aloud, showing a marked predilection for the lists of long names, the only part of the Bible which has not been tampered with by theologians. (This curious trait may perhaps be evidence of his poetical feeling, his passion for the bizarre and mysterious, or even of his aptitude for the Hebrew Qabalah. It may also be interpreted as a clue to his magical ancestry.) He could also play chess well enough to beat the average amateur, and though constantly playing never lost a game till I895.(The first man to beat him was H. E. Atkins, British Chess Champion (Amateur) for many years.) He was taught by a tailor who had been summoned to make clothes for his father, and was treated as a guest on account of his being a fellow "Plymouth Brother". He beat his teacher uniformly after the first game. He must have been six or seven years old at this time.
+
+He began to write poetry in 1886, if not earlier. Vide "Oracles".
+
+After the death of his father, who was a man of strong common sense, and never allowed his religion to interfere with natural affection, he was in the hands of people of an entirely contrary disposition. His mental attitude was soon concentrated in hatred of the religion which they taught, and his will concentrated in revolt against its oppressions. His main method of relief was mountaineering, which left him alone with nature, away from the tyrants.
+
+The years from March, 1887, until entering Trinity College, Cambridge, in October, 1895, represented a continual struggle towards freedom. At Cambridge he felt himself to be his own master, refused to attend Chapel, Lectures or Hall, and was wisely left alone to work out his won salvation by his tutor, the late Dr. A. W. Verrall.
+
+It must be stated that he possessed natural intellectual ability to an altogether extraordinary degree. He had the faculty of memory, especially verbal memory, in astonishing perfection.
+
+As a boy he could find almost any verse in the Bible after a few minutes search. In 1900 he was tested in the works of Shakespeare, Shelley, Swinburne (1st series of Poems and Ballads), Browning and The Moonstone. He was able to place exactly any phrase from any of these books, and in nearly every case to continue with the passage.
+
+He showed remarkable facility in acquiring the elements of Latin, Greek, French, Mathematics and Science. He learnt "little Roscoe" almost by heart, on his won initiative. When in the Lower Fifth at Malvern, he came out sixth in the school in the annual Shakespeare examination, though he had given only two days to preparing for it. Once, when the Mathematical Master, wishing to devote the hour to cramming advanced pupils, told the class to work out a set of examples of Quadratic Equations, he retorted by asking at the end of forty minutes what he should do next, and handed up the whole series of 63 equations, correct.
+
+He passed all his examinations both at school and university with honours, though refusing uniformly to work for them.
+
+On the other hand, he could not be persuaded or constrained to apply himself to any subject which did not appeal to him. He showed intense repugnance to history, geography, and botany, among others. He could never learn to write Greek and Latin verses, this probably because the rules of scansion seemed arbitrary and formal.
+
+Again, it was impossible to him to take interest in anything from the moment that he had grasped the principles of "how it was, or might be done." This trait prevented him from putting the finishing touches to anything he attempted.
+
+For instance, he refused to present himself for the second part of his final examination for his B.A. degree, simply because he knew himself thoroughly master of the subject! (Swinburne similarly refused to be examined in Classics at Oxford on the ground that he knew more than the examiners.)
+
+This characteristic extended to his physical pleasures. He was abjectly incompetent at easy practice climbing on boulders, because he knew he could do them. It seemed incredible to the other men that this lazy duffer should be the most daring and dexterous cragsman of his generation, as he proved himself whenever he tackled a precipice which had baffled every other climber in the world. (In Chess also he has beaten many International Masters, and ranks on the Continent as a Minor Master himself. But he cannot be relied upon to win against a second-rate player in a Club Match.) Similarly, once he had worked out theoretically a method of climbing a mountain, he was quite content to tell the secret to others, and let them appropriate the glory. (The first ascent of the Dent du Geant from the Montanvers is a case in point.) It mattered everything to him that something should be done, nothing that he should be the one to do it.
+
+This almost inhuman unselfishness was not incompatible with consuming and insatiable personal ambition. The key to the puzzle is probably this; he wanted to be something that nobody else had ever been, or could be. He lost interest in chess as soon as he had proved to himself (at the age of 22) that he was a master of the game, having beaten some of the strongest amateurs in England, and even one or two professional "masters." He turned from poetry to painting, more or less, when he had made it quite certain that he was the greatest poet of his time. Even in Magick, having become The Word of the Aeon, and thus taken his place with the other Seven Magi known to history, out of reach of all possible competition, he began to neglect the subject. He is only able to devote himself to it as he does because he has eliminated all personal ideas from his Work ; it has become as automatic as respiration.
+
+We must also put on record his extraordinary powers in certain unusual spheres. He can remember the minutest details of a rock- climb, after years of absence. He can retrace his steps over any path once traversed, in the wildest weathee or the blackest night. He can divine the one possible passagr through the most complex and dangerous ice-fall. (E.g. the Vuibez seraes in I897, the Mer de Glace, right centre, in I899.)
+
+He possesses a "sense of direction" independent of any known physical methods of taking one's bearings; and this is as effective in strange cities as on mountains or deserts. He can smell the presence of water, of snow, and other supposedly scentless substances. His endurance is exceptional. He has been known to write for 67 consecutive hours : his "Tannhauser" was thus written in 1900. He has walked over 100 miles in 2 1/2 days, in the desert : as in the winter of 1910. He has frequently made expeditions lasting over 36 hours, on mountains, in the most adverse connditions. He holds the World's record for the greatest number of days spent on a glacier--65 days on the Baltoro in 1902; also that for the greatest pace uphill over 16,000 feet--4,000 feet in 1 hour 23 minutes on Iztaccihuatl in 1900; that for the highest peak (first ascent by a solitary climber)--the Nevado de Toluca in 1901; and numerous others. (Written in 1920 e.v.: these records may no longer stand.)
+
+Yet he is utterly fagged-out by the mere idea of a walk of a few hundred yards, if it does not interest him, and excite his imagination, to take it; and it is only with the greatest effort that he can summon the energy to write a few lines if, instead of his wanting to do them, he merely knows that they must be done.
+
+This account has been deemed necessary to explain how it is that a man of such unimaginable commanding qualities as to have made him world-famous in so many diverse spheres of action, should have been so grotesquely unable to make use of his faculties, or even of his achievements, in any of the ordinary channels of human activity; to consolidate his personal pre-eminence, or even to secure his position from a social or economic standpoint.
+
+### CHAPTER II &mdash; Adolescence: Beginnings of Magick
+
+Having won freedom, he had the sense not to waste any time in enjoying it. He had been deprived of all English literature but the Bible during the whole of his youth, and he spent his three years at Cambridge in repairing the defect. He was also working for the Diplomatic Service, the late Lord Salisbury and the late Lord Ritchie having taken an interest in his career, and given him nominations. In October, 1897, he was suddenly recalled to his understanding of the evils of the alleged 'existing religion,' and experienced a trance, in which he perceived the utter folly of all human ambition. The fame of an ambassador rarely outlives a century. That of a poet is almost as ephemeral. The earth must one day perish. He must build in some material more lasting. This conception drove him to the study of Alchemy and Magick. He wrote to the author of "The Book of Black Magic and of Pacts," a pompous American named Arthur Waite, notorious for the affectations and obscurities of his style, and the mealy-mouthed muddle of his mysticism. This nebulous impresario, presenting an asthmatic Isis in the Opera "Bull-Frogs," had hinted in his preface that he knew certain occult sanctuaries wherein Truth and Wisdom were jealously guarded by a body of Initiates, to be despensed to the postulant who proved himself worthy to partake of their privileges. Mr. Waite recommended him to read a book called "The Cloud on the Sanctuary."
+
+His taste for mountaineering had become a powerful passion, and he was climbing in Cumberland when he met Oscar Eckenstein, perhaps the greatest of all the mountaineers of his period, with whom he was destined to climb thenceforward until 1902.
+
+In the summer a party was formed to camp on the Schonbuhl Glacier at the foot of the Dent Blanche, with a view to an expedition to the Himalayas later on. During his weeks on the Glacier, where the bad weather was continuous, he studied assiduously the translation by S. L. Mathers of three books which form part of von Rosenroth's "Kabbalah Unveiled." On one of his decents to Zermatt, he met a distinguished chemist, Julian L. Bater, who had studied Alchemy. He hunted this clue through the valley, and made Baker promise to meet him in London at the end of the sea- son, and introduce him to others who were interested in Occult science. This happened in September; through Baker, he met another chemist named George Cecil Jones, who introduced him to the Hermetic Order of the Golden Dawn. He made rapid progress in this Order, and in the spring of 1900 was its chief in England. The details of this period must be studied in "The Temple of Solomon the King," where a full account of the Order is given. In the Order he met one, Allan Bennett, Frater Iehi Aour. Jones and Bennett were both Adepts of high standing. The latter came to live with him in his flat, and together they carried out many operations of ceremonial magick. Allan Bennett was constant illhealth, and went to Ceylon at the end of 1899. It was on his entry into this Order that the subject of this history took the motto of "Perdurabo"--'I will endure to the end.'
+
+In July, 1900, he went to Mexico, and devoted his whole time to the continued practice of Magick, in which he obtained extraordinary success. (See Equinox Vol. I, No. III for a condensed account of some of these. It may be here stated summarily that he invoked certain Gods, Goddesses, and Spirits to visible appearance, learnt how to heal physical and moral diseases, how to make himself invisible, how to obtain communications from spiritual sources, how to control other minds, etc., etc.) And then....
+
+### CHAPTER III &mdash; Beginnings of Mysticism
+
+##### The Birth of 
+##### FRATER OU MH. 
+##### 7°=4□
+
+Oscar Eckenstein, on his arrival in Mexico, where he was to climb mountains with the subject of our essay, found him in a rather despondent mood. He had attained the most satisfactory results. He was able to communicate with the divine forces, and operations such as those of invisibility and evocation had been mastered. Yet with all this there was a certain dissatisfaction. Success had not given him all that he had hoped for. He placed the situation before his companion, rather to clear his own mind than hoping for any help, for he supposed him to be entirely ignorant of all these subjects, which he habitually treated with dislike and contempt. Judge of his surprise, then, when he found in this unpromising quarter a messenger form the Great White Brotherhood ! His companion told him to abandon all magick.
+
+"The Task," said Eckenstein, "involves the control of the mind. Yours is a wandering mind." The proposition was indignantly denied.
+
+"Test it," said the Master. A short experiment was conclusive. It was impossible for the boy to keep his mind fixed upon a single object for even a few seconds at a time. The mind, though perfectly stable in motion, was unable to rest, just as a gyroscope falls when the flywheel slows down. An entirely new course of experiments was consequently undertaken. Half-an-hour every morning and half-an-hour every evening were devoted to attempts to control the mind, by the simple process of imagining a familiar object, and endeavouring to keep concentrated upon it. (See Part I of Book 4 for a description of this, and an explanation of the difficulty of the task, even in the case of one whose powers of concentrated attention, in the ordinary sense of the phrase, are highly developed.)
+
+He soon became sufficiently expert in this initial practice to proceed to concentration on regularly moving objects such as a pendulum, and, ultimately, on living objects. A further series of experiments dealt with the other senses. He tried to imagine and retain the taste of chocolate or of quinine, the smell of various familiar perfumes, the sound of bells, waterfalls, and so on, or the feeling excited by such objects as velvet, silk, fur, sand and steel.
+
+In the spring of 1901, he left Mexico, went to San Francisco, Honolulu, Japan, China and Ceylon, always continuing these experiments. His Master had not told him to what they would ultimately lead. In Ceylon he found Frater I.A. (Allan Bennett), with whom he went to Kandy, where they took a bungalow named Marlboroigh, overlooking the lake.
+
+I.A. had himself been developing on similar lines under P. Ramanathan, the Solicitor-General of Ceylon, known to occultists under the name of Shri Parananda. (He is the author of commentaries on the Gospels of Matthew and John, which he explains as containing many of the aphorisms of Yoga.) I.A. told him that in order to concentrate he must first see that no interruptions reached him from the body, and counselled the adoption of Asana, a settled position in which all bodily movement was to be suppressed. Further, he was to practice Pranayama, or control of the breathing, which has a similar effect in reducing to the lowest possible point the internal movements of the body. (See Part I of Book 4 for full descriptions, and Equinox for some of FRATER PERDURABO'S records of these practices.)
+
+During the months of this stay at Kandy, he practised these, obtained success in Asana, the intense pain of the practices being overcome, and changed into an indescribable sense of physical well-being and comfort.
+
+While in Pranayama he passed through the first stage, which is marked by profuse perspiration of a peculiar kind; the second, which is accompanied by rigidity of the body ; and the third, in which the body unconsciously hops about the floor, without in any way disturbing the Asana.
+
+During the latter part of August and the whole of September, his practices became continuous by day and night, in order to create a rhythm in the mind similar to that which Pranayama produces in the body. He adopted a Mantra, or sacred sentence, by the constant repetition of which it became automatic in his brain, so that it would continue through sleep, and he would wake up actually repeating the words. Sleep itself, too, was broken up into short periods of very light sleep of a peculiar kind, in which consciousness is hardly lost, although the body obtains perfect rest. These practices continued into October, at the beginning of which he reached the state of Dhyana, a tremendous spiritual experience, in which the subject and object of meditation unite with excessive violence in blinding brilliance and music of a kind to which earthly harmony affords no parallel. (See Part I of Book 4, and Equinox Vol. I, No. IV.)
+
+The result of this however was to cause so intense a satisfaction with his progress, that he gave up work. He then visited Anuradhapura and others of the buried cities of Ceylon. In November he went to India, and in January visited I.A. at Akyab in Burma,where that Adept was living in a monastery, with the intention of preparing himself to take the Yellow Robe of the Buddhist Sangha. The whole of the summer of I902 was spent in an expedition to Chogo Ri (K2) in the Himalayas. (An account of this journey is given by Dr. Jacot-Guillarmod: "Six mois dans l'Himalaya." His own story is in "The Spirit of Solitude" (The Confessions of Aleister Crowley) Vol. II.) During the whole of this period he did very little occult work.
+
+November, 1902, him in Paris, where he stayed off and on till the spring of 1903, when he returned to his house in Scotland.
+
+We must now go backwards in time, to take up a thread which had run through his whole work, so important as to demand a chapter to itself:--
+
+### CHAPTER IV &mdash; The Sacred Magic of Abramelin the Mage
+
+##### The Birth of 
+##### FRATER---------- 
+##### 5°=6□ A∴A∴
+
+(The Mystic Name of an Adept of this degree is not to be divulged without special reasons for so doing.)
+
+In the autumn of 1898 George Cecil Jones had directed the attention of Frater Perdurabo to a book entitled "The Book of the Sacred Magic of Abramelin the Mage". The essence of this book is as follows :
+
+The aspirant must have a house secure from observation and interference. In this house there must be an oratory with a window to the East, and a door to the North opening upon a terrace, at the end of which must be a lodge. He must have a Robe, Crown, Wand, Altar, Incense, Anointing Oil, and a Silver Lamen. The terrace and lodge must be strewn with fine sand. He withdraws himself gradually from human intercourse to devote himself more and more to prayer for the space of four months. He must then occupy two months in almost continuous prayer, speaking as little as possible to anybody. At the end of this period he invokes a being described as the Holy Guardian Angel, who appears to him (or to a child employed by him), and who will write in dew upon the Lamen, which is placed upon the Altar. The Oratory is filled with Divine Perfume not of the aspirant's kindling.
+
+After a period of communion with the Angel, he summons the Four Great Princes of the Daemonic World, and forces them to swear obedience.
+
+On the following day he calls forward and subdues the Eight Sub-Princes; and the day after that, the many Spirits serving these. These inferior Daemons, of whom four act as familiar spirits, then operate a collection of talismans for various purposes. Such is a brief account of the Operation described in the book.
+
+This Operation strongly appealed to our student. He immediately set about to procure a suitable house, and to prepare everything that might be necessary for the operation. All was ready for the beginning in Easter of 1900, and it must be said that the preliminary work alone is so tremendous that a long story might be written of the events of these 18 months of preparation. The Operation itself was however never begun. A fortnight or so before the time appointed, he received an urgent appeal from his Master to save him and the Order from destruction. He gave up his own prospects of personal advancement without hesitation, and hastened to Paris. (See the Equinox "The Temple of Solomon the King" for a fairly full account of these various matters. The "Master" was the late S.L. Mathers.)
+
+That the Master proved to be no Master, and the Order no Order, but the incarnation of Disorder, had no effect upon the good Karma created by this renunciation of a project on which he had set his heart for so long.
+
+In Mexico, he kept vigil during several nights in the Temple of the Order of the Lamp of the Invisible Light, an Order whose High Priest is pledged to maintain a Secret and Eternal Lamp. In this shrine he received some shadowing forth of the Vision of the Holy Guardian Angel, and that of the Four Great Princes : here also he renewed the Oath of the Operation.
+
+(The whole of his magical career is best interpreted as the performance of this Operation. One must not suppose that Initiation is a formality, observing the "unities," like being made a Mason. All life pertains to the process, and it pervades the whole personality; the official recognition of attainment is merely a token of what had taken place.)
+
+On his return to Scotland in 1903, he found ample evidence of the presence of the forces of the Operation, but by now, having conceived that Work in a subtler manner and having prepared to carry it out in the Temple of his own body, having seen Magick, in short, more of less in the manner in which it is seen in Parts II and III of the Book 4, he was able to dispense with the exterior physical appurtenances of this Operation.
+
+We must now pass over a few years, and deal with the completion of this Operation, although it is in a sense irrelevant to the purpose of this book.
+
+During the winter of 1905-6, he was traveling across China. He had come to the point of conquering his mind. That mind had broken up. He saw that the human mind is by its very nature evanescent, because of the fact that nature is not unity but duality. Truth is relative. All things end in mystery. In such sentences have the philosophers of the past formulated this proposition, as announcing the intellectual bankruptcy which he, with greater frankness, describes as insanity.
+
+Passing from this, he became as a little child, and on reaching the Unity behind the mind, found the purpose of his life formulated in these words, The Obtaining of the Knowledge and Conversation of the Holy Guardian Angel.
+
+He then found himself, having destroyed all other Karma, perfectly free to pursue this one work. He then accomplished the six months of Invocation, as prescribed in the Book of the Sacred Magic, and was rewarded in October, 1906, by complete success. (An account of these matters, in part, is to be found in the Equinox, Vol. I, No. VIII, and in his own poem "Aha !")
+
+He then proceeded to the evocation and conquest of the Four Great Princes and their Inferiors, a work whose results must be studied in the light of his subsequent career.
+
+We have now finished all that is necessary to say concerning him, for the account of some of his further Attainment is given fully in Liber CDXVIII, "The Vision and the Voice," also in Equinox Vol. I No. X "The Temple of Solomon the King," where the unexpected result of the Communion of the Holy Guardian Angel is shown in a symbolism which can hardly be understood without reference to the events of 1904, which are now wholly pertinent to this Essay.
+
+### CHAPTER V &mdash; The Results of Recession
+
+The wisest of the Popes, on being shown some miracles, refused to be impressed, remarking that he did not believe in them, he had seen too many. The result of the Meditation practices and their results, following those of Magick, was to give our student a conception of the Universe which was purely mental. Everything was a phenomenon in mind. He did not as yet see that this conception is self-destructive; but it made him skeptical, and indifferent to whatever happened. You cannot really be impressed by anything which you know to be nothing more than one of your own thoughts. Any occurrence can be interpreted as a thought, or as a relation between two thoughts. In practice this leads to profound indifferentism, miracles having become commonplace. But what would be the amazement of the priest who, placing the Host upon his tongue, found his mouth full of bleeding flesh ! At the period of writing, it is evident for what purpose our student was led into this state. It was not to the Magician, not to the mystic, it was to a militant member of the Rationalist Press Association that the great Revelation was to be made. It was necessary to prove to him that there was in actual truth a Sanctuary, that there was in sober earnest a body of Adepts. It matters nothing whether these Adepts are incarnated or discarnated, human or divine. The only point at issue is that there should be conscious Beings in possession of the deepest secrets of Nature, pledged to the uplifting of humanity, filled with Truth, Wisdom and Understanding. It is practical to prove the existence of individuals whose knowledge and power, although not complete -- for the nature of Knowledge and Power is such that they can never be complete, since the ideas themselves contain imperfections -- are yet enormously greater than aught known to the rest of humanity.
+
+It was of such a body that our student had heard in the "Cloud upon the Sanctuary" ; admission to its adyta had been the guiding hope of his life. His early attainments had tended rather to shake his belief in the existence of such an organization. He had not yet reckoned up the events of his life; he had not yet divined the direction and the set purpose informing their apparently vagrant course. It might have been by chance that whenever he had been confronted with any difficulty the right person had instantly come forward to solve it, whether in the valleys of Switzerland, the mountains of Mexico, or the jungles of the East.
+
+At this period of his life he would have scouted the idea as fantastic. He had yet to learn that the story of Balaam and his prophetic ass might be literally true. For the great Message that came to him came, not through the mouth of any person with any pretensions to any knowledge of this or any other sort, but through an empty-headed woman of society. The plain facts of this revelation must be succinctly stated in a new chapter.
+
+### CHAPTER VI. &mdash; The Great Revelation
+##### The Arising of 
+##### THE BEAST 666. 
+##### 9°=2□
+
+It has been judged best to reprint as it stands the account of these matters originally compiled for "The Temple of Solomon the King." (Equinox Vol. I, No. VII, pp 357-386.) (The notes for this article were worked out in collaboration with Captain (now Major-General) J.F.C. Fuller. Every means of cross-examination was pressed to the utmost.)
+
+#### THE PRIEST
+
+In opening this the most important section of Frater P.'s career, we may be met by the unthinking with the criticism that since it deals rather with his relation to others than with his personal attainment, it has no place in this volume.(Projected by Fuller as no more than a record of the personal attainment of Aleister Crowley.)
+
+Such criticism is indeed shallow. True, the incidents which we are about to record took place on planes material or contiguous thereto; true, so obscure is the light by which we walk that much must be left in doubt; true, we have not as yet the supreme mystical attainment to record; but on the other hand it is our view that the Seal set upon Attainment may be itself fittingly recorded in the story of that Attainment, and that no step in progress is more important than that when it is said to the aspirant: "Now that you are able to walk alone, let it be your first care to use that strength to help others!" And so this great event which we are about to describe, an event which will lead, as time will show, to the establishment of a New Heaven and New Earth for all men, wore the simplest and humblest guise. So often the gods come clad as peasants or as children; nay, I have listened to their voices in stones and trees.
+
+However, we must not forget that there are persons so sensitive and so credulous that they are convinced by anything, I suppose that there are nearly as many beds in the world as there are men; yet for the Evangelical every bed conceals its Jesuit.
+
+We get "Milton composing baby rhymes" and "Locke reasoning in gibberish," divine revelations which would shock the intelligence of a sheep or a Saxon ; and we find these upheld and defended with skill and courage.
+
+Therefore, since we are to announce the divine revelation made to Fra. P., it is of the last importance that we should study his mind as is was at the time of the Unveiling. If we find it to be the mind of a neurotic, of a mystic, of a person predisposed, we shall slight the revelation ; if it be that of a sane man of the world, we shall attach more importance to it.
+
+If some dingy Alchemist emerges from his laboratory, and proclaims to all Tooting that he has made gold, men doubt; but the conversion to spiritualism of Professor Lombroso made a great deal of impression on those who did not understand that his criminology was but the heaped delusion of a diseased brain.
+
+So we shall find that the A∴A∴ subtly prepared Fra. P. by over two years' training in rationalism and indifferentism for Their message. And we shall find that so well did They do Their work that he refused the message for five years more, in spite of many strange proofs of its truth. We shall find even that Fra. P. had to be stripped naked of himself before he could effectively deliver the message.
+
+The battle was between all that mighty will of his and the Voice of a Brother who spoke once, and entered again into His silence ; and it was not Fra. P. who had the victory.
+
+We left Fra. P. in the autumn of 1901 having made considerable progress in Yoga. We noted that in 1902 he did little or nothing either in Magic or Mysticism. The interpretation of the occult phenomena which he had observed occupied him exclusively, and his mind was more and more attracted to materialism.
+
+What are phenomena? he asked. Of noumena I know and can know nothing. All I know is, as far as I know, a mere modification of the mind, a phase of consciousness. And thought is a secretion of the brain. Consciousness is a function of the brain.
+
+If this thought was contradicted by the obvious, "And what is the brain? A phenomenon in mind!", it weighed less with him. It seemed to his mind as yet unbalanced (for all men are unbalanced until they have crossed the Abyss), that it was more important to insist on matter than on mind. Idealism wrought such misery, was the father of all illusion, never led to research. And yet, what odds? Every act or thought is determined by an infinity of causes, is the resultant of an infinity of forces. He analysed God, saw that every man had made God in his own image, saw the savage and cannibal Jews devoted to a savage and cannibal God, who commanded the rape of virgins and the murder of little children. He saw the timid inhabitants of India, races continually the prey of every robber tribe, inventing the effeminate Vishnu; while, under the same name, their conquerors worshiped a warrior, the conqueror of Demon Swans. He saw the flower of earth throughout all time, the gracious Greeks, what gracious gods they had invented. He saw Rome, in its strength devoted to Mars, Jupiter and Hercules, in its decay turning to emasculate Attis, slain Adonis, murdered Osiris, crucified Christ. He could even trace in his own life every aspiration, every devotion, as a reflection of his physical and intellectual needs. He saw, too, the folly of all this supernaturalism. He heard the Boers and the British pray to the same Protestant God, and it occurred to him that the early success of the former might be due rather to superior valour than to superior praying power, and their eventual defeat to the circumstance that they could only bring 60,000 men against a quarter of a million. He saw, too, the face of humanity mired in its own blood that dripped from the leeches of religion fastened to its temples.
+
+In all this he saw man as the only thing worth holding to; the one thing that needed to be "saved," but also the one thing that could save it.
+
+All that he had attained, then, he abandoned. The intuitions of the Qabalah were cast behind him with a smile at his youthful folly; magic, if true, led nowhere; Yoga had become psychology. For the solution of his original problems of the universe he looked to metaphysics ; he devoted his intellect to the cult of absolute reason. He took up once more with Kant, Hume, Spencer, Huxley, Tyndall, Maudsley, Mansel, Fitche, Schelling, Hegel, and many another ; while as for his life, was he not a man? He had a wife; he knew his duty to the race, and to his own ancient graft thereof. He was a traveller and a sportsman; very well, then, live it! So we find that from November, 19O1 he did no practices of any kind until the Spring Equinox of 1904, with the exception of a casual week in the summer of 1903, and an exhibition game of magick in the King's Chamber of the Great
+
+Pyramid in November, 1903, when by his invocations he filled that chamber with a brightness as of full moonlight. (This was no subjective illusion. The light was sufficient for him to read the ritual by.) Only to conclude, "There, you see it? What's the good of it?"
+
+We find him climbing mountains, skating, fishing, hunting big game, fulfilling the duties of a husband; we find him with the antipathy to all forms of spiritual thought and work which marks disappointment.
+
+If one goes up the wrong mountain by mistake, as may happen, no beauties of that mountain can compensate for the disillusionment when the error is laid bare. Leah may have been a very nice girl indeed, but Jacob never cared for her after that terrible awakening to find her face on the pillow when, after seven years' toil, he wanted the expected Rachel.
+
+So Fra. P., after five years barking up the wrong tree, had lost interest in trees altogether as far as climbing them was concerned. He might indulge in a little human pride: "See, Jack, that's the branch I cut my name on when I was a boy"; but even the golden fruit of Eternity in its branches, he would have done no more than lift his gun and shoot the pigeon that flitted through its foliage.
+
+Of this "withdrawal from the vision" the proof is not merely deducible from the absence of all occult documents in his dossier, and from the full occupation of his life in external and mundane duties and pleasures, but is made irrefragible and emphatic by the positive evidence of his writings. Of these we have several examples. Two are dramatisations of Greek mythology, a subject offering every opportunity to the occultist. Both are markedly free from any such allusions. We have also a slim booklet, `Rosa Mundi,' in which the joys of pure human love are pictured without the faintest tinge of mystic emotion. Further, we have a play, `The God Eater,' in which the Origin of Religion, as conceived by Spencer or Frazer, is dramatically shown forth; and lastly we have a satire, `Why Jesus Wept,' hard, cynical, and brutal in its estimate of society, but careless of any remedy for its ills.
+
+It is as if the whole past of the man with all its aspiration and attainment was blotted out. He saw life (for the first time, perhaps) with commonplace human eyes. Cynicism he could understand, romance he could understand; all beyond was dark. Happiness was the bedfellow of contempt.
+
+We learn that, late in 1903, he was proposing to visit China on a sporting expedition, when a certain very commonplace communication made to him by his wife caused him to postpone it. "Let's go and kill something for a month or two," said he, "and if you're right, we'll get back to nurses and doctors."
+
+So we find them in Hambantota, the south-eastern province of Ceylon, occupied solely with buffalo, elephant, leopard, sambhur, and the hundred other objects of the chase.
+
+We here insert extracts from the diary, indeed a meagre production--after what we have seen of his previous record in Ceylon.
+
+Whole weeks pass without a word; the great man was playing bridge, poker, or golf!
+
+The entry of February 19th reads as if it were going to be interesting, but it is followed by that of February 20th. It is however certain that about the 14th of March he took possession of a flat in Cairo--in the Season! 
+
+Can bathos go further ? 
+So that the entry of March I6th is dated from Cairo. 
+(Our notes are given in round brackets.)
+
+--- 
+
+Frater P.'s Diary
+
+(This diary is extremely incomplete and fragmentary. Many entries, too, are evidently irrelevant or "blinds." We omit much of the latter two types.)
+"This eventful year 1903 finds me at a nameless camp in the jungle of a Southern Province of Ceylon; my thoughts, otherwise divided between Yoga and sport, are diverted by the fact of a wife..."
+
+(This reference to Yoga is the subconscious Magical Will of the Vowed Initiate. He was not doing anything; but, on questioning himself, as was his custom at certain seasons, he felt obliged to affirm his Aspiration.) 
+
+Jan. 1	...(Much blotted out)...missed deer and hare. So annoyed. Yet the omen is that the year is well for works of Love and Union ; ill for those of Hate. Be mine of Love ! (Note that he does not add "and Union." As a devotee of Yoga, "Union," would have done.)
+Jan. 28	Embark for Suez.
+Feb. 7	Suez.
+Feb. 8	Landed at Port Said.
+Feb. 9	To Cairo.
+Feb. 11	Saw b.f.g.
+b.f.b.
+(This entry is quite unintelligible to us.)
+Feb. 19	To Helwan as Oriental Despot.
+(Apparently P. had assumed some disguise, pro- bably with the intention of trying to study Islam from within as he had done with Hinduism.)
+Feb. 20	Began golf.
+March 16	Began INV. (invocation) IAO (Given in Liber Samekh: see "Magick.")
+March 17	THOTH [in Greek] appeared. (Thoth, the Egyptian God of Wisdom and Magick.)
+March 18	Told to INV. (invoke) HORUS [in Greek] as the sun [drawn] by new way.
+March 19	Did this badly at noon 30.
+March 20	At 10 p.m. did well--Equinox of Gods--Nov--(? new) C.R.C. (Christian Rosy Cross, we conjecture.) Hoori now Hpnt (obviously "Hierophant").
+March 21	in . 1.A.M. (? one o'clock)
+March 22	X.P.B.
+(May this and the entry March 24, refer to the brother of the A.'.A.'. who found him ?)
+E.P.D. in 84 m. (Unintelligible to us ; probably a blind.)
+March 23	Y.K. done. (?His work on the Yi King.)*1*
+March 24	Met [sanskrit] again.
+March 25	823 Thus 
+461 = p f l y 2 b z 
+218 " "
+(Blot)	wch trouble with ds.
+(Blot)	P.B. (All unintelligible ; possibly a blind.)
+April 6	Go off again to H, taking A's p. 
+(This is probably a blind.)
+
+Before we go further into the history of this period we must premise as follows.
+Fra. P. never made a thorough record of this period. He seems to have wavered between absolute scepticism in the bad sense, a dislike of the revelation, on the one hand, and real enthusiasm on the other. And the first of these moods would induce him to do thins to spoil the effect of the latter. Hence the "blinds" and stupid meaningless cyphers which deface the diary.
+
+And, as if the Gods themselves wished to darken the Pylon, we find later, when P.'s proud will had been broken, and he wished to make straight the way of the historian, his memory (one of the finest memories in the world) was utterly incompetent to make everything certain.
+
+However, nothing of which he was not certain will be entered in this place.
+
+We have one quite unspoiled and authoritative document:
+
+"The Book of Results," written in one of the small Japanese vellum note-books which he used to carry. Unfortunately, it seems to have been abandoned after five days. What happened between March 23rd and April 8th?
+
+#### THE BOOK OF RESULTS
+
+March 16th Die [mercury] (ie, wednesday) I invoke IAO. (Fra. P. tells us that this was done by the ritual of the "Bornless One," identical with the "Preliminary In- vocation" (See "Magick" Appendix Liber CXX.) in the "Goetia," merely to amuse his wife by showing her the sylphs. She refused or was unable th see any sylphs, but became "inspired," and kept on saying: "They're waiting for you !")
+
+(Note. The maiden name of his wife was Rose Edith Kelly. He called her Ouarda, the Arabic for for "Rose." She is hereafter signified by "Ouarda the Seer" or "W." for short. Ed.)
+W. says "they" are "waiting for me."
+17. [Jupiter] (Thursday) It is "all about the child." Also "all Osiris." (Note the cynic and sceptic tone of this entry. How different it appears in the light of Liber 418!) Thoth, invoked with great success, indwells us. (Yes ; but what happened? Fra. P. has no sort of idea.)
+
+18.[Venus] (Friday) Revealed that the waiter was Horus, whom I had offended and ought to invoke. The ritual revealed in skeleton. Promise of success [Saturn] (Saturday) or [Sun] (Sunday) and of Samadhi. (Is this "waiter" another sneer? We are uncertain.)
+
+The revealing of the ritual (by W. the seer) consisted chiefly in a prohibition of all formulae hitherto used, as will be seen from the text printed below.
+It was probable on this day that P. cross-examined W. about Horus. Only the striking character of her identification of the God, surely, would have made him trouble to obey her. He remembers that he only agreed to obey her in order to show her how silly she was, and he taunted her that "nothing could happen of you broke all the rules."
+Here therefore we insert a short note by Fra. P. how W. knew R.H.K. (Ra Hoor Khuit)
+
+Force and Fire (I asked her to describe his moral qualities.)
+Deep blue light. (I asked her to describe the conditions caused by him. This light is quite unmistakable and unique ; but of course her words, though a fair description of it, might equally apply to some other.)
+Horus. (I asked her to pick out his name from a list of ten dashed off at haphazard.)
+Recognized his figure when shown. (This refers to the striking scene in the Boulak Museum, which will be dealt with in detail.)
+Knew my past relations with the God. (This means, I think, that she knew I had taken his place in temple,(See Equinox Vol. I, No. II, the Neophyte Ritual of the G.D.) etc., and that I had never once invoked him.)
+Knew his enemy. (I asked, "Who is his enemy?" Reply, "Forces of the waters--of the Nile." W. knew no Egyptology--or anything else.)
+Knew his lineal figure and its colour. (A 1/84 chance.)
+Knew his place in temple. (A 1/4 chance, at the least.)
+Knew his weapon (from a list of 6.)
+Knew his planetary nature (from a list of 7 planets.)
+Knew his number (from a list of 10 units.)
+Picked him out of (a)Five, (b)Three} indifferent, i,e, arbitrary symbols. (This means that I settled in my own mind that say D of A,B,C,D, and E should represent him and that she then said D.)
+We cannot too strongly insist on the extraordinary character of this identification.
+We had made no pretension to clairvoyance; nor had P. ever tried to train her.
+
+P. had great experience with clairvoyants, and it was always a point of honour with him to bowl them out. And here was a novice, a woman who should never have been allowed outside a ballroom, speaking with the authority of God, and proving it by unhesitating correctness.
+
+One slip, and Fra. P. would have sent her to the devil. And that slip was not made. Calculate the odds! We cannot find a mathematical expression for tests 1,2,3,4,5, or 6, but the other 7 tests give us
+
+1/10 x 1/84 x 1/4 x 1/6 x 1/7 x 1/I0 x 1/15 = 1/21,168,000
+Twenty-one million to one against her getting through half the ordeal!
+Even if we suppose what is absurd, that she knew the correspondences of the Qabalah as well as Fra. P., and had know- ledge of his own secret relations with the Unseen, we must strain telepathy to explain test 12.
+
+(Note. We may add, too, that Fra. P. thinks, but is not quite certain, that he also tested her with the Hebrew Alphabet and the Tarot trumps, in which case the long odds must be still further multiplied by 484, bringing them over the billion mark!
+
+But we know that she was perfectly ignorant of the subtle correspondences, which were only existing at that time in Fra. P.'s own brain.
+
+And even if it were so, how are we to explain what followed--the discovery of the Stele of Revealing?
+
+To apply test 4, Fra.P. took her to the museum at Boulak, which they had not previously visited. She passed by (as P. noted with silent glee) several images of Horus. They went upstairs. A glass case stood in the distance, too far off for its contents to be recognized. But W. recognized it ! "There," she cried, "There he is !"
+
+Fra. P. advanced to the case. There was the image of Horus in the form of Ra Hoor Khuit painted upon a wooden stele of the 26th dynasty--and the exhibit bore the number 666! (666 had been taken by Fra. P. as the number of His own Name (The Beast) long years before, in His childhood. There could be no physical causal connection here ; and coincidence, sufficient to explain this one isolated fact, becomes inadequate in view of the other evidence.)
+
+(And after that it was five years before Fra. P. was force to obedience !)
+
+This incident must have occurred before the 23rd of March, as the entry on that date refers to Ankh-f-n-khonsu.
+
+Here is P.'s description of the Stele. "In the museum at Cairo, No. 666 is the stele of the Priest Ankh-f-n-khonsu.
+
+Horus had a red Disk and green Uraeus.
+
+His face is green, his skin indigo. 
+His necklace, anklets, and bracelets are gold. 
+His nemyss nearly black from blue. 
+His tunic is the Leopard's skin, and his apron green and gold. 
+Green is the wand of double Power; his r.h. is empty. 
+His throne is indigo the gnomon, red the square. 
+The light is gamboge. 
+Above him are the Winged Globe and the bent figure of the heavenly Isis, her hands and feet touching earth.
+
+(We print the most recent translation of the Stele, by Messrs. Alan Gardiner, Litt. D., and Battiscombe Gunn. It differs slightly from that used by Fra. P., which was due to the assistant-curator of the Museum at Boulak.)
+
+---
+
+#### STELE OF ANKH-F-NA-KHONSU.
+
+##### Obverse
+
+Topmost Register (under Winged Disk)  
+Behdet (? Hadit ?), the Great God, the Lord of Heaven.  
+Middle Register. Two vertical lines to left :---  
+Ra-Harakhti, Master of the Gods.  
+Five vertical lines to right :---  
+Osiris, the Priest of Montu, Lord of Thebes, Opener of the  
+doors of Nut in Karnak, Ankh-f-n-Khonsu, the Justified.  
+Below Altar :---  
+Oxen, Geese, Wine (?), Bread.  
+Behind the god is the hieroglyph of Amenti.  
+Lowest Register. 
+
+(I) Saith Osiris, the Priest of Montu, Lord of Thebes, the opener of the Doors of Nut in Karnak, Ankh-f-n-Khonsu, (2) the Justified :--"Hail, Thou whose praise is high (the highly praised), thou great-willed. O Soul (ba) very awful (lit. mighty, of awe) that giveth the terror of him (3) among the Gods, shining in glory upon his great throne, making ways for the Soul (ba) for the Spirit (yekh) and for the Shadow (khabt) : I am prepared and I shine forth as one that is prepared. (4) I have made way to the place in which are Ra, Tom, Khepri and Hathor."
+Osiris, the Priest of Montu, Lord of Thebes (5) Ankh-f-na-Khonsu, the Justified ; son of MNBSNMT (The father's name. The method of spelling shows that he was a foreigner. There is no clue to the vocalisation).; born of the Sistrum-bearer of Amon, the Lady Atne-sher.
+
+##### Reverse.
+
+Eleven lines of writing.
+(I) Saith Osiris, the Priest of Montu, Lord of Thebes, Ankh-f- (2)na-Khonsu, the Justified :--"My heart from my mother, my heart (different word, apparently synonymous, but probably not so at all) of my existence (3) upon earth, stand not forth against me as witness, drive me not back (4) among the Sovereign Judges (quite an arbitrary conventional translation of the original word), neither incline against me in the presence of the Great God, the Lord of the West (Osiris of course); (5) Now that I am united with Earth in the Great West, and endure no longer upon Earth.
+(6). Saith Osiris, he who is in Thebes, Ankh-f-na-Khonsu, the Justified: "O Only (7) One, shining like (or in) the Moon; Osiris Ankh-f-(8)na_Khonsu has come froth upon high among these thy multitudes. (9) He that gathereth together those that are in the Light, the Underworld (duat) is (also) (10) opened to him ; lo Osiris Ankh-f-na-Khonsu, cometh forth (II) by day to do all that he wisheth upon earth among the living."
+
+There is one other object to complete the secret of Wisdom -- (P. notes "perhaps a Thoth") or it is in the hieroglyphs. (This last paragraph is, we suppose, dictated by W.)
+
+We now return to the "Book of Results."
+19	The ritual written out and the invocation done -- little success.
+20	Revealed (We cannot make out if this revelation comes from W. or is a result of the ritual. But almost certainly the former, as it precedes the "Great Success" entry) that the Equinox of the Gods is come, Horus taking the Throne of the East and all rituals, etc., being abrogated. (To explain this, the analogy is between the "new formula" given by the "Word" every six months in the Order, and that given every couple of thousand years (more or less) by the Word of a Magus to the whole or part of Mankind. The G.D. ritual of the Equinox was celebrated in the spring and autumn within 48 hours of the actual dates of Sol entering Aries and Libra.)
+Great success in midnight invocation. 
+(The other diary says 10 P.M. "Midnight" is perhaps a loose phrase, or perhaps marks the climax of the ritual.)
+I am to formulate a new link of an Order with the Solar Force.
+
+(It is not clear what happened in this invocation; but it is evident from another note of certainly later date, that "great success" does not mean "Samadhi." For P. writes: "I make it an absolute condition that I should attain Samadhi in the god's won interest." His memory concurs in this. It was the Samadhi attained in October, 1906, that set him again in the path of obedience to this revelation.
+But that "great success" means something very important is clear enough. The sneering sceptic of the 17th of March must have had a shock before he wrote those words.)
+
+
+(This note is due to W.'s prompting or to his own rationalizing imagination.)
+21.	☾. ☉ enters ♈. ("Monday. The Sun enters Aries." i.e. Springs begins.)
+22.	♂ (Tuesday) The day of rest, on which nothing whatever of magic is to be done at all. ☿ (Wednesday)  is to be the great day of invocation.
+23.	The Secret of Wisdom.
+
+(We omit the record of a long and futile Tarot divination.) At this point we may insert the Ritual which was so successful on the 20th.
+
+---
+
+##### INVOCATION OF HORUS 
+##### ACCORDING TO THE DIVINE VISION OF W., THE SEER.
+
+To be performed before a window open to the E. or N. without incense. The room to be filled with jewels, but only diamonds to be worn. A sword, unconsecrated, 44 pearl beads to be told. Stand. Bright daylight at 12.30 noon. Lock doors. White robes. Bare feet. Be very loud. Saturday. Use the Sign of Apophis and Typhon.
+The above is W.'s answer to various questions posed by P.
+
+Preliminary. Banish. L.B.R. Pentagram. L.B.R. Hexagram. Flaming sword. Abrahadabra, Invoke. As before. (These are P.'s ideas for the ritual. W. replied, "Omit.")
+
+The MS. of this Ritual bears and left unrevised, save perhaps for one glance. There are mistakes in grammar and spelling unique in all MSS. of Fra. P.; the use of capitals is irregular, and the punctuation almost wanting.)
+
+--- 
+
+##### CONFESSION
+
+Unprepared and uninvoking Thee, I, OY MH, Fra R.R. et A.C., am here in Thy Presence--for Thou art Everywhere, O Lord Horus! --to confess humbly before Thee my neglect and scorn of Thee.
+How shall I humble myself enough before Thee? Thou art the mighty and unconquered Lord of the Universe: I am a spark of Thine unutterable Radiance.
+
+How should I approach Thee? but Thou art Everywhere.
+
+But Thou hast graciously deigned to call me unto Thee, to this Exorcism of Art, that I may be Thy Servant, Thine Adept, O Bright One, O Sun of Glory! Thou hast called me --should I not then hasten to Thy Presence?
+
+With unwashen hands therefore I come unto Thee, and I lament my wandering from Thee --but Thou knowest!
+
+Yea, I have evil!
+
+If one (doubtless a reference to S.R.M.D. who was much obsessed by Mars, P. saw Horus at first as Geburah; later as an aspect of Tiphereth, including Chesed and Geburah--the red Triangle inverted--an aspect opposite to Osiris.) blasphemed Thee, why should I therefore forsake Thee? But Thou art the Avenger; all is with Thee.
+
+I bow my neck before Thee; and as once Thy sword was upon it (see G.D. Ceremony of Neophyte, the Obligation), so am I in Thy hands. Strike if Thou wilt: spare if Thou wilt: but accept me as I am.
+
+My trust is in Thee: shall I be confounded? This Ritual of Art; this Forty and Fourfold Invocation; this Sacrifice of Blood--(Merely, we suppose, that 44=DM, blood. Possibly a bowl of blood was used. P. thinks it was in some of the workings at this time, but is not sure if it was this one.)--these I do not comprehend.
+
+It is enough if I obey Thy decree; did Thy fiat go forth for my eternal misery, were it not my joy to execute Thy Sentence on myself?
+
+For why? For that All is in Thee and of Thee; it is enough if I burn up in the intolerable glory of Thy presence.
+
+Enough! I turn toward Thy Promise.
+
+Doubtful are the Words: Dark are the Ways: but in Thy Words and Ways is Light. Thus then now as ever, I enter the Path of Darkness, if haply so I may attain the Light.
+
+Hail!
+
+##### a I [aleph]
+
+> Strike, strike the master chord! Draw, draw the Flaming Sword! Crowned Child and Conquering Lord, Horus, avenger!  
+> I.	O Thou of the Head of the Hawk! Thee, Thee, I invoke!  
+> (At every "Thee I invoke," throughout whole ritual, give the sign of Apophis.)  
+> A.	Thou only-begotten-child of Osiris Thy Father, and Isis Thy Mother. He that was slain ; She that bore Thee in Her womb flying from the Terror of the Water. Thee, Thee I invoke!  
+> 2.	O Thou whose Apron is of flashing white, whiter than the Forehead of the Morning! Thee, Thee, I invoke!  
+> B.	O Thou who hast formulated Thy Father and made fertile Thy Mother! Thee, Thee, I invoke!  
+> 3.	O Thou whose garment is of golden glory with the azure bars of sky! Thee, Thee, I invoke!  
+> C.	Thou, who didst avenge the Horror of Death; Thou the slayer of Typhon! Thou who didst lift Thine arms, and the Dragons of Death were as dust: Thou who didst raise Thine Head, and the Crocodile of Nile was abased before Thee! Thee, Thee, I invoke!  
+> 4.	O Thou whose Nemyss hideth the Universe with night, the impermeable Blue! Thee, Thee, I invoke!  
+> D.	Thou who travellest in the Boat of Ra, abiding at the Helm of the Aftet boat and of the Sektet boat! Thee, Thee, I invoke!  
+> 5.	Thou who bearest the Wand of Double Power ! Thee, Thee, I invoke!  
+> E.	Thou about whose presence is shed the darkness of Blue Light, the unfathomable glory of the outmost Ether, the untravelled, the unthinkable immensity of Space. Thou who concentrest all the Thirty Ethers in one darkling sphere of Fire! Thee, Thee, I invoke!  
+> 6.	O Thou who bearest the Rose and Cross of Life and Light! Thee, Thee, I invoke!  
+>   
+> The Voice of the Five.   
+> The Voice of the Six.   
+> Eleven are the Voices.   
+> Abrahadabra!  
+
+##### [beta] II
+
+Strike, strike the master chord! Draw, draw the Flaming Sword! Crowned Child and Conquering Lord,      Horus, avenger!
+
+> I.	By thy name of Ra, I invoke Thee, Hawk of the Sun, the glorious one!  
+> 2.	By thy name Harmachis, youth of the Brilliant Morning, I invoke Thee!  
+> 3.	By thy name, Mau, I invoke Thee, Lion of the Midday Sun!  
+> 4.	By thy name Tum, Hawk of the Even, crimson splendour of the Sunset, I invoke Thee!  
+> 5.	By thy name Khep-Ra I invoke Thee, O Beetle of the hidden Mastery of Midnight!  
+> A.	By thy name Heru-pa-Kraat, Lord of Silence, Beautiful Child that standest on the Dragons of the Deep, I invoke Thee!  
+> B.	By thy name Apollo, I invoke Thee, O man of Strength and splendour, O poet, O father!  
+> C.	By thy name of Phoebus, that drivest thy chariot through the Heaven of Zeus, I invoke Thee!  
+> D.	By thy name of Odin I invoke Thee, O warrior of the North, O Renown of the Sagas!  
+> E.	By thy name of Jeheshua, O child of the Flaming Star, I invoke Thee !  
+> F.	By Thine own, Thy secret name Hoori, Thee I invoke!  
+>   
+> The Names are Five.   
+> The Names are Six.   
+> Eleven are the Names!   
+> Abrahadabra!  
+
+Behold! I stand in the midst. Mine is the symbol of Osiris; to Thee are mine eyes ever turned. Unto the splendour of Geburah, the Magnificence of Chesed, the mystery of Daath, thither I lift up mine eyes. This have I sought, and I have sought the Unity: hear Thou me!
+
+##### [gamma] III[gimel]
+
+> 1.	Mine is the Head of the Man, and my insight is keen as the Hawk's. By my head I invoke Thee!  
+> A.	I am the only-begotten child of my Father and Mother. By my body I invoke Thee!  
+> 2.	About me shine the Diamonds of Radiance white and pure. By their brightness I invoke Thee!  
+> B.	Mine is the Red Triangle Reversed, the Sign given of none, save it be of Thee, O Lord! (This sign had been previously communicated by W. It was entirely new to P.) By the Lamen I invoke Thee!  
+> 3.	Mine is the garment of white sewn with gold, the flashing abbai that I wear. By my robe I invoke Thee!  
+> C.	Mine is the sign of Apophis and Typhon ! By the sign I invoke Thee!  
+> 4.	Mine is the turban of white and gold, and mine the blue vigour of the intimate air ! By my crown I invoke Thee!  
+> D.	My fingers travel on the Beads of Pearl ; so run I after Thee in thy car of glory. By my fingers I invoke Thee! (On Saturday the string of pearls broke : so I changed the invocation to "My mystic sigils travel in the Bark of the Akasa, etc. By the spells I invoke Thee !--P.)  
+> 5.	I bear the Wand of Double Power in the Voice of the Master--Abrahadabra ! By the word I invoke Thee!  
+> E.	Mine are the dark-blue waves of music in the song that I made of old to invoke Thee---  
+> Strike, strike the master chord! Draw, draw the Flaming Sword! Crowned Child and Conquering Lord, Horus, avenger!  
+> By the Song I invoke Thee!  
+> 6.	In my hand is thy Sword of Revenge ; let it strike at Thy Bidding! By the Sword I invoke Thee!  
+
+The Voice of the Five. 
+The Voice of the Six. 
+Eleven are the Voices. 
+Abrahadabra!
+
+##### [help] IV [resh]
+
+(This section merely repeats section I in the first person. Thus it begins: 1. "Mine is the Head of the Hawk! Abrahadabra!" and ends: 6. "I bear the Rose and Cross of Life and Light! Abrahadabra!" giving the Sign at each Abrahadabra. Remaining in the Sign, the invocation concludes:)
+Therefore I say unto thee: Come forth and dwell in me; so that every my Spirit, whether of the Firmament, or of the Ether, or of the Earth or under the Earth; on dry land or in the Water, or Whirling Air or of Rushing Fire; and every spell and scourge of God the Vast One may be THOU. Abrahadabra!
+The Adoration--impromptu.
+Close by banishing. (I think this was omitted at W.'s order.---P.)
+
+During the period March 23rd--April 8th, whatever else may have happened, it is at least certain that work was continued to some extent, that the inscriptions of the stele were translated for Fra. P., and that he paraphrased the latter in verse. For we find him using, or prepared to use, the same in the text of Liber Legis.
+
+Perhaps then, perhaps later, he made out the "name coincidences of the Qabalah," to which we must now direct the reader's attention.
+
+> The MS. is a mere fragmentary sketch.  
+> Ch=8=ChlTh=418 Abrahadabra=RA-HVVR (Ra-Hoor).   
+> Also 8 is the great symbol I adore.   
+> (This may be because of its likeness to [?] or because of its [old G.D.] attributions to Daath, P. being then a rationalist; or for some other reason.)   
+> So is O.   
+> O=A in the Book of Thoth (The Tarot).   
+> A=111 with all its great meanings, [sun]=6   
+> Now 666=My name, the number of the stele, the number of The Beast (See Apocalypse), the number of the Man.   
+> The Beast AChIHA=666 in full. (The usual spelling is ChIVA.)   
+> (A=111, Ch=418, I=20, H=6, A=111.)   
+> HRV-RA-HA. 211 + 201 + 6=418.   
+> This name occurs only in L. Legis, and is a test of that book rather than of the stele.)   
+> ANKH-P-N-KHONShU-T=666   
+> (We trust the addition of the termination T will be found justifies.)   
+> {Bes-n-maut, B I Sh N A - M A V T }=888   
+> {Ta-Nich, Th A - N I Ch }=Ch x A.   
+> Nuteru NVTh IRV=666   
+> Montu MVNTV=111.   
+> Aiwass AIVAS=78, the influence or messenger, or the Book T.   
+> (P.S. Note this error! Ed.)   
+> Ta-Nich TA-NICh = 78. Alternatively, Sh for Ch gives 370, O Sh, Creation.  
+
+So much we extract from volumes filled with minute calculations, of which the bulk is no longer intelligible even to Fra. P.
+
+His memory, however, assures us that the coincidences were much more numerous and striking than those we have been able to reproduce here; but his attitude is, we understand that after all "It's all in Liber Legis. `Success is thy proof: argue not; convert not; talk not overmuch!'" And indeed in the Commentary to that Book will be found sufficient for the most wary of inquirers.
+
+Now who, it may be asked, was Aiwass? It is the name given by W. to P. as that of her informant. Also it is the name given as that of the revealer of Liber Legis. But whether Aiwass is a spiritual being, or a man known to Fra. P., is a matter of the merest conjecture. His number is 78, that of Mezla, the Channel through which Macroprosopus reveals Himself to, or showers His influence upon, Microposopus (I.e. the messenger of God to Man). (But see the miraculous events connected with "The Revival of Magick" described in Magick pp. 257-260, where he is shewn as 93.) So we find Fra. P. speaking of him at one time as of another, but more advanced man; at another time as if it were the name of his own superior in the Spiritual Hierarchy. And to all questions Fra. P. finds a reply, either pointing out "the subtle metaphysical distinction between curiosity and hard work," or indicating that among the Brethren "names are only lies," or in some other way defeating the very plain purpose of the historian.
+
+The same remark applies to all queries with regard to V.V.V.V.V. (The motto of Fra. P. as a Magister Templi 8° = 3□; He used it in His office of giving out the "Official Books of A∴A∴" to the word in the Equinox.); with this addition, that in this case he condescends to argue and to instruct. "If I tell you," he once said to the present writer, "that V.V.V.V.V. is a Mr. Smith and lives at Clapham, you will at once go round and tell everybody that V.V.V.V.V. is a Mr. Smith of Clapham, which is not true. V.V.V.V.V. is the Light of the World itself, the sole Mediator between God and Man; and in your present frame of mind (that of a poopstick) you cannot see that the two statements may be identical for the Brothers of the A∴A∴! Did not your greatgrandfather argue that no good thing could come out of Nazareth? `Is not this the carpenter's son? is not his mother called Mary? and his brethren, James and Joses, and Simon, and Judas? And his sisters, are they not all with us? Whence then hath this man all these things? And they were offended in him.'"
+
+Similarly with regard to the writing of Liber Legis, Fr. P. will only say that it is in no way "automatic writing," that he heard clearly and distinctly the human articulate accents of a man. Once, on page 6, he is told to edit a sentence ; and once, on page 19, W. supplies a sentence which he had failed to hear.
+
+To this writing we now turn.
+
+It must have been on the first of April that W. commanded P. (now somewhat cowed) to enter the "temple" exactly at 12 o'clock noon on three successive days, and to write down what he should hear, rising exactly at 1 o'clock.
+
+This he did. Immediately on his taking his seat the Voice began its Utterance, and ended exactly at the expiration of the hour.
+
+These are the three chapters of Liber Legis, and we have nothing to add.
+
+The full title of the book is, as P. first chose to name it,
+
+> LIBER AL vel LEGIS   
+> sub figura CCXX   
+> as delivered by LXXVIII to DCLXVI  
+
+and it is the First and Greatest of those Class A publications of A∴A∴ of which is not to be altered so much as the style of a letter.
+
+This was the original title devised by 666 to appear in the 1909 publication. The "Key of it all" and the true spelling of Aiwass had not then been discovered.
+
+### CHAPTER VII.
+
+#### Remarks on the method of receiving Liber Legis,
+#### on the Conditions prevailing at the time of the writing,
+#### and on certain technical difficulties connected with the Literary form of the Book
+
+#### I
+Certain very serious questions have arisen with regard to the method by which this Book was obtained. I do not refer to those doubts --real or pretended --which hostility engenders, for all such are dispelled by study of the text; no forger could have prepared so complex a set of numerical and literal puzzles as to leave himself (a) devoted to the solution for years after, (b) baffled by a simplicity which when desclosed leaves one gasping at its profundity, (c) enlightened only by progressive initiation, or by "accidental" events apparently disconnected with the Book, which occurred long after its publication, (d) hostile, bewildered, and careless even in the face of independent testimony as to the power and clarity of the Book, and of the fact that by Its light other men have attained the loftiest summits of initiation in a tithe of the time which history and experience would lead one to expect, and (e) angrily unwilling to proceed with that part of the Work appointed for him which is detailed in Chapter III, even when the course of events on the planet, war, revolution, and the collapse of the social and religious systems of civilization, proved plainly to him that whether he liked it or no, Ra Hoor Khuit was indeed Lord of the Aeon, the Crowned and Conquering Child whose innocence meant no more than inhuman cruelty and wantonly senseless destructiveness as he avenged Isis our mother the Earth and the Heaven for the murder and mutilation of Osiris, Man, her son. The War of 1914-18 and its sequels have proved even to the dullest statesmen, beyond wit of even the most subtly sophistical theologians to gloze, that death is not an unmixed benefit either to the individual or the community : that force and fire of leaping manhood are more useful to a nation than cringing respectability and emasculate servility; that genius goes with courage, and the sense of shame and guilt with "Defeatism."
+
+For these reasons and many more I am certain, I the Beast, whose number is Six Hundred and Sixty Six, that this Third Chapter of the Book of the Law is nothing less than the authentic Word, the Word of the Aeon, the Truth about Nature at this time and on this planet. I wrote it, hating it and sneering at it, secretly glad that I could use it to revolt against this Task most terrible that the Gods have thrust remorselessly upon my shoulders, their Cross of burning steel that I must carry even to my Calvary, the place of a skull, there to be eased of its weight only that I be crucified thereon. But, being lifted up, I will draw the whole world unto me; and men shall worship me the Beast, Six Hundred and Three-score and Six, celebrating to Me their Midnight Mass every time soever when they do that they will, and on Mine altar slaying to Me that victim I most relish, their Selves; when Love designs and Will executes the Rite whereby (an they know it or not) their God in man is offered to me The Beast, their God, the Rite whose virtue, making their God of their throned Beast, leaves nothing, howso bestial, undivine.
+
+On such lines my own "conversion" to my own "religion" may take place, though as I write these words all but twelve weeks of Sixteen years are well nigh past. (Written in I920, e.v.)
+
+#### II
+
+This long digression is but to explain that I, myself, who issue Liber Legis, am no fanatic partisan. I will obey my orders (III, 42) "Argue not, convert not;" even though I shirk some others. I shall not deign to answer sceptical enquiries as to the origin of the Book. "Success is your proof." I, of all men on this Earth reputed mightiest in Magick, by mine enemies more than by my friends, have striven to lose this Book, to forget it, defy it, criticise it, escape it, these nigh sixteen years; and It holds me to the course It sets, even as the Mountain of Lodestone holds the ship, or Helios by invisible bonds controls his planets; yea, or as BABALON grips between her thighs the Great Wild Beast she straddles!
+So much for the sceptics; put your heads in the Lion's mouth; so may you come to certainty, whether I be stuffed with straw!
+
+But, in the text of the Book itself, are thorns for the flesh of the most ardent swain as he buries his face in the roses; some of the ivy that clings about the Thyrse of this Dionysus is Poison Ivy. The question arises, especially on examining the original manuscript in My handwriting: "Who wrote these words?"
+
+Of course I wrote them, ink on paper, in the material sense; but they are not My words, unless Aiwaz be taken to be no more than my subconscious self, or some part of it: in that case, my conscious self being ignorant of the Truth in the Book and hostile to most of the ethics and philosophy of the Book, Aiwaz is a severely suppressed part of me. Such a theory would further imply that I am, unknown to myself, possessed of all sorts of praeternatural knowledge and power. The law of Parsimony of Thought (Sir W. Hamilton) appears in rebuttal. Aiwaz calls Himself "the minister of Hoor-parr- Kraat," the twin of Heru-Ra-Ha. This is the dual form of Horus, child of Isis and Osiris. If so, the theorist must suggest a reason for this explosive yet ceremonially controlled manifestation, and furnish and explanation of the dovetailing of Events in subsequent years with His word written and published. In any case, whatever "Aiwaz" is, "Aiwaz" is an Intelligence possessed of power and knowledge absolutely beyond human experience; and therefore Aiwaz is a Being worthy, as the current use of the word allows, of the title of a God, yea verily and amen, of a God. Man has no such fact recorded, by proof established in surety beyond cavil of critic, as this Book, to witness the existence of and Intelligence praeterhuman and articulate, purposefully interfering in the philosophy, religion, ethics, economics and politics of the Planet.
+
+The proof of His praeterhuman Nature --call Him a Devil or a God or even an Elemental as you will --is partly external, depending on events and persons without the sphere of Its influence, partly internal, depending on the concealment of (a) certain Truths, some previously known, some not known, but for the most part beyond the scope of my mind at the time of writing, (b) of an harmony of letters and numbers subtle, delicate and exact, and (c) of Keys to all life's mysteries, both pertinent to occult science and otherwise, and to all the Locks of Thought; the concealment of these three galaxies of glory, I say, in a cipher simple and luminous, but yet illegible for over Fourteen years, and translated even then not by me, but by my mysterious Child according to the Foreknowledge written in the Book itself, in terms so complex that the exact fulfilment of the conditions of His birth, which occurred with incredible precision, seemed beyond all possibility, a cipher involving higher mathematics, and a knowledge of the Hebrew, Greek and Arabic Qabalahs as well as the True Lost Word of the Freemason, is yet veiled within the casual silk-stuff of ordinary English words, nay, even in the apparently accidental circumstance of the characters of the haste-harried scrawl of My pen.
+
+Many such cases of double entendre, paranomasia in one language or another, sometimes two at once, numerical-literal puzzles, and even (on one occasion) an illuminating connexion of letters in various lines by a slashing scratch, will be found in the Qabalistic section of the Commentary. (In preparation.)
+
+#### III
+
+As an example of the first method above mentioned, we have, Cap. III, "The fool readeth this Book--and he understandeth it not." This has a secret reverse-sense, meaning:
+The fool (Parzival = Fra. O.I.V.V.I.O.) understandeth it (being a Magister Templi, the Grade attributed to Understanding) not (i.e. to be `not').
+
+This Parzival, adding to 418, is (in the legend of the Graal) the son of Kamuret, adding to 666, being the son of me The Beast by the Scarlet Woman Hilarion. This was a Name chosen by her when half drunk, as a theft from Theosophical legend, but containing many of our letter-number Keys to the Mysteries ; the number of the petals in the most sacred lotus. It adds to 1001, which also is Seven times Eleven times Thirteen, a series of factors which may be read as The Scarlet Woman's Love by Magick producing Unity, in Hebrew Achad. For 7 is the number of Venus, and the secret seven-lettered Name of my concubine B A B A L O N is written with Seven Sevens, thus:
+
+77 + ((7+7)/7) + 77 = 156, the number of BABALON.
+418 is the number of the Word of the Magical Formula of this Aeon. (666 is I, The Beast.)
+Parzival had also the name Achad as a Neophyte of A∴A∴, and it was Achad whom Hilarion bare to Me. And Achad means Unity, and the letter of Unity is Aleph, the letter of The Fool in the Tarot. Now this Fool invoked the Magical Formula of the Aeon by taking as his Magick, or True, Name one which added also to 418.
+
+He took it for his Name on Entering the Gnosis where is Understanding, and he understood it--this Book--not. That is, he understood that this Book was, so to speak, a vesture or veil upon the idea of "not." In Hebrew "not" is LA, 31, and AL is God, 31, while there is a third 31 still deeplier hidden in the double letter ST, which is a graphic glyph of the sun and moon conjoined to look like a foreshortened Phallus, thus--when written in Greek capitals. This S or Sigma is like a phallus, thus, [Greek], when writ small ; and like a serpent or spermatozoon when writ final, thus, [Greek]. This T or Theta is the point in the circle, or phallus in the kteis, and also the Sun just as C is the Moon, male and female.
+
+But Sigma in Hebrew is Shin, 300, the letter of Fire and of the "Spirit of the Gods" which broods upon the Formless Void in the Beginning, being by shape a triple tongue of flame, and by meaning a tooth, which is the only part of the secret and solid foundation of Man that is manifested normally. Teeth serve him to fight, to crush, to cut, to rend, to bite and grip his prey; they witness that he is a fierce, dangerous, and carnivorous animal. But they are also the best witness to the mastery of Spirit over Matter, the extreme hardness of their substance being chiselled and polished and covered with a glistening film by Lefe no less easily and beautifully than is does with more naturally plastic types of substance.
+
+Teeth are displayed when our Secret Self --our Subconscious Ego, whose Magical Image is our individuality expressed in mental and bodily form --our Holy Guardian Angel --comes forth and declares our True Will to our fellows, whether to snarl or to sneer, to smile or to laugh.
+
+Teeth serve us to pronounce the dental letters which in their deepest nature express decision, fortitude, endurance, just as gutturals suggest the breath of Life itself free-flowing, and labials the duplex vibrations of action and reaction. Pronounce T,D,S or N, and you will find them all continuously forcible exhalations whose difference is determined solely by the position of the tongue, the teeth being bared as when a wild beast turns to bay. The sibilant sound of S or Sh is our English word, and also the Hebrew word, Hush, a strongly aspirated S, and suggests the hiss of a snake. Now this hiss is the common sign of recognition between men when one wants to call another's attention without disturbing the silence more than necessary. (Also we have Hist, our Double letter.) This hiss means: "Attention! A man!" For in all Semitic and some Aryan languages, ISh or a closely similar word means "a man." Say it: you must bare your clenched teeth as in defiance, and breathe harshly out as in excitement.
+
+Hiss! Sh! means "Keep silent! there's danger if you are heard. Attention! There's a man somewhere, deadly as a snake. Breathe hard; there's a fight coming."
+
+This Sh is then the forcible subtle creative Spirit of Life, fiery and triplex, continous, Silence of pure Breath modified into sound by two and thirty obstacles, as the Zero of Empty Space, though it contain all Life, only takes form according (as the Qabalists say) to the two and thirty "Paths" of Number and Letter which obstruct it.
+
+Now the other letter, Theta or Teth, has the value of Nine, which is that of AVB, the Secret Magick of Obeah, and of the Sephira Yesod, which is the seat in man of the sexual function by whose Magick he overcomes even Death, and that in more ways than one, ways that are known to none but the loftiest and most upright Initiates, baptised by the Baptism of Wisdom, and communicants at that Eucharist where the Fragment of the Host in the Chalice becomes whole. (The Chalice is not presented to laymen. Those who understand the reason for this and other details of the Mass, will wonder at the perfection with which the Roman Communion has preserved the form, and lost the substance, of the Supreme Magical Ritual of the True Gnosis.)
+
+This T is the letter of Leo, the Lion, the house of heaven sacred to the Sun. (Thus also we find in it the number 6, whence 666). And Teth means a Serpent, the symbol of the magical Life of the Soul, lord of "the double wand" of life and death. The serpent is royal, hooded, wise, silent save for an hiss when need is to disclose his Will; he devours his tail --the glyph of Eternity, of Nothingness and of Space; he moves wavelike, one immaterial essence travelling through crest and trough, as a man's soul through lives and deaths. He straightens out; he is the Rod that strikes, the Light-radiance of the Sun or the Life radiance of the Phallus.
+
+The sound of T is tenuous and sharply final; it suggests a spontaneous act sudden and irrevocable, like the snake's bite, the loin's snap, the Sun's stroke, and the Lingam's.
+
+Now in the Tarot the Trump illustrating this letter Sh is and old form of the Stele of Revealing, Nuith with Shu and Seb, the pantacle or magical picture of the old Aeon, as Nuit with Hadit and Ra Hoor Khuit is of the new. The number of this Trump is XX. It is called the Angel, the messenger from Heaven of the new Word. The Trump giving the picture of T is called Strength. It shows the Scarlet Woman, BABALON, riding (or conjoined with) me The Beast ; and this card is my special card, for I am Baphomet, "the Lion and the Serpent," and 666, the "full number" of the Sun. (The "magical numbers" of the Sun are, according to tradition, 6, (6 x 6)=36, (666 / 111, and [epsilon] (1-36)=666.)
+
+So then, as Sh, XX, shows the Gods of the Book of the Law and T, XI, shows the human beings in that Book, me and my concubine, the two cards illustrate the whole Book in pictorial form.
+
+Now XX + XI = XXXI, 31, which we needed to put with LA, 31 and AL, 31, that we might have 31 x 3 = 93, the Word of the Law, THELEMA [in greek], Will, and help, Love which under Will, is the Law. It is also the number of Aiwaz, the Author of the Book, of the Lost Word whose formula does in sober truth "raise Hiram," and of many another close-woven Word of Truth.
+
+Now then this Two-in-One letter [sun, moon], is the third Key to this Law; and on the discovery of that fact, after years of constant seeking, what sudden splendours of Truth, sacred as secret, blazed in the midnight of my mind.! Observe now: "this circle squared in its failure is a key also." Now I knew that in the value of the letters of ALHIM, "the Gods," the Jews had concealed a not quite correct value of [pi], the ratio of a circle's circumference to its diameter, to 4 places of decimals: 3.1415; nearer would be 3.1416. If I prefix our Key, 31, putting [sun, moon], Set or Satan, before the old Gods, I get 3.141593, [pi] correct to Six places, Six being my own number and that of Horus the Sun. And the whole number of this new Name is 395, which on analysis yields and astounding cluster of numerical "mysteries." (Shin 300 Teth 9 Aleph 1 Lamed 30 He 5 Yod 10 Mem 40. Note that 395 being the corrections required! Note also the 31 and the 93 in this value of [pi].)
+
+Now for an example of the `paronomasia' or pun. Chapter III, 17---"Ye, even ye, know not this meaning all." (Note how the peculiar grammar suggests a hidden meaning.) Now YE is in Hebrew Yod He, the man and the woman; The Beast and BABALON, whom the God was addressing in his verse. Know suggests `no' which gives LA, 31; `not' is LA, 31, again, by actual meaning; and `all' refers to AL, 31, again. (Again, ALL is 61, AIN, "nothing.")
+
+#### IV
+
+Then we have numerical problems like this. "Six and fifty. Divide, add, multiply and understand." 6 / 50 gives 0.12, a perfect glyph-statement of the metaphysics of the Book.
+The external evidence for the Book is accumulating yearly: the incidents connected with the discovery of the true spelling of Aiwaz are alone sufficient to place it beyond all quaver of doubt that I am really in touch with a Being of intelligence and power immensely subtler and greater than aught we can call human.
+
+This has been the One Fundamental Question of Religion. We know of invisible powers, and to spare! But is there any Intelligence or Individuality (of the same general type as ours) independent of our human brain-structure? For the first time in history, yes! Aiwaz has given us proof: the most important gate toward Knowledge suings wide.
+
+I, Aleister Crowley, declare upon my honour as a gentleman that I hold this revelation a million times more important than the discovery of the Wheel, or even of the Laws of Physics or Mathematics. Fire and Tools made Man master of his planet: Writing developed his mind; but his Soul was a guess until the Book of the Law proved this.
+
+I, a master of English, was made to take down in three hours, from dictation, sixty-five 8" x I0" pages of words not only strange, but often displeasing to me in themselves; concealing in cipher propositions unknown to me, majestic and profound; foretelling events public and private beyond my control, or that of any man.
+
+This Book proves: there is a Person thinking and acting in a praeterhuman manner, either without a body of flesh, or with the power of communicating telepathically with men and inscrutably directing their actions.
+
+#### V
+
+I write this therefore with a sense of responsibility so acute that for the first time in my life I regret my sense of humour and the literary practical jokes which it has caused me to perpetrate. I am glad, though, that care was taken of the MS. itself and of diaries and letters of the period, so that the physical facts are as plain as can be desired.
+My sincerity and seriousness are proved by my life. I have fought this Book and fled it; I have defiled it and I have suffered for its sake. Present or absent to my mind, it has been my Invisible Ruler. It has overcome me; year after year extends its invasion of my being. I am the captive of the Crowned and Conquering Child.
+
+The point then arises: How did the Book of the Law come to be written? The description in The Equinox, I, VII, might well be more detailed; and I might also elucidate the problem of the apparent changes of speaker, and the occasional lapses from straightforward scribecraft in the MS.
+
+I may observe that I should not have left such obvious grounds for indictment as these had I prepared the MS. to look pretty to a critical eye; nor should I have left such curious deformities of grammar and syntax, defects of rhythm, and awkwardness of phrase. I should not have printed passages, some rambling and unintelligible, some repugnant to reason by their absurdity, others again by their barbaric ferocity abhorrent to heart. I should not have allowed such jumbles of matter, such abrupt jerks from subject to subject, disorder ravaging reason with disconnected sluttishness. I should not have tolerated the discords, jarred and jagged, of manner, as when a sublime panegyric of Death is followed first by a cipher and then by a prophecy, before, without taking breath, the author leaps to the utmost magnificence of thought both mystical and practical, in language so concise, simple, and lyrical as to bemuse our very amazement. I should not have spelt "Ay" "Aye," or acquiesced in the horror "abstruction."
+
+Compare with this Book my "jokes," where I pretend to edit the MS. of another: "Alice," "Amphora," "Clouds without Water." Observe in each case the technical perfection of the "discovered" or "translated" MS., smooth skilled elaborate art and craft of a Past Master Workman; observe the carefully detailed tone and style of the prefaces, and the sedulous creation of the personalities of the imaginary author and the imaginary editor.
+
+Note, moreover, with what greedy vanity I claim authorship even of all the other A∴A∴ Books in Class A, though I wrote them inspired beyond all I know to be I. Yet in these Books did Aleister Crowley, the master of English both in prose and in verse, partake insofar as he was That. Compare those Books with the Book of the Law! Their style is simple and sublime; the imagery is gorgeous and faultless; the rhythm is subtle and intoxicating; the theme is interpreted in faultless symphony. There are no errors of grammar, no infelicities of phrase. Each Book is perfect in its kind.
+
+I, daring to snatch credit for these, in that brutal Index to The Equinox Volume One, dared nowise to lay claim to have touched the Book of the Law, not with my littlest finger-tip.
+
+I, boasting of my many Books; I, swearing each a masterpiece; I attach the Book of the Law at a dozen points of literature. Even so, with the dame breath, I testify, as a Master of English, that I am utterly incapable, even when most inspired, of such English as I find in that Book again and again.
+
+Terse, yet sublime, are these verses of this Book; subtle yet simple; matchless for rhythm, direct as a ray of light. Its imagery is gorgeous without decadence. It deals with primary ideas. It announces revolutions in philosophy, religion, ethics, yea, in the whole nature of Man. For this it needs no more than to roll sea-billows solemnly forth, eight words, as "Every man and every woman is a star," or it bursts in a mountain torrent of monosyllables as "Do what thou wilt shall be the whole of the Law."
+
+Nuit cries: "I love you," like a lover; when even John reached only to the cold impersonal proposition "God is love." She woos like a mistress; whispers "To me !" in every ear; Jesus, with needless verb, appeals vehemently to them "that labour and are heavy laden." Yet he can promise in the present, says: "I give unimaginable joys on earth," making life worth while; "certainty, not faith, while in life, upon death," the electric light Knowledge for the churchyard corpsecandle Faith, making life fear-free, and death itself worth while: "peace unutterable, rest, ecstasy," making mind and body at ease that soul may be free to transcend them when It will.
+
+I have never written such English; nor could I ever, that well I know. Shakespeare could not have written it: still less could Keats, Shelley, Swift, Sterne or even Wordsworth. Only in the Books of Job and Ecclesiastes, in the work of Blake, or possibly in that of Poe, is there any approach to such succinct depth of thought in such musical simplicity of form, unless it be in Greek and Latin poets. Nor Poe nor Blake could have sustained their effort as does this our Book of the Law; and the Hebrews used tricks of verse, mechanical props to support them.
+
+How then --back once more to the Path! --how then did it come to be written ?
+
+#### VI
+
+I shall make what I may call an inventory of the furniture of the Temple, the circumstances of the case. I shall describe the conditions of the phenomenon as if it were any other unexplained event in Nature.
+
+1. The time.
+
+Chapter 1 was written between Noon and 1 p.m. on April 8, 1904.   
+Chapter II between Noon and 1 p.m. on April 9, 1904.   
+Chapter III between Noon and 1 p.m. on April 10, 1904.  
+The writing began exactly on the stroke of the hour, and ended exactly an hour later ; it was hurried through, with no pauses of any kind.  
+
+2. The place.
+
+The city was Cairo.
+
+The street, or rather streets, I do not remember. There is a `Place' where four or five streets intersect; it is near the Boulak Museum, but a fairly long way from Shepherd's. The quarter is fashionable European. The house occupied a corner. I do not remember its orientation; but, as appears from the instructions for invoking Horus, one window of the temple opened to the East or North. The apartment was of several rooms on the ground floor, well furnished in the Anglo-Egyptian style. It was let by a firm named Congdon & Co.
+
+The room was a drawing-room cleared of fragile obstacles, but not otherwise prepared to serve as a temple. It had double doors, opening on to the corridor to the North and a door to the East leading to another room, the dining-room, I think. It had two windows opening on the Place, to the South, and a writing table against the wall between them.
+
+3. The people.
+
+Myself, age 28 1/2. In good health, fond of out-door sports, especially mountaineering and big-game shooting. An Adept Major of the A.'.A.'. but weary of mysticism and dissatisfied with Magick. A rationalist, Buddhist, agnostic, anti-clerical, anti-moral, Tory and Jacobite. A chess-player, first-class amateur, able to play three games simultaneously blindfold. A reading and writing addict. Education: private governess and tutors, preliminary school Habershon's at St. Leonards, Sussex, private tutors, private school 5I Bateman St., Cambridge, private tutors, Yarrow's School, Streatham, near London. Malvern College, Tonbridge School, private tutors, Eastbourne College, King's College, London, Trinity College, Cambridge.
+
+Morality---Sexually powerful and passionate. Strongly male to women; free from any similar impulse toward my own sex. My passion for women very unselfish; the main motive to give them pleasure. Hence, intense ambition to understand the feminine nature; for this purpose, to identify myself with their feelings, and to use all means appropriate. Imaginative, subtle, insatiable; the whole business a mere clumsy attempt to quench the thirst of the soul. This thirst has indeed been my one paramount Lord, directing all my acts without allowing any other considerations soever to affect it in the least.
+
+Strictly temperate as to drink, had never once been even near intoxication. Light wine my only form of alcohol.
+
+Sense of justice and equity so sensitive, well-balanced and compelling as to be almost an obsession.
+
+Generous, unless suspicious that I was being fleeced : "penny wise and pound foolish." Spendthrift, careless, not a gambler because I valued winning at games of skill, which flattered my vanity.
+
+Kind, gentle, affectionate, selfish, conceited, reckless and cautious by turns.
+
+Incapable of bearing a grudge, even for the gravest insults and injuries; yet enjoying to inflict pain for its own sake. Can attack an unsuspecting stranger, and torture him cruelly for years, without feeling the slightest animosity toward him. Fond of animals and children, who return my love, almost always. Consider abortion the most shameful form of murder, and loathe the social codes which encourage it.
+
+Hated and despised my mother and her family; loved and respected my father and his.
+
+Critical events in my life.   
+First travelled outside England, 1883.   
+Father died March 5, 1887.   
+Albuminuria stopped my schooling, 1890-92.   
+First sexual act, probably 1889.   
+Ditto with a woman March, 1891 (Torquay--a theatre girl).   
+First serious mountain-climbing, in Skye, 1892. (The "Pinnacle Ridge" of Sgurr-nan-Gillean.)   
+First Alpine climb, I894.   
+Admitted to the Military Order of the Temple midnight, December 31, 1896.   
+Admitted to permanent office in the Temple midnight, December 31, 1897.   
+Bought Boleskine, 1899.   
+First Mexican climb, 1900.   
+First Big game, 1901.   
+First Himalayan climb, 1902. (Chogo Ri, or "K2" expedition.)   
+Married at Dingwall, Scotland, August 12, 1903.   
+Honeymoon at Boleskine, thence to London, Paris, Naples, Egypt, Ceylon, and back to Egypt, Helwan and then Cairo early in 1904.  
+
+My "occult" career.
+
+Parents Plymouth Brethren, exclusive.   
+Father a real P.B. and therefore tolerant to his son.   
+Mother only became P.B. to please him, perhaps to catch him, and so pedantically fanatical.   
+After his death I was tortured with insensate persistency, till I said : Evil, be thou my good ! I practised wickedness furtively as a magical formula, even when it was distasteful ; e.g. I would sneak into a church*1*---a place my mother would not enter at the funeral service of her best-loved sister.   
+Revolted openly when puberty gave me a moral sense.   
+Hunted new "Sins" till October, '97, when one of them turned to bay, and helped me to experience the "Trance of Sorrow." (Perception of the Impermanence of even the greatest human endeavour.) I invoked assistance, Easter, '98.   
+Initiated in the Hermetic Order of the Golden Dawn, November 18, '98.   
+Began to perform the Abramelin Operation, I899.   
+Initiated in the Order R.R. et A.C., January, I909.   
+Made a 33 Freemason, 1900.   
+Began Yoga practices, 1900.   
+Obtained first Dhyana, October 1, 1901.   
+Abandoned all serious occult work of every sort, October 3, 1901, and continued in this course of action till July, 1903, when I tried vainly to force myself to become a Buddhist Hermit Highland Laird.   
+Marriage was an uninterrupted sexual debauch up to the time of the writing of the Book of the Law.  
+
+B. Rose Edith Kelly. 
+Born 1874 (July 23). About '95 married one Major Skerrett, R.A.M.C., and lived with him some two years in South Africa. He died in '97.
+
+She indulged in a few feeble-executed intrigues till August 12, 1903, when she became my wife, becoming pregnant with a girl born July 28, 1904. Health, admirable robust at all points; she was both active and enduring, as our travels in Ceylon and across China prove. Figure perfect, neither big nor little, face pretty without being petty; she only missed Beauty by lacking Goethe's "touch of the bizarre." Personality intensely powerful and magnevit, intellect absent but mind adaptable to that of any companion, so that she could always say the right nothing.
+
+Charm, grace, vitality, vivacity, tact, manners, all inexpressible fascinating.
+
+From her mother she inherited dipsomania, as bad a case for stealth, cunning, falsehood, treachery, and hypocrisy as the specialist I consulted had ever known. This was, however, latent during the satisfaction of sexuality, which ousted all else in her life, as it did in mine.
+
+Education strictly social and domestic ; she did not even know schoolgirl French. She had read nothing, not so much as novels. She was a miracle of perfection as Poetic Ideal, Mistress, Wife, Mother, House-president, Nurse Pal and Comrade.
+
+C. Our head servant, Hassan or Hamid, I forget which. A tall, dignified, hansome athlete of about 30. Spoke good English and ran the household well; always there and never in the way.
+
+I suppose I hardly ever saw the servants under his authority: I do not even know how many there were.
+
+D. Lieut.-Col. Somebody, beginning, I think, with a B, married, middle-aged, with manners like the Rules of a Prison. I cannot remember that I ever saw him; but the apartment was sublet to me by him.
+
+E. Brugsch Bey of the Boulak Museum dined with us once to discuss the Stele in his charge, and to arrange for its "abstruction." His French assistant curator, who translated the hieroglyphs on the Stele for us.
+
+F. A Mr. Bach, owner of the "Egyptian News," an hotel, a hunk of railway, &c., &c., dined once.
+
+Otherwise we knew nobody in Cairo except natives, occasionally hobnobbed with a General Dickson, who had accepted Islam, carpet merchant, pimps, jewellers, and such small deer. Contradictory hints in one of my diaries were inserted deliberately to mislead, for some silly no-reason unconnected with Magick.
+
+#### 4. The events leading up to the Writing of the Book. I summarize them from Eqx. I, VII.
+
+March 16. Tried to shew the Sylphs to Rose. She was in a dazed state, stupid, possibly drunk; possibly hysterical from pregnancy. She could see nothing, but could hear. She was fiercely excited at the messages, and passionately insistent that I should take them seriously.
+I was annoyed at her irrelevance, and her infliction of nonsense upon me.
+
+She had never been in any state even remotely resembling this, though I had made the same invocation (in full) in the King's chamber fo the Great Pyramid during the night which we spent there in the previous autumn.
+
+March 17. More apparently nonsensical messages, this time spontaneous. I invoke Thoth, probably as in Liber LXIV, and presumably to clear up the muddle.
+
+March 18. Thoth evidently got clear through to her; for she discovers that Horus is addressing me through her, and identifies Him by a method utterly excluding chance or coincidence, and involving knowledge which only I possessed, some of it arbitrary, so that she or her informant must have been able to read my mind as well as if I had spolen it.
+
+Then she, challenged to point out His image, passes by many such to fix on the one in the Stele. The cross-examination must have taken place between March 20 and 23.
+
+March 20. Success in my invocation of Horus, by "breaking all the rules" at her command. This success convinced me magically, and encouraged me to test her as above mentioned. I should certainly have referred to the Stelle in my ritual had I seen it before this date. I should fix Monday, March 21, for the Visit to Boulak.
+
+Between March 23 and April 8 the Hieroglyphs on the Stele were evidently translated by the assistant-curator at Boulak, into either French or English--I am almost sure it was French--and versified (as now printed) by me.
+
+Between these dates, too, my wife must have told me that her informant was not Horus, or Ra Hoor Khuit, but a messenger from Him, named Aiwass.
+
+I thought that she might have faked this name from constantly hearing "Aiwa," the word for "Yes" in Arabic. She could not have invented a name of this kind, though ; her next best was to find a phrase like "balmy puppy" for a friend, or corrupt a name like Neuberg into an obscene insult.
+
+The silence of my diaries seems to prove that she gave me nothing more of importance. I was working out the Magical problem presented to me by the events of March 16-21. Any questions that I asked her were either unanswered, or answered by a Being whose mind was so different from mine that we failed to converse. All my wife obtained from Him was to command me to do things magically absurd. He would not play my game: I must play His.
+
+April 7. Not later than this date was I ordered to enter the "temple" exactly at noon on the three days following, and write down what I heard during one hour, nor more nor less. I imagine that some preparations were made, possibly some bull's blood burned for incense, or order taken about details of dress or diet ; I remember nothing at all, one way or the other. Bull's blood was burnt some time in this sojourn in Cairo ; but I forget why or when. I think it was used at the "Invocation of the Sylphs."
+
+#### 5. The actual writing.
+
+The three days were precisely similar, save that on the last day I became nervous lest I should fail to hear the Voice of Aiwass. They may then be described together.
+I went into the "temple" a minute early, so as to shut the door and sit down on the stroke of Noon.
+
+On my table were my pen -- a Swan Fountain -- and supplies of Quarto typewriting paper, 8" x IO".
+
+I never looked round in the room at any time.
+
+The Voice of Aiwass came apparently from over my left shoulder, from the furthest corner of the room. It seemed to echo itself in my physical heart in a very strange manner, hard to describe. I have noticed a similar phenomenon when I have been waiting for a message fraught with great hope or dread. The voice was passionately poured, as if Aiwass were alert about the time- limit. I wrote 65 pages of this present essay (at about my usual rate of composition) in about 10 1/2 hours as against the 3 hours of the 65 pages of the Book of the Law. I was pushed hard to keep the pace; the MS. shows it clearly enough.
+
+The voice was of deep timbre, musical and expressive, its tones solemn, voluptuous, tender, fierce or aught else as suited the moods of the message. Not bass --perhaps a rich tenor or baritone.
+
+The English was free of either native or foreign accent, perfectly pure of local or caste mannerisma, thus startling and even uncanny at first hearing.
+
+I had a strong impression that the speaker was actually in the corner where he seemed to be, in a body of "fine matter," transparent as a veil of gauze, or a cloud of incense-smoke. He seemed to be a tall, dark man in his thirties, well-knit, active and strong, with the face of a savage king, and eyes veiled lest their gaze should destroy what they saw. The dress was not Arab; it suggested Assyria or Persia, but very vaguely. I took little note of it, for to me at that time Aiwass and an "angel" such as I had often seen in visions, a being purely astral.
+
+I now incline to believe that Aiwass is not only the God or Demon or Devil once held holy in Sumer, and mine own Guradian Angel, but also a man as I am, insofar as He uses a human body to make His magical link with Mankind, whom He loves, and that He is thus and Ipsissimus, the Head of the A∴A∴ Even I can do, in a much feebler way, this Work of being a God and a Beast, &c., &c., all at the same time, with equal fullness of life.
+
+#### 6. The Editing of the Book.
+
+"Change not so much as the style of a letter" in the text saved me from Crowley-fying the wholde Book, and spoiling everything.
+
+The MS. shows what has been done, and why, as follows:
+
+On page 6 Aiwaz instructs me to "write this (what he had just said) in whiter words," for my mind revelled at His phrase. He added at once "But go forth on," i.e., with His utterance, leaving the emendation until later.
+
+On page 19 I failed to hear a sentence, and (later on) the Scarlet Woman, invoking Aiwass, wrote in the missing words. (How? She was not in the room at the time, and heard nothing.)
+
+Page 20 of Cap. III, I got a phrase indistinctly, and she put it in, as for "B."
+
+The versified paraphrase of the hieroglyphs on the Stele being ready, Aiwaz allowed me to insert these later, so as to save time.
+
+These four apart, the MS. is exactly as it was written on those three days. The Critical Recension will explain theses points as they occur.
+
+The problem of the literary form of this Book is astonishingly complex; but the internal evidence of the sense is usually sufficient of make it clear, on inspection, as to who is speaking and who is being addressed.
+
+There was, however, no actual voice audible save that of Aiwaz. Even my own remarks made silently were incorporated by him audibly, wherever such occur.
+
+#### Chapter I.
+
+Verse 1. Nuit is the speaker. She invokes her lover and then begins to give a title to her speech in the end of verse I--20.
+
+In verses 3 and 4, she begins her discourse. So far her remarks have been addressed to no one in particular.
+
+Verse 4 startled my intelligence into revolt.
+
+In verse 5 she explains that she is speaking, and appeals to me personally to help her to unveil by taking down her message.
+
+In verse 6 she claims me for her chosen, and I think that I then became afraid lest I should be expected to do too much. She answers this fear in verse 7 by introducing Aiwaz as the actual speaker in articulate human accents on her behalf.
+
+In verse 8 the oration continues, and we now see that it is addressed to mankind in general. This continues till verse 13.
+
+Verse 14 is from the Stele. It seems to have been written in by me as a kind of appreciation of what she had just said.
+
+Verse 15 emphasizes that it is mankind in general that is addressed; for the Beast is spoken of in the third person, though his was the only human ear to hear the words.
+
+Verses 18-19 seem to be almost in the nature of a quotation from some hymn. It is not quite natural for her to address herself as she appears to do in verse 19.
+
+Verse 26. The question "Who am I and what shall be the sign?" is my own conscious thought. In the previous verses I have been called to an exalted mission, and I naturally feel nervous. This thought is then entered in the record by Aiwaz as if it were a story that he was telling ; and he develops this story after her answer, in order to bring back the thread of the chapter to the numerical mysteries of Nuith begun in verses 24-
+
+25, and now continued in verse 28.
+
+Another doubt must have arisen in my mind at verse 30; and this doubt is interpreted and explained to me personally in verse 31.
+
+The address to mankind is resumed in verse 32, and Nuith emphasizes the point of verse 30 which has caused me to doubt. She confirms this with an oath, and I was convinced. I thought to myself, "in this case let us have written instructions as to the technique," and Aiwaz again makes a story out of my request as in verse 26.
+
+In verse 35 it seems that she is addressing me personally, but in verse 36 she speaks of me in the third person.
+
+Verse 40. The word "us" is very puzzling. It apparently means "All those who have accepted the Law whose word is Thelema." Among these she includes herself.
+
+There is now no difficulty for a long while. It is a general address dealing with various subjects, to the end of verse 52.
+
+From verses 53-56 we have a strictly personal address to me.
+
+In verse 57 Nuit resumes her general exhortation. And I am spoken of once more in the third person.
+
+Verse 61. The word "Thou" is not a personal address. It means any single person, as posed to a company. The "Ye" in the third sentence indicates the proper conduct for worshippers as a body. The "you," in sentence 4, of course applies to a single person; but the plural form suggests that it is a matter of public worship as opposed to the invocation in the desert of the first sentence of this verse.
+
+There is no further difficulty in this chapter.
+
+Verse 66 is the statement of Aiwaz that the words of verse 65, which were spoken diminuendo down to pianissimo, indicated the withdrawl of the goddess.
+
+#### Chapter II.
+
+Hadit himself is evidently the speaker from the start. The remarks are general. In verse 5 I am spoken of in the third person.
+
+After verse 9 he notices my vehement objections to writing statements to which my conscious self was obstinately opposed.
+
+Verse 10, addressed to me notes that fact ; and in verse 11 he declares that he is my master, and that the reason for this is that he is my secret self, as explained in verses 12-13.
+
+The interruption seems to have added excitement to the discourse, for verse 14 is violent.
+
+Verses 15 & 16 offer a riddle, while verse 17 is a sort of parody of poetry.
+
+Verse 18 continues his attack on my conscious mind. In verses 15-18 the style is complicated, brutal, sneering and jeering. I feel the whole passage as a contemptuous beating down of the resistance of my mind.
+
+In verse 19 he returns to the exalted style with which he began until I interfered.
+
+The passage seems addressed to what he calls his chosen or his people, though it is not explained exactly what he means by the words.
+
+This passage from verse 19 to verse 52 is of sustained and matchless eloquence.
+
+I must have objected to something in verse 52, for verse 53 is directed to encourage me personally as to having transmitted this message.
+
+Verse 54 deals with another point as to the intelligibility of the message.
+
+Verse 55 instructed me to obtain the English Qabalah; it made me incredulous, as the task seemed an impossible one, and probably his perception of this criticism inspired verse 56, though "ye mockers" applies evidently to my enemies, referred to in verse 54.
+
+Verse 57 brings us back to the subject begun in verse 21. It is a quotation from the Apocalypse verbatim, and is probably suggested by the matter of verse 56.
+
+There is no real change in the essence of anything, however its combinations vary.
+
+Verses 58-60 conclude the passage.
+
+Verse 61. The address is now strictly personal. During all this time Hadit had been breaking down my resistance with his violently expresses and varied phrases. As a result of this, I attained to the trance described in these verses from 61-68.
+
+Verse 69 is the return to consciousness of myself. It was a sort of gasping question as a man coming out of Ether might ask "Where am I?" I think that this is the one passage in the whole book which was not spoken by Aiwaz; and I ought to say that these verses 63-68 were written without conscious hearing at all.
+
+Verse 70 does not deign to reply to my questions, but points out the way to manage life. This continues until verse 74, and seems to be addressed not to me personally but to any man, despite the use of the word "Thou."
+
+Verse 75 abruptly changes the subject, interpolating the riddle of verse 76 with its prophecy. This verse is addressed to me personally, and continues to the end of verse 78 to mingle lyrical eloquence with literal and numerical puzzles.
+
+Verse 79 is the statement of Aiwaz that the end of the chapter has come. To this he adds his personal compliment to myself.
+
+#### Chapter III.
+
+Verse I appears to complete the triangle begun by the first verses of the two previous chapters. It is a simple statement involving no particular speaker or hearer. The ommission of the "i" in the name of God appears to have alarmed me, and in verse 2 Aiwaz offers a hurried explanation in a somewhat excited manner, and invokes Ra-Hoor-Khuit.
+Verse 3 is spoken by Ra-Hoor-Khuit. "Them" evidently refers to some undescribed enemies, and "ye" to those who accept his formula. This passage ends with verse 9. Verse 10 and verse 11 are addressed to me personally and the Scarlet Woman, as shown in the continuation of his passage which seems to end with verse 33, though it is left rather vague at times as to whether the Beast, or the Beast and his concubine, or the adherents of Horus, generally, are exhorted.
+
+Verse 34 is a kind of poetical peroration, and is not addressed in particular to anybody. It is a statement of events to come.
+
+Verse 35 states simply that section one of this chapter is completed.
+
+I seem to have become enthusiastic, for there is a kind of interlude reported by Aiwaz of my song of adoration translated form the Stele; the incident parallels that of chapter I, verse 26, &c.
+
+It is to be noted that the translations from the Stele in verses 37-38 were no more than instantaneous thoughts to be inserted afterwards.
+
+Verse 38 begins with my address to the God in the first sentence, while in the second is his reply to me. He then refers to the hieroglyphs of the Stele, and bids me quote my paraphrases. This order was given by a species of wordless gesture, not visible or audible, but sensible in some occult manner.
+
+Verses 39-42 are instructions for me personally.
+
+Verses 43-45 indicate the proper course of conduct for the Scarlet Woman.
+
+Verse 46 is again more general --a sort of address to soldiers before battle.
+
+Verse 47 is again mostly personal instruction, mixed up with prophecies, proof of the praeterhuman origin of the Book, and other matters.
+
+I observe that this instruction, taken with with those not to change "so much as a style of a letter," etc., imply that my pen was under the physical control of Aiwaz; for this dictation did not include directions as to the use of capitals, and the occasional mis-spellings are most assuredly not mine!
+
+Verse 48 impatiently dismisses such practical matters as a nuisance.
+
+Verses 49-59 contain a series of declarations of war; and there is no further difficulty as to the speaker or hearer to the end of the chapter, although the subject changes repeatedly in an incomprehensible manner. Only verse 75 do we find a perroation on the whole book, presumably by Aiwaz, ending by his formula of withdrawal.
+
+
+I conclude by laying down the principles of Exegesis on which I have based my comment.
+It is "my scribe Ankh-af-na-khonsu" (CCXX, I, 36) who "shall comment" on "this book" "by the wisdom of Ra-Hoor-Khuit"; that is, Aleister Crowley shall write the Comment from the point of view of the manifested positive Lord of the Aeon, in plain terms of the finite, and not those of the infinite.
+"Hadit burning in thy heart shall make swift and secure thy pen" (CCXX, III, 40). My own inspiration, not any alien advice or intellectual consideration, is to be the energizing froce of this work.
+Where the text is simple straightforward English, I shall not seek, or allow, and interpretation at variance with it.
+I may admit a Qabalistic or cryptographic secondary meaning when such confirms, amplifies, deepens, intensifies, or clarifes the obvious common-sense significance ; but only if it be part of the general plan of the "latent light," and self-proven by abundatnt witness.
+
+For example: "To me!" (I, 65) is to be taken primarily in its obvious sense as the Call of Nuith to us Her stars.
+
+The transliteration "TO MH" may be admitted as the "signature" of Nuith, identifying Her as the speaker; because these Greek Words mean "The Not," which is Her Name.
+
+This Gematria of TO MH may be admitted as further confirmation, because their number 418 is elsewhere manifested as that of the Aeon.
+
+But TO MH is not to be taken as negating the previous verses, or 418 as indicating the fromula of approach to Her, although in point of fact it is so, being the Rubrick of the Great Work. I refuse to consider mere appropriateness as conferring title to authority, and to read my own personal theories into the Book. I insist that all interpretation shall be incontestably authentic, neither less, more, nor other than was meant is the Mind of Aiwaz.
+
+I lay claim to be the sole authority competent to decide disputed points with regard to the Book of the Law, seeing that its Author, Aiwaz, is none other than mine own Holy Guardian Angel, to Whose Knowledge and Conversation I have attained, so that I have exclusive access to Him. I have duly referred every difficulty to Him directly, and received His answer; my award is therefore absolute without appeal.
+
+The verse, II, 47, "one cometh after him, whence I say not, who shall discover the key of it all," has been fulfilled by "one" Achad is not said to extend beyond this single exploit; Achad is nowhere indicated as appointed or even authorized to relieve The Beast of His task of the Comment. Achad has proved himself,*1* and proved the Book, by his on achievement; and this shall suffice.
+
+Wherever
+
+* The words of the Text are obscure in themselves; where
+* The expression is strained; where
+* The Syntax,
+* Grammar,
+* Spelling, or
+* The use of capital letters present peculiarities; where
+* Non-English words occur; where the style suggests
+* Paronomasia,
+* Ambiguity, or
+* Obliquity; or where
+* A problem is explicitly declared to exist; in all such cases I shall seek for a meaning hidden by means of Qabalistic correspondences, cryptography, or literary subtleties. I shall admit no solution which is not at once simple, striking, consonant with the general plan of the Book ; and not only adequate but necessary.
+
+Examples:
+
+* I, 4. Here the obvious sense of the text is nonsense; it therefore needs intimate analysis.
+* II, I7, line 4. The natural order of the words is distorted by placing "not" before "know me"; it is proper to ask what object is attained by this peculiarity of phrasing.
+* I, I3. The text as it stands is unintelligible; it calls attention to itself; a meaning must be found which will not only justify the apparent error, but prove the necessity of employing that and no other expression.
+* II, 76. "to be me" for "to be I." The unusual grammar invites enquiry; it suggests that "me" is a concealed name, perhaps MH, "Not," Nuit, since to be Nuit is the satisfaction of the formula of the Speaker, Hadit.
+* III, I. The omission of the "i" in "Khuit" is indicative that some concealed doctrine is based upon the variant.
+* II, 27. The spelling of "Because" with a capital B suggests that it may be a proper name, and possibly that its Greek or Hebrew equivalent may identify the idea Qabalistically with some enemy of our Hierarchy; also that such word may demand a capital value for its initial.
+* III, II. "Abstruction" suggests that an idea otherwise inexpressible is conveyed in this manner. Paraphrase is here inadmissible as a sufficient interpretation; there must be a correspondence in the actual structure of the word with its etymologically -deduced meaning.
+* III, 74. The words "sun" and "son" are evidently chosen for the identity of their sound-value; the inelegance of the phrase therefroe insists on some such adequate justification as the existence of a hidden treasure of meaning.
+* III, 73. The ambiguity of the instruction warrants the supposition that the words must somehow contain a cryptographic formula for so arranging the sheets of the MS. that an Arcanum becomes manifest.
+* I, 26. The apparent evasion of a direct reply in "Thou knowest !" suggests that the words conceal a precise answer more convincing in cipher than their openly-expressed equivalent could be.
+* II, I5. The text explicitly invites Qabalistic analysis.
+
+The Comment must be consistent with itself at all points; it must exhibit the Book of the Law as of absolute authority on all possible questions proper to Mankind, as offering the perfect solution of all problems philosophical and practical without exception.
+
+The Comment must prove beyond possibility of error that the Book of the Law,
+
+* Bears witness in itself to the authorship of Aiwaz, an Intelligence independent of incarnation ; and
+* Is warranted worthy of its claim to credence by the evidence of external events.
+
+For example, the first proposition is proved by the cryptography connected with 31, 93, 418, 666,[pi], etc.; and the second by the concurrence of circumstance with various statements in the text such that the categories of time and causality forbid all explanations which excluded its own postulates, while the law of probabilities makes coincidence inconceivable as an evasion of the issue.
+
+* The Comment must be expressed in terms intelligible to the minds of men of average education, and independent of abstruse technicalities.
+* The Comment must be pertinent to the problems of our own times, and present the principles of the Law in a manner susceptible of present practical application. It must satisfy all types of intelligence, neither revolting to rational, scientific, mathematical, and philosophical thinkers, nor repugnant to religious and romantic temperaments.
+* The Comment must appeal on behalf of the Law to the authority of Experience. It must make Success the proof of the Truth of the Book of the Law at every point of contact with Reality.
+
+The Word of Aiwaz must put forth a perfect presentation of the Universe as Necessary, Intelligible, Self-subsistent, as Integral, Absolute, and Immanent. It must satisfy all intuitions, explain all enigmas, and compose all conflicts. It must reveal Reality, reconcile Reason with Relativity; and, resolving not only all antinomies in the Absolute, but all antipathies in the appreciation of Aptness, assure the acquiescence of every faculty of making in the perfection of its plenary propriety.
+
+Releasing us from every restriction upon Right, the Word of Aiwaz must extend its empire by enlisting the allegiance of every man and every woman that puts its truth to the test.
+
+On these principles, to the pitch of my power, will I the Beast 666, who received the Book of the Law from the Mouth of mine Angel Aiwaz, make my comment thereon ; being armed with the word: "But the work of the comment? That is easy ; and Hadit in thy heart shall make swift and secure thy pen."
+
+---
+
+Editorial Note to this Chapter.
+
+The reader is now in full possession of the account of "how thou didst come hither". The student who wishes to act intelligently will be at pains to make himself thoroughly acquainted at the outset with the whole of the external circumstances connected with the Writing of the Book, whether they are of biographical or other importance. He should thus be able to approach the Book with his mind prepared to apprehend the unique character of their contents in respect of its true Authorship, the peculiarities of Its methods of communicating Thought, and the nature of Its claim to be the Canon of Truth, the Key of Progress, and the Arbiter of Conduct. He will be able to form his own judgment upon It, only insofar as he is fixed in the proper Point-of-View; the sole question for him is to decide whether It is or is not that which It claims to be, the New Law in the same sense as the Vedas, the Pentateuch, the Tao Teh King, and Qu'ran are Laws, but with the added Authority of Verbal, Literal, and Graphic inspiration established and counter-checked by internal evidence with the impeccable precision of a mathematical demonstration. If It be that, It is an unique document, valid absolutely within the terms of its self-contained thesis, incomparably more valuable than any other Transcript of Thought which we possess.
+
+If It be not wholly that, it is a worthless curiosity of literature; worse, it is an appalling proof that no kind or degree of evidence soever is sufficient to establish any possible proposition, since the closest concatenation of circumstances may be no more than the jetsam of chance, and the most comprehensive plans of purpose a puerile pantomime. To reject this Book is to make Reason itself ridiculous and the Law of Probabilities a caprice. In Its fall it shatters the structure of Science, and buries the whole hope of man's heart in the rubble, throwing upon its heaps the sceptic, blinded, crippled, and gone melancholy mad.
+
+The reader must face the problem squarely; half-measures will not avail. If there be aught he recognize as transcendental Truth, he cannot admit the possibility that the Speaker, taking such pains to prove Himself and His Word, should yet incorporate Falsehood in the same elaborate engines. If the Book be but a monument of a mortal's madness, he must tremble that such power and cunning may be the accomplices of insane and criminal archanarchs.
+
+But if he know the Book to be justified of Itself, It shall be justified also of Its children; and he will glow with gladness in his heart as he reads the sixty-third to the sixty-seventh verses of Its chapter, and gain his first glimpse of Who he himself is in truth, and to what fulfilment of Himself It is of virtue to bring Him.
+
+### CHAPTER VIII.
+
+#### Summary of the Case
+
+In this revelation is the basis of the future Aeon. Within the memory of man we have had the Pagan period, the worship of Nature, of Isis, of the Mother, of the Past; the Christian period, the worship of Man, of Osiris, of the Present. The first period is simple, quiet, easy, and pleasant; the material ignores the spiritual; the second is of suffering and death: the spiritual strives to ignore the material. Christianity and all cognate religions worship death, glorify suffering, deify corpses. The new Aeon is the worship of the spiritual made one with the material, of Horus, of the Child, of the Future.
+
+Isis was Liberty; Osiris, bondage; but the new Liberty is that of Horus. Osiris conquered her because she did not understand him. Horus avenges both his Father and his Mother. This child Horus is a twin, two in one. Horus and Harpocrates are one, and they are also one with Set or Apophis, the destroyer of Osiris. It is by the destruction of the principle of death that they are born. The establishment of this new Aeon, this new fundamental principle, is the great work now to be accomplished in the world.
+
+FRATER PERDURABO, to whom this revelation was made with so many signs and wonders, was himself unconvinced. He struggled against it for years. Not until the completion of His own initiation at the end of I909 did he understand how perfectly he was bound to carry out this work. Again and again He turned away from it, took it up for a few days or hours, then laid it aside. He even attempted to destroy its value, to nullify the result. Again and again the unsleeping might of the Watchers drove Him back to the work; and it was at the very moment when He thought Himself to have escaped that He found Himself fixed for ever with no possibility of again turning aside for the fraction of second from the Path.
+
+The history of this must one day be told by a more vivid voice. Properly considered, it is a history of continuous miracle. Enough if it is now said that in this Law lies the whole future: it is the Law of Liberty, and those who refuse it proclaim themselves slaves, and as slaves shall they be chained and flogged. It is the Law of Love, and those who refuse it declare themselves to be the children of hate, and their hate shall return upon them and consume them with its unending tortures. It is the Law of Life, and those who refuse it shall be subject to death; and death shall catch them unawares. Even their life shall be a living death. It is the Law of Light, and those who refuse it thereby make themselves dark for ever.
+
+Do what thou wilt shall be the whole of the Law! Refuse this, and fall under the curse of destiny. Divide will against itself, the result is impotence and strife, strife-in-vain. The Law condemns no man. Accept the Law, and everything is lawful.
+
+Refuse the Law, you put yourself beyond its pale. It is the Law that Jesus Christ, or rather the Gnostic tradition of which the Christ-legend is a degradation, attempted to teach; but nearly every word he said was misinterpreted and garbled by his enemies, particularly by those who called themselves his disciples. In any case the Aeon was not ready for a Law of Freedom. Of all his followers only St. Augustine appears to have got even a glimmer of what he meant.
+
+A further attempt to teach this law was made through Sir Edward Kelly at the end of the sixteenth century. The bondage of orthodoxy prevented his words from being heard, or understood. In many other ways has the spirit of truth striven with man, and partial shadows of this truth have been the greatest allies of science and philosophy. Only now has success been attained. A perfect vehicle was found, and the message enshrined in a jewelled casket; that is to say, in a book with the injunction "Change not as much as the style of a letter." This book is reproduced in facsimile, in order that there shall be no possibility of corrupting it. Here, then, we have an absolutely fixed and definite standpoint for the foundation of an universal religion.
+
+We have the Key to the resolution of all human problems, both philosophical and practical. If we have seemed to labour at proof, our love must be the excuse for our infirmity ; for we know well that which is written in the Book:
+
+#### "Success is your proof."
+
+We ask no more than one witness; and we call upon Time to take the Oath, and testify to the Truth of our plea.
 
 # APPENDIX
 
@@ -4704,9 +6486,9 @@ The rituals of the Book of Lies and the Goetia are also to be studied. The “pr
 
 *Orpheus* by by Aleister Crowley, contains a large number of magical invocations in verse. There are also a good many others in other parts of his poetical Works. 
 
-The following is a complete curriculum of reading officially approved by the A.·.A.·.
+The following is a complete curriculum of reading officially approved by the A∴A∴
 
-### CURRICULUM OF A. A. 
+### CURRICULUM OF A∴A∴ 
 
 #### COURSE I. 
 
@@ -4983,7 +6765,7 @@ An elementary course of morality suitable for the average man. Equinox 1, p. 17.
 
 *Liber XXXIII.* 
 
-An account of A.·.A.·. first written in the Language of this period by the Councillor Von Eckartshausen and now revised and rewritten in the Universal Cipher. Equinox I, p. 4. 
+An account of A∴A∴ first written in the Language of this period by the Councillor Von Eckartshausen and now revised and rewritten in the Universal Cipher. Equinox I, p. 4. 
 
 *Liber XXXVI.* &mdash; *The Star Sapphire.*
 
@@ -5134,7 +6916,7 @@ Full instruction in Pranayama. Equinox VII, p. 59.
 
 *Liber CCVII.*
 
-*Syllabus.* An enumeration of the Official publications of the A.·.A.·. with a brief description of the contents of each book. Equinox XI (vol. iii part 1), p. 11. 
+*Syllabus.* An enumeration of the Official publications of the A∴A∴ with a brief description of the contents of each book. Equinox XI (vol. iii part 1), p. 11. 
 
 This appendix is extracted therefrom. 
 
@@ -5295,6 +7077,12 @@ Unpublished.
 
 #### ONE STAR IN SIGHT. 
 
+##### sub figurâ CDLXXXIX
+
+###### A∴A∴ Publication in Class B
+
+![](img/AA_Seal.gif)
+
 > Thy feet in mire, thine head in murk,  
 > O man, how piteous thy plight,  
 > The doubts that daunt, the ills that irk,  
@@ -5350,7 +7138,7 @@ Unpublished.
 
 A glimpse of the structure and System of the Great White Brotherhood. 
 
-<div class="centered">A.·.A.·.</div>^[The Name of The Order and those of its three divisions are not disclosed to the profane. Certain swindlers have recently stolen the initials A.·.A.·., in order to profit by its reputation.]
+<div class="centered">A∴A∴</div>^[The Name of The Order and those of its three divisions are not disclosed to the profane. Certain swindlers have recently stolen the initials A∴A∴, in order to profit by its reputation.]
 
 <div class="centered">Do what thou wilt shall be the whole of the Law.</div>
 
@@ -5475,7 +7263,7 @@ The essential Attainment is the perfect annihilation of that personality which l
 
 The Magister Templi is pre-eminently the Master of Mysticism, that is, His Understanding is entirely free from internal contradiction or external obscurity; His word is to comprehend the existing Universe in accordance with His own Mind. He is the Master of the Law of Sorrow (Dukkha). 
 
-To attain the grade of Magus he must accomplish Three Tasks; the renunciation of His enjoyment of the Infinite so that he may formulate Himself as the Finite; the acquisition of the practical secrets alike of initiating and governing His proposed new Universe and the identification of himself with the impersonal idea of Love. Any neophyte of the Order (or, as some say, any person soever) possesses the right to claim the Grade of Master of the Temple by taking the Oath of the Grade. It is hardly necessary to observe that to do so is the most sublime and awful responsibility which it is possible to assume, and an unworthy person who does so incurs the most terrifie penalties by his presumption. 
+To attain the grade of Magus he must accomplish Three Tasks; the renunciation of His enjoyment of the Infinite so that he may formulate Himself as the Finite; the acquisition of the practical secrets alike of initiating and governing His proposed new Universe and the identification of himself with the impersonal idea of Love. Any neophyte of the Order (or, as some say, any person soever) possesses the right to claim the Grade of Master of the Temple by taking the Oath of the Grade. It is hardly necessary to observe that to do so is the most sublime and awful responsibility which it is possible to assume, and an unworthy person who does so incurs the most terrific penalties by his presumption. 
 
 7. *The Order of the R. C.* The Grade of the Babe of the Abyss is not a Grade in the proper sense, being rather a passage between the two Orders. Its characteristics are wholly negative, as it is attained by the resolve of the Adeptus Exemptus to surren- der all that he has and is for ever. It is an annihilation of all the bonds that compose the self or constitute the Cosmos, a resolution of all complexities into their elements, and these thereby cease to manifest, since things are only knowable in respect of their relation to, and reaction on, other things. 
 
@@ -5511,7 +7299,7 @@ and arms to form the Symbol of Light, as if to make oath that his
 every thought, Word and deed should express the Light derived 
 from the God with which he has identified his life, his love and his liberty — symbolised by his heart, his phallus, and his legs. It is impossible to lay down precise rules by which a man may attain to the knowledge and conversation of His Holy Guardian Angel; for that is the particular secret of each one of us; a secret not to be told or even divined by any other, whatever his grade. It is the Holy of Holies, whereof each man is his own High Priest, and none knoweth the Name of his brother’s God, or the Rite that invokes Him. 
 
-The Masters of the A.·.A.·. have therefore made no attempt to institute any regular ritual for this central Work of their Order, save the generalised instructions in Liber 418 (the 8th Aethyr) and the detailed Canon and Rubric of the Mass actually used with success by <span class="small-caps">Frater Perdurabo</span> in His attainment. This has been written down by Himself in Liber Samekh. But they have published such accounts as those in *The Temple of Solomon the King* and in *John St. John*. They have taken the only proper course; to train aspirants to this attainment in the theory and practice of the whole of Magick and Mysticism, so that each man may be expert in the handling of all known weapons, and free to choose and to use those which his own experience and instinct dictate as proper when he essays the Great Experiment. 
+The Masters of the A∴A∴ have therefore made no attempt to institute any regular ritual for this central Work of their Order, save the generalised instructions in Liber 418 (the 8th Aethyr) and the detailed Canon and Rubric of the Mass actually used with success by <span class="small-caps">Frater Perdurabo</span> in His attainment. This has been written down by Himself in Liber Samekh. But they have published such accounts as those in *The Temple of Solomon the King* and in *John St. John*. They have taken the only proper course; to train aspirants to this attainment in the theory and practice of the whole of Magick and Mysticism, so that each man may be expert in the handling of all known weapons, and free to choose and to use those which his own experience and instinct dictate as proper when he essays the Great Experiment. 
 
 He is furthermore trained to the one habit essential to Membership of the A.·. A.·.; he must regard all his attainments as primarily the property of those less advanced aspirants who are confided to his charge. 
 
@@ -5519,7 +7307,7 @@ No attainment soever is officially recognised by the A.·. A.·., unless the imm
 
 The rule is not rigidly applied in all cases, as it would lead to congestion, especially in the lower grades where the need is greatest, and the conditions most confused; but it is never relaxed in the Order of the R. C. or of the S. S.: save only in One Case. 
 
-There is also a rule that the Members of the A.·.A.·. shall not know each other officially, save only each Member his superior who introduced him and his inferior whom he has himself introduced. 
+There is also a rule that the Members of the A∴A∴ shall not know each other officially, save only each Member his superior who introduced him and his inferior whom he has himself introduced. 
 
 This rule has been relaxed, and a “Grand Neophyte” appointed to superintend all Members of the Order of the G. D. The real object of the rule was to prevent Members of the same Grade working together and so blurring each other’s individuality; also to prevent work developing into social intercourse. 
 
@@ -5527,7 +7315,7 @@ The Grades of the Order of the G. D. are fully described in Liber 185^[This book
 
 
 
-Members of the A.·.A.·. of whatever grade are not bound or expected or even encouraged to work on any stated lines, or with any special object, save as has been above set forth. There is however an absolute prohibition to accept money or other material reward, directly or indirectly, in respect of any service connected with the Order, for personal profit or advantage. The penalty is immediate expulsion, with no possibility of reinstatement on any terms soever. 
+Members of the A∴A∴ of whatever grade are not bound or expected or even encouraged to work on any stated lines, or with any special object, save as has been above set forth. There is however an absolute prohibition to accept money or other material reward, directly or indirectly, in respect of any service connected with the Order, for personal profit or advantage. The penalty is immediate expulsion, with no possibility of reinstatement on any terms soever. 
 
 But all members must of necessity work in accordance with the facts of Nature, just as an architect must allow for the Law of Gravitation, or a sailor reckon with currents. 
 
@@ -5539,7 +7327,7 @@ Each member must make it his main work to discover for himself his own true will
 
 He must accept those orders in the Book of the Law that apply to himself as being necessarily in accordance with his own true will, and execute the same to the letter with all the energy, courage, and ability that he can command. This applies especially to the work of extending the Law in the world, wherein his proof is his own success, the witness of his Life to the Law that hath given him light in his ways, and liberty to pursue them. Thus doing, he payeth his debt to the Law that hath freed him by working its will to free all men; and he proveth himself a true man in our Order by willing to bring his fellows into freedom. 
 
-By thus ordering his disposition, he will fit himself in the best possible manner for the task of understanding and mastering the divers technical methods prescribed by the A.·.A.·. for Mystical and Magical attainment. 
+By thus ordering his disposition, he will fit himself in the best possible manner for the task of understanding and mastering the divers technical methods prescribed by the A∴A∴ for Mystical and Magical attainment. 
 
 He will thus prepare himself properly for the crisis of his career in the Order, the attainment of the Knowledge and Conversation of his Holy Guardian Angel. 
 
@@ -5549,13 +7337,13 @@ From the Abyss comes No Man forth, but a Star startles the Earth, and our Order 
 
 There is no need to instruct a Babe thus born, for in the Abyss it was purified of every poison of personality; its ascent to the highest is assured, in its season, and it hath no need of seasons for it is conscious that all conditions are no more than forms of its infancy. 
 
-Such is a brief account, adapted as far as may be to the average aspirant to Adeptship, or Attainment, or Initiation, or Mastership, or Union with God, or Spiritual Development, or Mahatmaship, or Freedom, or Occult Knowledge, or whatever he may call his inmost need of Truth, of our Order of A.·.A.·. 
+Such is a brief account, adapted as far as may be to the average aspirant to Adeptship, or Attainment, or Initiation, or Mastership, or Union with God, or Spiritual Development, or Mahatmaship, or Freedom, or Occult Knowledge, or whatever he may call his inmost need of Truth, of our Order of A∴A∴ 
 
-It is designed principally to awake interest in the possibilites of human progress, and to proclaim the principles of the A.·.A.·.
+It is designed principally to awake interest in the possibilites of human progress, and to proclaim the principles of the A∴A∴
 
-The outline given of the several successive steps is exact; the two crises — the Angel and the Abyss — are necessary features in every career. The other tasks are not always accomplished in the order given here; one man, for example, may acquire many of the qualites peculiar to the Adeptus Major, and yet lack some of those proper to the Practicus.^[The natural talents of individuals difFer very widely. The late Sir Richard Jebb, one of the greatest classical schoiars of modern times, was so inferior to the average mediocrity in mathematics, that despite repeated efforts he could not pass the “little go” at Cambridge — which the dullest minds can usually do. He was so deeply esteemed for his classes that a special “Grace” was placeted so as to admit him to matriculation. Similarly a brilliant Exorcist might be an incompetent Diviner. In such a case the A.·.A.·. would refuse to swerve from Its system; the Aspirant wouid be compelled to remain at the Barrier until he succeeded in breaking it down, though a new incarnation were necessary to permit him to do so. But no technical failure of any kind soever could necessarily prevent him from accomplishing the Two Critical Tasks, since the fact of his incarnation itself proves that he has taken the Oath which entitled him to attain to the Knowledge and Conversation of his Holy Guardian Angel, and the annihilation of this Ego. One might therefore be an Adeptus Minor or even a Magister Templi, in essence, though refused official recognition by the A A as a Zelator owing to (say) a nervous defect which prevented him from acquiring a Posture which was “steady and easy” as required by the Task of that grade.] But the System here given shows the correct order of events, as they are arranged in Nature; and in no case is it safe for a man to neglect to master any single detail, however dreary and distasteful it may seem. It often does so, indeedj that only insists on the necessity of dealing with it. The dislike and contempt for it bear witness to a weakness and incom- pleteness in the nature which disowns it; that particular gap in one’s defences may admit the enemy at the very turning-point of some battle. Worse, one were shamed for ever if one's inferior should happen to ask for advice and aid on that subject and one were to fall in service to him! His failure — one’s own fallure also! No step, however well won for oneself, till he is ready for his own advance! 
+The outline given of the several successive steps is exact; the two crises — the Angel and the Abyss — are necessary features in every career. The other tasks are not always accomplished in the order given here; one man, for example, may acquire many of the qualites peculiar to the Adeptus Major, and yet lack some of those proper to the Practicus.^[The natural talents of individuals difFer very widely. The late Sir Richard Jebb, one of the greatest classical schoiars of modern times, was so inferior to the average mediocrity in mathematics, that despite repeated efforts he could not pass the “little go” at Cambridge — which the dullest minds can usually do. He was so deeply esteemed for his classes that a special “Grace” was placeted so as to admit him to matriculation. Similarly a brilliant Exorcist might be an incompetent Diviner. In such a case the A∴A∴ would refuse to swerve from Its system; the Aspirant wouid be compelled to remain at the Barrier until he succeeded in breaking it down, though a new incarnation were necessary to permit him to do so. But no technical failure of any kind soever could necessarily prevent him from accomplishing the Two Critical Tasks, since the fact of his incarnation itself proves that he has taken the Oath which entitled him to attain to the Knowledge and Conversation of his Holy Guardian Angel, and the annihilation of this Ego. One might therefore be an Adeptus Minor or even a Magister Templi, in essence, though refused official recognition by the A A as a Zelator owing to (say) a nervous defect which prevented him from acquiring a Posture which was “steady and easy” as required by the Task of that grade.] But the System here given shows the correct order of events, as they are arranged in Nature; and in no case is it safe for a man to neglect to master any single detail, however dreary and distasteful it may seem. It often does so, indeedj that only insists on the necessity of dealing with it. The dislike and contempt for it bear witness to a weakness and incom- pleteness in the nature which disowns it; that particular gap in one’s defences may admit the enemy at the very turning-point of some battle. Worse, one were shamed for ever if one's inferior should happen to ask for advice and aid on that subject and one were to fall in service to him! His failure — one’s own fallure also! No step, however well won for oneself, till he is ready for his own advance! 
 
-Every Member of the A.·.A.·. must be armed at all points, and expert with every weapon. The examinations in every Grade are strict and severe; no loose or vague answers are accepted. In intellectual questions, the candidate must display no less mastery of his subject than if he were entered in the “final” for Doctor of Science or Law at a first class University. 
+Every Member of the A∴A∴ must be armed at all points, and expert with every weapon. The examinations in every Grade are strict and severe; no loose or vague answers are accepted. In intellectual questions, the candidate must display no less mastery of his subject than if he were entered in the “final” for Doctor of Science or Law at a first class University. 
 
 In examination of physical practices, there is a standardised test. In Asana, for instance, the candidate must remain motionless for a given time, his success being gauged by poising on his head a cup filled with water to the brim; if he spill one drop, he is rejected. 
 
@@ -5567,15 +7355,15 @@ In the Qabalah, the candidate must discover for himself, and prove to the examin
 
 In invocation the divine force must be made as manifest and unmistakeable as the efifects of chloroform; in evocation, the spirit called forth must be at least as visible and tangible as the heaviest vapours; in divination, the answer must be as precise as a scientific thesis, and as accurate as an audit; in meditation, the results must read like a specialistes report of a classical case. 
 
-By such methods, the A.·.A.·. intends to make occult science as systematic and scientific as chemistry; to rescue it from the ill repute which, thanks both to the ignorant and dishonest quacks that have prostituted its name, and to the fanatical and narrow-minded enthusiasts that have turned it into a fetish, has made it an object of aversion to those very minds whose enthusiasm and integrity make them most in need of its benefits, and most fit to obtain them. It is the one really important science, for it transcends the condi¬ tions of material existence and so is not liable to perish with the planet, and it must be studied as a science, sceptically, with the utmost energy and patience. 
+By such methods, the A∴A∴ intends to make occult science as systematic and scientific as chemistry; to rescue it from the ill repute which, thanks both to the ignorant and dishonest quacks that have prostituted its name, and to the fanatical and narrow-minded enthusiasts that have turned it into a fetish, has made it an object of aversion to those very minds whose enthusiasm and integrity make them most in need of its benefits, and most fit to obtain them. It is the one really important science, for it transcends the condi¬ tions of material existence and so is not liable to perish with the planet, and it must be studied as a science, sceptically, with the utmost energy and patience. 
 
-The A.·.A.·. possesses the secrets of success; it makes no secret of its knowledge, and if its secrets are not everywhere known and practised, it is because the abuses connected with the name of occult science disincline official investigators to examine the evidence at their disposal. 
+The A∴A∴ possesses the secrets of success; it makes no secret of its knowledge, and if its secrets are not everywhere known and practised, it is because the abuses connected with the name of occult science disincline official investigators to examine the evidence at their disposal. 
 
-This paper has been written not only with the object of attracting individual seekers into the way of Truth, but of affirming the propriety of the methods of the A.·.A.·. as the basis for the next great step in the advance of human knowledge. 
+This paper has been written not only with the object of attracting individual seekers into the way of Truth, but of affirming the propriety of the methods of the A∴A∴ as the basis for the next great step in the advance of human knowledge. 
 
 Love is the Law, love under will. 
 
-<div class="align-right">O. M. 7 = 4^☐^ A.·.A.·.
+<div class="align-right">O. M. 7 = 4^☐^ A∴A∴
 Praemonstrator of the 
 Order of the R... C....</div>
 
@@ -5584,7 +7372,7 @@ Given from the Collegium ad Spiritum Sanctum, Cefalù, Sicily, in the Seventeent
 
 ## APPENDIX III 
 
-### Notes on the nature of the “Astral Plane”^[On consideration these notes have been left as they were originally written. In An XVII, Sol in Virgo, Soror Rhodon, a probationer of A.·.A.·. at that time in enjoyment of the privilege of sojourning in a certain secret Abbey of Thelema, asked Him to add to this book an outline of the uranography of the Astral Planes, in less technical language than that of Liber 777. These notes were accordingly jotted down by Him. To elaborate them further would have been to make them disproportionate to the rest of this treatise.].
+### Notes on the nature of the “Astral Plane”^[On consideration these notes have been left as they were originally written. In An XVII, Sol in Virgo, Soror Rhodon, a probationer of A∴A∴ at that time in enjoyment of the privilege of sojourning in a certain secret Abbey of Thelema, asked Him to add to this book an outline of the uranography of the Astral Planes, in less technical language than that of Liber 777. These notes were accordingly jotted down by Him. To elaborate them further would have been to make them disproportionate to the rest of this treatise.].
 
 1. What are “Astral” and “Spiritual” Beings? 
 
@@ -5695,7 +7483,7 @@ the True Will of the seer; if not, though it be never so true objectively, it is
 
 It may intoxicate and exalt the Seer, it may inspire and fortify him in every way, it may throw light upon most holy mysteries, yet withal be no more than an interpretation of the individual to himself, the formula not of Abraham but of Onan. 
 
-These plastic "Portraits of the Artist as a Young Man” are well enough for those who have heard “Know Thyself”. They are necessary, even, to assist that analysis of one’s nature which the Probationer of A.·.A.·. is sworn to accomplish. But "Love is the Law, love under Will”. And Our Lady Nuit is “divided for love's sake, for the chance of union.” These mirror-mirages are therefore not Works of Magick, according to the Law of Thelema. the true Magick of Horus requires the passionate union of opposites. 
+These plastic "Portraits of the Artist as a Young Man” are well enough for those who have heard “Know Thyself”. They are necessary, even, to assist that analysis of one’s nature which the Probationer of A∴A∴ is sworn to accomplish. But "Love is the Law, love under Will”. And Our Lady Nuit is “divided for love's sake, for the chance of union.” These mirror-mirages are therefore not Works of Magick, according to the Law of Thelema. the true Magick of Horus requires the passionate union of opposites. 
 
 Now the proof that one is in contact with an independent entity depends on a sensation which ought to be unmistakeable if one is in good health. One ought not to be liable to mistake one’s own sensible impressions for somebody else’s! It is only Man’s incurable vanity that makes the Astral "Strayed Reveller” or the mystic confuse his own drunken babble with the voice of the Most High. 
 
@@ -5784,16 +7572,17 @@ Such, then is a general description of the Astral Plane, and of the proper condu
 
 ## APPENDIX IV 
 
-
 ### Liber Samekh 
 
-<div class="centered">Theurgia Goetia Summa 
-(CONGRESSUS CUM DAEMONE) 
-sub figura DCCC</div> 
+#### Theurgia Goetia Summa 
+#### (CONGRESSUS CUM DAEMONE) 
+#### sub figura DCCC
 
 being the Ritual employed by the Beast 666 for the Attainment of the Knowledge and Conversation of his Holy Guardian Angel during the Semester of His performance of the Operation of the Sacred Magick of ABRAMELIN THE MAGE. 
 
-(Prepared An XVII ☉ in ♍ at the Abbey of Thelema in Cephalædium by the Beast 666 in service to FRATER PROGRADIOR.) 
+Prepared An XVII ☉ in ♍ at the Abbey of Thelema in Cephalædium by the Beast 666 in service to FRATER PROGRADIOR.
+
+![](img/AA_Seal.gif)
 
 OFFICIAL PUBLICATION of A.·. A.·. Class D for the Grade of Adeptus Minor. 
 
@@ -6245,16 +8034,6 @@ So may all men come at last to the Knowledge and Conversation of the Holy Guardi
 
 <span class="centered">666</span>
 
-
-
-
-
-
-
-
-
-
-
 <div class="centered">
 > “And when, *invoking often*, thou shalt see  
 > That formless Fire; when all the earth is shaken,  
@@ -6378,7 +8157,7 @@ It is wise to keep silence about those things “unlawful to utter” which one 
 
 The Adept must keep himself in hand, however tempted to make a new heaven and a new earth in the next few davs by trumpeting his triumphs. He must give time a chance to redress his balance, sore shaken by the impact of the Infinite. 
 
-As he becomes adjusted to intercourse with his Angel, he will find his passionate ecstasy develop a quality of peace and intelligibility which adds power, while it informs and fortifies his mental and moral qualifies instead of obscuring and upsetting them. He will by now have become able to converse with his Angel, impossible as it once seemedj for he now knows that the storm of Sound which he supposed to be the Voice was only the clamour of his own confusions. The “infinity” nonsense was born of his own inability to think clearly beyond his limits, just as a Bushman, confronted by numbers above five, can only call them “many”. 
+As he becomes adjusted to intercourse with his Angel, he will find his passionate ecstasy develop a quality of peace and intelligibility which adds power, while it informs and fortifies his mental and moral qualities instead of obscuring and upsetting them. He will by now have become able to converse with his Angel, impossible as it once seemedj for he now knows that the storm of Sound which he supposed to be the Voice was only the clamour of his own confusions. The “infinity” nonsense was born of his own inability to think clearly beyond his limits, just as a Bushman, confronted by numbers above five, can only call them “many”. 
 
 The truth told by the Angel, immensely as it extends the horizon of the Adept, is perfectly definite and precise. It does not deal in ambiguities and abstractions. It possesses form, and confesses law, in exactly the same way and degree as any other body of truth. It is to the truth of the material and intellectual spheres of man very much what the Mathematics of Philosophy with its “infinite series” and “Cantorian continuity” is to schoolboy arithmetic. Each implies the other, though by that one may explore the essential nature of existence, and by this a pawnbroker’s profits. 
 
@@ -6584,7 +8363,7 @@ He goeth forth.
 
 ### LIBER V vel REGULI 
 
-A. A. publication in Class D. Being the Ritual of the Mark of the Beast: an incantation proper to invoke the Energies of the Aeon of Horus, adapted for the dally use of the Magician of whatever grade. 
+A∴A∴ publication in Class D. Being the Ritual of the Mark of the Beast: an incantation proper to invoke the Energies of the Aeon of Horus, adapted for the dally use of the Magician of whatever grade. 
 
 #### THE FIRST GESTURE. 
 
@@ -7277,7 +9056,7 @@ NOTE: *Certain secret formules of this Mass are taught to the* PRIEST *in his or
 
 ## APPENDIX VII 
 
-#### A FEW OF THE PRINCIPAL INSTRUCTIONS AUTHORISED BY THE A.·.A.·. 
+#### A FEW OF THE PRINCIPAL INSTRUCTIONS AUTHORISED BY THE A∴A∴ 
 
 ### LIBER HHH 
 
@@ -7617,7 +9396,7 @@ For example, try to imagine the taste of chocolate, the smell of roses, the feel
 
 9. Thus let the work be accomplished duly; yea, let it be accomplished duly. 
 
-(If any really important or remarkable results should occur, or if any great difficulty presents itself, the A.·.A.·. should be at once informed of the circumstances.) 
+(If any really important or remarkable results should occur, or if any great difficulty presents itself, the A∴A∴ should be at once informed of the circumstances.) 
 
 ### LIBER O vel MANUS ET SAGITTÆ 
 
@@ -8188,7 +9967,7 @@ Therefore, after Success, let him not delight overmuch in his Deity, but rather 
 44. *Concerning secrecy and the rites of Blood.* — During this practice it is most wise that the Philosophus utter no Word concerning his working, as if it were a Forbidden Love that consumeth him. But let him answer fools according to their folly; for since he cannot conceal his love from his fellows, he must speak to them as they may understand. 
 
 And as many Deities demand sacrifice, one of men, another of cattle, a third of doves, let these sacrifices be replaced by the true sacrifices in thine own heart. Yet if thou must symbolise them outwardly for the hardness of thine heart, let thine own blood and 
-no other’s, be spilt before that altar.^[The exceptions to this rule pertain neither to this practice, nor to this grade. N. Fra. A.·.A.·.]
+no other’s, be spilt before that altar.^[The exceptions to this rule pertain neither to this practice, nor to this grade. N. FrA∴A∴·.A.·.]
 
 Nevertheless, forget not that this practice is dangerous, and may cause the manifestation of evil things, hostile and malicious, to thy great hurt. 
 
@@ -8378,7 +10157,7 @@ And herein may a sixth sense be included. He is then to withdraw himself entirel
 
 7. ΑΥΜΓΝ. 
 
-(We add the following, contributed by a friend at that time without the A.·.A.·. and its dependent orders. He worked out the method himself, and we think it may prove useful to many. O. M.). 
+(We add the following, contributed by a friend at that time without the A∴A∴ and its dependent orders. He worked out the method himself, and we think it may prove useful to many. O. M.). 
 
 I. The beginner must first practise breathing regularly through the nose, at the same time trying hard to believe that the breath goes to the Ajna and not to the lungs. 
 
@@ -8432,7 +10211,7 @@ Beware of thinking of a "*My* Ajna”. In these meditations and practices, Ajna 
 
 8. The stimulation of memory useful in both practices is also achieved by simple meditation (Liber E), in a certain stage of which old memories arise unbidden. The adept may then practise this, stopping at this stage, and encouraging instead of suppressing the flashes of memory. 
 
-9. Zoroaster has said, “Explore the River of the Soul, whence or in what order you have come; so that although you have become a servant to the body, you may again rise to that Order (the A.·.A.·.) from which you descended, joining Works (Kamma) to the Sacred Reason (the Tao)”. 
+9. Zoroaster has said, “Explore the River of the Soul, whence or in what order you have come; so that although you have become a servant to the body, you may again rise to that Order (the A∴A∴) from which you descended, joining Works (Kamma) to the Sacred Reason (the Tao)”. 
 
 10. The Resuit of the Second Method is to show the Adept to what end his powers are destined. When he has passed the Abyss and becomes Nemo, the return of the current causes him a to appear in the Heaven of Jupiter as a morning star or as an evening star”^[The formula of the Great Work “Solve et Coagula” may be thus interpreted. *Solve* , the dissolution of the self in the Infinite; *Coagula*, the presentation of the Infinite, in a concrete form, to the outer. Both are necessary to the Task of a Master of the Temple. He may appear in any other Heaven, according to his general nature, in his magical mask of initiation.] In other words he should discover what may be the nature of his work. Thus Mohammed was a Brother reflected into Netzach, Buddha a Brother reflected into Hod, or, as some say, Daath. The present manifestation of Frater P. to the outer is in Tiphereth, to the inner in the path of Leo. 
 
@@ -8496,7 +10275,7 @@ For instance, he is seated, perhaps, in a country place in Spain. Why? Because S
 
 32. *Second Method.* The Practice Proper. — Having then perfected in his mind these conceptions, let him apply them to his own career, forging the links of memory into the chain of necessity. 
 
-And let this be his final question: To what purpose am I fitted? Of what service can my being prove to the Brothers of the A.·.A.·. if I cross the Abyss, and am admitted to the City of the Pyramids? 
+And let this be his final question: To what purpose am I fitted? Of what service can my being prove to the Brothers of the A∴A∴ if I cross the Abyss, and am admitted to the City of the Pyramids? 
 
 33. Now that he may clearly understand the nature of this question, and the method of solution, let him study the reasoning of the anatomist who reconstructs an animal from a single bone. 
 
@@ -8570,7 +10349,7 @@ shall He destroy Himself?
 
 #### SUB FIGURA CC. 
 
-0. These are the adorations to be performed by aspirants to the A.·.A.·. 
+0. These are the adorations to be performed by aspirants to the A∴A∴ 
 
 1. Let him greet the Sun at dawn, facing East, giving the sign of his grade. And let him say in a loud voice: 
 

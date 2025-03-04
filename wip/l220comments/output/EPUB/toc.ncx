@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:5734d781-16c7-49b9-9760-45b4265801f2" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text>Commentaries to Liber AL vel Legis</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Commentaries to Liber AL vel Legis</text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Commentaries to Liber AL vel Legis — The Book of the Law</text>
+      </navLabel>
+      <content src="text/ch001.xhtml#commentaries-to-liber-al-vel-legis-the-book-of-the-law" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>THE BOOK OF THE LAW</text>
+      </navLabel>
+      <content src="text/ch002.xhtml#the-book-of-the-law" />
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>CHAPTER I</text>
+        </navLabel>
+        <content src="text/ch003.xhtml#chapter-i" />
+        <navPoint id="navPoint-4">
+          <navLabel>
+            <text>I.1.</text>
+          </navLabel>
+          <content src="text/ch004.xhtml#i.1." />
+        </navPoint>
+        <navPoint id="navPoint-5">
+          <navLabel>
+            <text>I.2.</text>
+          </navLabel>
+          <content src="text/ch005.xhtml#i.2." />
+        </navPoint>
+        <navPoint id="navPoint-6">
+          <navLabel>
+            <text>I.3.</text>
+          </navLabel>
+          <content src="text/ch006.xhtml#i.3." />
+        </navPoint>
+        <navPoint id="navPoint-7">
+          <navLabel>
+            <text>I.4.</text>
+          </navLabel>
+          <content src="text/ch007.xhtml#i.4." />
+        </navPoint>
+        <navPoint id="navPoint-8">
+          <navLabel>
+            <text>I.5.</text>
+          </navLabel>
+          <content src="text/ch008.xhtml#i.5." />
+        </navPoint>
+        <navPoint id="navPoint-9">
+          <navLabel>
+            <text>I.6.</text>
+          </navLabel>
+          <content src="text/ch009.xhtml#i.6." />
+        </navPoint>
+        <navPoint id="navPoint-10">
+          <navLabel>
+            <text>I.7.</text>
+          </navLabel>
+          <content src="text/ch010.xhtml#i.7." />
+        </navPoint>
+        <navPoint id="navPoint-11">
+          <navLabel>
+            <text>I.8.</text>
+          </navLabel>
+          <content src="text/ch011.xhtml#i.8." />
+        </navPoint>
+        <navPoint id="navPoint-12">
+          <navLabel>
+            <text>I.9.</text>
+          </navLabel>
+          <content src="text/ch012.xhtml#i.9." />
+        </navPoint>
+        <navPoint id="navPoint-13">
+          <navLabel>
+            <text>I.10.</text>
+          </navLabel>
+          <content src="text/ch013.xhtml#i.10." />
+        </navPoint>
+        <navPoint id="navPoint-14">
+          <navLabel>
+            <text>I.11.</text>
+          </navLabel>
+          <content src="text/ch014.xhtml#i.11." />
+        </navPoint>
+        <navPoint id="navPoint-15">
+          <navLabel>
+            <text>I.12.</text>
+          </navLabel>
+          <content src="text/ch015.xhtml#i.12." />
+        </navPoint>
+        <navPoint id="navPoint-16">
+          <navLabel>
+            <text>I.13.</text>
+          </navLabel>
+          <content src="text/ch016.xhtml#i.13." />
+        </navPoint>
+        <navPoint id="navPoint-17">
+          <navLabel>
+            <text>I.14.</text>
+          </navLabel>
+          <content src="text/ch017.xhtml#i.14." />
+        </navPoint>
+        <navPoint id="navPoint-18">
+          <navLabel>
+            <text>I.15.</text>
+          </navLabel>
+          <content src="text/ch018.xhtml#i.15." />
+        </navPoint>
+        <navPoint id="navPoint-19">
+          <navLabel>
+            <text>I.16.</text>
+          </navLabel>
+          <content src="text/ch019.xhtml#i.16." />
+        </navPoint>
+        <navPoint id="navPoint-20">
+          <navLabel>
+            <text>I.17.</text>
+          </navLabel>
+          <content src="text/ch020.xhtml#i.17." />
+        </navPoint>
+        <navPoint id="navPoint-21">
+          <navLabel>
+            <text>I.18.</text>
+          </navLabel>
+          <content src="text/ch021.xhtml#i.18." />
+        </navPoint>
+        <navPoint id="navPoint-22">
+          <navLabel>
+            <text>I.19.</text>
+          </navLabel>
+          <content src="text/ch022.xhtml#i.19." />
+        </navPoint>
+        <navPoint id="navPoint-23">
+          <navLabel>
+            <text>I.20.</text>
+          </navLabel>
+          <content src="text/ch023.xhtml#i.20." />
+        </navPoint>
+        <navPoint id="navPoint-24">
+          <navLabel>
+            <text>I.21.</text>
+          </navLabel>
+          <content src="text/ch024.xhtml#i.21." />
+        </navPoint>
+        <navPoint id="navPoint-25">
+          <navLabel>
+            <text>I.22.</text>
+          </navLabel>
+          <content src="text/ch025.xhtml#i.22." />
+        </navPoint>
+        <navPoint id="navPoint-26">
+          <navLabel>
+            <text>I.23.</text>
+          </navLabel>
+          <content src="text/ch026.xhtml#i.23." />
+        </navPoint>
+        <navPoint id="navPoint-27">
+          <navLabel>
+            <text>I.24.</text>
+          </navLabel>
+          <content src="text/ch027.xhtml#i.24." />
+        </navPoint>
+        <navPoint id="navPoint-28">
+          <navLabel>
+            <text>I.25.</text>
+          </navLabel>
+          <content src="text/ch028.xhtml#i.25." />
+        </navPoint>
+        <navPoint id="navPoint-29">
+          <navLabel>
+            <text>I.26.</text>
+          </navLabel>
+          <content src="text/ch029.xhtml#i.26." />
+        </navPoint>
+        <navPoint id="navPoint-30">
+          <navLabel>
+            <text>I.27.</text>
+          </navLabel>
+          <content src="text/ch030.xhtml#i.27." />
+        </navPoint>
+        <navPoint id="navPoint-31">
+          <navLabel>
+            <text>I.28.</text>
+          </navLabel>
+          <content src="text/ch031.xhtml#i.28." />
+        </navPoint>
+        <navPoint id="navPoint-32">
+          <navLabel>
+            <text>I.29.</text>
+          </navLabel>
+          <content src="text/ch032.xhtml#i.29." />
+        </navPoint>
+        <navPoint id="navPoint-33">
+          <navLabel>
+            <text>I.30.</text>
+          </navLabel>
+          <content src="text/ch033.xhtml#i.30." />
+        </navPoint>
+        <navPoint id="navPoint-34">
+          <navLabel>
+            <text>I.31.</text>
+          </navLabel>
+          <content src="text/ch034.xhtml#i.31." />
+        </navPoint>
+        <navPoint id="navPoint-35">
+          <navLabel>
+            <text>I.32.</text>
+          </navLabel>
+          <content src="text/ch035.xhtml#i.32." />
+        </navPoint>
+        <navPoint id="navPoint-36">
+          <navLabel>
+            <text>I.33.</text>
+          </navLabel>
+          <content src="text/ch036.xhtml#i.33." />
+        </navPoint>
+        <navPoint id="navPoint-37">
+          <navLabel>
+            <text>I.34.</text>
+          </navLabel>
+          <content src="text/ch037.xhtml#i.34." />
+        </navPoint>
+        <navPoint id="navPoint-38">
+          <navLabel>
+            <text>I.35.</text>
+          </navLabel>
+          <content src="text/ch038.xhtml#i.35." />
+        </navPoint>
+        <navPoint id="navPoint-39">
+          <navLabel>
+            <text>I.36.</text>
+          </navLabel>
+          <content src="text/ch039.xhtml#i.36." />
+        </navPoint>
+        <navPoint id="navPoint-40">
+          <navLabel>
+            <text>I.37.</text>
+          </navLabel>
+          <content src="text/ch040.xhtml#i.37." />
+        </navPoint>
+        <navPoint id="navPoint-41">
+          <navLabel>
+            <text>I.38.</text>
+          </navLabel>
+          <content src="text/ch041.xhtml#i.38." />
+        </navPoint>
+        <navPoint id="navPoint-42">
+          <navLabel>
+            <text>I.39.</text>
+          </navLabel>
+          <content src="text/ch042.xhtml#i.39." />
+        </navPoint>
+        <navPoint id="navPoint-43">
+          <navLabel>
+            <text>I.40.</text>
+          </navLabel>
+          <content src="text/ch043.xhtml#i.40." />
+        </navPoint>
+        <navPoint id="navPoint-44">
+          <navLabel>
+            <text>I.41.</text>
+          </navLabel>
+          <content src="text/ch044.xhtml#i.41." />
+        </navPoint>
+        <navPoint id="navPoint-45">
+          <navLabel>
+            <text>I.42.</text>
+          </navLabel>
+          <content src="text/ch045.xhtml#i.42." />
+        </navPoint>
+        <navPoint id="navPoint-46">
+          <navLabel>
+            <text>I.43.</text>
+          </navLabel>
+          <content src="text/ch046.xhtml#i.43." />
+        </navPoint>
+        <navPoint id="navPoint-47">
+          <navLabel>
+            <text>I.44.</text>
+          </navLabel>
+          <content src="text/ch047.xhtml#i.44." />
+        </navPoint>
+        <navPoint id="navPoint-48">
+          <navLabel>
+            <text>I.45.</text>
+          </navLabel>
+          <content src="text/ch048.xhtml#i.45." />
+        </navPoint>
+        <navPoint id="navPoint-49">
+          <navLabel>
+            <text>I.46.</text>
+          </navLabel>
+          <content src="text/ch049.xhtml#i.46." />
+        </navPoint>
+        <navPoint id="navPoint-50">
+          <navLabel>
+            <text>I.47.</text>
+          </navLabel>
+          <content src="text/ch050.xhtml#i.47." />
+        </navPoint>
+        <navPoint id="navPoint-51">
+          <navLabel>
+            <text>I.48.</text>
+          </navLabel>
+          <content src="text/ch051.xhtml#i.48." />
+        </navPoint>
+        <navPoint id="navPoint-52">
+          <navLabel>
+            <text>I.49.</text>
+          </navLabel>
+          <content src="text/ch052.xhtml#i.49." />
+        </navPoint>
+        <navPoint id="navPoint-53">
+          <navLabel>
+            <text>I.50.</text>
+          </navLabel>
+          <content src="text/ch053.xhtml#i.50." />
+        </navPoint>
+        <navPoint id="navPoint-54">
+          <navLabel>
+            <text>I.51.</text>
+          </navLabel>
+          <content src="text/ch054.xhtml#i.51." />
+        </navPoint>
+        <navPoint id="navPoint-55">
+          <navLabel>
+            <text>I.52.</text>
+          </navLabel>
+          <content src="text/ch055.xhtml#i.52." />
+        </navPoint>
+        <navPoint id="navPoint-56">
+          <navLabel>
+            <text>I.53.</text>
+          </navLabel>
+          <content src="text/ch056.xhtml#i.53." />
+        </navPoint>
+        <navPoint id="navPoint-57">
+          <navLabel>
+            <text>I.54.</text>
+          </navLabel>
+          <content src="text/ch057.xhtml#i.54." />
+        </navPoint>
+        <navPoint id="navPoint-58">
+          <navLabel>
+            <text>I.55.</text>
+          </navLabel>
+          <content src="text/ch058.xhtml#i.55." />
+        </navPoint>
+        <navPoint id="navPoint-59">
+          <navLabel>
+            <text>I.56.</text>
+          </navLabel>
+          <content src="text/ch059.xhtml#i.56." />
+        </navPoint>
+        <navPoint id="navPoint-60">
+          <navLabel>
+            <text>I.57.</text>
+          </navLabel>
+          <content src="text/ch060.xhtml#i.57." />
+        </navPoint>
+        <navPoint id="navPoint-61">
+          <navLabel>
+            <text>I.58.</text>
+          </navLabel>
+          <content src="text/ch061.xhtml#i.58." />
+        </navPoint>
+        <navPoint id="navPoint-62">
+          <navLabel>
+            <text>I.59.</text>
+          </navLabel>
+          <content src="text/ch062.xhtml#i.59." />
+        </navPoint>
+        <navPoint id="navPoint-63">
+          <navLabel>
+            <text>I.60.</text>
+          </navLabel>
+          <content src="text/ch063.xhtml#i.60." />
+        </navPoint>
+        <navPoint id="navPoint-64">
+          <navLabel>
+            <text>I.61.</text>
+          </navLabel>
+          <content src="text/ch064.xhtml#i.61." />
+        </navPoint>
+        <navPoint id="navPoint-65">
+          <navLabel>
+            <text>I.62.</text>
+          </navLabel>
+          <content src="text/ch065.xhtml#i.62." />
+        </navPoint>
+        <navPoint id="navPoint-66">
+          <navLabel>
+            <text>I.63.</text>
+          </navLabel>
+          <content src="text/ch066.xhtml#i.63." />
+        </navPoint>
+        <navPoint id="navPoint-67">
+          <navLabel>
+            <text>I.64.</text>
+          </navLabel>
+          <content src="text/ch067.xhtml#i.64." />
+        </navPoint>
+        <navPoint id="navPoint-68">
+          <navLabel>
+            <text>I.65.</text>
+          </navLabel>
+          <content src="text/ch068.xhtml#i.65." />
+        </navPoint>
+        <navPoint id="navPoint-69">
+          <navLabel>
+            <text>I.66.</text>
+          </navLabel>
+          <content src="text/ch069.xhtml#i.66." />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>CHAPTER II</text>
+        </navLabel>
+        <content src="text/ch070.xhtml#chapter-ii" />
+        <navPoint id="navPoint-71">
+          <navLabel>
+            <text>II.1.</text>
+          </navLabel>
+          <content src="text/ch071.xhtml#ii.1." />
+        </navPoint>
+        <navPoint id="navPoint-72">
+          <navLabel>
+            <text>II.2.</text>
+          </navLabel>
+          <content src="text/ch072.xhtml#ii.2." />
+        </navPoint>
+        <navPoint id="navPoint-73">
+          <navLabel>
+            <text>II.3.</text>
+          </navLabel>
+          <content src="text/ch073.xhtml#ii.3." />
+        </navPoint>
+        <navPoint id="navPoint-74">
+          <navLabel>
+            <text>II.4.</text>
+          </navLabel>
+          <content src="text/ch074.xhtml#ii.4." />
+        </navPoint>
+        <navPoint id="navPoint-75">
+          <navLabel>
+            <text>II.6.</text>
+          </navLabel>
+          <content src="text/ch075.xhtml#ii.6." />
+        </navPoint>
+        <navPoint id="navPoint-76">
+          <navLabel>
+            <text>II.7.</text>
+          </navLabel>
+          <content src="text/ch076.xhtml#ii.7." />
+        </navPoint>
+        <navPoint id="navPoint-77">
+          <navLabel>
+            <text>II.8.</text>
+          </navLabel>
+          <content src="text/ch077.xhtml#ii.8." />
+        </navPoint>
+        <navPoint id="navPoint-78">
+          <navLabel>
+            <text>II.9.</text>
+          </navLabel>
+          <content src="text/ch078.xhtml#ii.9." />
+        </navPoint>
+        <navPoint id="navPoint-79">
+          <navLabel>
+            <text>II.10.</text>
+          </navLabel>
+          <content src="text/ch079.xhtml#ii.10." />
+        </navPoint>
+        <navPoint id="navPoint-80">
+          <navLabel>
+            <text>II.11.</text>
+          </navLabel>
+          <content src="text/ch080.xhtml#ii.11." />
+        </navPoint>
+        <navPoint id="navPoint-81">
+          <navLabel>
+            <text>II.12.</text>
+          </navLabel>
+          <content src="text/ch081.xhtml#ii.12." />
+        </navPoint>
+        <navPoint id="navPoint-82">
+          <navLabel>
+            <text>II.13.</text>
+          </navLabel>
+          <content src="text/ch082.xhtml#ii.13." />
+        </navPoint>
+        <navPoint id="navPoint-83">
+          <navLabel>
+            <text>II.14.</text>
+          </navLabel>
+          <content src="text/ch083.xhtml#ii.14." />
+        </navPoint>
+        <navPoint id="navPoint-84">
+          <navLabel>
+            <text>II.15.</text>
+          </navLabel>
+          <content src="text/ch084.xhtml#ii.15." />
+        </navPoint>
+        <navPoint id="navPoint-85">
+          <navLabel>
+            <text>II.16.</text>
+          </navLabel>
+          <content src="text/ch085.xhtml#ii.16." />
+        </navPoint>
+        <navPoint id="navPoint-86">
+          <navLabel>
+            <text>II.17.</text>
+          </navLabel>
+          <content src="text/ch086.xhtml#ii.17." />
+        </navPoint>
+        <navPoint id="navPoint-87">
+          <navLabel>
+            <text>II.18.</text>
+          </navLabel>
+          <content src="text/ch087.xhtml#ii.18." />
+        </navPoint>
+        <navPoint id="navPoint-88">
+          <navLabel>
+            <text>II.19.</text>
+          </navLabel>
+          <content src="text/ch088.xhtml#ii.19." />
+        </navPoint>
+        <navPoint id="navPoint-89">
+          <navLabel>
+            <text>II.20.</text>
+          </navLabel>
+          <content src="text/ch089.xhtml#ii.20." />
+        </navPoint>
+        <navPoint id="navPoint-90">
+          <navLabel>
+            <text>II.21.</text>
+          </navLabel>
+          <content src="text/ch090.xhtml#ii.21." />
+        </navPoint>
+        <navPoint id="navPoint-91">
+          <navLabel>
+            <text>II.22.</text>
+          </navLabel>
+          <content src="text/ch091.xhtml#ii.22." />
+        </navPoint>
+        <navPoint id="navPoint-92">
+          <navLabel>
+            <text>II.23.</text>
+          </navLabel>
+          <content src="text/ch092.xhtml#ii.23." />
+        </navPoint>
+        <navPoint id="navPoint-93">
+          <navLabel>
+            <text>II.24.</text>
+          </navLabel>
+          <content src="text/ch093.xhtml#ii.24." />
+        </navPoint>
+        <navPoint id="navPoint-94">
+          <navLabel>
+            <text>II.25.</text>
+          </navLabel>
+          <content src="text/ch094.xhtml#ii.25." />
+        </navPoint>
+        <navPoint id="navPoint-95">
+          <navLabel>
+            <text>II.26.</text>
+          </navLabel>
+          <content src="text/ch095.xhtml#ii.26." />
+        </navPoint>
+        <navPoint id="navPoint-96">
+          <navLabel>
+            <text>II.27.</text>
+          </navLabel>
+          <content src="text/ch096.xhtml#ii.27." />
+        </navPoint>
+        <navPoint id="navPoint-97">
+          <navLabel>
+            <text>II.28.</text>
+          </navLabel>
+          <content src="text/ch097.xhtml#ii.28." />
+        </navPoint>
+        <navPoint id="navPoint-98">
+          <navLabel>
+            <text>II.29.</text>
+          </navLabel>
+          <content src="text/ch098.xhtml#ii.29." />
+        </navPoint>
+        <navPoint id="navPoint-99">
+          <navLabel>
+            <text>II.30.</text>
+          </navLabel>
+          <content src="text/ch099.xhtml#ii.30." />
+        </navPoint>
+        <navPoint id="navPoint-100">
+          <navLabel>
+            <text>II.31.</text>
+          </navLabel>
+          <content src="text/ch100.xhtml#ii.31." />
+        </navPoint>
+        <navPoint id="navPoint-101">
+          <navLabel>
+            <text>II.32.</text>
+          </navLabel>
+          <content src="text/ch101.xhtml#ii.32." />
+        </navPoint>
+        <navPoint id="navPoint-102">
+          <navLabel>
+            <text>II.33.</text>
+          </navLabel>
+          <content src="text/ch102.xhtml#ii.33." />
+        </navPoint>
+        <navPoint id="navPoint-103">
+          <navLabel>
+            <text>II.34.</text>
+          </navLabel>
+          <content src="text/ch103.xhtml#ii.34." />
+        </navPoint>
+        <navPoint id="navPoint-104">
+          <navLabel>
+            <text>II.35.</text>
+          </navLabel>
+          <content src="text/ch104.xhtml#ii.35." />
+        </navPoint>
+        <navPoint id="navPoint-105">
+          <navLabel>
+            <text>II.36.</text>
+          </navLabel>
+          <content src="text/ch105.xhtml#ii.36." />
+        </navPoint>
+        <navPoint id="navPoint-106">
+          <navLabel>
+            <text>II.37.</text>
+          </navLabel>
+          <content src="text/ch106.xhtml#ii.37." />
+        </navPoint>
+        <navPoint id="navPoint-107">
+          <navLabel>
+            <text>II.38.</text>
+          </navLabel>
+          <content src="text/ch107.xhtml#ii.38." />
+        </navPoint>
+        <navPoint id="navPoint-108">
+          <navLabel>
+            <text>II.39.</text>
+          </navLabel>
+          <content src="text/ch108.xhtml#ii.39." />
+        </navPoint>
+        <navPoint id="navPoint-109">
+          <navLabel>
+            <text>II.40.</text>
+          </navLabel>
+          <content src="text/ch109.xhtml#ii.40." />
+        </navPoint>
+        <navPoint id="navPoint-110">
+          <navLabel>
+            <text>II.41.</text>
+          </navLabel>
+          <content src="text/ch110.xhtml#ii.41." />
+        </navPoint>
+        <navPoint id="navPoint-111">
+          <navLabel>
+            <text>II.42.</text>
+          </navLabel>
+          <content src="text/ch111.xhtml#ii.42." />
+        </navPoint>
+        <navPoint id="navPoint-112">
+          <navLabel>
+            <text>II.43.</text>
+          </navLabel>
+          <content src="text/ch112.xhtml#ii.43." />
+        </navPoint>
+        <navPoint id="navPoint-113">
+          <navLabel>
+            <text>II.44.</text>
+          </navLabel>
+          <content src="text/ch113.xhtml#ii.44." />
+        </navPoint>
+        <navPoint id="navPoint-114">
+          <navLabel>
+            <text>II.45.</text>
+          </navLabel>
+          <content src="text/ch114.xhtml#ii.45." />
+        </navPoint>
+        <navPoint id="navPoint-115">
+          <navLabel>
+            <text>II.46.</text>
+          </navLabel>
+          <content src="text/ch115.xhtml#ii.46." />
+        </navPoint>
+        <navPoint id="navPoint-116">
+          <navLabel>
+            <text>II.47.</text>
+          </navLabel>
+          <content src="text/ch116.xhtml#ii.47." />
+        </navPoint>
+        <navPoint id="navPoint-117">
+          <navLabel>
+            <text>II.48.</text>
+          </navLabel>
+          <content src="text/ch117.xhtml#ii.48." />
+        </navPoint>
+        <navPoint id="navPoint-118">
+          <navLabel>
+            <text>II.49.</text>
+          </navLabel>
+          <content src="text/ch118.xhtml#ii.49." />
+        </navPoint>
+        <navPoint id="navPoint-119">
+          <navLabel>
+            <text>II.50.</text>
+          </navLabel>
+          <content src="text/ch119.xhtml#ii.50." />
+        </navPoint>
+        <navPoint id="navPoint-120">
+          <navLabel>
+            <text>II.51.</text>
+          </navLabel>
+          <content src="text/ch120.xhtml#ii.51." />
+        </navPoint>
+        <navPoint id="navPoint-121">
+          <navLabel>
+            <text>II.52.</text>
+          </navLabel>
+          <content src="text/ch121.xhtml#ii.52." />
+        </navPoint>
+        <navPoint id="navPoint-122">
+          <navLabel>
+            <text>II.53.</text>
+          </navLabel>
+          <content src="text/ch122.xhtml#ii.53." />
+        </navPoint>
+        <navPoint id="navPoint-123">
+          <navLabel>
+            <text>II.54.</text>
+          </navLabel>
+          <content src="text/ch123.xhtml#ii.54." />
+        </navPoint>
+        <navPoint id="navPoint-124">
+          <navLabel>
+            <text>II.55.</text>
+          </navLabel>
+          <content src="text/ch124.xhtml#ii.55." />
+        </navPoint>
+        <navPoint id="navPoint-125">
+          <navLabel>
+            <text>II.56.</text>
+          </navLabel>
+          <content src="text/ch125.xhtml#ii.56." />
+        </navPoint>
+        <navPoint id="navPoint-126">
+          <navLabel>
+            <text>II.57.</text>
+          </navLabel>
+          <content src="text/ch126.xhtml#ii.57." />
+        </navPoint>
+        <navPoint id="navPoint-127">
+          <navLabel>
+            <text>II.58.</text>
+          </navLabel>
+          <content src="text/ch127.xhtml#ii.58." />
+        </navPoint>
+        <navPoint id="navPoint-128">
+          <navLabel>
+            <text>II.59.</text>
+          </navLabel>
+          <content src="text/ch128.xhtml#ii.59." />
+        </navPoint>
+        <navPoint id="navPoint-129">
+          <navLabel>
+            <text>II.60.</text>
+          </navLabel>
+          <content src="text/ch129.xhtml#ii.60." />
+        </navPoint>
+        <navPoint id="navPoint-130">
+          <navLabel>
+            <text>II.61.</text>
+          </navLabel>
+          <content src="text/ch130.xhtml#ii.61." />
+        </navPoint>
+        <navPoint id="navPoint-131">
+          <navLabel>
+            <text>II.62.</text>
+          </navLabel>
+          <content src="text/ch131.xhtml#ii.62." />
+        </navPoint>
+        <navPoint id="navPoint-132">
+          <navLabel>
+            <text>II.63.</text>
+          </navLabel>
+          <content src="text/ch132.xhtml#ii.63." />
+        </navPoint>
+        <navPoint id="navPoint-133">
+          <navLabel>
+            <text>II.64.</text>
+          </navLabel>
+          <content src="text/ch133.xhtml#ii.64." />
+        </navPoint>
+        <navPoint id="navPoint-134">
+          <navLabel>
+            <text>II.65.</text>
+          </navLabel>
+          <content src="text/ch134.xhtml#ii.65." />
+        </navPoint>
+        <navPoint id="navPoint-135">
+          <navLabel>
+            <text>II.66.</text>
+          </navLabel>
+          <content src="text/ch135.xhtml#ii.66." />
+        </navPoint>
+        <navPoint id="navPoint-136">
+          <navLabel>
+            <text>II.67.</text>
+          </navLabel>
+          <content src="text/ch136.xhtml#ii.67." />
+        </navPoint>
+        <navPoint id="navPoint-137">
+          <navLabel>
+            <text>II.68.</text>
+          </navLabel>
+          <content src="text/ch137.xhtml#ii.68." />
+        </navPoint>
+        <navPoint id="navPoint-138">
+          <navLabel>
+            <text>II.69.</text>
+          </navLabel>
+          <content src="text/ch138.xhtml#ii.69." />
+        </navPoint>
+        <navPoint id="navPoint-139">
+          <navLabel>
+            <text>II.70.</text>
+          </navLabel>
+          <content src="text/ch139.xhtml#ii.70." />
+        </navPoint>
+        <navPoint id="navPoint-140">
+          <navLabel>
+            <text>II.71.</text>
+          </navLabel>
+          <content src="text/ch140.xhtml#ii.71." />
+        </navPoint>
+        <navPoint id="navPoint-141">
+          <navLabel>
+            <text>II.72.</text>
+          </navLabel>
+          <content src="text/ch141.xhtml#ii.72." />
+        </navPoint>
+        <navPoint id="navPoint-142">
+          <navLabel>
+            <text>II.73.</text>
+          </navLabel>
+          <content src="text/ch142.xhtml#ii.73." />
+        </navPoint>
+        <navPoint id="navPoint-143">
+          <navLabel>
+            <text>II.74.</text>
+          </navLabel>
+          <content src="text/ch143.xhtml#ii.74." />
+        </navPoint>
+        <navPoint id="navPoint-144">
+          <navLabel>
+            <text>II.75.</text>
+          </navLabel>
+          <content src="text/ch144.xhtml#ii.75." />
+        </navPoint>
+        <navPoint id="navPoint-145">
+          <navLabel>
+            <text>II.76.</text>
+          </navLabel>
+          <content src="text/ch145.xhtml#ii.76." />
+        </navPoint>
+        <navPoint id="navPoint-146">
+          <navLabel>
+            <text>II.78.</text>
+          </navLabel>
+          <content src="text/ch146.xhtml#ii.78." />
+        </navPoint>
+        <navPoint id="navPoint-147">
+          <navLabel>
+            <text>II.79.</text>
+          </navLabel>
+          <content src="text/ch147.xhtml#ii.79." />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-148">
+        <navLabel>
+          <text>CHAPTER III</text>
+        </navLabel>
+        <content src="text/ch148.xhtml#chapter-iii" />
+        <navPoint id="navPoint-149">
+          <navLabel>
+            <text>III.1.</text>
+          </navLabel>
+          <content src="text/ch149.xhtml#iii.1." />
+        </navPoint>
+        <navPoint id="navPoint-150">
+          <navLabel>
+            <text>III.2.</text>
+          </navLabel>
+          <content src="text/ch150.xhtml#iii.2." />
+        </navPoint>
+        <navPoint id="navPoint-151">
+          <navLabel>
+            <text>III.3.</text>
+          </navLabel>
+          <content src="text/ch151.xhtml#iii.3." />
+        </navPoint>
+        <navPoint id="navPoint-152">
+          <navLabel>
+            <text>III.4.</text>
+          </navLabel>
+          <content src="text/ch152.xhtml#iii.4." />
+        </navPoint>
+        <navPoint id="navPoint-153">
+          <navLabel>
+            <text>III.5.</text>
+          </navLabel>
+          <content src="text/ch153.xhtml#iii.5." />
+        </navPoint>
+        <navPoint id="navPoint-154">
+          <navLabel>
+            <text>III.6.</text>
+          </navLabel>
+          <content src="text/ch154.xhtml#iii.6." />
+        </navPoint>
+        <navPoint id="navPoint-155">
+          <navLabel>
+            <text>III.7.</text>
+          </navLabel>
+          <content src="text/ch155.xhtml#iii.7." />
+        </navPoint>
+        <navPoint id="navPoint-156">
+          <navLabel>
+            <text>III.8.</text>
+          </navLabel>
+          <content src="text/ch156.xhtml#iii.8." />
+        </navPoint>
+        <navPoint id="navPoint-157">
+          <navLabel>
+            <text>III.9.</text>
+          </navLabel>
+          <content src="text/ch157.xhtml#iii.9." />
+        </navPoint>
+        <navPoint id="navPoint-158">
+          <navLabel>
+            <text>III.10.</text>
+          </navLabel>
+          <content src="text/ch158.xhtml#iii.10." />
+        </navPoint>
+        <navPoint id="navPoint-159">
+          <navLabel>
+            <text>III.11.</text>
+          </navLabel>
+          <content src="text/ch159.xhtml#iii.11." />
+        </navPoint>
+        <navPoint id="navPoint-160">
+          <navLabel>
+            <text>III.12.</text>
+          </navLabel>
+          <content src="text/ch160.xhtml#iii.12." />
+        </navPoint>
+        <navPoint id="navPoint-161">
+          <navLabel>
+            <text>III.13.</text>
+          </navLabel>
+          <content src="text/ch161.xhtml#iii.13." />
+        </navPoint>
+        <navPoint id="navPoint-162">
+          <navLabel>
+            <text>III.14.</text>
+          </navLabel>
+          <content src="text/ch162.xhtml#iii.14." />
+        </navPoint>
+        <navPoint id="navPoint-163">
+          <navLabel>
+            <text>III.15.</text>
+          </navLabel>
+          <content src="text/ch163.xhtml#iii.15." />
+        </navPoint>
+        <navPoint id="navPoint-164">
+          <navLabel>
+            <text>III.16.</text>
+          </navLabel>
+          <content src="text/ch164.xhtml#iii.16." />
+        </navPoint>
+        <navPoint id="navPoint-165">
+          <navLabel>
+            <text>III.17.</text>
+          </navLabel>
+          <content src="text/ch165.xhtml#iii.17." />
+        </navPoint>
+        <navPoint id="navPoint-166">
+          <navLabel>
+            <text>III.18.</text>
+          </navLabel>
+          <content src="text/ch166.xhtml#iii.18." />
+        </navPoint>
+        <navPoint id="navPoint-167">
+          <navLabel>
+            <text>III.19.</text>
+          </navLabel>
+          <content src="text/ch167.xhtml#iii.19." />
+        </navPoint>
+        <navPoint id="navPoint-168">
+          <navLabel>
+            <text>III.20.</text>
+          </navLabel>
+          <content src="text/ch168.xhtml#iii.20." />
+        </navPoint>
+        <navPoint id="navPoint-169">
+          <navLabel>
+            <text>III.21.</text>
+          </navLabel>
+          <content src="text/ch169.xhtml#iii.21." />
+        </navPoint>
+        <navPoint id="navPoint-170">
+          <navLabel>
+            <text>III.22.</text>
+          </navLabel>
+          <content src="text/ch170.xhtml#iii.22." />
+        </navPoint>
+        <navPoint id="navPoint-171">
+          <navLabel>
+            <text>III.23.</text>
+          </navLabel>
+          <content src="text/ch171.xhtml#iii.23." />
+        </navPoint>
+        <navPoint id="navPoint-172">
+          <navLabel>
+            <text>III.24.</text>
+          </navLabel>
+          <content src="text/ch172.xhtml#iii.24." />
+        </navPoint>
+        <navPoint id="navPoint-173">
+          <navLabel>
+            <text>III.25.</text>
+          </navLabel>
+          <content src="text/ch173.xhtml#iii.25." />
+        </navPoint>
+        <navPoint id="navPoint-174">
+          <navLabel>
+            <text>III.26.</text>
+          </navLabel>
+          <content src="text/ch174.xhtml#iii.26." />
+        </navPoint>
+        <navPoint id="navPoint-175">
+          <navLabel>
+            <text>III.27.</text>
+          </navLabel>
+          <content src="text/ch175.xhtml#iii.27." />
+        </navPoint>
+        <navPoint id="navPoint-176">
+          <navLabel>
+            <text>III.28.</text>
+          </navLabel>
+          <content src="text/ch176.xhtml#iii.28." />
+        </navPoint>
+        <navPoint id="navPoint-177">
+          <navLabel>
+            <text>III.29.</text>
+          </navLabel>
+          <content src="text/ch177.xhtml#iii.29." />
+        </navPoint>
+        <navPoint id="navPoint-178">
+          <navLabel>
+            <text>III.30.</text>
+          </navLabel>
+          <content src="text/ch178.xhtml#iii.30." />
+        </navPoint>
+        <navPoint id="navPoint-179">
+          <navLabel>
+            <text>III.31.</text>
+          </navLabel>
+          <content src="text/ch179.xhtml#iii.31." />
+        </navPoint>
+        <navPoint id="navPoint-180">
+          <navLabel>
+            <text>III.32.</text>
+          </navLabel>
+          <content src="text/ch180.xhtml#iii.32." />
+        </navPoint>
+        <navPoint id="navPoint-181">
+          <navLabel>
+            <text>III.33.</text>
+          </navLabel>
+          <content src="text/ch181.xhtml#iii.33." />
+        </navPoint>
+        <navPoint id="navPoint-182">
+          <navLabel>
+            <text>III.34.</text>
+          </navLabel>
+          <content src="text/ch182.xhtml#iii.34." />
+        </navPoint>
+        <navPoint id="navPoint-183">
+          <navLabel>
+            <text>III.35.</text>
+          </navLabel>
+          <content src="text/ch183.xhtml#iii.35." />
+        </navPoint>
+        <navPoint id="navPoint-184">
+          <navLabel>
+            <text>III.36.</text>
+          </navLabel>
+          <content src="text/ch184.xhtml#iii.36." />
+        </navPoint>
+        <navPoint id="navPoint-185">
+          <navLabel>
+            <text>III.37.</text>
+          </navLabel>
+          <content src="text/ch185.xhtml#iii.37." />
+        </navPoint>
+        <navPoint id="navPoint-186">
+          <navLabel>
+            <text>III.38.</text>
+          </navLabel>
+          <content src="text/ch186.xhtml#iii.38." />
+        </navPoint>
+        <navPoint id="navPoint-187">
+          <navLabel>
+            <text>III.39.</text>
+          </navLabel>
+          <content src="text/ch187.xhtml#iii.39." />
+        </navPoint>
+        <navPoint id="navPoint-188">
+          <navLabel>
+            <text>III.40.</text>
+          </navLabel>
+          <content src="text/ch188.xhtml#iii.40." />
+        </navPoint>
+        <navPoint id="navPoint-189">
+          <navLabel>
+            <text>III.41.</text>
+          </navLabel>
+          <content src="text/ch189.xhtml#iii.41." />
+        </navPoint>
+        <navPoint id="navPoint-190">
+          <navLabel>
+            <text>III.42.</text>
+          </navLabel>
+          <content src="text/ch190.xhtml#iii.42." />
+        </navPoint>
+        <navPoint id="navPoint-191">
+          <navLabel>
+            <text>III.43.</text>
+          </navLabel>
+          <content src="text/ch191.xhtml#iii.43." />
+        </navPoint>
+        <navPoint id="navPoint-192">
+          <navLabel>
+            <text>III.44.</text>
+          </navLabel>
+          <content src="text/ch192.xhtml#iii.44." />
+        </navPoint>
+        <navPoint id="navPoint-193">
+          <navLabel>
+            <text>III.45.</text>
+          </navLabel>
+          <content src="text/ch193.xhtml#iii.45." />
+        </navPoint>
+        <navPoint id="navPoint-194">
+          <navLabel>
+            <text>III.46.</text>
+          </navLabel>
+          <content src="text/ch194.xhtml#iii.46." />
+        </navPoint>
+        <navPoint id="navPoint-195">
+          <navLabel>
+            <text>III.47.</text>
+          </navLabel>
+          <content src="text/ch195.xhtml#iii.47." />
+        </navPoint>
+        <navPoint id="navPoint-196">
+          <navLabel>
+            <text>III.48.</text>
+          </navLabel>
+          <content src="text/ch196.xhtml#iii.48." />
+        </navPoint>
+        <navPoint id="navPoint-197">
+          <navLabel>
+            <text>III.49.</text>
+          </navLabel>
+          <content src="text/ch197.xhtml#iii.49." />
+        </navPoint>
+        <navPoint id="navPoint-198">
+          <navLabel>
+            <text>III.50.</text>
+          </navLabel>
+          <content src="text/ch198.xhtml#iii.50." />
+        </navPoint>
+        <navPoint id="navPoint-199">
+          <navLabel>
+            <text>III.51.</text>
+          </navLabel>
+          <content src="text/ch199.xhtml#iii.51." />
+        </navPoint>
+        <navPoint id="navPoint-200">
+          <navLabel>
+            <text>III.52.</text>
+          </navLabel>
+          <content src="text/ch200.xhtml#iii.52." />
+        </navPoint>
+        <navPoint id="navPoint-201">
+          <navLabel>
+            <text>III.53.</text>
+          </navLabel>
+          <content src="text/ch201.xhtml#iii.53." />
+        </navPoint>
+        <navPoint id="navPoint-202">
+          <navLabel>
+            <text>III.54.</text>
+          </navLabel>
+          <content src="text/ch202.xhtml#iii.54." />
+        </navPoint>
+        <navPoint id="navPoint-203">
+          <navLabel>
+            <text>III.55.</text>
+          </navLabel>
+          <content src="text/ch203.xhtml#iii.55." />
+        </navPoint>
+        <navPoint id="navPoint-204">
+          <navLabel>
+            <text>III.56.</text>
+          </navLabel>
+          <content src="text/ch204.xhtml#iii.56." />
+        </navPoint>
+        <navPoint id="navPoint-205">
+          <navLabel>
+            <text>III.57.</text>
+          </navLabel>
+          <content src="text/ch205.xhtml#iii.57." />
+        </navPoint>
+        <navPoint id="navPoint-206">
+          <navLabel>
+            <text>III.58.</text>
+          </navLabel>
+          <content src="text/ch206.xhtml#iii.58." />
+        </navPoint>
+        <navPoint id="navPoint-207">
+          <navLabel>
+            <text>III.59.</text>
+          </navLabel>
+          <content src="text/ch207.xhtml#iii.59." />
+        </navPoint>
+        <navPoint id="navPoint-208">
+          <navLabel>
+            <text>III.60.</text>
+          </navLabel>
+          <content src="text/ch208.xhtml#iii.60." />
+        </navPoint>
+        <navPoint id="navPoint-209">
+          <navLabel>
+            <text>III.61.</text>
+          </navLabel>
+          <content src="text/ch209.xhtml#iii.61." />
+        </navPoint>
+        <navPoint id="navPoint-210">
+          <navLabel>
+            <text>III.62.</text>
+          </navLabel>
+          <content src="text/ch210.xhtml#iii.62." />
+        </navPoint>
+        <navPoint id="navPoint-211">
+          <navLabel>
+            <text>III.63.</text>
+          </navLabel>
+          <content src="text/ch211.xhtml#iii.63." />
+        </navPoint>
+        <navPoint id="navPoint-212">
+          <navLabel>
+            <text>III.64.</text>
+          </navLabel>
+          <content src="text/ch212.xhtml#iii.64." />
+        </navPoint>
+        <navPoint id="navPoint-213">
+          <navLabel>
+            <text>III.65.</text>
+          </navLabel>
+          <content src="text/ch213.xhtml#iii.65." />
+        </navPoint>
+        <navPoint id="navPoint-214">
+          <navLabel>
+            <text>III.66.</text>
+          </navLabel>
+          <content src="text/ch214.xhtml#iii.66." />
+        </navPoint>
+        <navPoint id="navPoint-215">
+          <navLabel>
+            <text>III.67.</text>
+          </navLabel>
+          <content src="text/ch215.xhtml#iii.67." />
+        </navPoint>
+        <navPoint id="navPoint-216">
+          <navLabel>
+            <text>III.68.</text>
+          </navLabel>
+          <content src="text/ch216.xhtml#iii.68." />
+        </navPoint>
+        <navPoint id="navPoint-217">
+          <navLabel>
+            <text>III.69.</text>
+          </navLabel>
+          <content src="text/ch217.xhtml#iii.69." />
+        </navPoint>
+        <navPoint id="navPoint-218">
+          <navLabel>
+            <text>III.70.</text>
+          </navLabel>
+          <content src="text/ch218.xhtml#iii.70." />
+        </navPoint>
+        <navPoint id="navPoint-219">
+          <navLabel>
+            <text>III.71.</text>
+          </navLabel>
+          <content src="text/ch219.xhtml#iii.71." />
+        </navPoint>
+        <navPoint id="navPoint-220">
+          <navLabel>
+            <text>III.72.</text>
+          </navLabel>
+          <content src="text/ch220.xhtml#iii.72." />
+        </navPoint>
+        <navPoint id="navPoint-221">
+          <navLabel>
+            <text>III.73.</text>
+          </navLabel>
+          <content src="text/ch221.xhtml#iii.73." />
+        </navPoint>
+        <navPoint id="navPoint-222">
+          <navLabel>
+            <text>III.74.</text>
+          </navLabel>
+          <content src="text/ch222.xhtml#iii.74." />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-223">
+        <navLabel>
+          <text>THE TUNIS COMMENT</text>
+        </navLabel>
+        <content src="text/ch223.xhtml#the-tunis-comment" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

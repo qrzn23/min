@@ -5,13 +5,43 @@
   box-sizing: border-box; /* Ensure consistent box-sizing */
 }
 
+/* Embed EB Garamond font */
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('../fonts/EBGaramond-Regular.ttf') format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('../fonts/EBGaramond-Bold.ttf') format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('../fonts/EBGaramond-Italic.ttf') format("truetype");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'silvus';
+    src: url('../fonts/silvus.ttf') format("truetype");
+    font-weight: normal;
+}
+
 /* Body styling */
 body {
-  font-family: "Georgia", serif;
+  font-family: "EB Garamond", serif;
+  font-weight: normal;
   line-height: 1.2;
   margin: 1em;
   text-align: justify;
   text-justify: inter-word;
+}
+
+h1, h2, h3 {
+  break-before: always;
 }
 
 /* Headings */
@@ -22,12 +52,15 @@ h1, h2, h3, h4, h5 {
   margin-bottom: 2em;
 }
 
+
 /* Drop Caps at the beginning of Chapters */
 h1 + p:not(.centered-small-caps)::first-letter,
 h3 + p:not(.centered-small-caps)::first-letter,
+h4 + p:not(.centered-small-caps)::first-letter,
 .centered-small-caps +p:not(.centered-small-caps)::first-letter {
   font-size: 3em;
-  font-weight: bold;
+  font-family: "silvus";
+  font-weight: normal;
   float: left;
   margin-right: 0.1em;
   line-height: 1;
@@ -39,6 +72,29 @@ p {
   margin-top: 0.4em;  /* Slightly reduced space above the paragraph */
   margin-bottom: 0.4em; /* Slightly reduced space below the paragraph */
   line-height: 1.5;    /* Ensures good readability */
+}
+
+/* Tables */
+table {
+  width: 100%; /* Full-width tables */
+  border-collapse: collapse; /* Avoid extra spacing */
+  margin: 1em 0; /* Spacing around the table */
+  font-size: 1em; /* Adjust size as needed */
+}
+
+th, td {
+  border: 1px solid #4a4a4a; /* Light borders */
+  padding: 0.5em; /* Adds spacing inside cells */
+  text-align: left; /* Align text to left by default */
+}
+
+th {
+  background-color: #eaeaea; /* Light gray background for headers */
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f5f5; /* Alternating row colors */
 }
 
 /* Blockquotes */

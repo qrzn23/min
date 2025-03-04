@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" xml:lang="en-EN" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="epub-id-1">urn:uuid:5734d781-16c7-49b9-9760-45b4265801f2</dc:identifier>
+    <dc:title id="epub-title-1">Commentaries to Liber AL vel Legis</dc:title>
+    <dc:date id="epub-date">2025-01-26</dc:date>
+    <dc:language>en-EN</dc:language>
+    <dc:creator id="epub-creator-1">Aleister Crowley</dc:creator>
+    <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+    <dc:subject id="subject-1">Thelema, Magick</dc:subject>
+    <dc:publisher>Min Publishing</dc:publisher>
+    <dc:rights>All rights reversed</dc:rights>
+    <meta property="cover" content="cover_jpg" />
+    <meta property="dcterms:modified">2025-03-04T16:09:39Z</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
+    <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css" />
+    <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg" />
+    <item id="title_page_xhtml" href="text/title_page.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch001_xhtml" href="text/ch001.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch002_xhtml" href="text/ch002.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch003_xhtml" href="text/ch003.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch004_xhtml" href="text/ch004.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch005_xhtml" href="text/ch005.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch006_xhtml" href="text/ch006.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch007_xhtml" href="text/ch007.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch008_xhtml" href="text/ch008.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch009_xhtml" href="text/ch009.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch010_xhtml" href="text/ch010.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch011_xhtml" href="text/ch011.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch012_xhtml" href="text/ch012.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch013_xhtml" href="text/ch013.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch014_xhtml" href="text/ch014.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch015_xhtml" href="text/ch015.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch016_xhtml" href="text/ch016.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch017_xhtml" href="text/ch017.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch018_xhtml" href="text/ch018.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch019_xhtml" href="text/ch019.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch020_xhtml" href="text/ch020.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch021_xhtml" href="text/ch021.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch022_xhtml" href="text/ch022.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch023_xhtml" href="text/ch023.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch024_xhtml" href="text/ch024.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch025_xhtml" href="text/ch025.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch026_xhtml" href="text/ch026.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch027_xhtml" href="text/ch027.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch028_xhtml" href="text/ch028.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch029_xhtml" href="text/ch029.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch030_xhtml" href="text/ch030.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch031_xhtml" href="text/ch031.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch032_xhtml" href="text/ch032.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch033_xhtml" href="text/ch033.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch034_xhtml" href="text/ch034.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch035_xhtml" href="text/ch035.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch036_xhtml" href="text/ch036.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch037_xhtml" href="text/ch037.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch038_xhtml" href="text/ch038.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch039_xhtml" href="text/ch039.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch040_xhtml" href="text/ch040.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch041_xhtml" href="text/ch041.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch042_xhtml" href="text/ch042.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch043_xhtml" href="text/ch043.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch044_xhtml" href="text/ch044.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch045_xhtml" href="text/ch045.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch046_xhtml" href="text/ch046.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch047_xhtml" href="text/ch047.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch048_xhtml" href="text/ch048.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch049_xhtml" href="text/ch049.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch050_xhtml" href="text/ch050.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch051_xhtml" href="text/ch051.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch052_xhtml" href="text/ch052.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch053_xhtml" href="text/ch053.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch054_xhtml" href="text/ch054.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch055_xhtml" href="text/ch055.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch056_xhtml" href="text/ch056.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch057_xhtml" href="text/ch057.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch058_xhtml" href="text/ch058.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch059_xhtml" href="text/ch059.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch060_xhtml" href="text/ch060.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch061_xhtml" href="text/ch061.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch062_xhtml" href="text/ch062.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch063_xhtml" href="text/ch063.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch064_xhtml" href="text/ch064.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch065_xhtml" href="text/ch065.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch066_xhtml" href="text/ch066.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch067_xhtml" href="text/ch067.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch068_xhtml" href="text/ch068.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch069_xhtml" href="text/ch069.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch070_xhtml" href="text/ch070.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch071_xhtml" href="text/ch071.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch072_xhtml" href="text/ch072.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch073_xhtml" href="text/ch073.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch074_xhtml" href="text/ch074.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch075_xhtml" href="text/ch075.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch076_xhtml" href="text/ch076.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch077_xhtml" href="text/ch077.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch078_xhtml" href="text/ch078.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch079_xhtml" href="text/ch079.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch080_xhtml" href="text/ch080.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch081_xhtml" href="text/ch081.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch082_xhtml" href="text/ch082.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch083_xhtml" href="text/ch083.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch084_xhtml" href="text/ch084.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch085_xhtml" href="text/ch085.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch086_xhtml" href="text/ch086.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch087_xhtml" href="text/ch087.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch088_xhtml" href="text/ch088.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch089_xhtml" href="text/ch089.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch090_xhtml" href="text/ch090.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch091_xhtml" href="text/ch091.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch092_xhtml" href="text/ch092.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch093_xhtml" href="text/ch093.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch094_xhtml" href="text/ch094.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch095_xhtml" href="text/ch095.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch096_xhtml" href="text/ch096.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch097_xhtml" href="text/ch097.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch098_xhtml" href="text/ch098.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch099_xhtml" href="text/ch099.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch100_xhtml" href="text/ch100.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch101_xhtml" href="text/ch101.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch102_xhtml" href="text/ch102.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch103_xhtml" href="text/ch103.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch104_xhtml" href="text/ch104.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch105_xhtml" href="text/ch105.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch106_xhtml" href="text/ch106.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch107_xhtml" href="text/ch107.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch108_xhtml" href="text/ch108.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch109_xhtml" href="text/ch109.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch110_xhtml" href="text/ch110.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch111_xhtml" href="text/ch111.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch112_xhtml" href="text/ch112.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch113_xhtml" href="text/ch113.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch114_xhtml" href="text/ch114.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch115_xhtml" href="text/ch115.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch116_xhtml" href="text/ch116.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch117_xhtml" href="text/ch117.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch118_xhtml" href="text/ch118.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch119_xhtml" href="text/ch119.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch120_xhtml" href="text/ch120.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch121_xhtml" href="text/ch121.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch122_xhtml" href="text/ch122.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch123_xhtml" href="text/ch123.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch124_xhtml" href="text/ch124.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch125_xhtml" href="text/ch125.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch126_xhtml" href="text/ch126.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch127_xhtml" href="text/ch127.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch128_xhtml" href="text/ch128.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch129_xhtml" href="text/ch129.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch130_xhtml" href="text/ch130.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch131_xhtml" href="text/ch131.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch132_xhtml" href="text/ch132.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch133_xhtml" href="text/ch133.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch134_xhtml" href="text/ch134.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch135_xhtml" href="text/ch135.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch136_xhtml" href="text/ch136.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch137_xhtml" href="text/ch137.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch138_xhtml" href="text/ch138.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch139_xhtml" href="text/ch139.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch140_xhtml" href="text/ch140.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch141_xhtml" href="text/ch141.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch142_xhtml" href="text/ch142.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch143_xhtml" href="text/ch143.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch144_xhtml" href="text/ch144.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch145_xhtml" href="text/ch145.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch146_xhtml" href="text/ch146.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch147_xhtml" href="text/ch147.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch148_xhtml" href="text/ch148.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch149_xhtml" href="text/ch149.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch150_xhtml" href="text/ch150.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch151_xhtml" href="text/ch151.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch152_xhtml" href="text/ch152.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch153_xhtml" href="text/ch153.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch154_xhtml" href="text/ch154.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch155_xhtml" href="text/ch155.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch156_xhtml" href="text/ch156.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch157_xhtml" href="text/ch157.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch158_xhtml" href="text/ch158.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch159_xhtml" href="text/ch159.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch160_xhtml" href="text/ch160.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch161_xhtml" href="text/ch161.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch162_xhtml" href="text/ch162.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch163_xhtml" href="text/ch163.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch164_xhtml" href="text/ch164.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch165_xhtml" href="text/ch165.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch166_xhtml" href="text/ch166.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch167_xhtml" href="text/ch167.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch168_xhtml" href="text/ch168.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch169_xhtml" href="text/ch169.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch170_xhtml" href="text/ch170.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch171_xhtml" href="text/ch171.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch172_xhtml" href="text/ch172.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch173_xhtml" href="text/ch173.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch174_xhtml" href="text/ch174.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch175_xhtml" href="text/ch175.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch176_xhtml" href="text/ch176.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch177_xhtml" href="text/ch177.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch178_xhtml" href="text/ch178.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch179_xhtml" href="text/ch179.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch180_xhtml" href="text/ch180.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch181_xhtml" href="text/ch181.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch182_xhtml" href="text/ch182.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch183_xhtml" href="text/ch183.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch184_xhtml" href="text/ch184.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch185_xhtml" href="text/ch185.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch186_xhtml" href="text/ch186.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch187_xhtml" href="text/ch187.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch188_xhtml" href="text/ch188.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch189_xhtml" href="text/ch189.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch190_xhtml" href="text/ch190.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch191_xhtml" href="text/ch191.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch192_xhtml" href="text/ch192.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch193_xhtml" href="text/ch193.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch194_xhtml" href="text/ch194.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch195_xhtml" href="text/ch195.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch196_xhtml" href="text/ch196.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch197_xhtml" href="text/ch197.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch198_xhtml" href="text/ch198.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch199_xhtml" href="text/ch199.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch200_xhtml" href="text/ch200.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch201_xhtml" href="text/ch201.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch202_xhtml" href="text/ch202.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch203_xhtml" href="text/ch203.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch204_xhtml" href="text/ch204.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch205_xhtml" href="text/ch205.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch206_xhtml" href="text/ch206.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch207_xhtml" href="text/ch207.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch208_xhtml" href="text/ch208.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch209_xhtml" href="text/ch209.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch210_xhtml" href="text/ch210.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch211_xhtml" href="text/ch211.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch212_xhtml" href="text/ch212.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch213_xhtml" href="text/ch213.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch214_xhtml" href="text/ch214.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch215_xhtml" href="text/ch215.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch216_xhtml" href="text/ch216.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch217_xhtml" href="text/ch217.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch218_xhtml" href="text/ch218.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch219_xhtml" href="text/ch219.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch220_xhtml" href="text/ch220.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch221_xhtml" href="text/ch221.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch222_xhtml" href="text/ch222.xhtml" media-type="application/xhtml+xml" />
+    <item id="ch223_xhtml" href="text/ch223.xhtml" media-type="application/xhtml+xml" />
+    <item properties="cover-image" id="cover_jpg" href="media/cover.jpg" media-type="image/jpeg" />
+    <item id="file29_jpg" href="media/file29.jpg" media-type="image/jpeg" />
+    <item id="file28_gif" href="media/file28.gif" media-type="image/gif" />
+    <item id="file27_gif" href="media/file27.gif" media-type="image/gif" />
+    <item id="file26_gif" href="media/file26.gif" media-type="image/gif" />
+    <item id="file25_gif" href="media/file25.gif" media-type="image/gif" />
+    <item id="file24_gif" href="media/file24.gif" media-type="image/gif" />
+    <item id="file23_gif" href="media/file23.gif" media-type="image/gif" />
+    <item id="file22_gif" href="media/file22.gif" media-type="image/gif" />
+    <item id="file21_gif" href="media/file21.gif" media-type="image/gif" />
+    <item id="file20_gif" href="media/file20.gif" media-type="image/gif" />
+    <item id="file19_gif" href="media/file19.gif" media-type="image/gif" />
+    <item id="file18_gif" href="media/file18.gif" media-type="image/gif" />
+    <item id="file17_gif" href="media/file17.gif" media-type="image/gif" />
+    <item id="file16_gif" href="media/file16.gif" media-type="image/gif" />
+    <item id="file15_gif" href="media/file15.gif" media-type="image/gif" />
+    <item id="file14_gif" href="media/file14.gif" media-type="image/gif" />
+    <item id="file13_gif" href="media/file13.gif" media-type="image/gif" />
+    <item id="file12_gif" href="media/file12.gif" media-type="image/gif" />
+    <item id="file11_gif" href="media/file11.gif" media-type="image/gif" />
+    <item id="file10_gif" href="media/file10.gif" media-type="image/gif" />
+    <item id="file9_gif" href="media/file9.gif" media-type="image/gif" />
+    <item id="file8_gif" href="media/file8.gif" media-type="image/gif" />
+    <item id="file7_gif" href="media/file7.gif" media-type="image/gif" />
+    <item id="file6_gif" href="media/file6.gif" media-type="image/gif" />
+    <item id="file5_gif" href="media/file5.gif" media-type="image/gif" />
+    <item id="file4_gif" href="media/file4.gif" media-type="image/gif" />
+    <item id="file3_gif" href="media/file3.gif" media-type="image/gif" />
+    <item id="file2_gif" href="media/file2.gif" media-type="image/gif" />
+    <item id="file1_gif" href="media/file1.gif" media-type="image/gif" />
+    <item id="file0_gif" href="media/file0.gif" media-type="image/gif" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover_xhtml" />
+    <itemref idref="title_page_xhtml" linear="yes" />
+    <itemref idref="nav" />
+    <itemref idref="ch001_xhtml" />
+    <itemref idref="ch002_xhtml" />
+    <itemref idref="ch003_xhtml" />
+    <itemref idref="ch004_xhtml" />
+    <itemref idref="ch005_xhtml" />
+    <itemref idref="ch006_xhtml" />
+    <itemref idref="ch007_xhtml" />
+    <itemref idref="ch008_xhtml" />
+    <itemref idref="ch009_xhtml" />
+    <itemref idref="ch010_xhtml" />
+    <itemref idref="ch011_xhtml" />
+    <itemref idref="ch012_xhtml" />
+    <itemref idref="ch013_xhtml" />
+    <itemref idref="ch014_xhtml" />
+    <itemref idref="ch015_xhtml" />
+    <itemref idref="ch016_xhtml" />
+    <itemref idref="ch017_xhtml" />
+    <itemref idref="ch018_xhtml" />
+    <itemref idref="ch019_xhtml" />
+    <itemref idref="ch020_xhtml" />
+    <itemref idref="ch021_xhtml" />
+    <itemref idref="ch022_xhtml" />
+    <itemref idref="ch023_xhtml" />
+    <itemref idref="ch024_xhtml" />
+    <itemref idref="ch025_xhtml" />
+    <itemref idref="ch026_xhtml" />
+    <itemref idref="ch027_xhtml" />
+    <itemref idref="ch028_xhtml" />
+    <itemref idref="ch029_xhtml" />
+    <itemref idref="ch030_xhtml" />
+    <itemref idref="ch031_xhtml" />
+    <itemref idref="ch032_xhtml" />
+    <itemref idref="ch033_xhtml" />
+    <itemref idref="ch034_xhtml" />
+    <itemref idref="ch035_xhtml" />
+    <itemref idref="ch036_xhtml" />
+    <itemref idref="ch037_xhtml" />
+    <itemref idref="ch038_xhtml" />
+    <itemref idref="ch039_xhtml" />
+    <itemref idref="ch040_xhtml" />
+    <itemref idref="ch041_xhtml" />
+    <itemref idref="ch042_xhtml" />
+    <itemref idref="ch043_xhtml" />
+    <itemref idref="ch044_xhtml" />
+    <itemref idref="ch045_xhtml" />
+    <itemref idref="ch046_xhtml" />
+    <itemref idref="ch047_xhtml" />
+    <itemref idref="ch048_xhtml" />
+    <itemref idref="ch049_xhtml" />
+    <itemref idref="ch050_xhtml" />
+    <itemref idref="ch051_xhtml" />
+    <itemref idref="ch052_xhtml" />
+    <itemref idref="ch053_xhtml" />
+    <itemref idref="ch054_xhtml" />
+    <itemref idref="ch055_xhtml" />
+    <itemref idref="ch056_xhtml" />
+    <itemref idref="ch057_xhtml" />
+    <itemref idref="ch058_xhtml" />
+    <itemref idref="ch059_xhtml" />
+    <itemref idref="ch060_xhtml" />
+    <itemref idref="ch061_xhtml" />
+    <itemref idref="ch062_xhtml" />
+    <itemref idref="ch063_xhtml" />
+    <itemref idref="ch064_xhtml" />
+    <itemref idref="ch065_xhtml" />
+    <itemref idref="ch066_xhtml" />
+    <itemref idref="ch067_xhtml" />
+    <itemref idref="ch068_xhtml" />
+    <itemref idref="ch069_xhtml" />
+    <itemref idref="ch070_xhtml" />
+    <itemref idref="ch071_xhtml" />
+    <itemref idref="ch072_xhtml" />
+    <itemref idref="ch073_xhtml" />
+    <itemref idref="ch074_xhtml" />
+    <itemref idref="ch075_xhtml" />
+    <itemref idref="ch076_xhtml" />
+    <itemref idref="ch077_xhtml" />
+    <itemref idref="ch078_xhtml" />
+    <itemref idref="ch079_xhtml" />
+    <itemref idref="ch080_xhtml" />
+    <itemref idref="ch081_xhtml" />
+    <itemref idref="ch082_xhtml" />
+    <itemref idref="ch083_xhtml" />
+    <itemref idref="ch084_xhtml" />
+    <itemref idref="ch085_xhtml" />
+    <itemref idref="ch086_xhtml" />
+    <itemref idref="ch087_xhtml" />
+    <itemref idref="ch088_xhtml" />
+    <itemref idref="ch089_xhtml" />
+    <itemref idref="ch090_xhtml" />
+    <itemref idref="ch091_xhtml" />
+    <itemref idref="ch092_xhtml" />
+    <itemref idref="ch093_xhtml" />
+    <itemref idref="ch094_xhtml" />
+    <itemref idref="ch095_xhtml" />
+    <itemref idref="ch096_xhtml" />
+    <itemref idref="ch097_xhtml" />
+    <itemref idref="ch098_xhtml" />
+    <itemref idref="ch099_xhtml" />
+    <itemref idref="ch100_xhtml" />
+    <itemref idref="ch101_xhtml" />
+    <itemref idref="ch102_xhtml" />
+    <itemref idref="ch103_xhtml" />
+    <itemref idref="ch104_xhtml" />
+    <itemref idref="ch105_xhtml" />
+    <itemref idref="ch106_xhtml" />
+    <itemref idref="ch107_xhtml" />
+    <itemref idref="ch108_xhtml" />
+    <itemref idref="ch109_xhtml" />
+    <itemref idref="ch110_xhtml" />
+    <itemref idref="ch111_xhtml" />
+    <itemref idref="ch112_xhtml" />
+    <itemref idref="ch113_xhtml" />
+    <itemref idref="ch114_xhtml" />
+    <itemref idref="ch115_xhtml" />
+    <itemref idref="ch116_xhtml" />
+    <itemref idref="ch117_xhtml" />
+    <itemref idref="ch118_xhtml" />
+    <itemref idref="ch119_xhtml" />
+    <itemref idref="ch120_xhtml" />
+    <itemref idref="ch121_xhtml" />
+    <itemref idref="ch122_xhtml" />
+    <itemref idref="ch123_xhtml" />
+    <itemref idref="ch124_xhtml" />
+    <itemref idref="ch125_xhtml" />
+    <itemref idref="ch126_xhtml" />
+    <itemref idref="ch127_xhtml" />
+    <itemref idref="ch128_xhtml" />
+    <itemref idref="ch129_xhtml" />
+    <itemref idref="ch130_xhtml" />
+    <itemref idref="ch131_xhtml" />
+    <itemref idref="ch132_xhtml" />
+    <itemref idref="ch133_xhtml" />
+    <itemref idref="ch134_xhtml" />
+    <itemref idref="ch135_xhtml" />
+    <itemref idref="ch136_xhtml" />
+    <itemref idref="ch137_xhtml" />
+    <itemref idref="ch138_xhtml" />
+    <itemref idref="ch139_xhtml" />
+    <itemref idref="ch140_xhtml" />
+    <itemref idref="ch141_xhtml" />
+    <itemref idref="ch142_xhtml" />
+    <itemref idref="ch143_xhtml" />
+    <itemref idref="ch144_xhtml" />
+    <itemref idref="ch145_xhtml" />
+    <itemref idref="ch146_xhtml" />
+    <itemref idref="ch147_xhtml" />
+    <itemref idref="ch148_xhtml" />
+    <itemref idref="ch149_xhtml" />
+    <itemref idref="ch150_xhtml" />
+    <itemref idref="ch151_xhtml" />
+    <itemref idref="ch152_xhtml" />
+    <itemref idref="ch153_xhtml" />
+    <itemref idref="ch154_xhtml" />
+    <itemref idref="ch155_xhtml" />
+    <itemref idref="ch156_xhtml" />
+    <itemref idref="ch157_xhtml" />
+    <itemref idref="ch158_xhtml" />
+    <itemref idref="ch159_xhtml" />
+    <itemref idref="ch160_xhtml" />
+    <itemref idref="ch161_xhtml" />
+    <itemref idref="ch162_xhtml" />
+    <itemref idref="ch163_xhtml" />
+    <itemref idref="ch164_xhtml" />
+    <itemref idref="ch165_xhtml" />
+    <itemref idref="ch166_xhtml" />
+    <itemref idref="ch167_xhtml" />
+    <itemref idref="ch168_xhtml" />
+    <itemref idref="ch169_xhtml" />
+    <itemref idref="ch170_xhtml" />
+    <itemref idref="ch171_xhtml" />
+    <itemref idref="ch172_xhtml" />
+    <itemref idref="ch173_xhtml" />
+    <itemref idref="ch174_xhtml" />
+    <itemref idref="ch175_xhtml" />
+    <itemref idref="ch176_xhtml" />
+    <itemref idref="ch177_xhtml" />
+    <itemref idref="ch178_xhtml" />
+    <itemref idref="ch179_xhtml" />
+    <itemref idref="ch180_xhtml" />
+    <itemref idref="ch181_xhtml" />
+    <itemref idref="ch182_xhtml" />
+    <itemref idref="ch183_xhtml" />
+    <itemref idref="ch184_xhtml" />
+    <itemref idref="ch185_xhtml" />
+    <itemref idref="ch186_xhtml" />
+    <itemref idref="ch187_xhtml" />
+    <itemref idref="ch188_xhtml" />
+    <itemref idref="ch189_xhtml" />
+    <itemref idref="ch190_xhtml" />
+    <itemref idref="ch191_xhtml" />
+    <itemref idref="ch192_xhtml" />
+    <itemref idref="ch193_xhtml" />
+    <itemref idref="ch194_xhtml" />
+    <itemref idref="ch195_xhtml" />
+    <itemref idref="ch196_xhtml" />
+    <itemref idref="ch197_xhtml" />
+    <itemref idref="ch198_xhtml" />
+    <itemref idref="ch199_xhtml" />
+    <itemref idref="ch200_xhtml" />
+    <itemref idref="ch201_xhtml" />
+    <itemref idref="ch202_xhtml" />
+    <itemref idref="ch203_xhtml" />
+    <itemref idref="ch204_xhtml" />
+    <itemref idref="ch205_xhtml" />
+    <itemref idref="ch206_xhtml" />
+    <itemref idref="ch207_xhtml" />
+    <itemref idref="ch208_xhtml" />
+    <itemref idref="ch209_xhtml" />
+    <itemref idref="ch210_xhtml" />
+    <itemref idref="ch211_xhtml" />
+    <itemref idref="ch212_xhtml" />
+    <itemref idref="ch213_xhtml" />
+    <itemref idref="ch214_xhtml" />
+    <itemref idref="ch215_xhtml" />
+    <itemref idref="ch216_xhtml" />
+    <itemref idref="ch217_xhtml" />
+    <itemref idref="ch218_xhtml" />
+    <itemref idref="ch219_xhtml" />
+    <itemref idref="ch220_xhtml" />
+    <itemref idref="ch221_xhtml" />
+    <itemref idref="ch222_xhtml" />
+    <itemref idref="ch223_xhtml" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Commentaries to Liber AL vel Legis" href="nav.xhtml" />
+    <reference type="cover" title="Cover" href="text/cover.xhtml" />
+  </guide>
+</package>

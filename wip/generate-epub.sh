@@ -8,7 +8,7 @@ CONTENT_FILE="${1:-content.md}"
 OUTPUT_FILE="${2:-output.epub}"
 METADATA_FILE="${3:-metadata.yaml}"
 COVER_IMAGE="${4:-cover.jpg}"
-RESOURCE_PATH="img:."
+RESOURCE_PATH="img:fonts:."
 
 # Function to check if a file exists
 check_file() {
@@ -35,7 +35,11 @@ pandoc "$CONTENT_FILE" -o "$OUTPUT_FILE" \
   --metadata-file="$METADATA_FILE" \
   --epub-cover-image="$COVER_IMAGE" \
   --resource-path="$RESOURCE_PATH" \
-  --toc --split-level=3
+  --epub-embed-font=../fonts/EBGaramond-Regular.ttf \
+  --epub-embed-font=../fonts/EBGaramond-Bold.ttf \
+  --epub-embed-font=../fonts/EBGaramond-Italic.ttf \
+  --epub-embed-font=../fonts/silvus.ttf \
+  --toc --split-level=3 \
 
 # Confirm success
 echo "✅ EPUB successfully generated: $OUTPUT_FILE"
