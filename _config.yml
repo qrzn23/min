@@ -1,0 +1,6 @@
+# Site settings for the Jekyll-generated book index
+name: min Library
+url: ""
+baseurl: ""
+description: "Downloads for handcrafted ePubs"
+markdown: kramdown
