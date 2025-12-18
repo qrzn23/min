@@ -8,6 +8,7 @@ Browse and download the available ePub files from the `books/` directory. New fi
 ## Downloads
 
 {% assign epubs = site.static_files | where: "extname", ".epub" | where_exp: "file", "file.path contains '/books/'" | sort: "name" %}
+{% assign book_metadata = site.data.books | default: empty %}
 {% if epubs.size > 0 %}
 <ul class="downloads">
   {% for file in epubs %}
