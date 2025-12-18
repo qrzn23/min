@@ -11,7 +11,8 @@ Browse and download the available ePub files from the `books/` directory. New fi
 {% if epubs.size > 0 %}
 <ul class="downloads">
   {% for file in epubs %}
-  <li><span class="pill">ePub</span> <a href="{{ file.path | relative_url }}" download>{{ file.name }}</a></li>
+  {% assign epub_url = file.path | replace_first: site.source, "" %}
+  <li><span class="pill">ePub</span> <a href="{{ epub_url | relative_url }}" download>{{ file.name }}</a></li>
   {% endfor %}
 </ul>
 {% else %}
